@@ -1,49 +1,95 @@
-The user gives a job-posting URL (or pasted JD text) as: $ARGUMENTS
+name: Watcher (chip-design internships + weekly digest)
 
-Run this pipeline:
+on:
+  schedule:
+    # Sunday 14:00 UTC (~10am ET): weekly chip-design programs / shuttles /
+    # conference student programs / scholarships digest.
+    - cron: "0 14 * * 0"
+    # Hourly role sweep for Summer 2027 FPGA / ASIC / RTL / DSP design
+    # internships. Retuned 2026-08-19. Controlled by `top_firms_only` (off) and
+    # `summer_2027_only` (on) in config.json -> filters.
+    - cron: "0 * * * *"
+  workflow_dispatch:      # "Run workflow" button
+    inputs:
+      mode:
+        description: "What to run"
+        required: false
+        default: internships
+        type: choice
+        options:
+          - internships   # full chip-design role sweep
+          - digest        # programs/shuttles/scholarships digest
+          - verify        # probe every source, report the dead ones
 
-1. **Fetch the JD.** WebFetch the URL (fall back to `curl -sL` if blocked).
-Extract: company, exact role title, location, cycle/season, required
-qualifications, preferred qualifications, any short-answer/essay questions.
-Flag immediately if the role is pure **hardware design** (RTL/ASIC/FPGA
-design) — this profile is software, so confirm before continuing.
-2. **Load context.** Read `applications.md` (integrity issues at the top are
-binding) and skim the relevant parts of `career-history.md`. Style rules
-(non-negotiable): no em-dashes, no “this, not that” constructions, every
-bullet exactly 1 or exactly 2 rendered lines, human voice. NEVER fabricate
-metrics or claims; if a preferred qualification is almost-true, name the
-small task that would make it true instead of writing it.
-3. **Pick the base resume** from `resumes/`. Targets for this profile:
-embedded/firmware · robotics & autonomy · ML/AI/CV · general SWE ·
-defense-cleared. Ask only if genuinely ambiguous. Confirm the local `.tex`
-is current if the role is high-priority.
-4. **Tailor with minimal targeted edits** — reorder, bold, or swap bullets
-rather than rewrite. Make these legible at a glance when truthfully
-claimable, since they are what screeners look for. For **embedded**:
-language (C / C++ / Rust), target MCU or SoC, RTOS or bare-metal, the
-peripherals and buses used (I2C / SPI / UART / CAN), and whether it ran on
-**real hardware** rather than a simulator. For **ML/CV**: framework, model
-family, dataset scale, and whether anything reached **production or a
-deployed system**. Cover every preferred qualification
-that is truthfully claimable and **bold** those phrases. Save as
-`resumes/out/<LastName>_<FirstName>_<Company>_<Role>.tex` (never overwrite
-the base version).
-5. **Compile:** `tectonic <file>.tex` in `resumes/out/`. Fix LaTeX errors
-(common: bare `&` must be `\&`). Verify it stays ONE page (`pdfinfo` or a
-page count via python). Open the PDF for review.
-6. **Report a coverage table:** each JD requirement / preferred qualification →
-where the resume now addresses it, or “gap (honest)” / “gap (30-min task
-would fix)”.
-7. **Draft any short-answer/essay questions** in the user’s voice (see
-`career-history.md` for voice samples). Show as drafts for their edit —
-never auto-submit prose.
-8. **Log it:** add or update the entry in `applications.md` with status
-`prepared`, the resume filename, the date, and any deadline found in the JD.
-When the user later says “sent” or “applied”, flip the status to `applied`.
-9. **Hand off:** give the PDF path. If they want wording changes they edit the
-`.tex` directly and say “recompile”, or tell you the change.
+permissions:
+  contents: write          # allows committing the updated seen_jobs.json
 
-**Note:** this command expects `applications.md`, `career-history.md` and
-`resumes/` to exist. They are gitignored (the repo is public) and are not in the
-repo yet — create them before the first run, or this command will have no
-context to work from.
+concurrency:
+  group: watcher
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run watcher
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          # Digest ONLY on the Sunday cron or an explicit "digest" run --
+          # every other trigger runs the role sweep.
+          DIGEST_MODE: ${{ (github.event.schedule == '0 14 * * 0' || github.event.inputs.mode == 'digest') && '1' || '0' }}
+        if: ${{ github.event.inputs.mode != 'verify' }}
+        # -u = unbuffered output. Without it Python holds several minutes of
+        # log in a buffer and dumps it all at the end, so a long sweep looks
+        # hung even though it is working.
+        run: python -u watcher.py
+
+      # A mistyped ATS token returns zero jobs instead of raising, which is
+      # indistinguishable from "nothing is open". This surfaces those.
+      - name: Verify sources
+        if: ${{ github.event.inputs.mode == 'verify' }}
+        run: python -u verify_sources.py
+
+      - name: Run filter regression tests
+        if: ${{ github.event.inputs.mode == 'verify' }}
+        run: python -u test_filters.py
+
+      - name: Save state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add seen_jobs.json
+          [ -f OPEN_ROLES.md ] && git add OPEN_ROLES.md || true
+          [ -f TOP_PICKS.md ] && git add TOP_PICKS.md || true
+          if git diff --quiet --cached; then
+            echo "No state changes to push."
+            exit 0
+          fi
+          git commit -m "Update seen jobs [skip ci]"
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then
+              echo "State pushed."
+              exit 0
+            fi
+            echo "Push attempt $i failed (remote moved); retrying..."
+            sleep 5
+          done
+          echo "Could not push state this run; it will retry next run."
