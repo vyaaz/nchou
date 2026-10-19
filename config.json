@@ -1,0 +1,1555 @@
+{
+  "filters": {
+    "title_keywords": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop"
+    ],
+    "title_require_any": [
+      "embedded",
+      "firmware",
+      "rtos",
+      "bare metal",
+      "bare-metal",
+      "microcontroller",
+      "bootloader",
+      "device driver",
+      "driver",
+      "kernel",
+      "board support",
+      "bsp",
+      "real-time",
+      "real time",
+      "low-level",
+      "motor control",
+      "mechatronic",
+      "avionics",
+      "flight software",
+      "telemetry",
+      "sensor fusion",
+      "slam",
+      "robotics",
+      "robot",
+      "controls",
+      "autonomy",
+      "autonomous",
+      "perception",
+      "machine learning",
+      "deep learning",
+      "artificial intelligence",
+      "computer vision",
+      "natural language",
+      "nlp",
+      "llm",
+      "generative",
+      "neural",
+      "reinforcement",
+      "applied scien",
+      "research scien",
+      "research engineer",
+      "data scien",
+      "data engineer",
+      "model",
+      "ai",
+      "ml",
+      "cv",
+      "software",
+      "develop",
+      "programmer",
+      "programming",
+      "backend",
+      "back-end",
+      "frontend",
+      "front-end",
+      "full stack",
+      "full-stack",
+      "web",
+      "mobile",
+      "ios",
+      "android",
+      "platform",
+      "infrastructure",
+      "cloud",
+      "distributed",
+      "systems",
+      "devops",
+      "sre",
+      "site reliability",
+      "network",
+      "database",
+      "compiler",
+      "graphics",
+      "game",
+      "security",
+      "cybersecurity",
+      "cyber",
+      "algorithm",
+      "simulation",
+      "optimization",
+      "research",
+      "hpc",
+      "computer engineer"
+    ],
+    "title_exclude": [
+      "phd",
+      "ph.d",
+      "doctoral",
+      "masters",
+      "master's",
+      "senior",
+      "sr.",
+      "director",
+      "principal",
+      "distinguished",
+      "vice president",
+      "mechanical engineer",
+      "civil engineer",
+      "chemical engineer",
+      "industrial engineer",
+      "materials engineer",
+      "process engineer",
+      "equipment engineer",
+      "manufacturing engineer",
+      "thermal",
+      "business development",
+      "sales",
+      "marketing",
+      "recruitment",
+      "human resources",
+      "actuarial",
+      "supply chain",
+      "procurement",
+      "administrative",
+      "internal audit",
+      "internal controls",
+      "market development",
+      "business analytics",
+      "technician",
+      "quality assurance",
+      "qa engineer",
+      "manual test",
+      "spring 2027",
+      "winter 2027",
+      "fall 2027",
+      "spring co-op",
+      "winter co-op",
+      "spring internship",
+      "winter internship",
+      "summer 2026",
+      "fall 2026",
+      "fy26",
+      "fy 26",
+      "2h university",
+      "skillbridge",
+      "military veteran"
+    ],
+    "years": [
+      2027
+    ],
+    "reject_cycle_phrases": [
+      "summer 2026",
+      "summer 2025",
+      "fall 2026",
+      "spring 2026",
+      "winter 2026",
+      "2026 summer",
+      "fy26",
+      "fy 26",
+      "2026 intern",
+      "2026 internship",
+      "- 2026",
+      "(2026)",
+      "summer 2028",
+      "2028 intern"
+    ],
+    "priority_locations": [],
+    "location_exclude": [],
+    "location_us_markers": [],
+    "clearance_keywords": [
+      "u.s. citizenship is required",
+      "us citizenship is required",
+      "security clearance",
+      "clearance",
+      "ts/sci",
+      "top secret",
+      "secret clearance",
+      "polygraph",
+      "u.s. citizen",
+      "us citizen",
+      "united states citizen",
+      "itar",
+      "doe q",
+      "public trust"
+    ],
+    "top_firms_only": false,
+    "summer_2027_only": true
+  },
+  "firms": [
+    {
+      "name": "Tracker: vanshb03 Summer2027",
+      "ats": "github_json",
+      "url": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json",
+      "cycle_year": "2027",
+      "seasons": [
+        "Summer"
+      ],
+      "verified": true
+    },
+    {
+      "name": "Tracker: sharunkumar Summer-Internships",
+      "ats": "github_json",
+      "url": "https://raw.githubusercontent.com/sharunkumar/Summer-Internships/dev/.github/scripts/listings.json",
+      "seasons": [
+        "Summer 2027"
+      ],
+      "enabled": false
+    },
+    {
+      "name": "Tracker: speedyapply 2027 SWE (US)",
+      "ats": "github_md",
+      "url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "cycle_year": "2027",
+      "verified": true
+    },
+    {
+      "name": "Trackers: underclassmen + research programs (zapplyjobs, JGCL)",
+      "ats": "github_md",
+      "url": "https://raw.githubusercontent.com/zapplyjobs/underclassmen-internships/main/README.md"
+    },
+    {
+      "name": "zapplyjobs research internships tracker",
+      "ats": "github_md",
+      "url": "https://raw.githubusercontent.com/zapplyjobs/Research-Internships-for-Undergraduates/main/README.md"
+    },
+    {
+      "name": "underclassmen opportunities (deadlines)",
+      "ats": "github_md",
+      "url": "https://raw.githubusercontent.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities/main/README.md"
+    },
+    {
+      "name": "AUTO-DISCOVER (all boards found in trackers)",
+      "ats": "autodiscover",
+      "sources": [
+        "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json",
+        "https://raw.githubusercontent.com/sndsh404/summer-2027-internships/main/README.md",
+        "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+        "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/INTERN_INTL.md",
+        "https://raw.githubusercontent.com/northwesternfintech/2027QuantInternships/main/README.md"
+      ],
+      "budget_seconds": 600,
+      "max_workers": 10
+    },
+    {
+      "name": "Amazon (AWS / Robotics / all)",
+      "ats": "amazon",
+      "query": "intern",
+      "note": "undocumented endpoint; skips gracefully if blocked"
+    },
+    {
+      "name": "USAJOBS (NASA / DOE labs / NSA / federal research)",
+      "ats": "usajobs",
+      "keywords": [
+        "software intern",
+        "computer science student trainee",
+        "research intern",
+        "machine learning intern",
+        "robotics intern",
+        "pathways intern computer engineering",
+        "pathways intern software"
+      ],
+      "note": "needs free USAJOBS_API_KEY + USAJOBS_EMAIL secrets"
+    },
+    {
+      "name": "AI: OpenAI",
+      "ats": "ashby",
+      "token": "openai",
+      "verified": true
+    },
+    {
+      "name": "AI: Anthropic",
+      "ats": "greenhouse",
+      "token": "anthropic",
+      "verified": true
+    },
+    {
+      "name": "AI: Scale AI",
+      "ats": "greenhouse",
+      "token": "scaleai",
+      "verified": true
+    },
+    {
+      "name": "AI: Databricks",
+      "ats": "greenhouse",
+      "token": "databricks",
+      "verified": true
+    },
+    {
+      "name": "AI: Together AI",
+      "ats": "greenhouse",
+      "token": "togetherai",
+      "verified": true
+    },
+    {
+      "name": "AI: Snorkel AI",
+      "ats": "greenhouse",
+      "token": "snorkelai",
+      "verified": true
+    },
+    {
+      "name": "AI: Allen Institute (AI2)",
+      "ats": "greenhouse",
+      "token": "thealleninstitute",
+      "verified": true
+    },
+    {
+      "name": "AI: Haize Labs",
+      "ats": "greenhouse",
+      "token": "haizelabs",
+      "verified": true
+    },
+    {
+      "name": "AI: Moloco",
+      "ats": "greenhouse",
+      "token": "moloco",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Zoox",
+      "ats": "lever",
+      "token": "zoox",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Skydio",
+      "ats": "ashby",
+      "token": "skydio",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Figure AI",
+      "ats": "greenhouse",
+      "token": "figureai",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Apptronik",
+      "ats": "greenhouse",
+      "token": "apptronik",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Kodiak Robotics",
+      "ats": "greenhouse",
+      "token": "kodiak",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Viam",
+      "ats": "greenhouse",
+      "token": "viamrobotics",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Intrinsic (Alphabet)",
+      "ats": "greenhouse",
+      "token": "intrinsicrobotics",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Stack AV",
+      "ats": "greenhouse",
+      "token": "stackav",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Rendezvous Robotics",
+      "ats": "greenhouse",
+      "token": "rendezvousrobotics",
+      "verified": true
+    },
+    {
+      "name": "Robotics: RoboForce",
+      "ats": "greenhouse",
+      "token": "roboforce",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Bot Auto",
+      "ats": "greenhouse",
+      "token": "botauto",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Field AI",
+      "ats": "lever",
+      "token": "field-ai",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Sanctuary AI",
+      "ats": "lever",
+      "token": "sanctuary",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Machina Labs",
+      "ats": "lever",
+      "token": "machinalabs",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Woven by Toyota",
+      "ats": "lever",
+      "token": "woven-by-toyota",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Waabi",
+      "ats": "lever",
+      "token": "waabi",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Kitware (CV/vision)",
+      "ats": "lever",
+      "token": "kitware",
+      "verified": true
+    },
+    {
+      "name": "Embedded: Neuralink",
+      "ats": "greenhouse",
+      "token": "neuralink",
+      "verified": true
+    },
+    {
+      "name": "Embedded: Verkada",
+      "ats": "greenhouse",
+      "token": "verkada",
+      "verified": true
+    },
+    {
+      "name": "Embedded: Lucid Motors",
+      "ats": "greenhouse",
+      "token": "lucidmotors",
+      "verified": true
+    },
+    {
+      "name": "Embedded: Faraday Future",
+      "ats": "greenhouse",
+      "token": "faradayfuture",
+      "verified": true
+    },
+    {
+      "name": "Embedded: Harbinger Motors",
+      "ats": "greenhouse",
+      "token": "harbingermotors",
+      "verified": true
+    },
+    {
+      "name": "Embedded: Redwood Materials",
+      "ats": "greenhouse",
+      "token": "redwoodmaterials",
+      "verified": true
+    },
+    {
+      "name": "Embedded: Pure Storage",
+      "ats": "greenhouse",
+      "token": "purestorage",
+      "verified": true
+    },
+    {
+      "name": "Embedded: Base Power",
+      "ats": "ashby",
+      "token": "base-power",
+      "verified": true
+    },
+    {
+      "name": "Embedded: Reflect Orbital",
+      "ats": "ashby",
+      "token": "reflect-orbital",
+      "verified": true
+    },
+    {
+      "name": "Embedded: WindBorne Systems",
+      "ats": "ashby",
+      "token": "windborne-systems",
+      "verified": true
+    },
+    {
+      "name": "Embedded: Apex Space",
+      "ats": "ashby",
+      "token": "apex-technology-inc",
+      "verified": true
+    },
+    {
+      "name": "Embedded: REGENT",
+      "ats": "ashby",
+      "token": "regent",
+      "verified": true
+    },
+    {
+      "name": "Embedded: AnySignal",
+      "ats": "lever",
+      "token": "anysignal"
+    },
+    {
+      "name": "Embedded: Fluxergy",
+      "ats": "lever",
+      "token": "fluxergy-2",
+      "verified": true
+    },
+    {
+      "name": "Silicon: NVIDIA",
+      "ats": "workday",
+      "host": "nvidia.wd5.myworkdayjobs.com",
+      "tenant": "nvidia",
+      "site": "NVIDIAExternalCareerSite",
+      "verified": true
+    },
+    {
+      "name": "Silicon: Intel",
+      "ats": "workday",
+      "host": "intel.wd1.myworkdayjobs.com",
+      "tenant": "intel",
+      "site": "external",
+      "verified": true
+    },
+    {
+      "name": "Silicon: Micron",
+      "ats": "workday",
+      "host": "micron.wd1.myworkdayjobs.com",
+      "tenant": "micron",
+      "site": "External",
+      "verified": true
+    },
+    {
+      "name": "Silicon: Marvell",
+      "ats": "workday",
+      "host": "marvell.wd1.myworkdayjobs.com",
+      "tenant": "marvell",
+      "site": "MarvellCareers",
+      "verified": true
+    },
+    {
+      "name": "Silicon: Analog Devices",
+      "ats": "workday",
+      "host": "analogdevices.wd1.myworkdayjobs.com",
+      "tenant": "analogdevices",
+      "site": "External",
+      "verified": true
+    },
+    {
+      "name": "Silicon: Silicon Labs (MCU)",
+      "ats": "workday",
+      "host": "silabs.wd1.myworkdayjobs.com",
+      "tenant": "silabs",
+      "site": "SiliconlabsCareers",
+      "verified": true
+    },
+    {
+      "name": "Silicon: Microchip (MCU)",
+      "ats": "workday",
+      "host": "microchiphr.wd5.myworkdayjobs.com",
+      "tenant": "microchiphr",
+      "site": "external",
+      "verified": true
+    },
+    {
+      "name": "Silicon: NXP (MCU)",
+      "ats": "workday",
+      "host": "nxp.wd3.myworkdayjobs.com",
+      "tenant": "nxp",
+      "site": "careers",
+      "verified": true
+    },
+    {
+      "name": "Silicon: Broadcom",
+      "ats": "workday",
+      "host": "broadcom.wd1.myworkdayjobs.com",
+      "tenant": "broadcom",
+      "site": "External_Career",
+      "verified": true
+    },
+    {
+      "name": "Silicon: Cirrus Logic",
+      "ats": "workday",
+      "host": "cirrus.wd1.myworkdayjobs.com",
+      "tenant": "cirrus",
+      "site": "CirrusLogicCareers"
+    },
+    {
+      "name": "Silicon: SanDisk",
+      "ats": "smartrecruiters",
+      "token": "sandisk",
+      "verified": true
+    },
+    {
+      "name": "Silicon: Western Digital",
+      "ats": "smartrecruiters",
+      "token": "westerndigital",
+      "verified": true
+    },
+    {
+      "name": "Silicon: Solidigm",
+      "ats": "smartrecruiters",
+      "token": "solidigm",
+      "verified": true
+    },
+    {
+      "name": "Silicon: HPE",
+      "ats": "workday",
+      "host": "hpe.wd5.myworkdayjobs.com",
+      "tenant": "hpe",
+      "site": "Jobsathpe",
+      "verified": true
+    },
+    {
+      "name": "Silicon: Dell",
+      "ats": "workday",
+      "host": "dell.wd1.myworkdayjobs.com",
+      "tenant": "dell",
+      "site": "External",
+      "verified": true
+    },
+    {
+      "name": "Silicon: Ciena",
+      "ats": "workday",
+      "host": "ciena.wd5.myworkdayjobs.com",
+      "tenant": "ciena",
+      "site": "Careers",
+      "verified": true
+    },
+    {
+      "name": "Silicon: Lumentum",
+      "ats": "workday",
+      "host": "lumentum.wd5.myworkdayjobs.com",
+      "tenant": "lumentum",
+      "site": "LITE",
+      "verified": true
+    },
+    {
+      "name": "Silicon: Tenstorrent",
+      "ats": "greenhouse",
+      "token": "tenstorrentuniversity",
+      "verified": true,
+      "note": "posts SoC Digital Design + CPU Microarchitecture intern roles"
+    },
+    {
+      "name": "Silicon: Graphcore",
+      "ats": "greenhouse",
+      "token": "graphcore",
+      "verified": true
+    },
+    {
+      "name": "Silicon: SK hynix America",
+      "ats": "greenhouse",
+      "token": "skhynixmemorysolutionsamericainc",
+      "verified": true
+    },
+    {
+      "name": "Silicon: Samsung Research America",
+      "ats": "greenhouse",
+      "token": "samsungresearchamericainternship",
+      "verified": true
+    },
+    {
+      "name": "Defense: Northrop Grumman",
+      "ats": "workday",
+      "host": "ngc.wd1.myworkdayjobs.com",
+      "tenant": "ngc",
+      "site": "Northrop_Grumman_External_Site",
+      "locale": "en-US",
+      "search_text": "intern",
+      "verified": true
+    },
+    {
+      "name": "Defense: RTX (Raytheon)",
+      "ats": "workday",
+      "host": "globalhr.wd5.myworkdayjobs.com",
+      "tenant": "globalhr",
+      "site": "REC_RTX_Ext_Gateway",
+      "locale": "en-US",
+      "search_text": "intern",
+      "verified": true
+    },
+    {
+      "name": "Defense: Leidos",
+      "ats": "workday",
+      "host": "leidos.wd5.myworkdayjobs.com",
+      "tenant": "leidos",
+      "site": "External",
+      "verified": true
+    },
+    {
+      "name": "Defense: CACI",
+      "ats": "workday",
+      "host": "caci.wd1.myworkdayjobs.com",
+      "tenant": "caci",
+      "site": "external",
+      "verified": true
+    },
+    {
+      "name": "Defense: Draper",
+      "ats": "workday",
+      "host": "draper.wd5.myworkdayjobs.com",
+      "tenant": "draper",
+      "site": "Draper_Careers",
+      "verified": true
+    },
+    {
+      "name": "Defense: Boeing",
+      "ats": "workday",
+      "host": "boeing.wd1.myworkdayjobs.com",
+      "tenant": "boeing",
+      "site": "EXTERNAL_CAREERS",
+      "verified": true
+    },
+    {
+      "name": "Defense: Motorola Solutions",
+      "ats": "workday",
+      "host": "motorolasolutions.wd5.myworkdayjobs.com",
+      "tenant": "motorolasolutions",
+      "site": "Careers",
+      "verified": true
+    },
+    {
+      "name": "Defense: GE Aerospace",
+      "ats": "workday",
+      "host": "geaerospace.wd5.myworkdayjobs.com",
+      "tenant": "geaerospace",
+      "site": "ge_externalsite",
+      "verified": true
+    },
+    {
+      "name": "Defense: Sierra Nevada Corp",
+      "ats": "workday",
+      "host": "snc.wd1.myworkdayjobs.com",
+      "tenant": "snc",
+      "site": "snc_external_career_site",
+      "verified": true
+    },
+    {
+      "name": "Defense: The Aerospace Corporation",
+      "ats": "workday",
+      "host": "aero.wd5.myworkdayjobs.com",
+      "tenant": "aero",
+      "site": "external",
+      "verified": true
+    },
+    {
+      "name": "Defense: Moog",
+      "ats": "workday",
+      "host": "moog.wd5.myworkdayjobs.com",
+      "tenant": "moog",
+      "site": "moog_external_career_site",
+      "verified": true
+    },
+    {
+      "name": "Defense: KBR",
+      "ats": "workday",
+      "host": "kbr.wd5.myworkdayjobs.com",
+      "tenant": "kbr",
+      "site": "KBR_Careers",
+      "verified": true
+    },
+    {
+      "name": "Defense: General Dynamics Mission Systems",
+      "ats": "smartrecruiters",
+      "token": "gdmsi",
+      "verified": true,
+      "note": "posts 'FPGA Intern Engineer'"
+    },
+    {
+      "name": "Defense: Anduril",
+      "ats": "greenhouse",
+      "token": "andurilindustries",
+      "verified": true
+    },
+    {
+      "name": "Defense: Shield AI",
+      "ats": "lever",
+      "token": "shieldai",
+      "verified": true
+    },
+    {
+      "name": "Defense: Saronic",
+      "ats": "lever",
+      "token": "saronic",
+      "verified": true
+    },
+    {
+      "name": "Defense: Systems & Technology Research",
+      "ats": "greenhouse",
+      "token": "systemstechnologyresearch",
+      "verified": true
+    },
+    {
+      "name": "Defense: Two Six Technologies",
+      "ats": "greenhouse",
+      "token": "twosixtechnologies",
+      "verified": true
+    },
+    {
+      "name": "Defense: Vatic Labs",
+      "ats": "greenhouse",
+      "token": "vaticlabs"
+    },
+    {
+      "name": "Defense: Metron",
+      "ats": "greenhouse",
+      "token": "metron",
+      "verified": true
+    },
+    {
+      "name": "Defense: SpaceX (silicon)",
+      "ats": "greenhouse",
+      "token": "spacex",
+      "verified": true,
+      "note": "posts 'Silicon Hardware Engineering Intern'"
+    },
+    {
+      "name": "Defense: Astranis (FPGA)",
+      "ats": "greenhouse",
+      "token": "astranis",
+      "verified": true,
+      "note": "posts 'FPGA Intern'"
+    },
+    {
+      "name": "Defense: Rocket Lab",
+      "ats": "greenhouse",
+      "token": "rocketlab",
+      "verified": true
+    },
+    {
+      "name": "Defense: True Anomaly",
+      "ats": "greenhouse",
+      "token": "trueanomalyinc",
+      "verified": true
+    },
+    {
+      "name": "Defense: Varda Space",
+      "ats": "greenhouse",
+      "token": "vardaspace",
+      "verified": true
+    },
+    {
+      "name": "Defense: Palantir",
+      "ats": "lever",
+      "token": "palantir",
+      "verified": true
+    },
+    {
+      "name": "Page: Google Careers (interns)",
+      "ats": "pagewatch",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?employment_type=INTERN",
+      "watch_keywords": [
+        "2027",
+        "intern"
+      ],
+      "note": "JS-heavy SPA - weak signal; also set Google's own job alert",
+      "digest": false
+    },
+    {
+      "name": "Page: Microsoft Careers",
+      "ats": "pagewatch",
+      "url": "https://careers.microsoft.com/v2/global/en/students.html",
+      "watch_keywords": [
+        "2027",
+        "intern"
+      ],
+      "note": "best-effort; API is bearer-token gated",
+      "digest": false
+    },
+    {
+      "name": "Page: Apple Jobs",
+      "ats": "pagewatch",
+      "url": "https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN",
+      "watch_keywords": [
+        "2027",
+        "intern"
+      ],
+      "note": "best-effort",
+      "digest": false
+    },
+    {
+      "name": "Page: Qualcomm (CPU/GPU/SoC digital design)",
+      "ats": "pagewatch",
+      "url": "https://careers.qualcomm.com/careers?query=intern",
+      "watch_keywords": [
+        "intern",
+        "2027"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: AMD (FPGA/Xilinx heritage)",
+      "ats": "pagewatch",
+      "url": "https://careers.amd.com/careers-home/jobs?keywords=intern",
+      "watch_keywords": [
+        "intern",
+        "2027"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: Texas Instruments",
+      "ats": "pagewatch",
+      "url": "https://careers.ti.com/search-jobs/intern/",
+      "watch_keywords": [
+        "intern",
+        "2027"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: Renesas",
+      "ats": "pagewatch",
+      "url": "https://jobs.renesas.com/",
+      "watch_keywords": [
+        "intern",
+        "2027"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: onsemi",
+      "ats": "pagewatch",
+      "url": "https://www.onsemi.com/careers/career-opportunities",
+      "watch_keywords": [
+        "intern",
+        "2027"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: Infineon",
+      "ats": "pagewatch",
+      "url": "https://www.infineon.com/careers",
+      "watch_keywords": [
+        "intern",
+        "2027"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: Seagate",
+      "ats": "pagewatch",
+      "url": "https://careers.seagate.com/",
+      "watch_keywords": [
+        "intern",
+        "2027"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: Skyworks",
+      "ats": "pagewatch",
+      "url": "https://careers.skyworksinc.com/",
+      "watch_keywords": [
+        "intern",
+        "2027"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: Qorvo",
+      "ats": "pagewatch",
+      "url": "https://careers.qorvo.com/",
+      "watch_keywords": [
+        "intern",
+        "2027"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: Lockheed Martin (search)",
+      "ats": "pagewatch",
+      "url": "https://www.lockheedmartinjobs.com/search-jobs",
+      "watch_keywords": [
+        "2027",
+        "intern"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: L3Harris (new grads & interns)",
+      "ats": "pagewatch",
+      "url": "https://careers.l3harris.com/en/new-grads-and-interns",
+      "watch_keywords": [
+        "2027",
+        "intern"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: Booz Allen careers",
+      "ats": "pagewatch",
+      "url": "https://www.boozallen.com/careers.html",
+      "watch_keywords": [
+        "2027",
+        "intern"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: Johns Hopkins APL",
+      "ats": "pagewatch",
+      "url": "https://www.jhuapl.edu/careers/internships",
+      "watch_keywords": [
+        "2027",
+        "apply"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: Sandia internships",
+      "ats": "pagewatch",
+      "url": "https://www.sandia.gov/careers/students-postdocs/internships/",
+      "watch_keywords": [
+        "2027",
+        "apply"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: LLNL DSSI",
+      "ats": "pagewatch",
+      "url": "https://data-science.llnl.gov/dssi",
+      "watch_keywords": [
+        "2027",
+        "apply"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: JPL internships",
+      "ats": "pagewatch",
+      "url": "https://www.jpl.nasa.gov/edu/internships/",
+      "watch_keywords": [
+        "2027",
+        "apply"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: NASA OSTEM internships",
+      "ats": "pagewatch",
+      "url": "https://intern.nasa.gov/",
+      "watch_keywords": [
+        "summer 2027",
+        "fall 2027"
+      ],
+      "note": "JS-heavy portal; also join their alert list",
+      "digest": false
+    },
+    {
+      "name": "Page: DOE SULI",
+      "ats": "pagewatch",
+      "url": "https://science.osti.gov/wdts/suli",
+      "watch_keywords": [
+        "2027",
+        "now accepting",
+        "application"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: NSF ETAP (all NSF REUs)",
+      "ats": "pagewatch",
+      "url": "https://etap.nsf.gov/",
+      "watch_keywords": [
+        "2027",
+        "apply",
+        "open"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: Pathways to Science (REU database)",
+      "ats": "pagewatch",
+      "url": "https://www.pathwaystoscience.org/",
+      "watch_keywords": [
+        "summer 2027",
+        "2027"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: GTRI student assistant roles",
+      "ats": "pagewatch",
+      "url": "https://careers.gatech.edu/",
+      "watch_keywords": [
+        "gtri",
+        "student assistant",
+        "intern"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: karanwxliaa research-for-UG list",
+      "ats": "pagewatch",
+      "url": "https://raw.githubusercontent.com/karanwxliaa/Research-for-UG-Students/main/README.md",
+      "watch_keywords": [
+        "2027"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: Netflix Jobs",
+      "ats": "pagewatch",
+      "url": "https://explore.jobs.netflix.net/careers",
+      "watch_keywords": [
+        "2027",
+        "intern"
+      ],
+      "note": "best-effort",
+      "digest": false
+    },
+    {
+      "name": "Competition: ICPC global",
+      "ats": "pagewatch",
+      "url": "https://icpc.global/",
+      "digest": true
+    },
+    {
+      "name": "Competition: ICPC Southeast USA region",
+      "ats": "pagewatch",
+      "url": "https://icpc.global/regionals/finder/southeast-usa",
+      "digest": true
+    },
+    {
+      "name": "Competition: Google Summer of Code",
+      "ats": "pagewatch",
+      "url": "https://summerofcode.withgoogle.com/",
+      "digest": true
+    },
+    {
+      "name": "Competition: Kaggle featured comps",
+      "ats": "pagewatch",
+      "url": "https://www.kaggle.com/competitions",
+      "digest": true
+    },
+    {
+      "name": "Competition: MIT Battlecode (January)",
+      "ats": "pagewatch",
+      "url": "https://battlecode.org/",
+      "digest": true
+    },
+    {
+      "name": "Competition: MITRE eCTF",
+      "ats": "pagewatch",
+      "url": "https://ectf.mitre.org/",
+      "digest": true
+    },
+    {
+      "name": "Competition: picoCTF",
+      "ats": "pagewatch",
+      "url": "https://picoctf.org/",
+      "watch_keywords": [
+        "2027",
+        "registration",
+        "competition"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Competition: CSAW CTF (NYU)",
+      "ats": "pagewatch",
+      "url": "https://www.csaw.io/",
+      "digest": true
+    },
+    {
+      "name": "Competition: National Cyber League",
+      "ats": "pagewatch",
+      "url": "https://nationalcyberleague.org/competition",
+      "watch_keywords": [
+        "registration",
+        "season",
+        "2026"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Competition: DOE CyberForce",
+      "ats": "pagewatch",
+      "url": "https://cyberforce.energy.gov/",
+      "watch_keywords": [
+        "2026",
+        "apply",
+        "open",
+        "registration"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Competition: US Cyber Games",
+      "ats": "pagewatch",
+      "url": "https://www.uscybergames.com/",
+      "watch_keywords": [
+        "open",
+        "combine",
+        "season",
+        "2026"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Competition: Hivestorm",
+      "ats": "pagewatch",
+      "url": "https://hivestorm.org/",
+      "digest": true
+    },
+    {
+      "name": "Competition: IEEEXtreme (24h, October)",
+      "ats": "pagewatch",
+      "url": "https://ieeextreme.org/",
+      "digest": true
+    },
+    {
+      "name": "Hackathon: HackMIT",
+      "ats": "pagewatch",
+      "url": "https://hackmit.org/",
+      "digest": true
+    },
+    {
+      "name": "Hackathon: TreeHacks (Stanford)",
+      "ats": "pagewatch",
+      "url": "https://www.treehacks.com/",
+      "digest": true
+    },
+    {
+      "name": "Hackathon: PennApps",
+      "ats": "pagewatch",
+      "url": "https://pennapps.com/",
+      "digest": true
+    },
+    {
+      "name": "Hackathon: Hack the North (Waterloo)",
+      "ats": "pagewatch",
+      "url": "https://hackthenorth.com/",
+      "digest": true
+    },
+    {
+      "name": "Hackathon: Devpost featured",
+      "ats": "pagewatch",
+      "url": "https://devpost.com/hackathons?open_to[]=public",
+      "digest": true
+    },
+    {
+      "name": "Hackathons: MLH 2027 season",
+      "ats": "pagewatch",
+      "url": "https://mlh.io/seasons/2027/events",
+      "watch_keywords": [
+        "hackathon",
+        "atlanta",
+        "georgia"
+      ],
+      "note": "",
+      "digest": true
+    },
+    {
+      "name": "Fellowship: Neo Scholars (via Substack archive)",
+      "ats": "pagewatch",
+      "url": "https://neo.substack.com/archive",
+      "watch_keywords": [
+        "scholars",
+        "application",
+        "cohort",
+        "open"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Fellowship: Z Fellows",
+      "ats": "pagewatch",
+      "url": "https://www.zfellows.com/",
+      "digest": true
+    },
+    {
+      "name": "Fellowship: Thiel Fellowship",
+      "ats": "pagewatch",
+      "url": "https://thielfellowship.org/",
+      "digest": true
+    },
+    {
+      "name": "Fellowship: 8VC",
+      "ats": "pagewatch",
+      "url": "https://www.8vc.com/fellowships",
+      "watch_keywords": [
+        "open",
+        "apply",
+        "application",
+        "deadline",
+        "2026",
+        "2027"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Fellowship: Soma Fellows",
+      "ats": "pagewatch",
+      "url": "https://programs.somacap.com/fellows",
+      "watch_keywords": [
+        "open",
+        "apply",
+        "application",
+        "deadline",
+        "2026",
+        "2027"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Fellowship: Interact",
+      "ats": "pagewatch",
+      "url": "https://joininteract.com/",
+      "watch_keywords": [
+        "open",
+        "apply",
+        "application",
+        "deadline",
+        "2026",
+        "2027"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Fellowship: Contrary blog (VP app announcements)",
+      "ats": "pagewatch",
+      "url": "https://contrary.com/blog",
+      "watch_keywords": [
+        "venture partner",
+        "application",
+        "fellowship",
+        "open"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Fellowship: Hertz (senior year)",
+      "ats": "pagewatch",
+      "url": "https://www.hertzfoundation.org/the-fellowship/",
+      "digest": true
+    },
+    {
+      "name": "Fellowship: Churchill Scholarship",
+      "ats": "pagewatch",
+      "url": "https://www.churchillscholarship.org/",
+      "digest": true
+    },
+    {
+      "name": "Scholarship: Goldwater key dates",
+      "ats": "pagewatch",
+      "url": "https://goldwaterscholarship.gov/important-dates/",
+      "watch_keywords": [
+        "open",
+        "apply",
+        "application",
+        "deadline",
+        "2026",
+        "2027"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Scholarship: IEEE CS Merwin",
+      "ats": "pagewatch",
+      "url": "https://www.computer.org/volunteering/awards/scholarships/merwin",
+      "watch_keywords": [
+        "open",
+        "apply",
+        "application",
+        "deadline",
+        "2026",
+        "2027"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Scholarship: UPE (CS honor society) awards",
+      "ats": "pagewatch",
+      "url": "https://upe.acm.org/scholarship/",
+      "watch_keywords": [
+        "open",
+        "apply",
+        "application",
+        "deadline",
+        "2026",
+        "2027"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Scholarship: DoD SMART",
+      "ats": "pagewatch",
+      "url": "https://www.smartscholarship.org/smart",
+      "digest": true,
+      "watch_keywords": [
+        "open",
+        "apply",
+        "deadline"
+      ]
+    },
+    {
+      "name": "Scholarship: AFCEA STEM Majors (national)",
+      "ats": "pagewatch",
+      "url": "https://www.afcea.org/stem-majors-scholarships",
+      "watch_keywords": [
+        "open",
+        "apply",
+        "application",
+        "deadline",
+        "2027"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Scholarship: DoD Cyber Service Academy",
+      "ats": "pagewatch",
+      "url": "https://public.cyber.mil/wid/csa/",
+      "watch_keywords": [
+        "open",
+        "apply",
+        "application",
+        "deadline",
+        "2027"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Startup: YC events",
+      "ats": "pagewatch",
+      "url": "https://events.ycombinator.com/",
+      "watch_keywords": [
+        "application",
+        "startup school",
+        "future founders",
+        "2027",
+        "application",
+        "apply",
+        "register",
+        "deadline"
+      ],
+      "note": "",
+      "digest": true
+    },
+    {
+      "name": "Lab: NREIP (Navy research)",
+      "ats": "pagewatch",
+      "url": "https://www.onr.navy.mil/education-outreach/undergraduate-graduate/nreip-naval-internship",
+      "watch_keywords": [
+        "2027",
+        "application",
+        "apply",
+        "register",
+        "deadline"
+      ],
+      "note": "",
+      "digest": true
+    },
+    {
+      "name": "Lab: MIT Lincoln Laboratory summer program",
+      "ats": "pagewatch",
+      "url": "https://careers.ll.mit.edu/content/Summer-Research/",
+      "watch_keywords": [
+        "summer research",
+        "2027",
+        "application",
+        "apply",
+        "register",
+        "deadline"
+      ],
+      "note": "",
+      "digest": true
+    },
+    {
+      "name": "Lab: Sandia student internships",
+      "ats": "pagewatch",
+      "url": "https://www.sandia.gov/careers/students-postdocs/internships/",
+      "watch_keywords": [
+        "2027",
+        "apply",
+        "deadline",
+        "open"
+      ],
+      "digest": true
+    },
+    {
+      "name": "NatSec: CIA student programs",
+      "ats": "pagewatch",
+      "url": "https://www.cia.gov/careers/student-programs/",
+      "watch_keywords": [
+        "undergraduate",
+        "internship",
+        "apply",
+        "deadline"
+      ],
+      "digest": true
+    },
+    {
+      "name": "NatSec: NSIN X-Force fellowship",
+      "ats": "pagewatch",
+      "url": "https://www.nsin.us/x-force/",
+      "watch_keywords": [
+        "open",
+        "apply",
+        "application",
+        "deadline",
+        "2026",
+        "2027"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Program: MLH Fellowship (open-source software)",
+      "ats": "pagewatch",
+      "url": "https://fellowship.mlh.io/",
+      "watch_keywords": [
+        "2027",
+        "apply",
+        "deadline",
+        "open"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Program: Outreachy internships",
+      "ats": "pagewatch",
+      "url": "https://www.outreachy.org/",
+      "watch_keywords": [
+        "2027",
+        "apply",
+        "deadline",
+        "open"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Program: Google Summer of Code orgs",
+      "ats": "pagewatch",
+      "url": "https://summerofcode.withgoogle.com/",
+      "watch_keywords": [
+        "2027",
+        "apply",
+        "deadline",
+        "open"
+      ],
+      "digest": true
+    },
+    {
+      "name": "Program: NVIDIA Ignite (2-week Oct window!)",
+      "ats": "pagewatch",
+      "url": "https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/",
+      "watch_keywords": [
+        "ignite",
+        "2027",
+        "application",
+        "apply",
+        "freshman",
+        "sophomore"
+      ],
+      "digest": true
+    }
+  ]
+}
