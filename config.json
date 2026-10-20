@@ -7,54 +7,8 @@
       "coop"
     ],
     "title_require_any": [
-      "embedded",
-      "firmware",
-      "rtos",
-      "bare metal",
-      "bare-metal",
-      "microcontroller",
-      "bootloader",
-      "device driver",
-      "driver",
-      "kernel",
-      "board support",
-      "bsp",
-      "real-time",
-      "real time",
-      "low-level",
-      "motor control",
-      "mechatronic",
-      "avionics",
-      "flight software",
-      "telemetry",
-      "sensor fusion",
-      "slam",
-      "robotics",
-      "robot",
-      "controls",
-      "autonomy",
-      "autonomous",
-      "perception",
-      "machine learning",
-      "deep learning",
-      "artificial intelligence",
-      "computer vision",
-      "natural language",
-      "nlp",
-      "llm",
-      "generative",
-      "neural",
-      "reinforcement",
-      "applied scien",
-      "research scien",
-      "research engineer",
-      "data scien",
-      "data engineer",
-      "model",
-      "ai",
-      "ml",
-      "cv",
       "software",
+      "swe",
       "develop",
       "programmer",
       "programming",
@@ -87,9 +41,69 @@
       "algorithm",
       "simulation",
       "optimization",
-      "research",
       "hpc",
-      "computer engineer"
+      "computer engineer",
+      "forward deployed",
+      "forward-deployed",
+      "deployed engineer",
+      "fde",
+      "deployment engineer",
+      "deployment strategist",
+      "machine learning",
+      "deep learning",
+      "artificial intelligence",
+      "computer vision",
+      "natural language",
+      "nlp",
+      "llm",
+      "generative",
+      "neural",
+      "reinforcement",
+      "applied scien",
+      "research scien",
+      "research engineer",
+      "data scien",
+      "data engineer",
+      "mlops",
+      "model",
+      "ai",
+      "ml",
+      "cv",
+      "product manag",
+      "product owner",
+      "product strateg",
+      "product analyst",
+      "product operations",
+      "product engineer",
+      "program manag",
+      "apm",
+      "tpm",
+      "pm",
+      "product design",
+      "ux",
+      "ui/ux",
+      "ui ux",
+      "user experience",
+      "user interface",
+      "interaction design",
+      "experience design",
+      "design technolog",
+      "consult",
+      "advisory",
+      "solutions engineer",
+      "solutions architect",
+      "solutions consult",
+      "customer engineer",
+      "implementation",
+      "technology analyst",
+      "business analyst",
+      "business technology",
+      "systems analyst",
+      "technical account",
+      "erp",
+      "sap",
+      "servicenow",
+      "workday"
     ],
     "title_exclude": [
       "phd",
@@ -840,6 +854,412 @@
       "verified": true
     },
     {
+      "name": "FDE: Ramp",
+      "ats": "ashby",
+      "token": "ramp",
+      "verified": true
+    },
+    {
+      "name": "FDE: Sierra",
+      "ats": "ashby",
+      "token": "sierra",
+      "verified": true
+    },
+    {
+      "name": "FDE: Decagon",
+      "ats": "ashby",
+      "token": "decagon",
+      "verified": true
+    },
+    {
+      "name": "FDE: Harvey",
+      "ats": "ashby",
+      "token": "harvey",
+      "verified": true
+    },
+    {
+      "name": "FDE: Cohere",
+      "ats": "ashby",
+      "token": "cohere",
+      "verified": true
+    },
+    {
+      "name": "FDE: Perplexity",
+      "ats": "ashby",
+      "token": "perplexity",
+      "verified": true
+    },
+    {
+      "name": "FDE: Mercor",
+      "ats": "ashby",
+      "token": "mercor",
+      "verified": true
+    },
+    {
+      "name": "FDE: Baseten",
+      "ats": "ashby",
+      "token": "baseten",
+      "verified": true
+    },
+    {
+      "name": "FDE: Modal",
+      "ats": "ashby",
+      "token": "modal",
+      "verified": true
+    },
+    {
+      "name": "FDE: Writer",
+      "ats": "ashby",
+      "token": "writer",
+      "verified": true
+    },
+    {
+      "name": "FDE: ElevenLabs",
+      "ats": "ashby",
+      "token": "elevenlabs",
+      "verified": true
+    },
+    {
+      "name": "FDE: Glean",
+      "ats": "greenhouse",
+      "token": "gleanwork",
+      "verified": true
+    },
+    {
+      "name": "FDE: Sigma Computing",
+      "ats": "greenhouse",
+      "token": "sigmacomputing",
+      "verified": true
+    },
+    {
+      "name": "Tech: Stripe",
+      "ats": "greenhouse",
+      "token": "stripe",
+      "verified": true
+    },
+    {
+      "name": "Tech: Figma",
+      "ats": "greenhouse",
+      "token": "figma",
+      "verified": true
+    },
+    {
+      "name": "Tech: Airbnb",
+      "ats": "greenhouse",
+      "token": "airbnb",
+      "verified": true
+    },
+    {
+      "name": "Tech: Robinhood",
+      "ats": "greenhouse",
+      "token": "robinhood",
+      "verified": true
+    },
+    {
+      "name": "Tech: Coinbase",
+      "ats": "greenhouse",
+      "token": "coinbase",
+      "verified": true
+    },
+    {
+      "name": "Tech: Datadog",
+      "ats": "greenhouse",
+      "token": "datadog",
+      "verified": true
+    },
+    {
+      "name": "Tech: Cloudflare",
+      "ats": "greenhouse",
+      "token": "cloudflare",
+      "verified": true
+    },
+    {
+      "name": "Tech: Duolingo",
+      "ats": "greenhouse",
+      "token": "duolingo",
+      "verified": true
+    },
+    {
+      "name": "Tech: Pinterest",
+      "ats": "greenhouse",
+      "token": "pinterest",
+      "verified": true
+    },
+    {
+      "name": "Tech: Discord",
+      "ats": "greenhouse",
+      "token": "discord",
+      "verified": true
+    },
+    {
+      "name": "Tech: Reddit",
+      "ats": "greenhouse",
+      "token": "reddit",
+      "verified": true
+    },
+    {
+      "name": "Tech: Instacart",
+      "ats": "greenhouse",
+      "token": "instacart",
+      "verified": true
+    },
+    {
+      "name": "Tech: Lyft",
+      "ats": "greenhouse",
+      "token": "lyft",
+      "verified": true
+    },
+    {
+      "name": "Tech: DoorDash",
+      "ats": "greenhouse",
+      "token": "doordashusa",
+      "verified": true
+    },
+    {
+      "name": "Tech: Asana",
+      "ats": "greenhouse",
+      "token": "asana",
+      "verified": true
+    },
+    {
+      "name": "Tech: Brex",
+      "ats": "greenhouse",
+      "token": "brex",
+      "verified": true
+    },
+    {
+      "name": "Tech: Samsara",
+      "ats": "greenhouse",
+      "token": "samsara",
+      "verified": true
+    },
+    {
+      "name": "Tech: Roblox",
+      "ats": "greenhouse",
+      "token": "roblox",
+      "verified": true
+    },
+    {
+      "name": "Tech: MongoDB",
+      "ats": "greenhouse",
+      "token": "mongodb",
+      "verified": true
+    },
+    {
+      "name": "Tech: Affirm",
+      "ats": "greenhouse",
+      "token": "affirm",
+      "verified": true
+    },
+    {
+      "name": "Tech: Chime",
+      "ats": "greenhouse",
+      "token": "chime",
+      "verified": true
+    },
+    {
+      "name": "Tech: Gusto",
+      "ats": "greenhouse",
+      "token": "gusto",
+      "verified": true
+    },
+    {
+      "name": "Tech: Vercel",
+      "ats": "greenhouse",
+      "token": "vercel",
+      "verified": true
+    },
+    {
+      "name": "Tech: Okta",
+      "ats": "greenhouse",
+      "token": "okta",
+      "verified": true
+    },
+    {
+      "name": "Tech: Elastic",
+      "ats": "greenhouse",
+      "token": "elastic",
+      "verified": true
+    },
+    {
+      "name": "Tech: Zscaler",
+      "ats": "greenhouse",
+      "token": "zscaler",
+      "verified": true
+    },
+    {
+      "name": "Tech: Twilio",
+      "ats": "greenhouse",
+      "token": "twilio",
+      "verified": true
+    },
+    {
+      "name": "Tech: Toast",
+      "ats": "greenhouse",
+      "token": "toast",
+      "verified": true
+    },
+    {
+      "name": "Tech: Flexport",
+      "ats": "greenhouse",
+      "token": "flexport",
+      "verified": true
+    },
+    {
+      "name": "Tech: Dropbox",
+      "ats": "greenhouse",
+      "token": "dropbox",
+      "verified": true
+    },
+    {
+      "name": "Tech: Squarespace",
+      "ats": "greenhouse",
+      "token": "squarespace",
+      "verified": true
+    },
+    {
+      "name": "Tech: Nuro",
+      "ats": "greenhouse",
+      "token": "nuro",
+      "verified": true
+    },
+    {
+      "name": "Tech: Notion",
+      "ats": "ashby",
+      "token": "notion",
+      "verified": true
+    },
+    {
+      "name": "Tech: Snowflake",
+      "ats": "ashby",
+      "token": "snowflake",
+      "verified": true
+    },
+    {
+      "name": "Tech: Plaid",
+      "ats": "ashby",
+      "token": "plaid",
+      "verified": true
+    },
+    {
+      "name": "Tech: Vanta",
+      "ats": "ashby",
+      "token": "vanta",
+      "verified": true
+    },
+    {
+      "name": "Tech: Linear",
+      "ats": "ashby",
+      "token": "linear",
+      "verified": true
+    },
+    {
+      "name": "Tech: Replit",
+      "ats": "ashby",
+      "token": "replit",
+      "verified": true
+    },
+    {
+      "name": "Tech: Benchling",
+      "ats": "ashby",
+      "token": "benchling",
+      "verified": true
+    },
+    {
+      "name": "Tech: Spotify",
+      "ats": "lever",
+      "token": "spotify",
+      "verified": true
+    },
+    {
+      "name": "Tech: Experian",
+      "ats": "smartrecruiters",
+      "token": "Experian",
+      "verified": true
+    },
+    {
+      "name": "Tech: ServiceNow",
+      "ats": "smartrecruiters",
+      "token": "ServiceNow",
+      "verified": true
+    },
+    {
+      "name": "Tech: Adobe",
+      "ats": "workday",
+      "host": "adobe.wd5.myworkdayjobs.com",
+      "tenant": "adobe",
+      "site": "external_experienced",
+      "locale": "en-US",
+      "search_text": "intern",
+      "verified": true
+    },
+    {
+      "name": "Tech: Salesforce",
+      "ats": "workday",
+      "host": "salesforce.wd12.myworkdayjobs.com",
+      "tenant": "salesforce",
+      "site": "External_Career_Site",
+      "locale": "en-US",
+      "search_text": "intern",
+      "verified": true
+    },
+    {
+      "name": "Tech: Mastercard",
+      "ats": "workday",
+      "host": "mastercard.wd1.myworkdayjobs.com",
+      "tenant": "mastercard",
+      "site": "CorporateCareers",
+      "locale": "en-US",
+      "search_text": "intern",
+      "verified": true
+    },
+    {
+      "name": "Consulting: Veeva (implementation / technical consultant)",
+      "ats": "lever",
+      "token": "veeva",
+      "verified": true
+    },
+    {
+      "name": "Consulting: PwC (US entry level)",
+      "ats": "workday",
+      "host": "pwc.wd3.myworkdayjobs.com",
+      "tenant": "pwc",
+      "site": "US_Entry_Level_Careers",
+      "locale": "en-US",
+      "search_text": "intern",
+      "verified": true
+    },
+    {
+      "name": "Consulting: Booz Allen",
+      "ats": "workday",
+      "host": "bah.wd1.myworkdayjobs.com",
+      "tenant": "bah",
+      "site": "BAH_Jobs",
+      "locale": "en-US",
+      "search_text": "intern",
+      "verified": true
+    },
+    {
+      "name": "Consulting: Workday",
+      "ats": "workday",
+      "host": "workday.wd5.myworkdayjobs.com",
+      "tenant": "workday",
+      "site": "Workday",
+      "locale": "en-US",
+      "search_text": "intern",
+      "verified": true
+    },
+    {
+      "name": "Consulting: Accenture",
+      "ats": "workday",
+      "host": "accenture.wd103.myworkdayjobs.com",
+      "tenant": "accenture",
+      "site": "AccentureCareers",
+      "locale": "en-US",
+      "search_text": "intern",
+      "note": "rate-limited (429) when probed 2026-10-20; unconfirmed"
+    },
+    {
       "name": "Page: Google Careers (interns)",
       "ats": "pagewatch",
       "url": "https://www.google.com/about/careers/applications/jobs/results?employment_type=INTERN",
@@ -910,7 +1330,8 @@
         "intern",
         "2027"
       ],
-      "digest": false
+      "digest": false,
+      "enabled": false
     },
     {
       "name": "Page: onsemi",
@@ -920,7 +1341,8 @@
         "intern",
         "2027"
       ],
-      "digest": false
+      "digest": false,
+      "enabled": false
     },
     {
       "name": "Page: Infineon",
@@ -930,7 +1352,8 @@
         "intern",
         "2027"
       ],
-      "digest": false
+      "digest": false,
+      "enabled": false
     },
     {
       "name": "Page: Seagate",
@@ -940,7 +1363,8 @@
         "intern",
         "2027"
       ],
-      "digest": false
+      "digest": false,
+      "enabled": false
     },
     {
       "name": "Page: Skyworks",
@@ -950,7 +1374,8 @@
         "intern",
         "2027"
       ],
-      "digest": false
+      "digest": false,
+      "enabled": false
     },
     {
       "name": "Page: Qorvo",
@@ -960,7 +1385,8 @@
         "intern",
         "2027"
       ],
-      "digest": false
+      "digest": false,
+      "enabled": false
     },
     {
       "name": "Page: Lockheed Martin (search)",
@@ -1104,6 +1530,59 @@
         "intern"
       ],
       "note": "best-effort",
+      "digest": false
+    },
+    {
+      "name": "Page: Deloitte careers search",
+      "ats": "pagewatch",
+      "url": "https://apply.deloitte.com/careers/SearchJobs?3_56_3=%5B%2245%22%5D",
+      "watch_keywords": [
+        "2027",
+        "intern"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: EY US intern search",
+      "ats": "pagewatch",
+      "url": "https://careers.ey.com/ey/search/?q=intern&locationsearch=united+states",
+      "watch_keywords": [
+        "2027",
+        "intern"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: KPMG early careers",
+      "ats": "pagewatch",
+      "url": "https://www.kpmguscareers.com/early-career/",
+      "watch_keywords": [
+        "2027",
+        "intern",
+        "apply"
+      ],
+      "digest": false
+    },
+    {
+      "name": "Page: IBM internships (incl. IBM Consulting)",
+      "ats": "pagewatch",
+      "url": "https://www.ibm.com/careers/search?field_keyword_05[0]=Internship",
+      "watch_keywords": [
+        "2027",
+        "intern"
+      ],
+      "note": "JS-heavy; weak signal",
+      "digest": false
+    },
+    {
+      "name": "Page: Accenture students",
+      "ats": "pagewatch",
+      "url": "https://www.accenture.com/us-en/careers/local/students",
+      "watch_keywords": [
+        "2027",
+        "intern",
+        "apply"
+      ],
       "digest": false
     },
     {
