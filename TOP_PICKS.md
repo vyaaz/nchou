@@ -1,6 +1,6 @@
 # Top picks (auto-generated)
 
-_Embedded / ML / SWE roles, anywhere in the US. 1419 of 2031 open roles. Rebuilt every sweep: 2026-10-22 23:05 UTC._
+_Embedded / ML / SWE roles, anywhere in the US. 1418 of 2029 open roles. Rebuilt every sweep: 2026-10-23 01:19 UTC._
 
 Ranked embedded and robotics first, then ML / AI / CV, then general software engineering. Within each, sweet-spot employers (robotics, MCU vendors and defense) before the household names. 🇺🇸 marks a role that asks for US citizenship or a clearance.
 
@@ -126,7 +126,6 @@ Ranked embedded and robotics first, then ML / AI / CV, then general software eng
 - [General Dynamics Information Technology — AI and Estimation Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646) — Falls Church, VA
 - [leidos — AI/ML Intern](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/AI-ML-Intern_R-00195168) — Huntsville, AL
 - [leidos — Performance Enablement AI/ML Intern](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656) — 6314 Remote/Teleworker US
-- [llnl — Data Science Institute Graduate Student Intern - Summer 2027](https://jobs.smartrecruiters.com/llnl/3743990015737586) — Livermore, CA, us
 - [marvell — AI Data Science Intern, MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1) — Santa Clara, CA
 - [Micron Technology — Machine Learning Engineering Intern](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750) — Richardson, TX
 - [Micron Technology — SMAI Probe AI Engineer Intern](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094) — Boise, ID
@@ -136,7 +135,6 @@ Ranked embedded and robotics first, then ML / AI / CV, then general software eng
 - [nxp — AI Software developer - Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Brno/AI-Software-developer---Intern_R-10064017-1) — Brno
 - [nxp — Intern AI and Software Engineer - Automotive MPUs](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Intern-AI-and-Software-Engineer---Automotive-MPUs_R-10065882-1) — Glasgow
 - [nxp — Internship – Product Engineering (ML Model Development)](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Nijmegen/Internship---Product-Engineering--ML-Model-Development-_R-10064264-1) — Nijmegen
-- [Robotics: Kitware (CV/vision) — AI Research Internship](https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75) — Clifton Park, New York
 - [Shield AI — Data Science Intern](https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply) — San Diego, CA
 - [Silicon: Marvell — AI-Native Development Platform Engineer Intern, MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1) — Santa Clara, CA
 - [Silicon: Micron — Intern - Machine Learning Engineering](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750) — Richardson, TX
@@ -192,7 +190,6 @@ Ranked embedded and robotics first, then ML / AI / CV, then general software eng
 - [bah — University - 2027 Summer Games Data Scientist Intern - Charleston, SC](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137) — Charleston, SC
 - [bah — University - 2027 Summer Games Data Scientist Intern - Huntsville, AL](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/University---2027-Summer-Games-Data-Scientist-Intern---Huntsville--AL_R0248407) — Huntsville, AL
 - [bah — University - 2027 Summer Games Data Scientist Intern - McLean, VA](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037) — McLean, VA
-- [bah — University - 2027 Summer Games Data Scientist Intern - San Diego, CA](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045) — San Diego, CA
 - [bah — University - 2027 Summer Games, Data Scientist Intern - Honolulu, HI](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406) — Honolulu, HI
 - [bah — University, 2027 Summer Games Data Scientist Intern - Atlanta, GA](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140) — Atlanta, GA
 - [bah — University, 2027 Summer Games Data Scientist Intern - Rome, NY](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143) — Rome, NY
@@ -230,6 +227,7 @@ Ranked embedded and robotics first, then ML / AI / CV, then general software eng
 - [Constellation Brands — AI Enablement Intern](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526) — Rochester, NY
 - [Consulting: Booz Allen — University - 2027 Summer Games Data Scientist Intern - Annapolis Junction, MD](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408) — Annapolis Junction, MD
 - [Consulting: Booz Allen — University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409) — Fort Walton Beach, FL
+- [Consulting: Booz Allen — University - 2027 Summer Games Data Scientist Intern - San Diego, CA](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045) — San Diego, CA
 - [Consulting: Booz Allen — University, 2027 Summer Games Data Scientist Intern - Colorado Springs, CO](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132) — Colorado Springs, CO
 - [Consulting: Booz Allen — University, 2027 Summer Games Data Scientist Intern - El Segundo, CA](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050) — El Segundo, CA
 - [Cook Group — Artificial Intelligence & Innovation Intern](https://americas-cookmedical.icims.com/jobs/19427/intern%2c-artificial-intelligence-%26-innovation/job) — Bloomington, IN
@@ -491,6 +489,8 @@ Ranked embedded and robotics first, then ML / AI / CV, then general software eng
 - [Defense: RTX (Raytheon) — Systems Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineering-Intern_01882697) — US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1
 - [Defense: RTX (Raytheon) — Systems Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Systems-Engineering-Intern--Summer-2027-_01880911) — US-CA-SAN DIEGO-SD1 ~ 8650 Balboa Ave ~ SAN ANTONIO BLDG
 - [Defense: RTX (Raytheon) — Systems Engineering Intern, Weather Radar](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Systems-Engineering-Intern--Weather-Radar_01876489) — US-FL-MELBOURNE-307 ~ 1100 W Hibiscus Blvd ~ BLDG 307
+- [Defense: Sierra Nevada Corp — Systems Engineer Intern (Summer 2027)](https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031189) — 2 Locations
+- [Defense: Sierra Nevada Corp — Systems Engineering Intern (Summer 2027)](https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0031166-1) — Lone Tree, CO
 - [Draper — Classified Cybersecurity/IT Intern](https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021) 🇺🇸 — Cambridge, MA
 - [General Dynamics Information Technology — Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) — Albany, NY
 - [General Dynamics Mission Systems — Software & Systems Infrastructure Integration Intern](https://careers-gdms.icims.com/jobs/75520/software-%26-systems-infrastructure-integration-intern/job) — Manassas, VA
@@ -905,7 +905,6 @@ Ranked embedded and robotics first, then ML / AI / CV, then general software eng
 - [Healthpeak Properties — Forward Deployed Software Engineer Intern](https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship) — NYC
 - [Healthpeak Properties — Forward Deployed Software Engineer Intern](https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship) — Irvine, CA
 - [Heliux — Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef) 🇺🇸 — San Francisco, CA
-- [hermeus — Mission Systems Engineering Intern - Spring/Summer 2027](https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d) — Atlanta, GA
 - [Hermeus — Software Engineering Intern - Command & Control - Spring/Summer 2027](https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796) — Atlanta, GA
 - [Hermeus — Software Engineering Intern - HIL - Spring/Summer 2027](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b) — Atlanta, GA
 - [Hewlett Packard Enterprise — Systems Software Engineer Intern](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Systems-Software-Engineer-Intern_1213401) — Bloomington, MN
@@ -1143,10 +1142,10 @@ Ranked embedded and robotics first, then ML / AI / CV, then general software eng
 - [rocketlab — Security Analyst Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986874003) 🇺🇸 — Albuquerque, NM
 - [rocketlab — Security Analyst Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986956003) 🇺🇸 — Long Beach, CA
 - [rocketlab — Security Analyst Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986961003) 🇺🇸 — Wallops Island, VA
-- [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7990272003) — Chantilly, VA
-- [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7990270003) — Tucson, AZ
-- [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) — Pasadena, CA
 - [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7987046003) — Long Beach, CA
+- [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) — Pasadena, CA
+- [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7990270003) — Tucson, AZ
+- [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7990272003) — Chantilly, VA
 - [Ryan — Summer 2027 Intern - Software Development](https://ryan.wd1.myworkdayjobs.com/en-US/ryancareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1) — Plano, TX
 - [Ryan — Summer 2027 Intern - Software Engineering](https://ryan.wd1.myworkdayjobs.com/en-US/students-graduates/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843) — Plano, TX
 - [ryan — Summer 2027 Intern, Software Development](https://ryan.wd1.myworkdayjobs.com/en-US/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Development_R0020822) — Plano TX
@@ -1382,27 +1381,6 @@ Ranked embedded and robotics first, then ML / AI / CV, then general software eng
 - [AMD — Software Engineer Intern, Co-op](https://careers.amd.com/careers-home/jobs/91176) ⚡elite — Santa Clara, CA, San Jose, CA
 - [Apple — Software Engineer Intern, Undergrad](https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships) ⚡elite — United States
 - [Databricks — Software Engineering Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) ⚡elite — Bellevue, WA, Mountain View, CA, San Francisco, CA, Vancouver, BC
-- [Defense: Palantir — Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) ⚡elite — Washington, D.C.
-- [Defense: Palantir — Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) ⚡elite — Palo Alto, CA
-- [Defense: Palantir — Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) ⚡elite — New York, NY
-- [Defense: Palantir — Forward Deployed Software Engineer, Internship - France](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) ⚡elite — New York, NY
-- [Defense: Palantir — Forward Deployed Software Engineer, Internship - US Government](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) ⚡elite — Honolulu, HI
-- [Defense: Palantir — Forward Deployed Software Engineer, Internship - US Government](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) ⚡elite — New York, NY
-- [Defense: Palantir — Forward Deployed Software Engineer, Internship - US Government](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2) ⚡elite — Washington, D.C.
-- [Defense: Palantir — Forward Deployed Software Engineer, Internship - Warp Speed](https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb) ⚡elite — New York, NY
-- [Defense: Palantir — Information Security Engineer, Internship](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) ⚡elite — New York, NY
-- [Defense: Palantir — Privacy and Civil Liberties Software Engineer, Internship](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) 🇺🇸 ⚡elite — New York, NY
-- [Defense: Palantir — Software Engineer, Internship](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249) ⚡elite — Denver, CO
-- [Defense: Palantir — Software Engineer, Internship - Defense Tech](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e) 🇺🇸 ⚡elite — New York, NY
-- [Defense: Palantir — Software Engineer, Internship - Defense Tech](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d) 🇺🇸 ⚡elite — Palo Alto, CA
-- [Defense: Palantir — Software Engineer, Internship - Defense Tech](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7) 🇺🇸 ⚡elite — Washington, D.C.
-- [Defense: Palantir — Software Engineer, Internship - Infrastructure](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4) ⚡elite — Palo Alto, CA
-- [Defense: Palantir — Software Engineer, Internship - Production Infrastructure](https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116) 🇺🇸 ⚡elite — New York, NY
-- [Defense: Palantir — Software Engineer, Internship - Production Infrastructure](https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86) 🇺🇸 ⚡elite — Washington, D.C.
-- [Defense: Palantir — Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) ⚡elite — New York, NY
-- [Defense: Palantir — Year at Palantir - Forward Deployed Software Engineer, Internship - USG](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) ⚡elite — Washington, D.C.
-- [Defense: Palantir — Year at Palantir - Forward Deployed Software Engineer, Internship - USG](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) ⚡elite — New York, NY
-- [Defense: Palantir — Year at Palantir - Software Engineer, Internship](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) ⚡elite — New York, NY
 - [Google — Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) ⚡elite — Mountain View, CA, Atlanta, GA, Austin, TX, Boulder, CO, Cambridge, MA, Bellevue, WA, Chicago, IL, Houston, TX, Irvine, CA, Kirkland, WA, Los Angeles, CA, Madison, WI, New York, NY, Palo Alto, CA, Portland, OR, Pittsburgh, PA, Raleigh, NC, Durham, NC, Reston, VA, Redmond, WA, Redwood City, CA, San Diego, CA, Goleta, CA, San Bruno, CA, Seattle, WA, San Francisco, CA, San Jose, CA, Santa Cruz, CA, South San Francisco, CA, Sunnyvale, CA
 - [Inmar Intelligence — Software Engineering Internships - Summer 2027](https://inmar.wd1.myworkdayjobs.com/en-US/inmarcareers/job/Headquarters-Winston-Salem-NC/Software-Engineering-Internships--Summer-2027_JY2627638) ⚡elite — Winston-Salem, NC
 - [intel — Information Security Engineer Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588) ⚡elite — US, California, Folsom
@@ -1422,9 +1400,30 @@ Ranked embedded and robotics first, then ML / AI / CV, then general software eng
 - [Netflix — Software Engineer Intern - Summer 2027](https://netflix.wd108.myworkdayjobs.com/en-US/netflix/job/Los-Gatos/Software-Engineer-Intern---Summer-2027_JR42989) ⚡elite — Los Gatos, CA
 - [NVIDIA — NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) ⚡elite — Santa Clara, CA
 - [NVIDIA — NVIDIA 2027 Internships: Systems Software Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) ⚡elite — Santa Clara, CA
+- [palantir — Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) ⚡elite — Washington, D.C.
+- [palantir — Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) ⚡elite — Palo Alto, CA
 - [Palantir — Forward Deployed Software Engineer - Internship - Commercial](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) ⚡elite — Chicago, IL
+- [palantir — Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) ⚡elite — New York, NY
+- [palantir — Forward Deployed Software Engineer, Internship - France](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) ⚡elite — New York, NY
+- [palantir — Forward Deployed Software Engineer, Internship - US Government](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) ⚡elite — Honolulu, HI
+- [palantir — Forward Deployed Software Engineer, Internship - US Government](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) ⚡elite — New York, NY
+- [palantir — Forward Deployed Software Engineer, Internship - US Government](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2) ⚡elite — Washington, D.C.
+- [palantir — Forward Deployed Software Engineer, Internship - Warp Speed](https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb) ⚡elite — New York, NY
+- [palantir — Information Security Engineer, Internship](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) ⚡elite — New York, NY
+- [palantir — Privacy and Civil Liberties Software Engineer, Internship](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) 🇺🇸 ⚡elite — New York, NY
 - [Palantir — Software Engineer Intern, Query Engines](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) ⚡elite — New York, NY
+- [palantir — Software Engineer, Internship](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249) ⚡elite — Denver, CO
+- [palantir — Software Engineer, Internship - Defense Tech](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e) 🇺🇸 ⚡elite — New York, NY
+- [palantir — Software Engineer, Internship - Defense Tech](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d) 🇺🇸 ⚡elite — Palo Alto, CA
+- [palantir — Software Engineer, Internship - Defense Tech](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7) 🇺🇸 ⚡elite — Washington, D.C.
+- [palantir — Software Engineer, Internship - Infrastructure](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4) ⚡elite — Palo Alto, CA
+- [palantir — Software Engineer, Internship - Production Infrastructure](https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116) 🇺🇸 ⚡elite — New York, NY
+- [palantir — Software Engineer, Internship - Production Infrastructure](https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86) 🇺🇸 ⚡elite — Washington, D.C.
 - [Palantir — Year at Palantir - Forward Deployed Software Engineer - Internship - Commercial](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) ⚡elite — Chicago, IL
+- [palantir — Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) ⚡elite — New York, NY
+- [palantir — Year at Palantir - Forward Deployed Software Engineer, Internship - USG](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) ⚡elite — Washington, D.C.
+- [palantir — Year at Palantir - Forward Deployed Software Engineer, Internship - USG](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) ⚡elite — New York, NY
+- [palantir — Year at Palantir - Software Engineer, Internship](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) ⚡elite — New York, NY
 - [Palantir Technologies — Software Engineer Intern](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) ⚡elite — Palo Alto, CA
 - [Palantir Technologies — Software Engineer Intern](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0) ⚡elite — Washington, D.C.
 - [Palantir Technologies — Software Engineer Intern](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d) ⚡elite — New York, NY
