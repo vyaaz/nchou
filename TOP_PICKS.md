@@ -1,6 +1,6 @@
 # Top picks (auto-generated)
 
-_Embedded / ML / SWE roles, anywhere in the US. 1492 of 2152 open roles. Rebuilt every sweep: 2026-10-24 22:19 UTC._
+_Embedded / ML / SWE roles, anywhere in the US. 1492 of 2150 open roles. Rebuilt every sweep: 2026-10-25 00:53 UTC._
 
 Ranked embedded and robotics first, then ML / AI / CV, then general software engineering. Within each, sweet-spot employers (robotics, MCU vendors and defense) before the household names. 🇺🇸 marks a role that asks for US citizenship or a clearance.
 
