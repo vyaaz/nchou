@@ -11844,8 +11844,8 @@
     "url": "https://go.vansh.nyc/d1"
   },
   "https://go.vansh.nyc/d5": {
-    "title": "Software Engineer Intern",
-    "url": "https://go.vansh.nyc/d5"
+    "title": "Technology Product Development Developer Intern",
+    "url": "https://go.vansh.nyc/D5"
   },
   "https://go.vansh.nyc/d6": {
     "title": "Machine Learning Engineering Intern",
@@ -13356,7 +13356,7 @@
     "url": "https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Physical-AI---Computer-Vision---2027--M-F-D-_R170038"
   },
   "https://ptc.wd1.myworkdayjobs.com/en-us/ptc/job/boston-ma-usa/software-engineer-intern--summer-2027-_jr112943": {
-    "title": "Software Engineer Intern (Summer 2027)",
+    "title": "Onshape Software Engineer Intern (Summer 2027)",
     "url": "https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943"
   },
   "https://job-boards.greenhouse.io/sezzle/jobs/8044470003": {
@@ -13826,5 +13826,69 @@
   "https://job-boards.greenhouse.io/hpiq/jobs/6141235004": {
     "title": "Product Design Engineering Intern (Summer 2027)",
     "url": "https://job-boards.greenhouse.io/hpiq/jobs/6141235004"
+  },
+  "https://go.vansh.nyc/ug": {
+    "title": "Data Science Intern, Data and AI Team",
+    "url": "https://go.vansh.nyc/UG"
+  },
+  "https://go.vansh.nyc/uh": {
+    "title": "Cybersecurity & Risk Intern",
+    "url": "https://go.vansh.nyc/UH"
+  },
+  "https://go.vansh.nyc/uz": {
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/UZ"
+  },
+  "https://go.vansh.nyc/v0": {
+    "title": "Program Intern, Cloud Operations",
+    "url": "https://go.vansh.nyc/V0"
+  },
+  "https://go.vansh.nyc/v1": {
+    "title": "ROV Software Intern",
+    "url": "https://go.vansh.nyc/V1"
+  },
+  "https://go.vansh.nyc/v2": {
+    "title": "Software Intern, C++",
+    "url": "https://go.vansh.nyc/V2"
+  },
+  "https://go.vansh.nyc/v3": {
+    "title": "IT/OT Cybersecurity Intern",
+    "url": "https://go.vansh.nyc/V3"
+  },
+  "https://go.vansh.nyc/vc": {
+    "title": "AI Intern",
+    "url": "https://go.vansh.nyc/Vc"
+  },
+  "https://go.vansh.nyc/vd": {
+    "title": "Cybersecurity Intern",
+    "url": "https://go.vansh.nyc/Vd"
+  },
+  "https://go.vansh.nyc/vh": {
+    "title": "Data Science Intern",
+    "url": "https://go.vansh.nyc/Vh"
+  },
+  "https://go.vansh.nyc/vi": {
+    "title": "Software Development Intern",
+    "url": "https://go.vansh.nyc/Vi"
+  },
+  "https://go.vansh.nyc/vj": {
+    "title": "Software Engineer Intern, Microservice Developer",
+    "url": "https://go.vansh.nyc/Vj"
+  },
+  "https://go.vansh.nyc/vl": {
+    "title": "Software Engineer Intern, Graphic Communications",
+    "url": "https://go.vansh.nyc/Vl"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/germany-remote/software-engineering-intern--ai-agents---backend-infrastructure---2027_jr2027942": {
+    "title": "Software Engineering Intern, AI Agents & Backend Infrastructure – 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/uk-remote/software-engineering-intern--ai-agents-and-backend-infrastructure---2027_jr2027939": {
+    "title": "Software Engineering Intern, AI Agents and Backend Infrastructure – 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939"
+  },
+  "https://accenture.wd103.myworkdayjobs.com/en-us/accenturecareers/job/warsaw/ai-mlops-internship-program--she-he-they-_r00352434": {
+    "title": "AI/MLOps Internship Program (She/He/They)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/AI-MLOps-Internship-Program--She-He-They-_R00352434"
   }
 }
