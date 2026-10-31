@@ -636,7 +636,7 @@
     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/research-intern--world-models-and-synthetic-data-for-autonomous-driving---summer-2027_jr2026839-1": {
-    "title": "Research Intern, World Models and Synthetic Data for Autonomous Driving",
+    "title": "Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1"
   },
   "https://jobs.lever.co/acronaviation/17b5f12d-f590-432d-a421-d6f90274ae9a": {
@@ -744,7 +744,7 @@
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Computer-Engineer-Intern---Manhattan-Beach-CA_R10255835"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/differentiable-simulation-research-intern---summer-2027_jr2027561": {
-    "title": "Differentiable Simulation Research Intern",
+    "title": "Differentiable Simulation Research Intern - Summer 2027",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561"
   },
   "https://jobs.smartrecruiters.com/servicenow/744000155345889": {
@@ -15432,8 +15432,8 @@
     "url": "https://go.vansh.nyc/10k"
   },
   "https://go.vansh.nyc/10l": {
-    "title": "Software Engineer Intern",
-    "url": "https://go.vansh.nyc/10l"
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/10L"
   },
   "https://jobs.smartrecruiters.com/westerndigital/744000158655189": {
     "title": "Internship - Data Engineering ",
@@ -15662,5 +15662,53 @@
   "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf": {
     "title": "Product Management Intern (Summer 2027)",
     "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf"
+  },
+  "https://go.vansh.nyc/111": {
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/111"
+  },
+  "https://go.vansh.nyc/113": {
+    "title": "Agentic & Machine Learning Development Intern, AI",
+    "url": "https://go.vansh.nyc/113"
+  },
+  "https://go.vansh.nyc/119": {
+    "title": "Gameplay Engineer Intern",
+    "url": "https://go.vansh.nyc/119"
+  },
+  "https://go.vansh.nyc/11a": {
+    "title": "Mobile App Developer Intern",
+    "url": "https://go.vansh.nyc/11a"
+  },
+  "https://go.vansh.nyc/11b": {
+    "title": "Aerodynamics AI Industrial Placement Intern",
+    "url": "https://go.vansh.nyc/11b"
+  },
+  "https://go.vansh.nyc/11g": {
+    "title": "Software Test Engineer Intern",
+    "url": "https://go.vansh.nyc/11g"
+  },
+  "https://go.vansh.nyc/11t": {
+    "title": "Data Science & AI Intern",
+    "url": "https://go.vansh.nyc/11t"
+  },
+  "https://go.vansh.nyc/11i": {
+    "title": "Data Engineer Intern",
+    "url": "https://go.vansh.nyc/11I"
+  },
+  "https://go.vansh.nyc/11k": {
+    "title": "Cybersecurity Internship (Remote) –(Undergraduate)",
+    "url": "https://go.vansh.nyc/11K"
+  },
+  "https://philips.wd3.myworkdayjobs.com/en-us/jobs-and-careers/job/new-kensington-pennsylvania-united-states/intern---systems-engineer---new-kensington--pa---summer-2027_592850": {
+    "title": "Intern - Systems Engineer – New Kensington, PA – Summer 2027",
+    "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Engineer---New-Kensington--PA---Summer-2027_592850"
+  },
+  "https://roche.wd3.myworkdayjobs.com/en-us/roche-ext/job/tucson/xmlname-2027-summer-intern---systems---hardware-development_202610-127540": {
+    "title": "2027 Summer Intern - Systems & Hardware Development",
+    "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Tucson/XMLNAME-2027-Summer-Intern---Systems---Hardware-Development_202610-127540"
+  },
+  "pw::https://explore.jobs.netflix.net/careers::#fbb5a0ea91357379": {
+    "title": "Page changed - check Page: Netflix Jobs (may mean applications opened)",
+    "url": "https://explore.jobs.netflix.net/careers"
   }
 }
