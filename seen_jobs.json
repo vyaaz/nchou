@@ -4229,7 +4229,7 @@
   },
   "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-maryland-linthicum/xmlname-2027-software-engineer-intern---linthicum-maryland_r10248910": {
     "title": "2027 Software Engineer Intern - Linthicum Maryland",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
   },
   "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-california-manhattan-beach/mgr-electronics-engineering-1---ground-systems-intern-development-manager_r10256522": {
     "title": "Mgr Electronics Engineering 1 - Ground Systems Intern Development Manager",
@@ -12008,8 +12008,8 @@
     "url": "https://go.vansh.nyc/ej"
   },
   "https://go.vansh.nyc/em": {
-    "title": "Nuclear Cybersecurity Intern",
-    "url": "https://go.vansh.nyc/em"
+    "title": "Data Science Intern",
+    "url": "https://go.vansh.nyc/Em"
   },
   "https://go.vansh.nyc/en": {
     "title": "Data Science Intern",
@@ -15710,5 +15710,61 @@
   "pw::https://explore.jobs.netflix.net/careers::#fbb5a0ea91357379": {
     "title": "Page changed - check Page: Netflix Jobs (may mean applications opened)",
     "url": "https://explore.jobs.netflix.net/careers"
+  },
+  "https://go.vansh.nyc/11m": {
+    "title": "AI Automation Intern, WMS & DC Systems",
+    "url": "https://go.vansh.nyc/11M"
+  },
+  "https://go.vansh.nyc/11n": {
+    "title": "AI Platform Infrastructure Intern, Technology",
+    "url": "https://go.vansh.nyc/11N"
+  },
+  "https://go.vansh.nyc/11q": {
+    "title": "AI & Distribution Analytics Intern",
+    "url": "https://go.vansh.nyc/11Q"
+  },
+  "https://go.vansh.nyc/11r": {
+    "title": "Data Engineer Intern",
+    "url": "https://go.vansh.nyc/11R"
+  },
+  "https://go.vansh.nyc/11s": {
+    "title": "AI Associate Intern, Equity Long/Short",
+    "url": "https://go.vansh.nyc/11S"
+  },
+  "https://go.vansh.nyc/11u": {
+    "title": "Data Science Intern",
+    "url": "https://go.vansh.nyc/11U"
+  },
+  "https://go.vansh.nyc/11v": {
+    "title": "DevOps Machine Learning Infrastructure Intern",
+    "url": "https://go.vansh.nyc/11V"
+  },
+  "https://go.vansh.nyc/11w": {
+    "title": "Cybersecurity Intern",
+    "url": "https://go.vansh.nyc/11W"
+  },
+  "https://go.vansh.nyc/11x": {
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/11X"
+  },
+  "https://go.vansh.nyc/11z": {
+    "title": "Cybersecurity Operations Intern",
+    "url": "https://go.vansh.nyc/11Z"
+  },
+  "https://go.vansh.nyc/121": {
+    "title": "Software Engineer Intern, Graphics",
+    "url": "https://go.vansh.nyc/121"
+  },
+  "https://go.vansh.nyc/122": {
+    "title": "Embedded Software Intern, Communications",
+    "url": "https://go.vansh.nyc/122"
+  },
+  "https://go.vansh.nyc/125": {
+    "title": "Data Scientist Intern, Product Support",
+    "url": "https://go.vansh.nyc/125"
+  },
+  "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-california-san-diego/xmlname-2027-intern-product-support---data-scientist_r10258679": {
+    "title": "2027 Intern Product Support – Data Scientist",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679"
   }
 }
