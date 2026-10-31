@@ -11600,8 +11600,8 @@
     "url": "https://go.vansh.nyc/ag"
   },
   "https://go.vansh.nyc/ah": {
-    "title": "Research Intern, Strategy, Innovation & Portfolio - AI",
-    "url": "https://go.vansh.nyc/ah"
+    "title": "AI Intern, Office of CEO & Head of Product",
+    "url": "https://go.vansh.nyc/aH"
   },
   "https://go.vansh.nyc/ai": {
     "title": "Cloud Engineer Intern, AWS/Azure",
@@ -11752,8 +11752,8 @@
     "url": "https://go.vansh.nyc/c6"
   },
   "https://go.vansh.nyc/cb": {
-    "title": "Product Technical Development Intern, Digital Sciences Focus",
-    "url": "https://go.vansh.nyc/cB"
+    "title": "AI/ML for Cybersecurity Intern",
+    "url": "https://go.vansh.nyc/CB"
   },
   "https://go.vansh.nyc/cd": {
     "title": "Quantitative Developer Intern",
@@ -15766,5 +15766,41 @@
   "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-california-san-diego/xmlname-2027-intern-product-support---data-scientist_r10258679": {
     "title": "2027 Intern Product Support – Data Scientist",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679"
+  },
+  "https://go.vansh.nyc/128": {
+    "title": "Data Engineer Intern",
+    "url": "https://go.vansh.nyc/128"
+  },
+  "https://go.vansh.nyc/129": {
+    "title": "AI Innovation Intern",
+    "url": "https://go.vansh.nyc/129"
+  },
+  "https://go.vansh.nyc/12b": {
+    "title": "Cybersecurity Intern, Federal",
+    "url": "https://go.vansh.nyc/12b"
+  },
+  "https://go.vansh.nyc/12c": {
+    "title": "Cybersecurity Intern, Healthcare",
+    "url": "https://go.vansh.nyc/12c"
+  },
+  "https://go.vansh.nyc/12d": {
+    "title": "Cybersecurity Intern, Payments",
+    "url": "https://go.vansh.nyc/12d"
+  },
+  "https://go.vansh.nyc/12e": {
+    "title": "Cybersecurity Intern, Solutions",
+    "url": "https://go.vansh.nyc/12e"
+  },
+  "https://go.vansh.nyc/12f": {
+    "title": "Cybersecurity Intern, Threat",
+    "url": "https://go.vansh.nyc/12f"
+  },
+  "https://go.vansh.nyc/12g": {
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/12g"
+  },
+  "https://go.vansh.nyc/12j": {
+    "title": "Deep Learning Intern",
+    "url": "https://go.vansh.nyc/12j"
   }
 }
