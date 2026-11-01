@@ -16410,5 +16410,33 @@
   "https://go.vansh.nyc/18w": {
     "title": "Data Scientist Intern, VOD Data",
     "url": "https://go.vansh.nyc/18w"
+  },
+  "pw::https://battlecode.org/::#e5ede836885451e3": {
+    "title": "Page changed - check Competition: MIT Battlecode (January) (may mean applications opened)",
+    "url": "https://battlecode.org/"
+  },
+  "pw::https://ieeextreme.org/::#f1a7376d4aef8ac2": {
+    "title": "Page changed - check Competition: IEEEXtreme (24h, October) (may mean applications opened)",
+    "url": "https://ieeextreme.org/"
+  },
+  "pw::https://hackmit.org/::#00f9e373adaeed4a": {
+    "title": "Page changed - check Hackathon: HackMIT (may mean applications opened)",
+    "url": "https://hackmit.org/"
+  },
+  "pw::https://www.treehacks.com/::#55bb194aa035b86a": {
+    "title": "Page changed - check Hackathon: TreeHacks (Stanford) (may mean applications opened)",
+    "url": "https://www.treehacks.com/"
+  },
+  "pw::https://www.hertzfoundation.org/the-fellowship/::#d35a59625cddde9a": {
+    "title": "Page changed - check Fellowship: Hertz (senior year) (may mean applications opened)",
+    "url": "https://www.hertzfoundation.org/the-fellowship/"
+  },
+  "pw::https://www.computer.org/volunteering/awards/scholarships/merwin::#0e1ebb5f9eb8f2ac": {
+    "title": "Page changed - check Scholarship: IEEE CS Merwin (may mean applications opened)",
+    "url": "https://www.computer.org/volunteering/awards/scholarships/merwin"
+  },
+  "pw::https://www.afcea.org/stem-majors-scholarships::#a7dab68d10d5f5dd": {
+    "title": "Page changed - check Scholarship: AFCEA STEM Majors (national) (may mean applications opened)",
+    "url": "https://www.afcea.org/stem-majors-scholarships"
   }
 }
