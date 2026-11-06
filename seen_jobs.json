@@ -844,8 +844,8 @@
     "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5448019008"
   },
   "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-intern---ai-ml-engineer---capacity---performance-engineering--autonomous-vehicles_jr-202622406": {
-    "title": "AI/ML Engineer Intern, Capacity & Performance Engineering, Autonomous Vehicles",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406"
+    "title": "2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406"
   },
   "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-intern---ai-ml-engineer--autonomous-vehicle-ml-infrastructure_jr-202622410": {
     "title": "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
@@ -10077,7 +10077,7 @@
   },
   "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-florida-cape-canaveral/xmlname-2027-systems-engineer-intern---cape-canaveral-fl_r10251849": {
     "title": "2027 Systems Engineer Intern - Cape Canaveral FL",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849"
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849"
   },
   "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-virginia-dulles/xmlname-2027-systems-engineering-internship--ai-experience----dulles-va_r10257423": {
     "title": "2027 Systems Engineering Internship (AI Experience) - Dulles VA",
@@ -18522,5 +18522,49 @@
   "https://stripe.com/jobs/search?gh_jid=8332681": {
     "title": "Product Design Intern",
     "url": "https://stripe.com/jobs/search?gh_jid=8332681"
+  },
+  "https://go.vansh.nyc/1jw": {
+    "title": "Software Engineer Intern, Software Systems",
+    "url": "https://go.vansh.nyc/1jW"
+  },
+  "https://go.vansh.nyc/1jx": {
+    "title": "Computer Security Research Intern",
+    "url": "https://go.vansh.nyc/1jX"
+  },
+  "https://go.vansh.nyc/1jz": {
+    "title": "Product Intelligence Engineering Intern, AI/ML",
+    "url": "https://go.vansh.nyc/1jZ"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---research-and-development---vehicle-health-management_jr-202622258": {
+    "title": "2027 Summer Intern – Research and Development – Vehicle Health Management",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Health-Management_JR-202622258"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---research---development---energy-and-propulsion-controls_jr-202622207": {
+    "title": "2027 Summer Intern - Research & Development - Energy and Propulsion Controls",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research---Development---Energy-and-Propulsion-Controls_JR-202622207"
+  },
+  "https://gehc.wd5.myworkdayjobs.com/en-us/gehc_externalsite/job/ind19-01-bengaluru-epip-122-phase-ii/information-technology-development-program---intern_r4049088-1": {
+    "title": "Information Technology Development Program - Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/gehc_externalsite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Information-Technology-Development-Program---Intern_R4049088-1"
+  },
+  "https://gehc.wd5.myworkdayjobs.com/en-us/gehc_externalsite/job/ind36-01-bengaluru-kalyani-platina-magnolia/commercial-development-program-intern_r4049083-1": {
+    "title": "Commercial Development Program Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/gehc_externalsite/job/IND36-01-Bengaluru-Kalyani-Platina-Magnolia/Commercial-Development-Program-Intern_R4049083-1"
+  },
+  "https://nxp.wd3.myworkdayjobs.com/en-us/careers/job/gratkorn/student-position--software-toolchain---debugger-development--f-m-d-_r-10064613": {
+    "title": "Internship: Software Toolchain & Debugger Development (f/m/d)",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Student-Position--Software-Toolchain---Debugger-Development--f-m-d-_R-10064613"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/china-shenzhen/ai-developer-technology-engineering-intern---2027_jr2024818": {
+    "title": "AI Developer Technology Engineering Intern - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818"
+  },
+  "https://accenture.wd103.myworkdayjobs.com/en-us/accenturecareers/job/bangkok-tipco-tower/xmlname--it-one--sap-mm--internship-_14642542": {
+    "title": "[IT One] SAP MM (Internship)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-MM--Internship-_14642542"
+  },
+  "https://accenture.wd103.myworkdayjobs.com/en-us/accenturecareers/job/luxembourg/internship---cybersecurity-lux---as-of-february-2027_r00365078-1": {
+    "title": "Internship – Cybersecurity Lux – as of February 2027",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Luxembourg/Internship---Cybersecurity-Lux---as-of-February-2027_R00365078-1"
   }
 }
