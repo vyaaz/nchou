@@ -1,49 +1,62 @@
 # Internship Watcher
 
-**Profile: embedded software engineering, with ML / AI / CV second.**
+**Profile (retargeted 2026-10-20, widened 2026-11-10): software engineering,
+forward deployed engineering, ML engineering, robotics / autonomy / computer
+vision, product management, product design, and technical / functional
+consulting. Startup coverage is deliberately maximised (see autodiscover).**
 Summer 2027 cycle, graduating May 2028, anywhere in the US, defense included.
 
 This repo is descended from a watcher originally built for a quant/SWE profile
 and later retuned for chip design. If a stray comment mentions quant firms or
-FPGA design, that is the lineage, not the current setup.
+FPGA design, that is the lineage, not the current setup. The same goes for
+embedded / robotics: the `Robotics:` / `Embedded:` / `Silicon:` sources are
+left over from the embedded profile and still run.
 
 Two crons, both live:
 
 1. **Hourly role sweep** — polls robotics, AI, embedded, silicon and defense
    sources plus the community trackers, and emails the moment a new **Summer
-   2027** embedded / ML / SWE internship opens. Gated by `summer_2027_only` in
+   2027** SWE / FDE / ML / robotics / autonomy / CV / PM / design / consulting
+   internship opens. Gated by `summer_2027_only` in
    `config.json → filters`; `top_firms_only` is **off**.
 2. **Sunday 14:00 UTC digest** (`DIGEST_MODE=1`) — competitions, hackathons,
    fellowships, scholarships and lab REUs. See "Weekly digest".
 
 **Coverage note.** The community trackers this repo polls are SWE-oriented, so
 for this profile they are unusually productive — the auto-discovery source
-alone reaches ~270 company boards and pulls tens of thousands of raw postings
+alone reaches ~3,900 company boards (most of them startups) and pulls tens of thousands of raw postings
 per run. Expect meaningfully more volume than a hardware-focused setup, which
 is why the filters matter more than the source list here.
 
 ## Who this is for (drives all filtering)
 
 - **Graduating May 2028** — eligible for essentially every Summer 2027 intern req
-- **Primary target: embedded software.** Firmware, RTOS, bare-metal, drivers,
-  BSP, bootloaders, motor control, avionics and flight software, robotics and
-  autonomy.
-- **Secondary target: ML / AI / CV.** Machine learning, perception, computer
-  vision, applied science, LLM work.
-- **General SWE is a deliberate fallback tier**, not an accident. Backend,
-  infrastructure, platform and similar roles are kept but always rank *below*
-  embedded and ML, so a generic SWE posting can never push a firmware role down
-  the email.
+- **Targets:** software engineering (incl. embedded software, which passes on
+  "software"), forward deployed engineering, ML engineering, product
+  management (PM / APM / TPM), product design (UX / product designer), and
+  technical + functional consulting (tech consulting, solutions engineering,
+  SAP / Workday / ERP functional roles, business / technology analyst).
 - **Pure hardware design is OUT.** "FPGA Design Intern", "Hardware ASIC Design
   Intern" and "RTL Design Engineer" are dropped — this is a software profile.
   A hybrid title survives on its other half: "Hardware/Software Integration
   Intern" passes on the word "software". `title_require_any` deliberately does
   **not** contain "hardware", "fpga", "asic" or "silicon".
-- **Email is ranked into 4 categories, in this exact order:**
-  ① Embedded / firmware / robotics ② ML / AI / CV ③ General SWE
-  ④ everything else that matched. See `build_email_html` and `_role_category`.
-  Order inside `_role_category` is load-bearing: EMBEDDED_RE is tested first,
-  so "Embedded Machine Learning Intern" is embedded, not ML.
+- **Robotics, autonomy & computer vision** (added 2026-11-10): robotics,
+  autonomy / autonomous, perception, (computer / machine) vision, SLAM, state
+  estimation, sensor fusion, motion / path planning, controls, GNC / guidance /
+  navigation, self-driving, UAV / drone / unmanned, humanoid, manipulation,
+  embodied, ROS, mechatronics. Robot *operator* / teleoperator / welder /
+  data-annotation roles are excluded in `title_exclude` as noise.
+- **Email is ranked into 6 categories, in this exact order:**
+  ⓪ SWE + forward deployed ① ML engineering ② Robotics, autonomy + computer
+  vision ③ Product management + design ④ Technical + functional consulting
+  ⑤ everything else that matched (`OTHER_CAT`). See `build_email_html` and
+  `_role_category`. The *check* order inside `_role_category` is load-bearing
+  and differs from display order: PRODUCT_RE, CONSULT_RE, FDE_RE, ROBOTICS_RE,
+  ML_RE, then GENERAL_SWE_RE — so "AI Product Manager" is product, "ML
+  Consultant" is consulting, "Forward Deployed ML Engineer" is FDE, "ML
+  Engineer, Perception" and "Computer Vision Intern" are robotics/CV,
+  "Robotics Software Engineer" is robotics.
 - **Anywhere in the US.** No city is promoted — `priority_locations` is empty
   and `_loc_rank` only pushes roles with a recognisable hub location above ones
   whose location is vague. **US-only** is enforced by `_is_us_location()`;
@@ -85,7 +98,8 @@ a keying change can't flood the first email.
 | `config.json` | Sources + filters. **Most changes belong here, not in code.** |
 | `seen_jobs.json` | State. Auto-committed each run. Never hand-edit. |
 | `OPEN_ROLES.md` | Auto-generated snapshot of every role currently open, rewritten each full sweep and committed. Never hand-edit. |
-| `TOP_PICKS.md` | Curated shortlist: embedded / ML / SWE roles, ranked. Auto-generated; never hand-edit. |
+| `TOP_PICKS.md` | Curated shortlist: SWE / FDE / ML / robotics+CV / PM / design / consulting roles, ranked. Auto-generated; never hand-edit. |
+| `autodiscover_cache.json` | State for autodiscover's rotating extended boards (see below). Auto-committed each run. Never hand-edit. |
 | `PROGRAMS.md` | Hand-maintained deadline calendar, appended to the Sunday digest. **Edit this one by hand.** |
 | `verify_sources.py` | Probes every source and reports the dead ones. Run it in CI — a mistyped token returns 0 jobs silently. |
 | `test_filters.py` | Filter regression tests over real posting titles. Run before any filter change lands. |
@@ -109,7 +123,7 @@ fetcher in `watcher.py`'s `FETCHERS` dict. Every fetcher returns normalized dict
 | `usajobs` | Federal: NASA, DOE labs, NSA, Army/Navy research, Pathways. Needs a free key. |
 | `github_json` | Tracker repos publishing `listings.json` (vanshb03). |
 | `github_md` | Tracker repos whose data is a markdown **table** (sndsh404, speedyapply). |
-| `autodiscover` | **The big one.** Harvests every apply URL from all trackers, decodes each company's ATS board, and polls ~270 boards **in parallel**. Self-expanding: any company a tracker adds gets polled from then on. |
+| `autodiscover` | **The big one.** Harvests every apply URL from all trackers, decodes each company's ATS board, and polls them **in parallel**. Self-expanding: any company a tracker adds gets polled from then on. Two tiers — see "Autodiscover rotation". |
 | `pagewatch` | Change-detector for feed-less pages. Used for the big chip employers with no pollable API — AMD, Qualcomm, Apple, TI, Synopsys, Arm, Lattice — plus the labs (NASA OSTEM, SULI, JHU APL, Sandia). Alerts when watched keywords appear/change. |
 
 Failed sources are **skipped and logged** (`x <name> skipped`), never crash the run.
@@ -118,10 +132,13 @@ Read the Actions log to see which sources actually resolved.
 ## Filtering (`config.json` → `filters`)
 
 1. `title_keywords` — must look like an internship
-2. `title_require_any` — must be an embedded / ML / SWE domain (83 keywords:
-   embedded, firmware, rtos, driver, robotics, autonomy, machine learning,
-   computer vision, software, backend, ...). Deliberately excludes "hardware",
-   "fpga", "asic" and "silicon".
+2. `title_require_any` — must be a target domain: SWE (software, backend,
+   cloud, ...), FDE (forward deployed, deployment engineer), ML (machine
+   learning, ai, data scien, ...), PM (product manag, apm, tpm, ...), design
+   (product design, ux, user experience, ...) or consulting (consult,
+   advisory, solutions engineer, sap, workday, business analyst, ...).
+   Deliberately excludes "hardware", "fpga", "asic" and "silicon", and has no
+   "salesforce" — `title_exclude` contains "sales", which would drop it anyway.
 3. `title_exclude` — PhD/Masters, wrong seniority, off-cycle, non-software
    engineering disciplines, and QA/manual-test roles.
 4. **Cycle check** — see gotcha #1 below
@@ -132,9 +149,36 @@ Read the Actions log to see which sources actually resolved.
 
 Then, at ranking time (not a filter — nothing is dropped here):
 
-7. `_role_category()` sorts a title into embedded → ML/CV → general SWE → other.
-   The order of the three `if` statements is the ranking; changing it changes
-   the email.
+7. `_role_category()` sorts a title into SWE/FDE (0), ML (1), robotics /
+   autonomy / CV (2), product/design (3), consulting (4) or other (5). The order of the `if` statements decides
+   which category a multi-keyword title lands in; changing it changes the email.
+
+## Autodiscover rotation (startup coverage)
+
+`autodiscover` has two tiers of tracker:
+
+- `sources` — the Summer-2027 intern trackers (~480 boards). Polled **every run**.
+- `extended_sources` — SimplifyJobs Summer2027 + New-Grad and speedyapply
+  new-grad/AI lists, used **only as a directory of company boards**: ~3.4k
+  extra boards, roughly 760 Ashby / 900 Greenhouse / 350 Lever, i.e. mostly
+  startups. The rows' own cycle is irrelevant — we poll the board itself and the
+  normal Summer-2027 gate applies to each posting. A local probe found ~1,150
+  relevant intern roles on these boards that the core tier never saw.
+- Too many to poll hourly (~11 min), so they are split into `rotate_slices`
+  (3) stable crc32 slices, one per run → every startup board is polled every
+  3 hours. Queue order: core, then Ashby/Lever/Greenhouse/Workable/
+  SmartRecruiters, Workday last, so a budget cut only trims Workday.
+- `autodiscover_cache.json` stores, per extended board, small post-filter
+  records of its relevant roles. Boards not polled this run are **carried
+  forward** into OPEN_ROLES / TOP_PICKS so they don't flicker; a board that
+  errored or hit the budget keeps its cached roles (not treated as "0 open").
+- An extended board's **first** successful poll is **baselined silently**
+  (logged as `Baselined silently ...`): its already-open roles go to OPEN_ROLES /
+  TOP_PICKS, not the email. Same for any source with `"silent_first_poll": true`
+  (the SimplifyJobs github_json tracker), tracked via a `src::<name>` key in
+  `seen_jobs.json`. Without this, adding them would dump ~1,000 roles into
+  one email.
+- `AUTODISCOVER_SLICE=<n>` pins the slice, for testing.
 
 ## HARD-WON GOTCHAS — read before changing anything
 
@@ -183,16 +227,14 @@ Then, at ranking time (not a filter — nothing is dropped here):
    then goes silent forever — which defeats the entire point of "tell me when
    applications open". A URL with no recorded hash is baselined silently.
 
-10. **General SWE must stay a *tier*, not a peer.** Most intern postings in the
-    world are generic SWE, so if `GENERAL_SWE_RE` is ever checked before
-    `EMBEDDED_RE` or `ML_RE`, the email fills with backend roles and the
-    firmware roles this repo exists to find sink to the bottom. The ordering is
-    pinned by `test_filters.py`; do not reorder without re-running it.
+10. **`GENERAL_SWE_RE` must be checked last.** It ends in a catch-all
+    "engineer", so checked earlier it would swallow "Solutions Engineer",
+    "ML Engineer" and "Forward Deployed Engineer". The ordering is pinned by
+    `test_filters.py`; do not reorder without re-running it.
 
-11. **"Embedded" and "software" overlap by design.** Almost every embedded
-    posting also contains the word "software", so category order — not keyword
-    exclusivity — is what separates them. That is why "Embedded Software
-    Engineer Intern" lands in category 0 and not category 2.
+11. **Categories overlap by design.** "AI Product Manager", "ML Consultant" and
+    "Software Engineer, Machine Learning" each hit two regexes, so category
+    order — not keyword exclusivity — is what separates them.
 
 ## Pending / next upgrades
 
@@ -200,10 +242,9 @@ Then, at ranking time (not a filter — nothing is dropped here):
   in `config.json` were harvested from live tracker URLs rather than typed from
   memory, but a few are unverified and carry no `"verified": true`. One CI run
   (workflow mode `verify`) tells you which to drop.
-- **`SimplifyJobs/Summer2027-Internships`**, if and when it launches, is the
-  single biggest coverage upgrade available for this profile — ~17k listings,
-  SWE-heavy. Add it as a `github_json` source. (Probe:
-  `https://raw.githubusercontent.com/<owner>/<repo>/dev/.github/scripts/listings.json`)
+- ~~SimplifyJobs/Summer2027-Internships~~ — **live and added 2026-11-10**
+  (github_json with `seasons: ["Summer 2027"]`, plus an autodiscover
+  extended source).
 - **Google, Meta, Microsoft and Apple have no pollable feed** — their page
   watchers are JS shells and the signal is weak. Set *native* job alerts on those
   careers sites as the real backup; that is the highest-value manual step.
@@ -229,11 +270,12 @@ the community trackers:
 python3 test_filters.py
 ```
 
-It pins what is most likely to break: embedded roles must survive and rank
-first (`Embedded Software Engineering Intern`, `Firmware Engineer Intern`,
-`Motor Control Firmware Intern`), ML must rank second, general SWE must land in
-the fallback tier and never above them, and pure hardware design must be
-dropped (`FPGA Design Intern`, `Hardware ASIC Design Intern`).
+It pins what is most likely to break: every target role (SWE, FDE, ML,
+robotics / autonomy / CV, PM, product design, technical and functional
+consulting) must survive and land in
+the right category, multi-keyword titles must resolve correctly ("AI Product
+Manager" → product), and noise must be dropped (`Product Marketing Intern`,
+`Sales Engineering Intern`, `FPGA Design Intern`).
 
 Check the sources are actually alive (needs network; run it in CI):
 

@@ -103,7 +103,41 @@
       "erp",
       "sap",
       "servicenow",
-      "workday"
+      "workday",
+      "robot",
+      "autonom",
+      "perception",
+      "vision",
+      "machine vision",
+      "image processing",
+      "point cloud",
+      "lidar",
+      "sensor fusion",
+      "state estimation",
+      "slam",
+      "motion planning",
+      "path planning",
+      "planning and control",
+      "planning & control",
+      "controls engineer",
+      "controls software",
+      "controls system",
+      "control systems",
+      "gnc",
+      "guidance",
+      "navigation",
+      "self-driving",
+      "self driving",
+      "driverless",
+      "uav",
+      "drone",
+      "unmanned",
+      "humanoid",
+      "manipulation",
+      "embodied",
+      "ros",
+      "teleop",
+      "mechatronic"
     ],
     "title_exclude": [
       "phd",
@@ -156,7 +190,13 @@
       "fy 26",
       "2h university",
       "skillbridge",
-      "military veteran"
+      "military veteran",
+      "operator",
+      "welder",
+      "wrangler",
+      "annotation",
+      "robot pilot",
+      "vision zero"
     ],
     "years": [
       2027
@@ -211,6 +251,18 @@
       "verified": true
     },
     {
+      "name": "Tracker: SimplifyJobs Summer2027",
+      "ats": "github_json",
+      "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
+      "cycle_year": "2027",
+      "seasons": [
+        "Summer 2027"
+      ],
+      "silent_first_poll": true,
+      "verified": true,
+      "note": "Largest tracker (~5k Summer 2027 rows, startup-heavy). The repo also carries 2026/fall/winter rows, so seasons is strict."
+    },
+    {
       "name": "Tracker: sharunkumar Summer-Internships",
       "ats": "github_json",
       "url": "https://raw.githubusercontent.com/sharunkumar/Summer-Internships/dev/.github/scripts/listings.json",
@@ -251,8 +303,16 @@
         "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/INTERN_INTL.md",
         "https://raw.githubusercontent.com/northwesternfintech/2027QuantInternships/main/README.md"
       ],
-      "budget_seconds": 600,
-      "max_workers": 10
+      "budget_seconds": 900,
+      "max_workers": 32,
+      "extended_sources": [
+        "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
+        "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
+        "https://raw.githubusercontent.com/speedyapply/2027-AI-College-Jobs/main/README.md",
+        "https://raw.githubusercontent.com/speedyapply/2026-SWE-College-Jobs/main/NEW_GRAD_USA.md"
+      ],
+      "rotate_slices": 3,
+      "note": "sources = Summer-2027 trackers, every board polled every run. extended_sources = big intern/new-grad trackers used only as a directory of ~3.4k company boards (mostly startups on Ashby/Lever/Greenhouse); polled in rotate_slices slices, one per run."
     },
     {
       "name": "Amazon (AWS / Robotics / all)",
@@ -428,6 +488,126 @@
       "name": "Robotics: Kitware (CV/vision)",
       "ats": "lever",
       "token": "kitware",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Agility Robotics",
+      "ats": "greenhouse",
+      "token": "agilityrobotics",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Wayve (autonomous driving)",
+      "ats": "ashby",
+      "token": "wayve",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Motional (autonomous driving)",
+      "ats": "greenhouse",
+      "token": "motional",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Waymo",
+      "ats": "greenhouse",
+      "token": "waymo",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Formic",
+      "ats": "greenhouse",
+      "token": "formic",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Standard Bots",
+      "ats": "ashby",
+      "token": "standardbots",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Diligent Robotics",
+      "ats": "greenhouse",
+      "token": "diligentrobotics",
+      "verified": true
+    },
+    {
+      "name": "Robotics: The Bot Company",
+      "ats": "ashby",
+      "token": "thebotcompany",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Dexterity",
+      "ats": "lever",
+      "token": "dexterity",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Osaro",
+      "ats": "lever",
+      "token": "osaro",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Pickle Robot",
+      "ats": "lever",
+      "token": "picklerobot",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Outrider (autonomous yard trucks)",
+      "ats": "greenhouse",
+      "token": "outrider",
+      "verified": true
+    },
+    {
+      "name": "Robotics: Merlin Labs (autonomous flight)",
+      "ats": "lever",
+      "token": "merlinlabs",
+      "verified": true
+    },
+    {
+      "name": "Defense: Epirus",
+      "ats": "greenhouse",
+      "token": "epirus",
+      "verified": true
+    },
+    {
+      "name": "Defense: Helsing",
+      "ats": "greenhouse",
+      "token": "helsing",
+      "verified": true
+    },
+    {
+      "name": "AI: Roboflow (computer vision)",
+      "ats": "ashby",
+      "token": "roboflow",
+      "verified": true
+    },
+    {
+      "name": "AI: Voxel51 (computer vision)",
+      "ats": "greenhouse",
+      "token": "voxel51",
+      "verified": true
+    },
+    {
+      "name": "AI: Luma AI (3D / video)",
+      "ats": "ashby",
+      "token": "lumaai",
+      "verified": true
+    },
+    {
+      "name": "AI: World Labs (spatial AI)",
+      "ats": "ashby",
+      "token": "worldlabs",
+      "verified": true
+    },
+    {
+      "name": "AI: Rerun (robotics/CV tooling)",
+      "ats": "ashby",
+      "token": "rerun",
       "verified": true
     },
     {

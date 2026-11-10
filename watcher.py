@@ -19,6 +19,7 @@ import re
 import smtplib
 import sys
 import time
+import zlib
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -482,25 +483,63 @@ def fetch_autodiscover(firm):
       2. you see them the hour they post, instead of waiting for a maintainer
     It grows by itself: any company a tracker ever adds gets polled from then on.
     """
-    boards, out = {}, []
-    for src in firm.get("sources", []):
-        try:
-            r = requests.get(src, headers=HEADERS, timeout=TIMEOUT)
-            r.raise_for_status()
-            text = r.text
-        except Exception as e:  # noqa: BLE001
-            print(f"    autodiscover: source failed ({e}) {src[:60]}")
-            continue
-        for u in re.findall(r"https?://[^\s\"'<>)\]\\]+", text):
-            c = _classify_board_url(u)
-            if not c:
+    """
+    Two tiers of tracker:
+      sources           -- Summer-2027 intern trackers. Every board found here
+                           is polled EVERY run.
+      extended_sources  -- big off-cycle / new-grad trackers (SimplifyJobs etc.)
+                           used purely as a DIRECTORY of company boards: ~3.4k
+                           extra boards, most of them startups on Ashby / Lever /
+                           Greenhouse. Their rows' cycle doesn't matter -- we
+                           only harvest the board, then poll the board itself,
+                           and the normal Summer-2027 gate applies to postings.
+                           Too many to poll hourly, so they are split into
+                           `rotate_slices` stable slices and one slice is
+                           polled per run (each board every N hours).
+    Bookkeeping lives in AUTODISCOVER_CACHE_FILE, see _ad_carry_forward().
+    """
+    def harvest(srcs, into):
+        for src in srcs:
+            try:
+                r = requests.get(src, headers=HEADERS, timeout=60)
+                r.raise_for_status()
+                text = r.text
+            except Exception as e:  # noqa: BLE001
+                print(f"    autodiscover: source failed ({e}) {src[:60]}")
                 continue
-            key = (c["ats"], c.get("token") or c.get("host"))
-            if key not in boards:
-                c["name"] = (c.get("token") or c.get("tenant") or "board")
-                boards[key] = c
+            for u in re.findall(r"https?://[^\s\"'<>)\]\\]+", text):
+                c = _classify_board_url(u)
+                if not c:
+                    continue
+                key = f'{c["ats"]}:{c.get("token") or c.get("host")}'.lower()
+                if key not in into:
+                    c["name"] = (c.get("token") or c.get("tenant") or "board")
+                    c["_key"] = key
+                    into[key] = c
 
-    print(f"    autodiscover: {len(boards)} boards found across trackers")
+    core, ext = {}, {}
+    harvest(firm.get("sources", []), core)
+    harvest(firm.get("extended_sources", []), ext)
+    ext = {k: v for k, v in ext.items() if k not in core}
+
+    n_slices = max(1, int(firm.get("rotate_slices", 3)))
+    # AUTODISCOVER_SLICE pins the slice (for testing); default rotates hourly.
+    this_slice = int(os.environ.get("AUTODISCOVER_SLICE",
+                                    int(time.time() // 3600))) % n_slices
+    ext_now = {k: v for k, v in ext.items()
+               if zlib.crc32(k.encode()) % n_slices == this_slice}
+    AD_STATE["rotated_out"] = set(ext) - set(ext_now)
+    AD_STATE["extended"] = set(ext)
+    known = AD_STATE["cache"]
+    print(f"    autodiscover: {len(core)} core boards + {len(ext)} extended "
+          f"(polling slice {this_slice + 1}/{n_slices}: {len(ext_now)} boards)")
+
+    # Order matters when the budget runs out: core boards first, then the
+    # cheap single-request startup ATSs, then paginated Workday tenants last.
+    ats_order = {"ashby": 0, "lever": 1, "greenhouse": 2, "workable": 3,
+                 "smartrecruiters": 4, "workday": 5}
+    queue = (sorted(core.values(), key=lambda b: ats_order.get(b["ats"], 9))
+             + sorted(ext_now.values(), key=lambda b: ats_order.get(b["ats"], 9)))
 
     # Poll boards in PARALLEL with a hard time budget -- sequentially this would
     # take hours (Workday tenants paginate), and a single slow board must never
@@ -510,37 +549,96 @@ def fetch_autodiscover(firm):
     max_workers = int(firm.get("max_workers", 10))
 
     def poll(b):
+        """Returns (board, jobs) -- jobs is None if the board was NOT actually
+        polled (budget hit / error), so its cached roles are kept."""
         if time.time() > deadline:
-            return []
+            return b, None
         sub = FETCHERS.get(b["ats"])
         if not sub:
-            return []
+            return b, None
         if b["ats"] == "workday":
             b.setdefault("max_pages", 3)      # searchText=intern -> 60 hits is plenty
         try:
             jobs = sub(b)
         except Exception:  # noqa: BLE001 -- dead/renamed/blocked boards are expected
-            return []
+            return b, None
+        # An extended board seen for the first time is baselined SILENTLY:
+        # otherwise adding ~3.4k boards would dump every role already open at
+        # them into one email. They still land in OPEN_ROLES / TOP_PICKS.
+        new_board = b["_key"] in ext and b["_key"] not in known
         for j in jobs:
             j.setdefault("company", b["name"])
-        return jobs
+            j["_board"] = b["_key"]
+            if new_board:
+                j["_silent_baseline"] = True
+        return b, jobs
 
-    ok = 0
+    ok = skipped = 0
+    out = []
+    polled = set()
     with ThreadPoolExecutor(max_workers=max_workers) as pool:
-        futures = [pool.submit(poll, b) for b in boards.values()]
+        futures = [pool.submit(poll, b) for b in queue]
         for fut in as_completed(futures):
             try:
-                jobs = fut.result()
+                b, jobs = fut.result()
             except Exception:  # noqa: BLE001
                 continue
+            if jobs is None:
+                skipped += 1
+                continue
+            polled.add(b["_key"])
             if jobs:
                 ok += 1
                 out.extend(jobs)
+    AD_STATE["polled"] = polled
 
     elapsed = int(budget - max(0, deadline - time.time()))
-    print(f"    autodiscover: {ok}/{len(boards)} boards returned postings, "
-          f"{len(out)} raw, {elapsed}s")
+    print(f"    autodiscover: {ok}/{len(queue)} boards returned postings, "
+          f"{len(out)} raw, {skipped} not polled (dead / over budget), {elapsed}s")
     return out
+
+
+# ---- autodiscover rotation bookkeeping ----
+# Rotated-out extended boards aren't polled this run, but their open roles must
+# not vanish from OPEN_ROLES.md / TOP_PICKS.md for the hours until their slice
+# comes round. The cache stores, per extended board, the small post-filter
+# records of its relevant roles at its last poll. Kept tiny on purpose (no job
+# descriptions) because it is committed every run.
+AUTODISCOVER_CACHE_FILE = "autodiscover_cache.json"
+AD_STATE = {"cache": {}, "polled": set(), "rotated_out": set(), "extended": set()}
+
+
+def _ad_record(j):
+    return {k: j.get(k, "") for k in ("title", "company", "location", "url")} | {
+        "clearance": bool(j.get("clearance"))}
+
+
+def _ad_carry_forward(current, src_name):
+    """After the sweep: (1) re-add cached roles from extended boards that were
+    NOT polled this run, (2) refresh the cache for boards that were. Returns
+    the new cache dict."""
+    cache = AD_STATE["cache"]
+    new_cache = {k: v for k, v in cache.items() if k in AD_STATE["extended"]}
+    fresh = {k: [] for k in AD_STATE["polled"] if k in AD_STATE["extended"]}
+    for rec in current.values():
+        b = rec["job"].get("_board")
+        if b in fresh:
+            fresh[b].append(_ad_record(rec["job"]))
+    new_cache.update(fresh)
+
+    carried = 0
+    for k, recs in new_cache.items():
+        if k in AD_STATE["polled"]:
+            continue
+        for r in recs:
+            gkey = (r.get("url") or "").strip().lower()
+            if gkey and gkey not in current:
+                current[gkey] = {"src": src_name, "job": dict(r)}
+                carried += 1
+    if AD_STATE["extended"]:
+        print(f"    autodiscover: carried {carried} role(s) forward from "
+              f"{len(new_cache) - len(fresh)} board(s) not polled this run")
+    return new_cache
 
 
 def fetch_usajobs(firm):
@@ -862,55 +960,88 @@ _HUB_RE = re.compile(
 
 
 # --------------------------- role categorisation ---------------------------- #
-# The email is ranked into 4 categories (2026-08-19), in this exact order:
-#   0) Embedded / firmware / robotics  -- the primary target
-#   1) ML / AI / CV                    -- the secondary target
-#   2) General software engineering    -- the fallback tier
-#   3) everything else that matched
-# Order matters: "Embedded Software Engineer" is embedded, not general SWE,
-# because EMBEDDED_RE is consulted first.
-EMBEDDED_RE = re.compile(
-    r"embedded|firmware|\brtos\b|bare.?metal|microcontroller|\bmcu\b|"
-    r"bootloader|device driver|\bdriver\b|kernel|board support|\bbsp\b|"
-    r"real.?time|low.?level|motor control|mechatronic|avionics|"
-    r"flight software|telemetry|sensor fusion|\bslam\b|robotic|"
-    r"autonomy|autonomous|\bcontrols\b|\bcan bus\b|embedded linux", re.I)
-# NOTE: "hardware", "silicon", "fpga" and "soc" are deliberately absent here
-# AND from config.json's title_require_any. This is a software profile, so a
-# pure hardware-design role ("FPGA Design Intern", "Hardware ASIC Design
-# Intern") is dropped rather than ranked. A hybrid title survives on its other
-# half: "Hardware/Software Integration Intern" passes on the word "software".
+# The email is ranked into 6 categories (2026-11-10), in this exact order:
+#   0) Software engineering + forward deployed engineering
+#   1) ML engineering
+#   2) Robotics, autonomy + computer vision
+#   3) Product management + product design
+#   4) Technical + functional consulting
+#   5) everything else that matched
+# The CHECK order in _role_category differs from the display order and is
+# load-bearing: product and consulting are tested first so "AI Product Manager"
+# is product and "Machine Learning Consultant" is consulting; forward deployed
+# is tested before ML so "Forward Deployed AI Engineer" stays FDE; robotics is
+# tested before ML so "ML Engineer Intern, Perception" and "Computer Vision
+# Intern" land in robotics/CV; general SWE goes last because GENERAL_SWE_RE
+# ends in a catch-all "engineer".
+PRODUCT_RE = re.compile(
+    r"product manag|product owner|product strateg|product analyst|"
+    r"product operations|program manag|\bapm\b|\btpm\b|\bpm\b|"
+    r"product design|\bux\b|ui/ux|ui ux|user experience|user interface|"
+    r"interaction design|experience design|design technolog", re.I)
+
+CONSULT_RE = re.compile(
+    r"consult|advisory|solutions? engineer|solutions architect|"
+    r"customer engineer|implementation|technology analyst|business analyst|"
+    r"business technology|systems analyst|technical account|\berp\b|"
+    r"\bsap\b|servicenow|\bworkday\b|deployment strategist", re.I)
+
+FDE_RE = re.compile(
+    r"forward.?deployed|deployed engineer|\bfde\b|deployment engineer", re.I)
+
+ROBOTICS_RE = re.compile(
+    r"\brobot|\bautonom|\bperception|computer vision|machine vision|\bcv\b|"
+    r"\bvision\b|image processing|point cloud|\blidar|sensor fusion|"
+    r"state estimation|\bslam\b|motion planning|path planning|"
+    r"\bplanning (and|&) control|\bcontrols? (engineer|software|system)|"
+    r"control systems|\bgnc\b|guidance|\bnavigation|self.?driving|"
+    r"driverless|\buavs?\b|\bdrones?\b|unmanned|humanoid|\bmanipulation|"
+    r"embodied|\bros2?\b|teleop|mechatronic", re.I)
 
 ML_RE = re.compile(
     r"machine learning|deep learning|\bml\b|\bai\b|artificial intelligence|"
-    r"computer vision|\bcv\b|perception|natural language|\bnlp\b|\bllm\b|"
+    r"natural language|\bnlp\b|\bllm\b|"
     r"generative|neural|reinforcement|applied scien|research scien|"
-    r"data scien|\bmodel(ing|ling)?\b|inference|training infra", re.I)
+    r"data scien|data engineer|\bmlops\b|\bmodel(ing|ling)?\b|inference|"
+    r"training infra", re.I)
 
 GENERAL_SWE_RE = re.compile(
     r"software|developer|\bdev\b|programmer|backend|back-end|frontend|"
     r"front-end|full.?stack|\bweb\b|mobile|\bios\b|android|platform|"
     r"infrastructure|cloud|distributed|systems|devops|\bsre\b|"
     r"site reliability|compiler|graphics|\bgame\b|security|cyber|"
-    r"algorithm|database|network|\bapi\b|engineer", re.I)
+    r"algorithm|database|network|\bapi\b|\bswe\b|engineer", re.I)
+# NOTE: "hardware", "silicon", "fpga" and "soc" are deliberately absent here
+# AND from config.json's title_require_any. A pure hardware-design role is
+# dropped; "Hardware/Software Integration Intern" survives on "software".
 
 
 def _role_category(title):
-    """Lower = higher priority. Embedded, then ML/CV, then general SWE."""
+    """0 SWE/FDE · 1 ML eng · 2 robotics/autonomy/CV · 3 product/design ·
+    4 consulting · 5 other."""
     t = title or ""
-    if EMBEDDED_RE.search(t):
+    if PRODUCT_RE.search(t):
+        return 3
+    if CONSULT_RE.search(t):
+        return 4
+    if FDE_RE.search(t):
         return 0
+    if ROBOTICS_RE.search(t):
+        return 2
     if ML_RE.search(t):
         return 1
     if GENERAL_SWE_RE.search(t):
-        return 2
-    return 3
+        return 0
+    return OTHER_CAT
+
+
+OTHER_CAT = 5
 
 
 def _is_target_role(company, title):
-    """True if the title reads as embedded / ML / SWE OR it's at a known
-    target employer."""
-    return bool(_role_category(title) < 3 or _tier(company) in (0, 2))
+    """True if the title is in one of the target categories OR it's at a
+    known target employer."""
+    return bool(_role_category(title) < OTHER_CAT or _tier(company) in (0, 2))
 
 
 def _loc_rank(loc):
@@ -932,11 +1063,11 @@ def build_email_html(grouped, baseline=False, filters=None):
     )
     parts = [f"<p>{intro}</p>"]
 
-    # 4 categories, in priority order. US-only is already enforced upstream,
+    # 6 categories, in display order. US-only is already enforced upstream,
     # so every role here is US.
-    #   0) Embedded / firmware / robotics   1) ML / AI / CV
-    #   2) General SWE                      3) everything else that matched
-    cats = {0: [], 1: [], 2: [], 3: []}
+    #   0) SWE + forward deployed   1) ML engineering   2) robotics / autonomy / CV
+    #   3) product + design         4) consulting       5) everything else
+    cats = {i: [] for i in range(OTHER_CAT + 1)}
     for firm in grouped:
         for j in grouped[firm]:
             j = dict(j)
@@ -944,21 +1075,23 @@ def build_email_html(grouped, baseline=False, filters=None):
             title = j.get("title", "")
             cats[_role_category(title)].append(j)
 
-    # Per-category email caps. Category 2 (general SWE) is a deliberate
-    # FALLBACK tier, and it is also by far the largest category in the world --
-    # a real baseline run produced 273 general SWE roles against 21 embedded.
-    # Uncapped, the tier that matters least is the one that fills the email.
+    # Per-category email caps. SWE is by far the largest category (a baseline
+    # run produced 270+ roles), so it is capped to keep the email readable.
     # The full list is always in OPEN_ROLES.md, so nothing is lost.
-    CATEGORY_CAPS = {2: 40, 3: 20}
+    CATEGORY_CAPS = {0: 60, 2: 60, OTHER_CAT: 20}
 
     meta = [
-        (0, "&#128268; Embedded / firmware / robotics", "#1553b0",
-         "Your primary target: firmware, RTOS, drivers, robotics, autonomy."),
-        (1, "&#129504; ML / AI / computer vision", "#2f6f4f",
-         "Machine learning, perception and AI research roles."),
-        (2, "&#128187; General software engineering", "#5b3fa0",
-         "Broader SWE roles \u2014 the fallback tier."),
-        (3, "Other matched roles", "#777", None),
+        (0, "&#128187; Software engineering &amp; forward deployed", "#5b3fa0",
+         "SWE, backend / full-stack / infra, and forward deployed engineering."),
+        (1, "&#129504; ML engineering", "#2f6f4f",
+         "Machine learning, AI, data science and applied research roles."),
+        (2, "&#129302; Robotics, autonomy &amp; computer vision", "#b8860b",
+         "Robotics, autonomy, perception, CV, controls / GNC, drones and AVs."),
+        (3, "&#128230; Product management &amp; product design", "#1553b0",
+         "PM, APM, TPM, and product / UX design."),
+        (4, "&#128188; Technical &amp; functional consulting", "#a0522d",
+         "Technology consulting, solutions engineering, ERP / functional roles."),
+        (OTHER_CAT, "Other matched roles", "#777", None),
     ]
     for cid, header, color, sub in meta:
         jobs = _collapse_locations(cats[cid])
@@ -1121,26 +1254,33 @@ def _is_us_location(loc):
     return not (NON_US_RE.search(s) and not US_LOC_RE.search(s))
 
 
-# Roles wanted: embedded / firmware / robotics first, then ML / CV, then
-# general SWE. SKIP_RE removes the non-engineering and wrong-discipline noise.
+# Roles wanted: SWE / FDE, ML engineering, product management and design,
+# technical and functional consulting. SKIP_RE removes the noise.
 WANT_RE = re.compile(
-    r"embedded|firmware|\brtos\b|bare.?metal|microcontroller|\bmcu\b|"
-    r"bootloader|device driver|kernel|board support|\bbsp\b|real.?time|"
-    r"low.?level|motor control|mechatronic|avionics|flight software|"
-    r"sensor fusion|\bslam\b|robotic|autonomy|autonomous|\bcontrols\b|"
-    r"machine learning|deep learning|\bml\b|\bai\b|artificial intelligence|"
-    r"computer vision|\bcv\b|perception|\bnlp\b|\bllm\b|generative|"
-    r"neural|reinforcement|applied scien|research scien|data scien|"
     r"software eng|software dev|\bswe\b|backend|back-end|full.?stack|"
-    r"infrastructure|platform|systems eng|distributed|devops|\bsre\b|"
-    r"compiler|graphics|security|algorithm|research eng",
+    r"frontend|front-end|infrastructure|platform|systems eng|distributed|"
+    r"devops|\bsre\b|site reliability|developer|mobile|\bios\b|android|"
+    r"compiler|graphics|security|algorithm|"
+    r"forward.?deployed|deploy(ed|ment) engineer|deployment strategist|"
+    r"\bfde\b|"
+    r"machine learning|deep learning|\bml\b|\bai\b|artificial intelligence|"
+    r"computer vision|\bcv\b|\bnlp\b|\bllm\b|generative|applied scien|"
+    r"\brobot|\bautonom|\bperception|\bvision\b|\bslam\b|motion planning|"
+    r"controls? (engineer|software|system)|\bgnc\b|guidance|\bnavigation|"
+    r"self.?driving|\buavs?\b|\bdrones?\b|unmanned|humanoid|mechatronic|"
+    r"sensor fusion|state estimation|image processing|lidar|"
+    r"research scien|research eng|data scien|\bmlops\b|"
+    r"product manag|\bapm\b|\btpm\b|\bpm\b|program manag|product owner|"
+    r"product design|\bux\b|user experience|interaction design|"
+    r"consult|advisory|solutions? engineer|solutions architect|"
+    r"customer engineer|technology analyst|business analyst",
     re.I,
 )
 SKIP_RE = re.compile(
     r"mechanical|manufactur|process eng|quality assurance|\bqa\b eng|"
-    r"manual test|industrial|chemical|materials|thermal|packaging|"
-    r"supply chain|technician|field eng|sales|marketing|business|recruit|"
-    r"\bhr\b|people ops|\bit\b support|help desk",
+    r"manual test|industrial eng|chemical|materials|thermal|packaging|"
+    r"supply chain|technician|field eng|sales|marketing|business development|"
+    r"recruit|\bhr\b|people ops|\bit\b support|help desk",
     re.I,
 )
 # Tier 0 ("sweet spot") sorts ABOVE tier 2 ("elite") inside a bucket -- the
@@ -1151,6 +1291,14 @@ SWEET_SPOT = [
     "zoox", "skydio", "figure", "apptronik", "kodiak", "viam", "intrinsic",
     "stack av", "rendezvous", "roboforce", "bot auto", "field ai",
     "sanctuary", "machina", "woven", "waabi", "kitware",
+    "agility", "wayve", "motional", "formic", "standard bots", "standardbots",
+    "diligent", "the bot company", "thebotcompany", "dexterity", "osaro",
+    "pickle", "outrider", "merlin labs", "merlinlabs", "physical intelligence",
+    "physicalintelligence", "generalist", "nuro", "torc", "may mobility",
+    "maymobility", "nimble", "serve robotics", "serverobotics", "brinc",
+    "foxglove", "mach9", "reflex robotics", "reflexrobotics", "avride",
+    # computer vision / spatial AI startups
+    "roboflow", "voxel51", "luma", "world labs", "worldlabs", "rerun",
     # embedded / devices / vehicles
     "neuralink", "verkada", "lucid", "faraday", "harbinger", "redwood",
     "pure storage", "base power", "reflect orbital", "windborne", "apex",
@@ -1195,24 +1343,24 @@ def _tier(company):
 
 
 def _bucket(comp, title, loc):
-    """Priority: embedded first, then ML/CV, then general SWE, then the rest.
-    Location does not affect the bucket -- anywhere in the US is fine.
-    Lower number = higher on the list."""
+    """Priority: SWE/FDE, ML eng, robotics/CV, product/design, consulting,
+    then the rest. Location does not affect the bucket -- anywhere in the US
+    is fine. Lower number = higher on the list."""
     cat = _role_category(title)
-    if cat < 3:
-        return cat          # 0 embedded · 1 ML/CV · 2 general SWE
+    if cat < OTHER_CAT:
+        return cat          # 0 SWE/FDE · 1 ML · 2 robotics/CV · 3 product · 4 consulting
     if _tier(comp) in (0, 2):
-        return 3            # other role at a known target employer
-    return 4                # everything else that survived the filters
+        return OTHER_CAT    # other role at a known target employer
+    return OTHER_CAT + 1    # everything else that survived the filters
 
 
 DEAD_URLS = {"https://careers.ice.com/jobs/12830"}
 
 
 def write_top_picks(current, filters=None):
-    """Curated subset of OPEN_ROLES: embedded, ML/CV and SWE roles anywhere in
-    the US. Ranked embedded first, then ML/CV, then general SWE. Regenerated
-    every full sweep."""
+    """Curated subset of OPEN_ROLES: SWE/FDE, ML, product/design and consulting
+    roles anywhere in the US, ranked in that order. Regenerated every full
+    sweep."""
     picks = []
     for rec in current.values():
         j = rec["job"]
@@ -1238,20 +1386,23 @@ def write_top_picks(current, filters=None):
     lines = [
         "# Top picks (auto-generated)",
         "",
-        f"_Embedded / ML / SWE roles, anywhere in the US. {len(picks)} of "
+        f"_SWE / FDE / ML / product / design / consulting roles, anywhere in the US. {len(picks)} of "
         f"{len(current)} open roles. Rebuilt every sweep: {stamp}._",
         "",
-        "Ranked embedded and robotics first, then ML / AI / CV, then general "
-        "software engineering. Within each, sweet-spot employers (robotics, "
-        "MCU vendors and defense) before the household names. "
+        "Ranked software engineering and forward deployed first, then ML "
+        "engineering, then robotics / autonomy / computer vision, then "
+        "product management and design, then consulting. "
+        "Within each, sweet-spot employers before the household names. "
         "🇺🇸 marks a role that asks for US citizenship or a clearance.",
         "",
     ]
-    headers = {0: "## 🔌 EMBEDDED / FIRMWARE / ROBOTICS — apply first",
-               1: "## 🧠 ML / AI / COMPUTER VISION",
-               2: "## 💻 GENERAL SOFTWARE ENGINEERING",
-               3: "## Other roles at target employers",
-               4: "## Everything else that matched"}
+    headers = {0: "## 💻 SOFTWARE ENGINEERING & FORWARD DEPLOYED",
+               1: "## 🧠 ML ENGINEERING",
+               2: "## 🤖 ROBOTICS, AUTONOMY & COMPUTER VISION",
+               3: "## 📦 PRODUCT MANAGEMENT & PRODUCT DESIGN",
+               4: "## 💼 TECHNICAL & FUNCTIONAL CONSULTING",
+               5: "## Other roles at target employers",
+               6: "## Everything else that matched"}
     seen_b = None
     for b, tier, _, title, comp, loc, url, clr in picks:
         if b != seen_b:
@@ -1485,6 +1636,10 @@ def main():
               f" ({len(TOP_FIRMS)} firms on the top list)")
     seen = load_json(SEEN_FILE, {}) or {}
     first_run = len(seen) == 0
+    AD_STATE["cache"] = load_json(AUTODISCOVER_CACHE_FILE, {}) or {}
+    ad_name = None          # name of the autodiscover source, if it ran
+    n_silent = {}           # source -> roles baselined silently this run
+    src_markers = set()     # "src::<name>" keys for silent_first_poll sources
 
     current = {}        # key -> job (everything relevant right now)
     grouped_new = {}    # firm -> [jobs] (relevant AND not seen before)
@@ -1548,6 +1703,16 @@ def main():
               + (f" [-{n_drop} non-US]" if n_drop else "")
               + (f" [-{n_nontop} not-top-firm]" if n_nontop else "")
               + (f" [-{n_notsummer} not-summer-2027]" if n_notsummer else ""))
+        if firm.get("ats") == "autodiscover":
+            ad_name = name
+        # A newly-added big source (e.g. the SimplifyJobs tracker) would dump
+        # every role it already lists into the next email. With
+        # silent_first_poll its first successful poll only records state.
+        src_marker = f"src::{name}"
+        silent_src = (bool(firm.get("silent_first_poll"))
+                      and src_marker not in seen and not first_run)
+        if firm.get("silent_first_poll"):
+            src_markers.add(src_marker)
         for j in relevant:
             url = (j.get("url") or "").strip().lower()
             gkey = url if url else f"{name}:{j['id']}"
@@ -1567,11 +1732,27 @@ def main():
             sigs_this_run.add(sig)
             current[gkey] = {"src": name, "job": j}
             if gkey not in seen:
-                grouped_new.setdefault(name, []).append(j)
+                if silent_src or j.get("_silent_baseline"):
+                    # logged below -- never a silent drop (gotcha #2)
+                    n_silent[name] = n_silent.get(name, 0) + 1
+                else:
+                    grouped_new.setdefault(name, []).append(j)
         time.sleep(0.3)  # be polite between firms
+
+    if n_silent:
+        print("Baselined silently (new source / newly harvested board; listed "
+              "in OPEN_ROLES + TOP_PICKS, not emailed): "
+              + ", ".join(f"{k}={v}" for k, v in n_silent.items()))
+
+    # Extended autodiscover boards rotate, so roles at boards not polled this
+    # run are carried forward from the cache into the snapshot.
+    if ad_name:
+        save_json(AUTODISCOVER_CACHE_FILE, _ad_carry_forward(current, ad_name))
 
     # Remember everything currently relevant (merge so closed roles stay "seen")
     new_seen = dict(seen)
+    for m in src_markers:
+        new_seen.setdefault(m, {"title": "", "url": ""})
     for gkey, rec in current.items():
         new_seen[gkey] = {"title": rec["job"]["title"], "url": rec["job"].get("url", "")}
 

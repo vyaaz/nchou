@@ -1,12 +1,12 @@
-name: Watcher (chip-design internships + weekly digest)
+name: Watcher (SWE / ML / robotics / PM / consulting internships + weekly digest)
 
 on:
   schedule:
     # Sunday 14:00 UTC (~10am ET): weekly chip-design programs / shuttles /
     # conference student programs / scholarships digest.
     - cron: "0 14 * * 0"
-    # Hourly role sweep for Summer 2027 FPGA / ASIC / RTL / DSP design
-    # internships. Retuned 2026-08-19. Controlled by `top_firms_only` (off) and
+    # Hourly role sweep for Summer 2027 SWE / FDE / ML / robotics / autonomy /
+    # CV / PM / design / consulting internships. Retuned 2026-11-10. Controlled by `top_firms_only` (off) and
     # `summer_2027_only` (on) in config.json -> filters.
     - cron: "0 * * * *"
   workflow_dispatch:      # "Run workflow" button
@@ -79,6 +79,7 @@ jobs:
           git add seen_jobs.json
           [ -f OPEN_ROLES.md ] && git add OPEN_ROLES.md || true
           [ -f TOP_PICKS.md ] && git add TOP_PICKS.md || true
+          [ -f autodiscover_cache.json ] && git add autodiscover_cache.json || true
           if git diff --quiet --cached; then
             echo "No state changes to push."
             exit 0

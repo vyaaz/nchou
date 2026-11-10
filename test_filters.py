@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Filter regression tests.
 
-Every title below is a REAL posting title observed in the community trackers
-(or a close variant), so this pins the behaviour most likely to break: embedded
-and ML roles must survive and rank correctly, general SWE must land in the
-fallback tier rather than the top, and non-engineering noise must be dropped.
+Every title below is a real or representative posting title, so this pins the
+behaviour most likely to break: each target role (SWE, FDE, ML, robotics / autonomy / CV, PM,
+design, consulting) must survive and land in the right category, and non-target
+noise must be dropped.
 
 Run:  python3 test_filters.py
 """
@@ -16,43 +16,78 @@ import watcher as w
 FILTERS = json.load(open("config.json"))["filters"]
 
 # (title, expected_category)
-#   0 = embedded/firmware/robotics, 1 = ML/AI/CV, 2 = general SWE, 3 = other
+#   0 = SWE / forward deployed, 1 = ML engineering,
+#   2 = robotics / autonomy / computer vision, 3 = product mgmt / design,
+#   4 = technical / functional consulting, 5 = other
 KEEP = [
-    # --- embedded / firmware: the primary target (real tracker titles) ---
+    # --- software engineering ---
+    ("Software Engineer Intern, Backend", 0),
+    ("Full Stack Developer Intern", 0),
+    ("Site Reliability Engineering Intern", 0),
+    ("Cloud Infrastructure Intern", 0),
+    ("Security Engineering Intern", 0),
+    ("iOS Developer Intern", 0),
     ("Embedded Software Engineering Intern", 0),
-    ("Software Engineer Intern, Embedded", 0),
-    ("Firmware Engineer Intern", 0),
-    ("Firmware Engineering Co-op", 0),
-    ("Embedded Software Engineer Intern, Keys & Authentication", 0),
-    ("Software Engineer Intern - Embedded Platforms", 0),
-    ("Long Range Platform Embedded Firmware Intern - Summer 2027", 0),
-    ("Motor Control Firmware Intern", 0),
-    ("RTOS Engineering Intern", 0),
-    ("Device Driver Engineering Intern", 0),
-    ("Bootloader and BSP Intern", 0),
-    ("Flight Software Engineering Intern", 0),
-    ("Avionics Software Intern", 0),
-    ("Robotics Software Engineering Intern", 0),
-    ("Autonomy Engineering Intern", 0),
-    ("Sensor Fusion Engineer Intern", 0),
-    ("Controls Engineering Intern", 0),
-    # --- ML / AI / CV: the secondary target ---
+    ("SWE Intern - Summer 2027", 0),
+    # --- forward deployed engineering ---
+    ("Forward Deployed Engineer Intern", 0),
+    ("Forward Deployed Software Engineer, Internship", 0),
+    ("Forward-Deployed AI Engineer Intern", 0),
+    ("Deployment Engineer Intern", 0),
+    # --- ML engineering ---
     ("Machine Learning Engineer Intern", 1),
+    ("ML Engineering Intern", 1),
     ("Deep Learning Research Intern", 1),
-    ("Computer Vision Engineering Intern", 1),
-    ("Perception Engineer Intern", 1),
+    ("Computer Vision Engineering Intern", 2),
     ("Applied Scientist Intern", 1),
     ("LLM Research Engineer Intern", 1),
-    ("Reinforcement Learning Intern", 1),
     ("Data Science Intern", 1),
-    # --- general SWE: the fallback tier, must NOT outrank the above ---
-    ("Software Engineer Intern, Backend", 2),
-    ("Full Stack Developer Intern", 2),
-    ("Site Reliability Engineering Intern", 2),
-    ("Cloud Infrastructure Intern", 2),
-    ("Compiler Engineer Intern", 2),
-    ("Security Engineering Intern", 2),
-    ("iOS Developer Intern", 2),
+    ("MLOps Engineer Intern", 1),
+    # --- robotics, autonomy & computer vision ---
+    ("Robotics Software Engineering Intern", 2),
+    ("Robotics Engineer Intern", 2),
+    ("Autonomy Engineering Intern", 2),
+    ("Autonomous Vehicles Software Intern", 2),
+    ("Perception Engineer Intern", 2),
+    ("Machine Learning Intern, Perception", 2),
+    ("Computer Vision Intern - Summer 2027", 2),
+    ("Motion Planning Intern", 2),
+    ("Controls Engineering Intern", 2),
+    ("GNC Engineering Intern", 2),
+    ("Guidance, Navigation & Control Intern", 2),
+    ("SLAM / State Estimation Intern", 2),
+    ("Drone Software Intern", 2),
+    ("UAV Autonomy Intern", 2),
+    ("Mechatronics Engineering Intern", 2),
+    ("Humanoid Robot Learning Intern", 2),
+    ("Sensor Fusion Intern", 2),
+    # --- product management ---
+    ("Product Manager Intern", 3),
+    ("Associate Product Manager Intern", 3),
+    ("APM Intern", 3),
+    ("Technical Program Manager Intern", 3),
+    ("Product Management Internship", 3),
+    ("AI Product Manager Intern", 3),
+    # --- product design ---
+    ("Product Design Intern", 3),
+    ("Product Designer Intern", 3),
+    ("UX Design Intern", 3),
+    ("User Experience Research Intern", 3),
+    # --- technical consulting ---
+    ("Technology Consulting Intern", 4),
+    ("Technical Consultant Intern", 4),
+    ("Solutions Engineer Intern", 4),
+    ("Solutions Architect Intern", 4),
+    ("Machine Learning Consultant Intern", 4),
+    ("Deployment Strategist Intern", 4),
+    ("Customer Engineer Intern", 4),
+    # --- functional consulting ---
+    ("Functional Consultant Intern", 4),
+    ("SAP Functional Consulting Intern", 4),
+    ("Workday Consultant Intern", 4),
+    ("Business Analyst Intern", 4),
+    ("Business Technology Analyst Intern", 4),
+    ("Advisory Intern - Technology Risk", 4),
 ]
 
 DROP = [
@@ -73,11 +108,23 @@ DROP = [
     "International Sales Director",
     "Quality Assurance Intern",
     "Manual Test Engineer Intern",
+    "Robotics Technician Intern",
+    "Financial Controls Intern",
+    "Robot Operator Intern",
+    "Humanoid Robot Teleoperator Intern",
+    "Robotic Welder Intern",
+    "3D & LiDAR Data Annotation Analyst Intern",
+    "Data & Operations Intern - Vision Zero",
     # --- wrong seniority ---
     "Senior Embedded Software Engineer",
     "Principal Machine Learning Engineer",
     "Director of Engineering",
     # --- wrong cycle ---
+    "Product Marketing Intern",
+    "Sales Engineering Intern - Solutions",
+    "Business Development Intern, Consulting",
+    "Mechanical Engineering Intern",
+    "Graphic Designer Intern",
     "Fall 2027 Software Engineering Co-op",
     "Spring 2027 Embedded Intern",
     "Summer 2026 Firmware Intern",
@@ -101,14 +148,23 @@ CYCLE = [
     ("Perception Intern", "This is our Fall 2027 co-op rotation.", False),
 ]
 
-# Ordering guarantees: embedded outranks ML, ML outranks general SWE. A title
-# naming two categories must resolve to the higher-priority one.
+# Ordering guarantees: a title naming two categories must resolve to the
+# right one. Product and consulting beat robotics and ML; forward deployed beats
+# robotics and ML; robotics beats ML and SWE.
 ORDERING = [
-    ("Embedded Machine Learning Intern", 0),     # embedded beats ML
-    ("ML Infrastructure Software Intern", 1),    # ML beats general SWE
-    ("Robotics Perception Software Intern", 0),  # embedded beats both
-    ("Embedded Software Engineer", 0),           # embedded beats "software"
-    ("Hardware/Software Integration Intern", 2),  # survives on "software"
+    ("AI Product Manager Intern", 3),               # product beats ML
+    ("Machine Learning Consultant Intern", 4),      # consulting beats ML
+    ("Forward Deployed ML Engineer Intern", 0),     # FDE beats ML
+    ("ML Infrastructure Software Intern", 1),       # ML beats general SWE
+    ("Software Engineer Intern, Machine Learning", 1),
+    ("Technical Program Manager, Software", 3),     # product beats SWE
+    ("Solutions Engineer, Cloud Platform", 4),      # consulting beats SWE
+    ("Hardware/Software Integration Intern", 0),    # survives on "software"
+    ("Robotics Software Engineer Intern", 2),       # robotics beats SWE
+    ("ML Engineer Intern - Autonomy", 2),           # robotics beats ML
+    ("Product Manager Intern, Robotics", 3),        # product beats robotics
+    ("Solutions Engineer Intern, Autonomy", 4),     # consulting beats robotics
+    ("Forward Deployed Engineer, Robotics", 0),     # FDE beats robotics
 ]
 
 fails = []
