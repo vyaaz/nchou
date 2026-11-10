@@ -331,7 +331,15 @@
   ],
   "workday:bci.wd10.myworkdayjobs.com": [],
   "ashby:fable": [],
-  "workday:echo.wd1.myworkdayjobs.com": [],
+  "workday:echo.wd1.myworkdayjobs.com": [
+    {
+      "title": "Software Engineering Intern- Chicago",
+      "company": "echo",
+      "location": "Remote",
+      "url": "https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
+      "clearance": false
+    }
+  ],
   "greenhouse:thinkcellsoftware": [],
   "ashby:specter": [],
   "lever:nuvacore": [],
@@ -769,7 +777,7 @@
       "title": "Intern, FFBA Analytical Development",
       "company": "legendcareers",
       "location": "Somerset, New Jersey, United States",
-      "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745147005",
+      "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745128005",
       "clearance": false
     }
   ],
@@ -2692,15 +2700,15 @@
     {
       "title": "Consulting Intern (Rail and Transportation)",
       "company": "dbeconorthamerica",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462750008",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462749008",
       "clearance": false
     },
     {
       "title": "Consulting Intern (Rail and Transportation)",
       "company": "dbeconorthamerica",
-      "location": "Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462749008",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462750008",
       "clearance": false
     }
   ],
@@ -3074,5 +3082,184 @@
       "url": "https://jobs.ashbyhq.com/Cheiron/e193c411-f175-480e-a341-72e7131e009a",
       "clearance": false
     }
-  ]
+  ],
+  "workable:optitrack": [],
+  "workable:intetics-2": [],
+  "workable:xodus-group": [],
+  "workday:dutchbros.wd1.myworkdayjobs.com": [],
+  "workable:thingtrax": [],
+  "lever:ambirobotics": [],
+  "workable:rokt": [],
+  "workable:healthcorpsorg": [],
+  "workable:fasanara": [],
+  "workday:invenergyllc.wd1.myworkdayjobs.com": [],
+  "workday:treehouse.wd1.myworkdayjobs.com": [],
+  "workable:g-20-advisors-ag": [],
+  "workable:esgusa": [],
+  "workday:tsys.wd1.myworkdayjobs.com": [],
+  "workable:vectoratomic": [],
+  "workable:digitalmediaservices": [],
+  "lever:extremenetworks": [
+    {
+      "title": "Intern - Lab/TAC  Network Engineer",
+      "company": "extremenetworks",
+      "location": "Raleigh, North Carolina, United States",
+      "url": "https://jobs.lever.co/extremenetworks/c3017f47-8150-44ae-8522-71fd28657e25",
+      "clearance": false
+    }
+  ],
+  "workable:msr-fsr": [],
+  "workable:seeq": [],
+  "workday:oneoncology.wd1.myworkdayjobs.com": [],
+  "workable:neutreeno-1": [],
+  "workable:interimage": [],
+  "workday:kauai.wd1.myworkdayjobs.com": [],
+  "workable:kihomac": [],
+  "workday:kslaw.wd1.myworkdayjobs.com": [],
+  "workable:debenhamsgroup": [],
+  "workable:praytell": [],
+  "workable:bff": [],
+  "workable:the-anywhere-company": [],
+  "workable:new-flyer": [],
+  "workable:staffordgray": [],
+  "workable:rmf-engineering-inc": [],
+  "workday:r1rcm.wd1.myworkdayjobs.com": [],
+  "workable:lovey": [],
+  "workday:theclaremontcolleges.wd1.myworkdayjobs.com": [],
+  "lever:go-cloudforce": [],
+  "workday:saintlukes.wd1.myworkdayjobs.com": [],
+  "workable:amax-1": [],
+  "workday:nabancard.wd1.myworkdayjobs.com": [],
+  "workable:openworks-engineering": [],
+  "workable:homey": [],
+  "workable:civica-uk-ltd-1": [],
+  "workable:capula-investment-management-ltd": [],
+  "workable:castle-trust": [],
+  "lever:rws": [],
+  "workday:tucsonaz.wd1.myworkdayjobs.com": [],
+  "workable:bask-health-1": [],
+  "workable:perryhomes": [],
+  "workable:tmeic-corporation-americas": [],
+  "workable:belmond-uk-ltd": [],
+  "workable:harlem-childrens-zone": [],
+  "workable:get-career-site": [],
+  "workday:broadcom.wd1.myworkdayjobs.com": [],
+  "workable:altalink": [],
+  "workable:tecsys": [],
+  "workable:practicetek": [],
+  "workday:lendingclub.wd1.myworkdayjobs.com": [],
+  "workday:argonne.wd1.myworkdayjobs.com": [],
+  "workable:viewline-ventures": [],
+  "workday:capitalhealth.wd1.myworkdayjobs.com": [],
+  "workday:kcura.wd1.myworkdayjobs.com": [],
+  "workable:rystad-energy": [],
+  "workable:fifty-five": [],
+  "workday:cambria.wd1.myworkdayjobs.com": [],
+  "workable:tp-link-usa-corp": [],
+  "workable:cadillacf1team": [],
+  "workable:nu-quantum": [],
+  "workable:willis-aviation": [],
+  "workable:zaizi": [],
+  "lever:tracktik": [],
+  "workable:palona": [],
+  "workable:wallstreetquants": [],
+  "workable:scitec": [],
+  "workable:eluvio": [
+    {
+      "title": "Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)",
+      "company": "eluvio",
+      "location": "Berkeley, California, United States",
+      "url": "https://apply.workable.com/j/F70F3473E7",
+      "clearance": false
+    }
+  ],
+  "workable:hyperlight": [],
+  "workday:cyrusone.wd1.myworkdayjobs.com": [],
+  "workable:twgai": [
+    {
+      "title": "AI Data Science Intern (MAQR) - Summer 2027",
+      "company": "twgai",
+      "location": "Santa Monica, California, United States",
+      "url": "https://apply.workable.com/j/AC536E5EE2",
+      "clearance": false
+    },
+    {
+      "title": "AI Data Science Intern (SOLT) - Summer 2027",
+      "company": "twgai",
+      "location": "Santa Monica, California, United States",
+      "url": "https://apply.workable.com/j/263B34D737",
+      "clearance": false
+    },
+    {
+      "title": "AI Engineering Intern - Summer 2027",
+      "company": "twgai",
+      "location": "Santa Monica, California, United States",
+      "url": "https://apply.workable.com/j/772CD136FF",
+      "clearance": false
+    }
+  ],
+  "workable:ballotpedia": [],
+  "workable:szns": [],
+  "workable:softheon": [],
+  "workable:credence": [],
+  "workday:msudenver.wd1.myworkdayjobs.com": [],
+  "workable:synthesisim": [],
+  "workday:clarioclinical.wd1.myworkdayjobs.com": [],
+  "workable:generation-west-virginia-1": [],
+  "workable:navionsl": [],
+  "workable:zego": [],
+  "lever:cfsenergy": [
+    {
+      "title": "Intern - Controls Engineer - Summer 2027",
+      "company": "cfsenergy",
+      "location": "Milpitas, CA",
+      "url": "https://jobs.lever.co/cfsenergy/e3408817-347e-45bc-8627-305b75b6b978",
+      "clearance": false
+    },
+    {
+      "title": "Intern - Fusion Fuel Systems - Spring or Summer 2027",
+      "company": "cfsenergy",
+      "location": "Devens, MA",
+      "url": "https://jobs.lever.co/cfsenergy/b464985c-bfc2-4efb-91db-7dd1a92f8f4b",
+      "clearance": false
+    },
+    {
+      "title": "Intern - I&C and Network Engineer - Spring or Summer 2027",
+      "company": "cfsenergy",
+      "location": "Devens, MA",
+      "url": "https://jobs.lever.co/cfsenergy/cbf90690-2518-4c81-ace4-530e3b158545",
+      "clearance": false
+    },
+    {
+      "title": "Intern - R&D Multiphysics Simulation Intern  - Spring or Summer 2027",
+      "company": "cfsenergy",
+      "location": "Somerville, MA",
+      "url": "https://jobs.lever.co/cfsenergy/deff5f97-d48c-45fe-800b-55cc0f359568",
+      "clearance": false
+    },
+    {
+      "title": "Intern - Systems Engineer - Summer 2027",
+      "company": "cfsenergy",
+      "location": "Devens, MA",
+      "url": "https://jobs.lever.co/cfsenergy/32e62a79-eff5-4a58-83fd-51a60eb57707",
+      "clearance": false
+    }
+  ],
+  "workday:sjindustries.wd1.myworkdayjobs.com": [
+    {
+      "title": "ServiceNow Intern",
+      "company": "sjindustries",
+      "location": "Folsom, NJ",
+      "url": "https://sjindustries.wd1.myworkdayjobs.com/en-US/sji/job/Folsom-NJ/ServiceNow-Intern_R4370",
+      "clearance": false
+    }
+  ],
+  "workable:mustard-systems": [],
+  "workable:keycafe": [],
+  "workable:al-warren-oil-company-inc": [],
+  "workable:jcc-greater-boston": [],
+  "workday:connect.wd1.myworkdayjobs.com": [],
+  "workable:we-are-social-1": [],
+  "workday:onelineage.wd1.myworkdayjobs.com": [],
+  "workable:fuku": []
 }
