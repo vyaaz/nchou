@@ -3,15 +3,7 @@
   "workday:nordstrom.wd501.myworkdayjobs.com": [],
   "workday:etsy.wd5.myworkdayjobs.com": [],
   "workday:doterra.wd1.myworkdayjobs.com": [],
-  "workday:psu.wd1.myworkdayjobs.com": [
-    {
-      "title": "Autonomous Processing Research & Development Internship",
-      "company": "psu",
-      "location": "Penn State University Park",
-      "url": "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Staff/job/Penn-State-University-Park/Autonomous-Processing-Research---Development-Internship_REQ_0000084114-1",
-      "clearance": false
-    }
-  ],
+  "workday:psu.wd1.myworkdayjobs.com": [],
   "smartrecruiters:stowgroup": [],
   "ashby:oligo": [],
   "ashby:frontier-health": [],
@@ -331,15 +323,7 @@
   ],
   "workday:bci.wd10.myworkdayjobs.com": [],
   "ashby:fable": [],
-  "workday:echo.wd1.myworkdayjobs.com": [
-    {
-      "title": "Software Engineering Intern- Chicago",
-      "company": "echo",
-      "location": "Remote",
-      "url": "https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
-      "clearance": false
-    }
-  ],
+  "workday:echo.wd1.myworkdayjobs.com": [],
   "greenhouse:thinkcellsoftware": [],
   "ashby:specter": [],
   "lever:nuvacore": [],
@@ -358,6 +342,13 @@
       "company": "zekelman",
       "location": "4 Locations",
       "url": "https://zekelman.wd12.myworkdayjobs.com/en-US/Careers/job/Chandler-AZ/Intern--Quality-Systems---Assurance_JR002855",
+      "clearance": false
+    },
+    {
+      "title": "Electrical and Controls Engineer - Intern",
+      "company": "zekelman",
+      "location": "Rochelle, IL",
+      "url": "https://zekelman.wd12.myworkdayjobs.com/en-US/Careers/job/Rochelle-IL/Electrical-and-Controls-Engineer---Intern_JR002596",
       "clearance": false
     }
   ],
@@ -767,7 +758,7 @@
       "title": "Intern, FFBA Analytical Development",
       "company": "legendcareers",
       "location": "Somerset, New Jersey, United States",
-      "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745128005",
+      "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745147005",
       "clearance": false
     }
   ],
@@ -783,7 +774,15 @@
   "smartrecruiters:unitedfranchisegroup": [],
   "lever:penumbrainc": [],
   "greenhouse:rocketems": [],
-  "workday:iff.wd5.myworkdayjobs.com": [],
+  "workday:iff.wd5.myworkdayjobs.com": [
+    {
+      "title": "Application Development, Research Intern",
+      "company": "iff",
+      "location": "Cedar Rapids, IA, USA",
+      "url": "https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Cedar-Rapids-IA-USA/Application-Development--Research-Intern_R22871",
+      "clearance": false
+    }
+  ],
   "workday:rocket.wd5.myworkdayjobs.com": [],
   "smartrecruiters:sportradar": [],
   "greenhouse:vmax": [],
@@ -875,6 +874,13 @@
       "company": "walmart",
       "location": "(USA) Always AR Bentonville Home Office",
       "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Development-and-Design-Project-Integration-Intern_R-2690416",
+      "clearance": false
+    },
+    {
+      "title": "Summer 2027 Corporate Intern: Data Science & Data Analytics – Last Mile Delivery",
+      "company": "walmart",
+      "location": "Bentonville, AR",
+      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Summer-2027-Corporate-Intern--Data-Science---Data-Analytics---Last-Mile-Delivery_R-2690193",
       "clearance": false
     }
   ],
@@ -1819,7 +1825,15 @@
   "ashby:greptile": [],
   "greenhouse:harbingermotors": [],
   "greenhouse:accuweather": [],
-  "lever:wepclinical": [],
+  "lever:wepclinical": [
+    {
+      "title": "IT Intern - AI & Transformation",
+      "company": "wepclinical",
+      "location": "Morrisville, North Carolina, US",
+      "url": "https://jobs.lever.co/wepclinical/5d90ac52-4e43-48aa-8f01-18e7c9d1155b",
+      "clearance": false
+    }
+  ],
   "smartrecruiters:collabera2": [],
   "ashby:equip": [],
   "greenhouse:authenticinsurance": [],
@@ -1873,10 +1887,24 @@
   "lever:sqaservices": [],
   "ashby:aurora-operations-inc": [
     {
+      "title": "Safety & Systems Engineering Intern",
+      "company": "aurora-operations-inc",
+      "location": "Mountain View, CA",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
+      "clearance": true
+    },
+    {
       "title": "Lidar Systems Intern",
       "company": "aurora-operations-inc",
       "location": "Mountain View, CA",
       "url": "https://jobs.ashbyhq.com/aurora-operations-inc/ce5ad079-0588-402a-aa0e-b5efe0ba28f1",
+      "clearance": true
+    },
+    {
+      "title": "Lidar R&D and Architecture Intern",
+      "company": "aurora-operations-inc",
+      "location": "Bozeman, MT",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/b61cb8ea-3ab6-46ed-90d7-be3ad9ac85ad",
       "clearance": true
     }
   ],
@@ -1887,7 +1915,15 @@
   "lever:bellese": [],
   "ashby:goodlord": [],
   "ashby:picogrid": [],
-  "workday:jll.wd1.myworkdayjobs.com": [],
+  "workday:jll.wd1.myworkdayjobs.com": [
+    {
+      "title": "Project & Development Services Summer 2027 Internship - Nashville, TN",
+      "company": "jll",
+      "location": "Nashville, TN",
+      "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Nashville-TN/Project---Development-Services-Summer-2027-Internship---Nashville--TN_REQ544847",
+      "clearance": false
+    }
+  ],
   "workday:awepeople.wd3.myworkdayjobs.com": [],
   "workday:cmcmarkets.wd3.myworkdayjobs.com": [],
   "workday:accuray.wd5.myworkdayjobs.com": [],
@@ -2230,15 +2266,7 @@
       "clearance": true
     }
   ],
-  "greenhouse:vikingglobalinvestors": [
-    {
-      "title": "Data Science Intern - Summer 2027",
-      "company": "vikingglobalinvestors",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004",
-      "clearance": false
-    }
-  ],
+  "greenhouse:vikingglobalinvestors": [],
   "lever:zushealth": [],
   "ashby:fluency": [],
   "ashby:morse-micro": [],
@@ -2535,10 +2563,24 @@
       "clearance": false
     },
     {
+      "title": "Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027)",
+      "company": "tri",
+      "location": "Los Altos, CA",
+      "url": "https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37",
+      "clearance": false
+    },
+    {
       "title": "Human-Centered AI Research Intern, Human Language Models",
       "company": "tri",
       "location": "Los Altos, CA",
       "url": "https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e",
+      "clearance": false
+    },
+    {
+      "title": "Robotics Intern, Human Aware Interactions and Learning",
+      "company": "tri",
+      "location": "Cambridge, MA",
+      "url": "https://jobs.lever.co/tri/71e99c38-aa29-4414-956d-cc526644b9b7",
       "clearance": false
     },
     {
@@ -2644,7 +2686,15 @@
   "greenhouse:attentive": [],
   "lever:callan": [],
   "workday:masco.wd1.myworkdayjobs.com": [],
-  "workday:saputo.wd5.myworkdayjobs.com": [],
+  "workday:saputo.wd5.myworkdayjobs.com": [
+    {
+      "title": "Intern, APSM Implementation",
+      "company": "saputo",
+      "location": "Port Coquitlam, BC",
+      "url": "https://saputo.wd5.myworkdayjobs.com/en-US/saputo_external_careers/job/Port-Coquitlam-BC/Intern--APSM-Implementation_JR68371",
+      "clearance": false
+    }
+  ],
   "greenhouse:pallet": [],
   "ashby:nova-talent": [],
   "ashby:highlightta": [],
@@ -2680,8 +2730,8 @@
     {
       "title": "Consulting Intern (Rail and Transportation)",
       "company": "dbeconorthamerica",
-      "location": "Laguna Niguel, CA",
-      "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462753008",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462750008",
       "clearance": false
     },
     {
@@ -2694,8 +2744,8 @@
     {
       "title": "Consulting Intern (Rail and Transportation)",
       "company": "dbeconorthamerica",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462750008",
+      "location": "Laguna Niguel, CA",
+      "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462753008",
       "clearance": false
     }
   ],
@@ -2992,7 +3042,7 @@
       "clearance": false
     },
     {
-      "title": "AI Security Engineer Intern (Summer 2027)",
+      "title": "Security Engineer Intern (Summer 2027)",
       "company": "brainco",
       "location": "San Francisco Bay Area",
       "url": "https://jobs.ashbyhq.com/brainco/b697421a-4a50-4028-9832-6798132e327a",
@@ -3082,7 +3132,15 @@
   "workday:treehouse.wd1.myworkdayjobs.com": [],
   "workable:g-20-advisors-ag": [],
   "workable:esgusa": [],
-  "workday:tsys.wd1.myworkdayjobs.com": [],
+  "workday:tsys.wd1.myworkdayjobs.com": [
+    {
+      "title": "CyberSecurity Intern",
+      "company": "tsys",
+      "location": "COLUMBUS, GEORGIA",
+      "url": "https://tsys.wd1.myworkdayjobs.com/en-US/tsys/job/COLUMBUS-GEORGIA/CyberSecurity-Intern_R0077068",
+      "clearance": false
+    }
+  ],
   "workable:vectoratomic": [],
   "workable:digitalmediaservices": [],
   "lever:extremenetworks": [
@@ -3123,7 +3181,29 @@
   "workable:castle-trust": [],
   "lever:rws": [],
   "workday:tucsonaz.wd1.myworkdayjobs.com": [],
-  "workable:bask-health-1": [],
+  "workable:bask-health-1": [
+    {
+      "title": "AI Product Intern",
+      "company": "bask-health-1",
+      "location": "United States",
+      "url": "https://apply.workable.com/j/9D7E69054E",
+      "clearance": false
+    },
+    {
+      "title": "Product Management Intern",
+      "company": "bask-health-1",
+      "location": "United States",
+      "url": "https://apply.workable.com/j/AAE5145A49",
+      "clearance": false
+    },
+    {
+      "title": "Product Operations Intern",
+      "company": "bask-health-1",
+      "location": "United States",
+      "url": "https://apply.workable.com/j/69C7B282BF",
+      "clearance": false
+    }
+  ],
   "workable:perryhomes": [],
   "workable:tmeic-corporation-americas": [],
   "workable:belmond-uk-ltd": [],
@@ -6202,5 +6282,12 @@
   "greenhouse:greenhouse": [],
   "greenhouse:testlio": [],
   "lever:oleria-security": [],
-  "ashby:coram-ai": []
+  "ashby:coram-ai": [],
+  "workday:bhs.wd1.myworkdayjobs.com": [],
+  "workday:stjude.wd1.myworkdayjobs.com": [],
+  "lever:standtogether": [],
+  "workable:onlogic-inc": [],
+  "greenhouse:guidepointsecurity": [],
+  "workday:caresource.wd1.myworkdayjobs.com": [],
+  "lever:lcbcchurch": []
 }
