@@ -3119,7 +3119,6 @@
       "clearance": false
     }
   ],
-  "workable:optitrack": [],
   "workable:intetics-2": [],
   "workable:xodus-group": [],
   "workday:dutchbros.wd1.myworkdayjobs.com": [],
@@ -3781,7 +3780,6 @@
   "workday:worldpay.wd5.myworkdayjobs.com": [],
   "ashby:astronomer": [],
   "greenhouse:inflectionai": [],
-  "workday:belk.wd1.myworkdayjobs.com": [],
   "greenhouse:arenaclub": [],
   "ashby:felicity": [],
   "workday:simonsfoundation.wd1.myworkdayjobs.com": [],
@@ -3895,7 +3893,6 @@
   "ashby:1x": [],
   "workday:acs.wd5.myworkdayjobs.com": [],
   "greenhouse:skildai-careers": [],
-  "lever:secureframe": [],
   "ashby:qualified-health-pbc": [],
   "workday:goodrx.wd1.myworkdayjobs.com": [],
   "greenhouse:spaceium": [],
@@ -3972,6 +3969,13 @@
       "company": "asteraearlycareer2027",
       "location": "San Jose, CA",
       "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743021005",
+      "clearance": false
+    },
+    {
+      "title": "Data Engineer Intern",
+      "company": "asteraearlycareer2027",
+      "location": "San Jose, CA",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731995005",
       "clearance": false
     },
     {
@@ -4800,13 +4804,6 @@
       "clearance": false
     },
     {
-      "title": "Digital Systems Intern - Bohemia, NY - Summer 2027",
-      "company": "geaerospace",
-      "location": "Bohemia",
-      "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Bohemia/Digital-Systems-Intern---Bohemia--NY---Summer-2027_R5042864-1",
-      "clearance": false
-    },
-    {
       "title": "GE Aerospace Research - Controls & Optimization Internship, 2027",
       "company": "geaerospace",
       "location": "Niskayuna",
@@ -5218,7 +5215,15 @@
   "lever:aviahealth": [],
   "workday:sglottery.wd5.myworkdayjobs.com": [],
   "workday:integralife.wd1.myworkdayjobs.com": [],
-  "smartrecruiters:kostalgroup": [],
+  "smartrecruiters:kostalgroup": [
+    {
+      "title": "Systems Engineering Intern",
+      "company": "KOSTALGroup",
+      "location": "Troy, MI, us",
+      "url": "https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225",
+      "clearance": false
+    }
+  ],
   "ashby:veritus": [],
   "ashby:meshy": [],
   "greenhouse:smartlyio": [],
@@ -5722,29 +5727,7 @@
     }
   ],
   "greenhouse:silananotechnologies": [],
-  "greenhouse:addepar1": [
-    {
-      "title": "AI Engineering Intern - Summer 2027",
-      "company": "addepar1",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927543002",
-      "clearance": false
-    },
-    {
-      "title": "Data Engineering Intern - Summer 2027",
-      "company": "addepar1",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910327002",
-      "clearance": false
-    },
-    {
-      "title": "Software Engineering Intern - Summer 2027",
-      "company": "addepar1",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927531002",
-      "clearance": false
-    }
-  ],
+  "greenhouse:addepar1": [],
   "workday:austintexas.wd5.myworkdayjobs.com": [],
   "workday:candescent.wd501.myworkdayjobs.com": [],
   "workable:focus-group": [],
@@ -6047,13 +6030,6 @@
       "location": "Remote-CA",
       "url": "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-CA/Social-Media---AI-Undergraduate-Summer-Intern_1667859",
       "clearance": false
-    },
-    {
-      "title": "ServiceNow Business Systems Analyst Intern (Undergraduate Summer 2027)",
-      "company": "centene",
-      "location": "Remote-MO",
-      "url": "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/ServiceNow-Business-Systems-Analyst-Intern--Undergraduate-Summer-2027-_1667729",
-      "clearance": false
     }
   ],
   "workable:trycaddi": [],
@@ -6230,15 +6206,7 @@
     }
   ],
   "ashby:deeter-analytics": [],
-  "workday:dtna.wd5.myworkdayjobs.com": [
-    {
-      "title": "Mechatronics Engineering Intern – Powertrain Integration",
-      "company": "dtna",
-      "location": "Gaffney, SC US",
-      "url": "https://dtna.wd5.myworkdayjobs.com/en-US/dtna_affiliate/job/Gaffney-SC-US/Mechatronics-Engineering-Intern---Powertrain-Integration_DT-20546",
-      "clearance": false
-    }
-  ],
+  "workday:dtna.wd5.myworkdayjobs.com": [],
   "workday:colpipe.wd1.myworkdayjobs.com": [],
   "workday:proofpoint.wd5.myworkdayjobs.com": [],
   "lever:aquabyte": [],
@@ -6289,5 +6257,38 @@
   "workable:onlogic-inc": [],
   "greenhouse:guidepointsecurity": [],
   "workday:caresource.wd1.myworkdayjobs.com": [],
-  "lever:lcbcchurch": []
+  "lever:lcbcchurch": [],
+  "ashby:shield": [
+    {
+      "title": "Summer 2027 - Software Engineer Intern",
+      "company": "shield",
+      "location": "San Diego, California",
+      "url": "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a",
+      "clearance": false
+    },
+    {
+      "title": "Software Engineer Intern - Summer 2027",
+      "company": "shield",
+      "location": "San Mateo, California",
+      "url": "https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036",
+      "clearance": false
+    },
+    {
+      "title": "2027 Summer Intern - Supplier Development Engineer - 6463",
+      "company": "shield",
+      "location": "Dallas, Texas",
+      "url": "https://jobs.ashbyhq.com/shield/463966b6-fd51-47ef-b9b1-cb53c47cc275",
+      "clearance": false
+    }
+  ],
+  "ashby:formulary": [
+    {
+      "title": "Software Engineering Intern",
+      "company": "formulary",
+      "location": "New York City (4 days on-site)",
+      "url": "https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04",
+      "clearance": false
+    }
+  ],
+  "greenhouse:eunetworks": []
 }
