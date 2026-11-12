@@ -726,7 +726,7 @@
       "title": "Intern, FFBA Analytical Development",
       "company": "legendcareers",
       "location": "Somerset, New Jersey, United States",
-      "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745128005",
+      "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745147005",
       "clearance": false
     }
   ],
@@ -890,7 +890,6 @@
   "workday:centrica.wd3.myworkdayjobs.com": [],
   "ashby:tempo-io": [],
   "workday:hq.wd12.myworkdayjobs.com": [],
-  "lever:tahoebio-ai": [],
   "greenhouse:globalwebindex": [],
   "workday:asmglobal.wd1.myworkdayjobs.com": [],
   "ashby:healf": [],
@@ -911,15 +910,7 @@
   "ashby:genesis": [],
   "workday:cccis.wd1.myworkdayjobs.com": [],
   "ashby:matterworks": [],
-  "workday:interpublic.wd5.myworkdayjobs.com": [
-    {
-      "title": "Credera Management Consulting Intern",
-      "company": "interpublic",
-      "location": "6 Locations",
-      "url": "https://interpublic.wd5.myworkdayjobs.com/en-US/omc/job/Addison-Texas-United-States-of-America/Management-Consulting-Intern_R14135",
-      "clearance": false
-    }
-  ],
+  "workday:interpublic.wd5.myworkdayjobs.com": [],
   "workday:dollartree.wd5.myworkdayjobs.com": [],
   "workday:hyvee.wd1.myworkdayjobs.com": [],
   "greenhouse:altaresourcetechnologiesinc": [],
@@ -1704,7 +1695,6 @@
   ],
   "lever:energyvault": [],
   "lever:questanalytics": [],
-  "greenhouse:terranorbitalcorporation": [],
   "workday:omers.wd3.myworkdayjobs.com": [],
   "lever:aprio": [],
   "workday:northwesternmutual.wd5.myworkdayjobs.com": [],
@@ -1892,7 +1882,15 @@
   "workday:spectrumhealth.wd5.myworkdayjobs.com": [],
   "ashby:runsybil-jobs": [],
   "lever:brillio-2": [],
-  "greenhouse:lightmatter": [],
+  "greenhouse:lightmatter": [
+    {
+      "title": "Data & AI Platform, Intern - Summer 2027",
+      "company": "lightmatter",
+      "location": "Boston, MA",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008",
+      "clearance": false
+    }
+  ],
   "ashby:watershed": [],
   "workday:boydgroup.wd1.myworkdayjobs.com": [],
   "greenhouse:duettoresearch": [],
@@ -2164,13 +2162,6 @@
       "company": "zus-health",
       "location": "Boston, MA",
       "url": "https://jobs.ashbyhq.com/zus-health/985c43c5-3c2a-4174-831d-b53ef0d6308c",
-      "clearance": false
-    },
-    {
-      "title": "Platform Software Engineering Co-op",
-      "company": "zus-health",
-      "location": "Boston, MA",
-      "url": "https://jobs.ashbyhq.com/zus-health/ec0f1de8-c589-4637-b3f8-4a87dd06882a",
       "clearance": false
     }
   ],
@@ -2444,13 +2435,6 @@
       "location": "O'Fallon, Missouri",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284880",
       "clearance": false
-    },
-    {
-      "title": "Associate Consultant Intern, Summer Internship Program – 2027, Almaty, Kazakhstan",
-      "company": "mastercard",
-      "location": "Almaty, Kazakhstan",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Almaty-Kazakhstan/Associate-Consultant-Intern--Summer-Internship-Program---2027--Almaty--Kazakhstan_R-287589-1",
-      "clearance": false
     }
   ],
   "greenhouse:industrialelectricmanufacturing": [],
@@ -2471,17 +2455,17 @@
       "clearance": false
     },
     {
-      "title": "Accelerated Science Intern, Multi-scale Physics Battery Modeling",
-      "company": "tri",
-      "location": "Los Altos, CA",
-      "url": "https://jobs.lever.co/tri/debebb69-84c1-4466-a75f-e12244f68593",
-      "clearance": false
-    },
-    {
       "title": "Automated Driving Advanced Development Intern, Machine Learning Research",
       "company": "tri",
       "location": "Los Altos, CA",
       "url": "https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4",
+      "clearance": false
+    },
+    {
+      "title": "Future Product Innovation Research Intern, Human-AI Computational Design",
+      "company": "tri",
+      "location": "Los Altos, CA",
+      "url": "https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2",
       "clearance": false
     },
     {
@@ -2555,6 +2539,13 @@
       "clearance": false
     },
     {
+      "title": "Robotics Intern, Prototyping and Research Operations",
+      "company": "tri",
+      "location": "Cambridge, MA",
+      "url": "https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628",
+      "clearance": false
+    },
+    {
       "title": "Robotics Intern, Teleoperation and Spatial Computing",
       "company": "tri",
       "location": "Cambridge, MA",
@@ -2596,15 +2587,7 @@
   "workday:brinks.wd5.myworkdayjobs.com": [],
   "workday:vibrant.wd5.myworkdayjobs.com": [],
   "workday:johnsonelectric.wd3.myworkdayjobs.com": [],
-  "workday:donaldson.wd115.myworkdayjobs.com": [
-    {
-      "title": "Graduate Intern - Modeling and Data Science",
-      "company": "donaldson",
-      "location": "Bloomington, MN (USA)",
-      "url": "https://donaldson.wd115.myworkdayjobs.com/en-US/donaldsoncareers/job/Bloomington-MN-USA/Graduate-Intern---Modeling-and-Data-Science_JR-28305-1",
-      "clearance": false
-    }
-  ],
+  "workday:donaldson.wd115.myworkdayjobs.com": [],
   "ashby:greenboard": [],
   "workday:clarivate.wd3.myworkdayjobs.com": [],
   "workday:polarsemi.wd501.myworkdayjobs.com": [],
@@ -2675,6 +2658,13 @@
   "ashby:kineticsystems": [],
   "greenhouse:stratolaunch": [
     {
+      "title": "Business Intelligence & Systems Analyst Intern 2027",
+      "company": "stratolaunch",
+      "location": "Mojave, California, United States",
+      "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008",
+      "clearance": false
+    },
+    {
       "title": "Security Intern- Summer 2027",
       "company": "stratolaunch",
       "location": "Mojave, California, United States",
@@ -2683,13 +2673,6 @@
     }
   ],
   "greenhouse:dbeconorthamerica": [
-    {
-      "title": "Consulting Intern (Rail and Transportation)",
-      "company": "dbeconorthamerica",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462750008",
-      "clearance": false
-    },
     {
       "title": "Consulting Intern (Rail and Transportation)",
       "company": "dbeconorthamerica",
@@ -2702,6 +2685,13 @@
       "company": "dbeconorthamerica",
       "location": "Laguna Niguel, CA",
       "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462753008",
+      "clearance": false
+    },
+    {
+      "title": "Consulting Intern (Rail and Transportation)",
+      "company": "dbeconorthamerica",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462750008",
       "clearance": false
     }
   ],
@@ -2769,6 +2759,13 @@
   ],
   "ashby:klue": [],
   "workday:imh.wd108.myworkdayjobs.com": [
+    {
+      "title": "AI/ML Engineer Intern",
+      "company": "imh",
+      "location": "Key Bank Tower",
+      "url": "https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Key-Bank-Tower/AI-ML-Engineer-Intern_R188835",
+      "clearance": false
+    },
     {
       "title": "Machine Learning Operations (MLOps) Intern",
       "company": "imh",
@@ -2875,6 +2872,13 @@
       "clearance": false
     },
     {
+      "title": "Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis",
+      "company": "nrel",
+      "location": "2 Locations",
+      "url": "https://nrel.wd5.myworkdayjobs.com/en-US/NLR/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14510",
+      "clearance": false
+    },
+    {
       "title": "Graduate Intern – Connected Vehicle (V2X) Communications Modeling and Traffic Simulation",
       "company": "nrel",
       "location": "Golden, CO",
@@ -2886,6 +2890,13 @@
       "company": "nrel",
       "location": "Golden, CO",
       "url": "https://nrel.wd5.myworkdayjobs.com/en-US/NLR/job/Golden-CO/Graduate-Internship---Power-Grid-Operation---Optimization--3-12-months-_R14560",
+      "clearance": false
+    },
+    {
+      "title": "Year-Round Graduate Internship - AI/Machine Learning Time Series Modeling",
+      "company": "nrel",
+      "location": "Remote Site",
+      "url": "https://nrel.wd5.myworkdayjobs.com/en-US/NLR/job/Remote-Site/Year-Round-Graduate-Internship---AI-Machine-Learning-Time-Series-Modeling_R14589",
       "clearance": false
     },
     {
@@ -2999,13 +3010,6 @@
       "location": "Okemos, MI",
       "url": "https://rhsc.wd5.myworkdayjobs.com/en-US/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101510",
       "clearance": false
-    },
-    {
-      "title": "Internship- Government Programs Network",
-      "company": "rhsc",
-      "location": "Okemos, MI",
-      "url": "https://rhsc.wd5.myworkdayjobs.com/en-US/delta_dental_of_michigan/job/Okemos-MI/Internship--Government-Programs-Network_JR101489-1",
-      "clearance": false
     }
   ],
   "lever:algorex": [],
@@ -3115,6 +3119,13 @@
   "workday:tucsonaz.wd1.myworkdayjobs.com": [],
   "workable:bask-health-1": [
     {
+      "title": "AI Engineering Intern",
+      "company": "bask-health-1",
+      "location": "United States",
+      "url": "https://apply.workable.com/j/F0E122E877",
+      "clearance": false
+    },
+    {
       "title": "AI Product Intern",
       "company": "bask-health-1",
       "location": "United States",
@@ -3133,6 +3144,20 @@
       "company": "bask-health-1",
       "location": "United States",
       "url": "https://apply.workable.com/j/9C2964C7CD",
+      "clearance": false
+    },
+    {
+      "title": "Machine Learning Engineering Intern",
+      "company": "bask-health-1",
+      "location": "United States",
+      "url": "https://apply.workable.com/j/71AEBBCADE",
+      "clearance": false
+    },
+    {
+      "title": "Product Design Intern",
+      "company": "bask-health-1",
+      "location": "United States",
+      "url": "https://apply.workable.com/j/3505AD4868",
       "clearance": false
     },
     {
@@ -3161,6 +3186,20 @@
       "company": "bask-health-1",
       "location": "United States",
       "url": "https://apply.workable.com/j/E81C7F7D3B",
+      "clearance": false
+    },
+    {
+      "title": "UX Research Intern",
+      "company": "bask-health-1",
+      "location": "United States",
+      "url": "https://apply.workable.com/j/1F58DD2D0A",
+      "clearance": false
+    },
+    {
+      "title": "UX Writing Intern",
+      "company": "bask-health-1",
+      "location": "United States",
+      "url": "https://apply.workable.com/j/E35FFA0BD1",
       "clearance": false
     }
   ],
@@ -3664,7 +3703,6 @@
   "greenhouse:gofundme": [],
   "workable:texas-sports-academy-main": [],
   "workable:getbits": [],
-  "ashby:numeral": [],
   "workday:shawinc.wd1.myworkdayjobs.com": [],
   "workable:anatomage": [],
   "ashby:parasail": [],
@@ -4906,7 +4944,6 @@
       "clearance": false
     }
   ],
-  "greenhouse:ascend21": [],
   "ashby:serverobotics": [],
   "greenhouse:alphasense": [],
   "smartrecruiters:flywire1": [],
@@ -6079,7 +6116,6 @@
   "greenhouse:flighthub": [],
   "workable:multimediallc": [],
   "workday:advisorgroup.wd1.myworkdayjobs.com": [],
-  "ashby:vantage": [],
   "greenhouse:advancedtechnologyservices": [],
   "workday:tandemdiabetes.wd12.myworkdayjobs.com": [],
   "ashby:agentis-capital-advisors": [],
@@ -6403,7 +6439,6 @@
   "workday:belron.wd3.myworkdayjobs.com": [],
   "lever:lightship": [],
   "greenhouse:freedomconsulting": [],
-  "greenhouse:authenticbrandsgroup": [],
   "workday:sprinklr.wd1.myworkdayjobs.com": [],
   "greenhouse:judihealth": [
     {
