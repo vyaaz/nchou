@@ -6514,15 +6514,7 @@
       "clearance": true
     }
   ],
-  "workday:jci.wd5.myworkdayjobs.com": [
-    {
-      "title": "Software Engineering Co-Op",
-      "company": "jci",
-      "location": "Burlington-Massachusetts-United States of America",
-      "url": "https://jci.wd5.myworkdayjobs.com/en-US/jci/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408",
-      "clearance": false
-    }
-  ],
+  "workday:jci.wd5.myworkdayjobs.com": [],
   "workable:node": [],
   "greenhouse:attentionarc": [],
   "greenhouse:ncinoearlytalent": [],
@@ -6536,7 +6528,15 @@
   "workday:livanova.wd5.myworkdayjobs.com": [],
   "ashby:aiprise": [],
   "smartrecruiters:liftedanupworkcompany": [],
-  "workday:fticonsulting.wd108.myworkdayjobs.com": [],
+  "workday:fticonsulting.wd108.myworkdayjobs.com": [
+    {
+      "title": "2027 Intern - Forensic & Litigation Consulting",
+      "company": "fticonsulting",
+      "location": "United States",
+      "url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareersPrivate/job/United-States/XMLNAME-2027-Intern---Forensic---Litigation-Consulting_JR260337-1",
+      "clearance": false
+    }
+  ],
   "greenhouse:systemstechnologyresearch": [],
   "lever:dutch": [],
   "greenhouse:capco": [],
@@ -6633,7 +6633,6 @@
   ],
   "lever:gr0": [],
   "workday:umd.wd1.myworkdayjobs.com": [],
-  "workday:sumitomopharma.wd5.myworkdayjobs.com": [],
   "lever:valkyrietrading": [],
   "workday:simmonsbank.wd5.myworkdayjobs.com": [],
   "ashby:zettabyte-space": [],
@@ -6955,6 +6954,13 @@
   "workable:tecsa": [],
   "workday:moog.wd5.myworkdayjobs.com": [
     {
+      "title": "Intern Engineering, Product Engineering",
+      "company": "moog",
+      "location": "Blacksburg, VA",
+      "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Blacksburg-VA/Intern-Engineering--Product-Engineering_R-26-21312",
+      "clearance": false
+    },
+    {
       "title": "Intern, Product Engineering",
       "company": "moog",
       "location": "Buffalo, NY",
@@ -7130,7 +7136,36 @@
   "lever:erg": [],
   "workday:millerknoll.wd1.myworkdayjobs.com": [],
   "greenhouse:layerhealth": [],
-  "workday:bloomenergy.wd1.myworkdayjobs.com": [],
+  "workday:bloomenergy.wd1.myworkdayjobs.com": [
+    {
+      "title": "Data Science Intern",
+      "company": "bloomenergy",
+      "location": "San Jose, California",
+      "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/San-Jose-California/Data-Science-Intern_JR-25360",
+      "clearance": false
+    },
+    {
+      "title": "RMCC Systems Engineering Intern",
+      "company": "bloomenergy",
+      "location": "San Jose, California",
+      "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/San-Jose-California/RMCC-Systems-Engineering-Intern_JR-25363",
+      "clearance": false
+    },
+    {
+      "title": "AI Solutions Engineer Intern",
+      "company": "bloomenergy",
+      "location": "San Jose, California",
+      "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361",
+      "clearance": false
+    },
+    {
+      "title": "RMCC Data Science Intern",
+      "company": "bloomenergy",
+      "location": "San Jose, California",
+      "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/San-Jose-California/RMCC-Data-Science-Intern_JR-25362",
+      "clearance": false
+    }
+  ],
   "workday:jeffersonhealth.wd5.myworkdayjobs.com": [],
   "ashby:qumulo": [
     {
@@ -7756,13 +7791,6 @@
       "location": "Devens - MA - US",
       "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Devens---MA---US/Biologics-Development-2027-Summer-Internship-Program_R1607941",
       "clearance": false
-    },
-    {
-      "title": "Nonclinical Discovery & Development Sciences (NDDS)-2027 Summer Intern",
-      "company": "bristolmyerssquibb",
-      "location": "6 Locations",
-      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Princeton---NJ---US/Nonclinical-Discovery---Development-Sciences--NDDS--2027-Summer-Intern_R1607996",
-      "clearance": false
     }
   ],
   "lever:mytos": [],
@@ -7770,13 +7798,6 @@
   "workday:mcw.wd503.myworkdayjobs.com": [],
   "lever:salvohealth": [],
   "workday:smucker.wd5.myworkdayjobs.com": [
-    {
-      "title": "Data Science Intern, Summer 2027",
-      "company": "smucker",
-      "location": "Working Remote USA",
-      "url": "https://smucker.wd5.myworkdayjobs.com/en-US/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118",
-      "clearance": false
-    },
     {
       "title": "Net Revenue Optimization Intern, Summer 2027",
       "company": "smucker",
@@ -7957,22 +7978,7 @@
       "clearance": false
     }
   ],
-  "workday:quickenloans.wd5.myworkdayjobs.com": [
-    {
-      "title": "Summer 2027 Urban Planning/Development Intern",
-      "company": "quickenloans",
-      "location": "Detroit, MI",
-      "url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Summer-2027-Urban-Planning-Development-Intern_R-085098",
-      "clearance": false
-    },
-    {
-      "title": "Summer 2027 Cleveland Internships (Real Estate Development & Property Management)",
-      "company": "quickenloans",
-      "location": "Cleveland - 200 Euclid",
-      "url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Cleveland---200-Euclid/Summer-2027-Cleveland-Internships--Real-Estate-Development---Property-Management-_R-085039-1",
-      "clearance": false
-    }
-  ],
+  "workday:quickenloans.wd5.myworkdayjobs.com": [],
   "workday:capri.wd1.myworkdayjobs.com": [],
   "greenhouse:sironamedical": [],
   "greenhouse:wasabi": [],
@@ -8146,6 +8152,13 @@
     {
       "title": "Product Operations Intern, Rewards",
       "company": "sezzle",
+      "location": "Colombia, Remote",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8010514003",
+      "clearance": false
+    },
+    {
+      "title": "Product Operations Intern, Rewards",
+      "company": "sezzle",
       "location": "Peru",
       "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012085003",
       "clearance": false
@@ -8158,10 +8171,10 @@
       "clearance": false
     },
     {
-      "title": "Product Operations Intern, Rewards",
+      "title": "Security Infrastructure Engineer Intern",
       "company": "sezzle",
       "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8010514003",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7694916003",
       "clearance": false
     },
     {
@@ -8169,13 +8182,6 @@
       "company": "sezzle",
       "location": "Peru",
       "url": "https://job-boards.greenhouse.io/sezzle/jobs/7906517003",
-      "clearance": false
-    },
-    {
-      "title": "Security Infrastructure Engineer Intern",
-      "company": "sezzle",
-      "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7694916003",
       "clearance": false
     }
   ],
@@ -8348,6 +8354,13 @@
   "lever:mbrdna": [],
   "greenhouse:skhynixmemorysolutionsamericainc": [
     {
+      "title": "Embedded Software Engineer Intern",
+      "company": "skhynixmemorysolutionsamericainc",
+      "location": "San Jose",
+      "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009",
+      "clearance": false
+    },
+    {
       "title": "Software Engineer Intern",
       "company": "skhynixmemorysolutionsamericainc",
       "location": "San Jose",
@@ -8476,7 +8489,15 @@
   "smartrecruiters:canva": [],
   "workday:spectrumcontrol.wd1.myworkdayjobs.com": [],
   "workday:bjswholesaleclub.wd1.myworkdayjobs.com": [],
-  "workday:fox.wd1.myworkdayjobs.com": [],
+  "workday:fox.wd1.myworkdayjobs.com": [
+    {
+      "title": "Summer 2027 FOX Sports - Big Ten Network - Internship Program - Chicago, IL",
+      "company": "fox",
+      "location": "Chicago, Illinois, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/Chicago-Illinois-USA/Summer-2027-FOX-Sports---Big-Ten-Network---Internship-Program---Chicago--IL_R50033970",
+      "clearance": false
+    }
+  ],
   "lever:redwoodcu": [],
   "workable:flexcompute": [],
   "lever:synergyecp": [],
@@ -8707,10 +8728,24 @@
   "workday:chamberlain.wd1.myworkdayjobs.com": [],
   "workday:gfs.wd5.myworkdayjobs.com": [
     {
+      "title": "Software Engineer Intern (Low Code)",
+      "company": "gfs",
+      "location": "Wyoming, Michigan",
+      "url": "https://gfs.wd5.myworkdayjobs.com/en-US/usprivate-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375-2",
+      "clearance": false
+    },
+    {
       "title": "Inbound Transportation Network Internship",
       "company": "gfs",
       "location": "Wyoming, Michigan",
       "url": "https://gfs.wd5.myworkdayjobs.com/en-US/usprivate-gfs/job/Wyoming-Michigan/Inbound-Transportation-Network-Internship_R-57173-2",
+      "clearance": false
+    },
+    {
+      "title": "Digital Product Management Internship",
+      "company": "gfs",
+      "location": "Wyoming, Michigan",
+      "url": "https://gfs.wd5.myworkdayjobs.com/en-US/usprivate-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336-2",
       "clearance": false
     }
   ],
@@ -8794,15 +8829,7 @@
   "workday:koppers.wd5.myworkdayjobs.com": [],
   "greenhouse:scotch": [],
   "workday:pennant.wd1.myworkdayjobs.com": [],
-  "ashby:g2": [
-    {
-      "title": "Intern, AI Agent Evaluations",
-      "company": "G2",
-      "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/G2/64dcc04a-a0e7-493b-b899-dd4c56e561fd",
-      "clearance": false
-    }
-  ],
+  "ashby:g2": [],
   "greenhouse:bti36021": [],
   "greenhouse:arvinas": [],
   "workday:ultra.wd3.myworkdayjobs.com": [],
@@ -8835,5 +8862,76 @@
   "workday:legalshieldcorp.wd1.myworkdayjobs.com": [],
   "workday:jpi.wd1.myworkdayjobs.com": [],
   "workday:aaregional.wd503.myworkdayjobs.com": [],
-  "workday:healthresearch.wd1.myworkdayjobs.com": []
+  "workday:healthresearch.wd1.myworkdayjobs.com": [],
+  "greenhouse:avante": [],
+  "workday:cmegroup.wd1.myworkdayjobs.com": [],
+  "greenhouse:clinicalarchitecture": [],
+  "workday:jbtm.wd108.myworkdayjobs.com": [
+    {
+      "title": "Internship AI Tool for Tender Management System",
+      "company": "jbtm",
+      "location": "NL - Boxmeer JP",
+      "url": "https://jbtm.wd108.myworkdayjobs.com/en-US/jbt_marel_career_site/job/NL---Boxmeer-JP/Internship-AI-Tool-for-Tender-Management-System_24165-1",
+      "clearance": false
+    }
+  ],
+  "ashby:liquid-ai": [],
+  "workday:intelogix.wd108.myworkdayjobs.com": [],
+  "workday:orionsteel.wd5.myworkdayjobs.com": [],
+  "greenhouse:nasdaq": [],
+  "ashby:walrusfi": [],
+  "lever:hive": [],
+  "workday:sonyglobal.wd1.myworkdayjobs.com": [
+    {
+      "title": "Research Engineer Intern (Ethical Creative and Protective AI Lab)",
+      "company": "sonyglobal",
+      "location": "7 Locations",
+      "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784",
+      "clearance": false
+    }
+  ],
+  "workday:entegris.wd1.myworkdayjobs.com": [
+    {
+      "title": "Solutions Engineering Intern",
+      "company": "entegris",
+      "location": "Billerica, MA",
+      "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Billerica-MA/Solutions-Engineering-Intern_REQ-15884",
+      "clearance": false
+    },
+    {
+      "title": "Manufacturing Systems and Planning Co-Op",
+      "company": "entegris",
+      "location": "Rockrimmon, Colorado Springs, CO",
+      "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Manufacturing-Systems-and-Planning-Co-Op_REQ-14410",
+      "clearance": false
+    },
+    {
+      "title": "Entegris Specialty Coatings Research and Development Co-Op",
+      "company": "entegris",
+      "location": "Bedford, MA",
+      "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Bedford-MA/Entegris-Specialty-Coatings-Research-and-Development-Co-Op_REQ-14441",
+      "clearance": false
+    },
+    {
+      "title": "Lab Automation & AI Engineering Co-Op",
+      "company": "entegris",
+      "location": "Billerica, MA",
+      "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1",
+      "clearance": false
+    },
+    {
+      "title": "Controls Engineering Co-Op",
+      "company": "entegris",
+      "location": "Austin, TX",
+      "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Austin-TX/Controls-Engineering-Co-Op_REQ-14460",
+      "clearance": false
+    },
+    {
+      "title": "Product Development Engineering Co-Op",
+      "company": "entegris",
+      "location": "Hillsboro, OR",
+      "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Hillsboro-OR/Product-Development-Engineering-Co-Op_REQ-14418",
+      "clearance": false
+    }
+  ]
 }
