@@ -198,29 +198,6 @@
   "smartrecruiters:crossmark1": [],
   "ashby:gradientrobotics": [],
   "ashby:genmd": [],
-  "lever:loftorbital": [
-    {
-      "title": "AI/ML Engineering Intern: System 1 Models for Reactive Space Operations",
-      "company": "loftorbital",
-      "location": "Toulouse, Occitanie",
-      "url": "https://jobs.lever.co/loftorbital/7e9d723a-6afa-495c-a3ac-4f89ef5400b5",
-      "clearance": false
-    },
-    {
-      "title": "Backend Engineering Intern: Ground Platform Control",
-      "company": "loftorbital",
-      "location": "Toulouse, Occitanie",
-      "url": "https://jobs.lever.co/loftorbital/1014b6c1-049d-43e5-a67a-42aac6ba4c84",
-      "clearance": false
-    },
-    {
-      "title": "Image Processing Intern: AI-Assisted Tools for CalVal",
-      "company": "loftorbital",
-      "location": "Toulouse, Occitanie",
-      "url": "https://jobs.lever.co/loftorbital/fc7d15c8-5055-48d7-8569-fd7668ed8ee2",
-      "clearance": false
-    }
-  ],
   "smartrecruiters:symphonycorp1": [],
   "workday:workday.wd5.myworkdayjobs.com": [
     {
@@ -323,7 +300,6 @@
   ],
   "workday:bci.wd10.myworkdayjobs.com": [],
   "ashby:fable": [],
-  "workday:echo.wd1.myworkdayjobs.com": [],
   "greenhouse:thinkcellsoftware": [],
   "ashby:specter": [],
   "lever:nuvacore": [],
@@ -988,15 +964,6 @@
   "workday:alkami.wd12.myworkdayjobs.com": [],
   "ashby:higharc": [],
   "workday:reliaquest.wd5.myworkdayjobs.com": [],
-  "smartrecruiters:veoliaenvironnementsa": [
-    {
-      "title": "Manufacturing Software Engineer Intern",
-      "company": "VeoliaEnvironnementSA",
-      "location": "Boulder, CO, us",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160896184",
-      "clearance": false
-    }
-  ],
   "ashby:ambral": [],
   "lever:tevora": [
     {
@@ -1934,7 +1901,6 @@
   "lever:sfgiants": [],
   "greenhouse:avride": [],
   "ashby:coverdash": [],
-  "workday:target.wd5.myworkdayjobs.com": [],
   "workday:syneoshealth.wd12.myworkdayjobs.com": [],
   "workday:tutorperini.wd12.myworkdayjobs.com": [],
   "greenhouse:duolingounirecruitment": [],
@@ -2255,7 +2221,6 @@
       "clearance": false
     }
   ],
-  "workday:kith.wd1.myworkdayjobs.com": [],
   "workday:homedepot.wd5.myworkdayjobs.com": [],
   "greenhouse:aevexaerospace": [
     {
@@ -2642,7 +2607,6 @@
   ],
   "ashby:crusoe": [],
   "lever:dga": [],
-  "workday:zelis.wd115.myworkdayjobs.com": [],
   "workday:methodisthealth.wd5.myworkdayjobs.com": [],
   "workday:brinks.wd5.myworkdayjobs.com": [],
   "workday:vibrant.wd5.myworkdayjobs.com": [],
@@ -3337,7 +3301,15 @@
   "lever:spawglass": [],
   "ashby:matx": [],
   "lever:farfetch": [],
-  "ashby:leland": [],
+  "ashby:leland": [
+    {
+      "title": "AI Education Intern",
+      "company": "leland",
+      "location": "Leland HQ - Lehi, UT",
+      "url": "https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633",
+      "clearance": false
+    }
+  ],
   "greenhouse:chanzuckerberginitiative": [],
   "greenhouse:radar": [],
   "greenhouse:rotheramarketsllc": [],
@@ -3421,22 +3393,6 @@
       "company": "dow",
       "location": "10 Locations",
       "url": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Terneuzen-NLD/Talent-Pool-for-Campus-Internship-2027---Research---Development_R2069017",
-      "clearance": false
-    }
-  ],
-  "workday:boeing.wd1.myworkdayjobs.com": [
-    {
-      "title": "Intern - Student Engineer (Systems Eng)",
-      "company": "boeing",
-      "location": "3 Locations",
-      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Intern---Student-Engineer--Systems-Eng-_JR2026525683",
-      "clearance": false
-    },
-    {
-      "title": "Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO)",
-      "company": "boeing",
-      "location": "30 Locations",
-      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1",
       "clearance": false
     }
   ],
@@ -3667,7 +3623,6 @@
       "clearance": false
     }
   ],
-  "workday:dickssportinggoods.wd1.myworkdayjobs.com": [],
   "lever:pditechnologies": [],
   "lever:great-gray-group": [],
   "ashby:havocai": [],
@@ -3744,36 +3699,6 @@
       "clearance": false
     }
   ],
-  "workday:amgen.wd1.myworkdayjobs.com": [
-    {
-      "title": "Undergrad Intern – Global Program Management (Summer 2027)",
-      "company": "amgen",
-      "location": "United States - Remote",
-      "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Global-Program-Management--Summer-2027-_R-260084",
-      "clearance": false
-    },
-    {
-      "title": "MBA Intern – Finance & Strategy Leadership Development Program (Summer 2027)",
-      "company": "amgen",
-      "location": "United States - Remote",
-      "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/MBA-Intern---Finance---Strategy-Leadership-Development-Program--Summer-2027-_R-254491",
-      "clearance": false
-    },
-    {
-      "title": "Undergrad Intern - Manufacturing and Clinical Supply - Process Development (Summer 2027)",
-      "company": "amgen",
-      "location": "US - California - Thousand Oaks",
-      "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Manufacturing-and-Clinical-Supply---Process-Development--Summer-2027-_R-259434",
-      "clearance": false
-    },
-    {
-      "title": "Grad Intern – R&D TSRS Data Sciences Operations & Analytic (Summer 2027)",
-      "company": "amgen",
-      "location": "United States - Remote",
-      "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585",
-      "clearance": false
-    }
-  ],
   "workable:double-eleven": [],
   "workday:empower.wd12.myworkdayjobs.com": [],
   "ashby:standinsurance": [],
@@ -3811,15 +3736,7 @@
   "workday:acushnetgolf.wd12.myworkdayjobs.com": [],
   "ashby:lightfield": [],
   "lever:canvasww": [],
-  "workday:whataburger.wd5.myworkdayjobs.com": [
-    {
-      "title": "Data Scientist Intern",
-      "company": "whataburger",
-      "location": "300 Concord Plaza Dr San Antonio TX 78216-6903",
-      "url": "https://whataburger.wd5.myworkdayjobs.com/en-US/WAB_CAREERS/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/Data-Scientist-Intern_JR10014201",
-      "clearance": false
-    }
-  ],
+  "workday:whataburger.wd5.myworkdayjobs.com": [],
   "greenhouse:bertramcapitalmanagement": [],
   "greenhouse:opentable": [],
   "workday:astemo.wd102.myworkdayjobs.com": [],
@@ -3872,13 +3789,6 @@
   "workday:qbe.wd3.myworkdayjobs.com": [],
   "lever:revenueanalytics": [],
   "workday:my7elevenhr.wd12.myworkdayjobs.com": [
-    {
-      "title": "Data Engineer Intern",
-      "company": "my7elevenhr",
-      "location": "",
-      "url": "https://my7elevenhr.wd12.myworkdayjobs.com/en-US/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281",
-      "clearance": false
-    },
     {
       "title": "Development Analyst Intern",
       "company": "my7elevenhr",
@@ -4160,7 +4070,15 @@
   ],
   "greenhouse:bakerhicks": [],
   "workday:verizon.wd12.myworkdayjobs.com": [],
-  "workday:linklogistics.wd5.myworkdayjobs.com": [],
+  "workday:linklogistics.wd5.myworkdayjobs.com": [
+    {
+      "title": "Development Summer Intern",
+      "company": "linklogistics",
+      "location": "2 Locations",
+      "url": "https://linklogistics.wd5.myworkdayjobs.com/en-US/Link/job/New-York-New-York/Development-Summer-Intern_JR101857",
+      "clearance": false
+    }
+  ],
   "greenhouse:chaosindustries": [],
   "workday:wwwinc.wd1.myworkdayjobs.com": [],
   "smartrecruiters:hardindesign": [],
@@ -4369,7 +4287,15 @@
   ],
   "ashby:parker": [],
   "smartrecruiters:randstad4": [],
-  "workday:wfscorp.wd5.myworkdayjobs.com": [],
+  "workday:wfscorp.wd5.myworkdayjobs.com": [
+    {
+      "title": "AI Finance Internship - Specialty Practice",
+      "company": "wfscorp",
+      "location": "SAN JOSE, COSTA RICA",
+      "url": "https://wfscorp.wd5.myworkdayjobs.com/en-US/wfscareers/job/SAN-JOSE-COSTA-RICA/AI-Finance-Internship-Program_R23062",
+      "clearance": false
+    }
+  ],
   "ashby:turn-river": [],
   "lever:allegiantair": [],
   "workday:evercommerce.wd1.myworkdayjobs.com": [],
@@ -4830,15 +4756,7 @@
       "clearance": false
     }
   ],
-  "smartrecruiters:mirantis": [
-    {
-      "title": "Intern — Support Specialist / Business Analyst",
-      "company": "Mirantis",
-      "location": "Almaty, Almaty Region, kz",
-      "url": "https://jobs.smartrecruiters.com/Mirantis/744000132893057",
-      "clearance": false
-    }
-  ],
+  "smartrecruiters:mirantis": [],
   "lever:galatea-associates": [],
   "workday:valleychildrens.wd12.myworkdayjobs.com": [],
   "workday:baincapital.wd1.myworkdayjobs.com": [],
@@ -4918,7 +4836,29 @@
   ],
   "greenhouse:teletrackingtechnologiesinc": [],
   "workday:ncr.wd1.myworkdayjobs.com": [],
-  "workday:roche.wd3.myworkdayjobs.com": [],
+  "workday:roche.wd3.myworkdayjobs.com": [
+    {
+      "title": "2027 Summer Intern - Product Development Data Sciences",
+      "company": "roche",
+      "location": "Boston",
+      "url": "https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/Boston/XMLNAME-2027-Summer-Intern---Product-Development-Data-Sciences_202611-128802",
+      "clearance": false
+    },
+    {
+      "title": "2027 Summer Intern - Digital, AI, and Clinical Outcome Assessments",
+      "company": "roche",
+      "location": "South San Francisco",
+      "url": "https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790",
+      "clearance": false
+    },
+    {
+      "title": "2027 Summer Intern - Biostatistics and Analytical Data Sciences",
+      "company": "roche",
+      "location": "South San Francisco",
+      "url": "https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Biostatistics-and-Analytical-Data-Sciences_202611-128787",
+      "clearance": false
+    }
+  ],
   "workable:continuum-resource-network": [],
   "workday:athene.wd5.myworkdayjobs.com": [],
   "workable:ripjar": [],
@@ -4997,6 +4937,13 @@
       "company": "sharkninjaoperatingllc",
       "location": "Needham, MA, United States",
       "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713878006",
+      "clearance": false
+    },
+    {
+      "title": "Summer 2027: Control Systems & Algorithms Intern (May to August)",
+      "company": "sharkninjaoperatingllc",
+      "location": "Needham, MA, United States",
+      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721651006",
       "clearance": false
     }
   ],
@@ -5198,15 +5145,7 @@
   "workday:chewy.wd5.myworkdayjobs.com": [],
   "greenhouse:edmentum": [],
   "ashby:confido": [],
-  "smartrecruiters:aecom2": [
-    {
-      "title": "Design Engineering Intern - Networking Event with AECOM – Raleigh, NC",
-      "company": "AECOM2",
-      "location": "Greenville, SC, us",
-      "url": "https://jobs.smartrecruiters.com/AECOM2/744000160950270",
-      "clearance": false
-    }
-  ],
+  "smartrecruiters:aecom2": [],
   "workday:baldwin.wd1.myworkdayjobs.com": [],
   "workday:centricsoftware.wd501.myworkdayjobs.com": [],
   "smartrecruiters:dunnsolutionsgroup": [],
@@ -5361,13 +5300,6 @@
       "clearance": false
     },
     {
-      "title": "Bond and Specialty Insurance Intern: Underwriting Professional Development Program",
-      "company": "travelers",
-      "location": "IL - Chicago",
-      "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/IL---Chicago/Bond-and-Specialty-Insurance-Intern--Underwriting-Professional-Development-Program_R-53090",
-      "clearance": false
-    },
-    {
       "title": "Claim Professional Development Program (CPDP) Internship",
       "company": "travelers",
       "location": "NC - Charlotte",
@@ -5386,6 +5318,13 @@
       "company": "travelers",
       "location": "TN - Franklin",
       "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/TN---Franklin/Claim-Professional-Development-Program--CPDP--Internship_R-52986",
+      "clearance": false
+    },
+    {
+      "title": "Bond and Specialty Insurance Intern: Underwriting Professional Development Program",
+      "company": "travelers",
+      "location": "IL - Chicago",
+      "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/IL---Chicago/Bond-and-Specialty-Insurance-Intern--Underwriting-Professional-Development-Program_R-53090",
       "clearance": false
     },
     {
@@ -5726,7 +5665,6 @@
     }
   ],
   "greenhouse:silananotechnologies": [],
-  "greenhouse:addepar1": [],
   "workday:austintexas.wd5.myworkdayjobs.com": [],
   "workday:candescent.wd501.myworkdayjobs.com": [],
   "workable:focus-group": [],
@@ -6809,7 +6747,6 @@
   "smartrecruiters:eataly": [],
   "smartrecruiters:adgagroupconsultantsinc1": [],
   "greenhouse:merqube": [],
-  "ashby:brinc": [],
   "greenhouse:thgingenuity": [],
   "workday:extraspace.wd5.myworkdayjobs.com": [],
   "ashby:meow": [],
@@ -7519,7 +7456,6 @@
   "workday:iberdrola.wd3.myworkdayjobs.com": [],
   "workday:msiexpress.wd5.myworkdayjobs.com": [],
   "workday:knitwellgroup.wd1.myworkdayjobs.com": [],
-  "workday:worldvision.wd1.myworkdayjobs.com": [],
   "ashby:gamechanger": [],
   "workday:marmon.wd501.myworkdayjobs.com": [],
   "workday:envista.wd1.myworkdayjobs.com": [
@@ -7568,7 +7504,6 @@
   "workday:coloradomesa.wd501.myworkdayjobs.com": [],
   "ashby:inductive-automation-llc": [],
   "workday:ameresco.wd5.myworkdayjobs.com": [],
-  "workday:genpt.wd1.myworkdayjobs.com": [],
   "ashby:kaluza": [],
   "ashby:machinacognita": [],
   "ashby:ctgt": [
@@ -7594,15 +7529,6 @@
   "ashby:capy": [],
   "smartrecruiters:learnkwikcom": [],
   "ashby:tacit": [],
-  "ashby:etched": [
-    {
-      "title": "Infrastructure Engineering & Projects Intern",
-      "company": "Etched",
-      "location": "San Jose",
-      "url": "https://jobs.ashbyhq.com/Etched/1a92048c-60e0-445b-a84e-8f008f1cf47b",
-      "clearance": false
-    }
-  ],
   "smartrecruiters:versant3": [],
   "smartrecruiters:gousto1": [],
   "lever:artera-2": [],
@@ -7761,7 +7687,6 @@
   "ashby:pebl": [],
   "workday:ochsner.wd1.myworkdayjobs.com": [],
   "workday:halma.wd3.myworkdayjobs.com": [],
-  "greenhouse:beamtherapeutics": [],
   "workday:regeneron.wd1.myworkdayjobs.com": [],
   "workday:dedalus.wd3.myworkdayjobs.com": [],
   "workday:nike.wd1.myworkdayjobs.com": [],
@@ -7800,7 +7725,6 @@
   "workday:asurion.wd5.myworkdayjobs.com": [],
   "workday:acxiomllc.wd5.myworkdayjobs.com": [],
   "smartrecruiters:portmandentex": [],
-  "greenhouse:exadelinc": [],
   "ashby:onepot": [],
   "workday:arbella.wd5.myworkdayjobs.com": [],
   "ashby:cerebras": [],
@@ -8890,5 +8814,26 @@
   "smartrecruiters:wjcompany": [],
   "workday:aristocrat.wd3.myworkdayjobs.com": [],
   "workday:abbott.wd5.myworkdayjobs.com": [],
-  "lever:sugarcrm": []
+  "lever:sugarcrm": [],
+  "workday:johngore.wd1.myworkdayjobs.com": [],
+  "ashby:parabola-io": [],
+  "workday:csiweb.wd1.myworkdayjobs.com": [],
+  "workday:goodwillaz.wd1.myworkdayjobs.com": [],
+  "ashby:sfdata": [],
+  "greenhouse:klaviyocampus": [],
+  "workday:barnard.wd1.myworkdayjobs.com": [],
+  "workday:panerabread.wd5.myworkdayjobs.com": [
+    {
+      "title": "Data Science & AI Analytics - Summer 2027 Internship Program",
+      "company": "panerabread",
+      "location": "Newton Support Center",
+      "url": "https://panerabread.wd5.myworkdayjobs.com/en-US/panera_careers/job/Newton-Support-Center/Data-Science---AI-Analytics---Summer-2027-Internship-Program_JR0049082",
+      "clearance": false
+    }
+  ],
+  "workday:montage.wd1.myworkdayjobs.com": [],
+  "workday:legalshieldcorp.wd1.myworkdayjobs.com": [],
+  "workday:jpi.wd1.myworkdayjobs.com": [],
+  "workday:aaregional.wd503.myworkdayjobs.com": [],
+  "workday:healthresearch.wd1.myworkdayjobs.com": []
 }
