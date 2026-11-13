@@ -1152,20 +1152,6 @@
       "location": "Kalamazoo - Downtown Portage Street",
       "url": "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Kalamazoo---Downtown-Portage-Street/Organoid-Culture-and-Assay-Development-Intern_JR00021824-2",
       "clearance": false
-    },
-    {
-      "title": "Chemistry Data Science Intern - Digital CMC Workflows",
-      "company": "zoetis",
-      "location": "Kalamazoo - Downtown Portage Street",
-      "url": "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Kalamazoo---Downtown-Portage-Street/Chemistry-Data-Science-Intern---Digital-CMC-Workflows_JR00021822-2",
-      "clearance": false
-    },
-    {
-      "title": "Summer Intern – Pharmacogenomics Data Science & Genomic Prediction (VMRD)",
-      "company": "zoetis",
-      "location": "Kalamazoo - Downtown Portage Street",
-      "url": "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Kalamazoo---Downtown-Portage-Street/Summer-Intern---Pharmacogenomics-Data-Science---Genomic-Prediction--VMRD-_JR00021759-2",
-      "clearance": false
     }
   ],
   "ashby:valinor": [],
@@ -1415,7 +1401,6 @@
   "ashby:varick-agents": [],
   "greenhouse:welbehealth": [],
   "lever:moo": [],
-  "workday:sbmmanagement.wd108.myworkdayjobs.com": [],
   "workday:transamerica.wd5.myworkdayjobs.com": [],
   "workday:att.wd1.myworkdayjobs.com": [],
   "ashby:tapcart": [],
@@ -1734,7 +1719,15 @@
   "ashby:sauna.ai": [],
   "lever:atomcomputing": [],
   "greenhouse:smartsheet": [],
-  "workday:dukeenergy.wd1.myworkdayjobs.com": [],
+  "workday:dukeenergy.wd1.myworkdayjobs.com": [
+    {
+      "title": "UX Design Internship – Summer 2027",
+      "company": "dukeenergy",
+      "location": "Charlotte, NC",
+      "url": "https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850",
+      "clearance": false
+    }
+  ],
   "smartrecruiters:netcompany1": [],
   "workday:ace.wd5.myworkdayjobs.com": [],
   "workday:northwest.wd1.myworkdayjobs.com": [],
@@ -1824,6 +1817,13 @@
       "location": "Bozeman, MT",
       "url": "https://jobs.ashbyhq.com/aurora-operations-inc/b61cb8ea-3ab6-46ed-90d7-be3ad9ac85ad",
       "clearance": true
+    },
+    {
+      "title": "Software Engineer Intern, Vehicle Platforms",
+      "company": "aurora-operations-inc",
+      "location": "Mountain View, CA",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef",
+      "clearance": true
     }
   ],
   "greenhouse:simplisafe": [],
@@ -1865,15 +1865,6 @@
   "workday:spectrumhealth.wd5.myworkdayjobs.com": [],
   "ashby:runsybil-jobs": [],
   "lever:brillio-2": [],
-  "greenhouse:lightmatter": [
-    {
-      "title": "Data & AI Platform, Intern - Summer 2027",
-      "company": "lightmatter",
-      "location": "Boston, MA",
-      "url": "https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008",
-      "clearance": false
-    }
-  ],
   "ashby:watershed": [],
   "workday:boydgroup.wd1.myworkdayjobs.com": [],
   "greenhouse:duettoresearch": [],
@@ -1900,13 +1891,6 @@
   "ashby:blp-digital": [],
   "workday:coreandmain.wd1.myworkdayjobs.com": [],
   "workday:theocc.wd5.myworkdayjobs.com": [
-    {
-      "title": "Summer Intern - Product Management",
-      "company": "theocc",
-      "location": "Chicago - 125 S Franklin",
-      "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Summer-Intern---Product-Management_REQ-4836",
-      "clearance": false
-    },
     {
       "title": "Year-Round Intern - Application Security",
       "company": "theocc",
@@ -2080,7 +2064,15 @@
   "workday:novoco.wd108.myworkdayjobs.com": [],
   "workday:deluxe.wd5.myworkdayjobs.com": [],
   "greenhouse:carbonchain": [],
-  "workday:costar.wd1.myworkdayjobs.com": [],
+  "workday:costar.wd1.myworkdayjobs.com": [
+    {
+      "title": "Vision & Learning Intern",
+      "company": "costar",
+      "location": "Sunnyvale (US)",
+      "url": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196",
+      "clearance": false
+    }
+  ],
   "smartrecruiters:smarteragent": [],
   "workday:atcllc.wd5.myworkdayjobs.com": [],
   "workday:epiqsystems.wd503.myworkdayjobs.com": [],
@@ -2288,15 +2280,7 @@
   ],
   "greenhouse:digs": [],
   "workday:fei.wd5.myworkdayjobs.com": [],
-  "ashby:gearset": [
-    {
-      "title": "Software Engineering Internship (10 weeks)",
-      "company": "gearset",
-      "location": "Cambridge",
-      "url": "https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f",
-      "clearance": false
-    }
-  ],
+  "ashby:gearset": [],
   "workday:apacheip.wd1.myworkdayjobs.com": [
     {
       "title": "AI Implementation Intern",
@@ -2392,15 +2376,7 @@
   "workday:henryschein.wd1.myworkdayjobs.com": [],
   "workday:kencogroup.wd12.myworkdayjobs.com": [],
   "ashby:kastle": [],
-  "workday:unisys.wd5.myworkdayjobs.com": [
-    {
-      "title": "Software Engineer Intern",
-      "company": "unisys",
-      "location": "Eagan, MN, United States of America",
-      "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421",
-      "clearance": false
-    }
-  ],
+  "workday:unisys.wd5.myworkdayjobs.com": [],
   "workday:mosaic.wd5.myworkdayjobs.com": [
     {
       "title": "Artificial Intelligence Co-Op/Intern - Summer 2027",
@@ -2494,6 +2470,13 @@
       "clearance": false
     },
     {
+      "title": "Research Intern, Continual Adaptation for Robotics",
+      "company": "tri",
+      "location": "Cambridge, MA",
+      "url": "https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac",
+      "clearance": false
+    },
+    {
       "title": "Robotics Intern, Human Aware Interactions and Learning",
       "company": "tri",
       "location": "Cambridge, MA",
@@ -2570,7 +2553,6 @@
   "workday:brinks.wd5.myworkdayjobs.com": [],
   "workday:vibrant.wd5.myworkdayjobs.com": [],
   "workday:johnsonelectric.wd3.myworkdayjobs.com": [],
-  "workday:donaldson.wd115.myworkdayjobs.com": [],
   "ashby:greenboard": [],
   "workday:clarivate.wd3.myworkdayjobs.com": [],
   "workday:polarsemi.wd501.myworkdayjobs.com": [],
@@ -2659,6 +2641,13 @@
     {
       "title": "Consulting Intern (Rail and Transportation)",
       "company": "dbeconorthamerica",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462750008",
+      "clearance": false
+    },
+    {
+      "title": "Consulting Intern (Rail and Transportation)",
+      "company": "dbeconorthamerica",
       "location": "Chicago, IL",
       "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462749008",
       "clearance": false
@@ -2668,13 +2657,6 @@
       "company": "dbeconorthamerica",
       "location": "Laguna Niguel, CA",
       "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462753008",
-      "clearance": false
-    },
-    {
-      "title": "Consulting Intern (Rail and Transportation)",
-      "company": "dbeconorthamerica",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462750008",
       "clearance": false
     }
   ],
@@ -2982,7 +2964,15 @@
   "workday:finning.wd3.myworkdayjobs.com": [],
   "ashby:lambda": [],
   "workday:bpinternational.wd3.myworkdayjobs.com": [],
-  "workday:ceritypartners.wd12.myworkdayjobs.com": [],
+  "workday:ceritypartners.wd12.myworkdayjobs.com": [
+    {
+      "title": "Partner Development Internship",
+      "company": "ceritypartners",
+      "location": "Chicago, IL",
+      "url": "https://ceritypartners.wd12.myworkdayjobs.com/en-US/ceritypartnerscareers/job/Chicago-IL/Partner-Development-Internship_R1041",
+      "clearance": false
+    }
+  ],
   "ashby:brainco": [],
   "greenhouse:patientpoint": [],
   "ashby:primeintellect": [],
@@ -3100,92 +3090,6 @@
   "workable:castle-trust": [],
   "lever:rws": [],
   "workday:tucsonaz.wd1.myworkdayjobs.com": [],
-  "workable:bask-health-1": [
-    {
-      "title": "AI Engineering Intern",
-      "company": "bask-health-1",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/F0E122E877",
-      "clearance": false
-    },
-    {
-      "title": "AI Product Intern",
-      "company": "bask-health-1",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/9D7E69054E",
-      "clearance": false
-    },
-    {
-      "title": "Backend Engineering Intern",
-      "company": "bask-health-1",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/98DB106D88",
-      "clearance": false
-    },
-    {
-      "title": "Frontend Engineering Intern",
-      "company": "bask-health-1",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/9C2964C7CD",
-      "clearance": false
-    },
-    {
-      "title": "Machine Learning Engineering Intern",
-      "company": "bask-health-1",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/71AEBBCADE",
-      "clearance": false
-    },
-    {
-      "title": "Product Design Intern",
-      "company": "bask-health-1",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/3505AD4868",
-      "clearance": false
-    },
-    {
-      "title": "Product Engineering Intern",
-      "company": "bask-health-1",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/1C108B16E2",
-      "clearance": false
-    },
-    {
-      "title": "Product Management Intern",
-      "company": "bask-health-1",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/AAE5145A49",
-      "clearance": false
-    },
-    {
-      "title": "Product Operations Intern",
-      "company": "bask-health-1",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/69C7B282BF",
-      "clearance": false
-    },
-    {
-      "title": "Software Engineering Intern",
-      "company": "bask-health-1",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/E81C7F7D3B",
-      "clearance": false
-    },
-    {
-      "title": "UX Research Intern",
-      "company": "bask-health-1",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/1F58DD2D0A",
-      "clearance": false
-    },
-    {
-      "title": "UX Writing Intern",
-      "company": "bask-health-1",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/E35FFA0BD1",
-      "clearance": false
-    }
-  ],
   "workable:perryhomes": [],
   "workable:tmeic-corporation-americas": [],
   "workable:belmond-uk-ltd": [],
@@ -3298,7 +3202,7 @@
       "title": "ServiceNow Intern",
       "company": "sjindustries",
       "location": "Folsom, NJ",
-      "url": "https://sjindustries.wd1.myworkdayjobs.com/en-US/sji/job/Folsom-NJ/ServiceNow-Intern_R4370",
+      "url": "https://sjindustries.wd1.myworkdayjobs.com/en-US/SJI/job/Folsom-NJ/ServiceNow-Intern_R4370",
       "clearance": false
     }
   ],
@@ -4464,7 +4368,6 @@
   "ashby:latent": [],
   "greenhouse:21shares": [],
   "workday:firstnational.wd12.myworkdayjobs.com": [],
-  "ashby:reliable-robotics": [],
   "lever:pattern": [
     {
       "title": "Data Science Internship",
@@ -4761,7 +4664,6 @@
   ],
   "smartrecruiters:mirantis": [],
   "lever:galatea-associates": [],
-  "workday:valleychildrens.wd12.myworkdayjobs.com": [],
   "workday:baincapital.wd1.myworkdayjobs.com": [],
   "ashby:sycamore": [],
   "workable:sei": [],
@@ -6237,29 +6139,6 @@
   "lever:standtogether": [],
   "workable:onlogic-inc": [],
   "greenhouse:guidepointsecurity": [],
-  "workday:caresource.wd1.myworkdayjobs.com": [
-    {
-      "title": "2027 Summer Internship Program  - Provider Analytics AI Intern",
-      "company": "caresource",
-      "location": "Remote",
-      "url": "https://caresource.wd1.myworkdayjobs.com/en-US/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481",
-      "clearance": false
-    },
-    {
-      "title": "2027 Summer Internship Program - Clinical Operations Business Analyst",
-      "company": "caresource",
-      "location": "Remote",
-      "url": "https://caresource.wd1.myworkdayjobs.com/en-US/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353",
-      "clearance": false
-    },
-    {
-      "title": "2027 Summer Internship Program - Software Engineer",
-      "company": "caresource",
-      "location": "Remote",
-      "url": "https://caresource.wd1.myworkdayjobs.com/en-US/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136",
-      "clearance": false
-    }
-  ],
   "lever:lcbcchurch": [],
   "ashby:shield": [
     {
@@ -6579,7 +6458,6 @@
       "clearance": true
     }
   ],
-  "workday:jci.wd5.myworkdayjobs.com": [],
   "workable:node": [],
   "greenhouse:attentionarc": [],
   "greenhouse:ncinoearlytalent": [],
@@ -7774,15 +7652,6 @@
   "workday:regeneron.wd1.myworkdayjobs.com": [],
   "workday:dedalus.wd3.myworkdayjobs.com": [],
   "workday:nike.wd1.myworkdayjobs.com": [],
-  "ashby:leantechniques": [
-    {
-      "title": "Software Engineer Intern - Hybrid ",
-      "company": "leantechniques",
-      "location": "Hybrid",
-      "url": "https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c",
-      "clearance": false
-    }
-  ],
   "workday:ascendperformancematerials.wd1.myworkdayjobs.com": [],
   "ashby:bloxd": [],
   "greenhouse:sparxlearning": [],
@@ -8902,7 +8771,6 @@
   "workday:csiweb.wd1.myworkdayjobs.com": [],
   "workday:goodwillaz.wd1.myworkdayjobs.com": [],
   "ashby:sfdata": [],
-  "greenhouse:klaviyocampus": [],
   "workday:barnard.wd1.myworkdayjobs.com": [],
   "workday:panerabread.wd5.myworkdayjobs.com": [
     {
@@ -8950,78 +8818,6 @@
       "company": "sonyglobal",
       "location": "7 Locations",
       "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784",
-      "clearance": false
-    }
-  ],
-  "workday:entegris.wd1.myworkdayjobs.com": [
-    {
-      "title": "Solutions Engineering Intern",
-      "company": "entegris",
-      "location": "Billerica, MA",
-      "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Billerica-MA/Solutions-Engineering-Intern_REQ-15884",
-      "clearance": false
-    },
-    {
-      "title": "Product Management Intern",
-      "company": "entegris",
-      "location": "Rockrimmon, Colorado Springs, CO",
-      "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838",
-      "clearance": false
-    },
-    {
-      "title": "Power Platform / Copilot Studio Intern – AI - Summer Intern",
-      "company": "entegris",
-      "location": "Aurora, IL",
-      "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Aurora-IL/Power-Platform---Copilot-Studio-Intern---AI---Summer-Intern_REQ-15841",
-      "clearance": false
-    },
-    {
-      "title": "Product Development Engineering Intern",
-      "company": "entegris",
-      "location": "Chaska, MN",
-      "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Chaska-MN/Product-Development-Engineering-Intern_REQ-15875",
-      "clearance": false
-    },
-    {
-      "title": "Data Engineering Intern - Summer 2027",
-      "company": "entegris",
-      "location": "Aurora, IL",
-      "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839",
-      "clearance": false
-    },
-    {
-      "title": "Research & Development Intern - Summer 2027",
-      "company": "entegris",
-      "location": "San Luis Obispo, CA",
-      "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/San-Luis-Obispo-CA/Research---Development-Intern---Summer-2027_REQ-15859",
-      "clearance": false
-    },
-    {
-      "title": "Materials Solutions Engineering Intern - Summer 2027",
-      "company": "entegris",
-      "location": "Aurora, IL",
-      "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Aurora-IL/Materials-Solutions-Engineering-Intern---Summer-2027_REQ-15860",
-      "clearance": false
-    },
-    {
-      "title": "Research and Development Intern - Summer 2027",
-      "company": "entegris",
-      "location": "San Luis Obispo, CA",
-      "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/San-Luis-Obispo-CA/Research-and-Development-Intern---Summer-2027_REQ-15868",
-      "clearance": false
-    },
-    {
-      "title": "Product Design R&D Intern - Summer 2027",
-      "company": "entegris",
-      "location": "Colorado Springs, CO",
-      "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Colorado-Springs-CO/Product-Design-R-D-Intern---Summer-2027_REQ-15877",
-      "clearance": false
-    },
-    {
-      "title": "IC Metals Slurry Development Intern - Summer 2027",
-      "company": "entegris",
-      "location": "Aurora, IL",
-      "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Aurora-IL/IC-Metals-Slurry-Development-Intern---Summer-2027_REQ-15863",
       "clearance": false
     }
   ],
@@ -9183,26 +8979,57 @@
   "workday:tcbrands.wd1.myworkdayjobs.com": [],
   "workday:oreillyauto.wd1.myworkdayjobs.com": [],
   "workday:dover.wd103.myworkdayjobs.com": [],
-  "ashby:atalanta": [
-    {
-      "title": "Software Engineer Intern",
-      "company": "atalanta",
-      "location": "Washington D.C.",
-      "url": "https://jobs.ashbyhq.com/atalanta/52011b21-df9a-4304-81a9-005a79f55335",
-      "clearance": false
-    },
-    {
-      "title": "Forward Deployed Engineer Intern",
-      "company": "atalanta",
-      "location": "Washington D.C.",
-      "url": "https://jobs.ashbyhq.com/atalanta/732425ff-3461-49e6-9022-5b0cd732e6c1",
-      "clearance": true
-    }
-  ],
   "workday:omya.wd3.myworkdayjobs.com": [],
   "workday:renishaw.wd3.myworkdayjobs.com": [],
   "greenhouse:dillards": [],
   "workday:prim.wd108.myworkdayjobs.com": [],
   "workday:tidalwaveautospa.wd1.myworkdayjobs.com": [],
-  "workday:jdpa.wd501.myworkdayjobs.com": []
+  "workday:jdpa.wd501.myworkdayjobs.com": [],
+  "workday:sailpoint.wd1.myworkdayjobs.com": [],
+  "smartrecruiters:carlisle": [
+    {
+      "title": "AI & Data Science Intern",
+      "company": "Carlisle",
+      "location": "Carlisle, Pennsylvania, us",
+      "url": "https://jobs.smartrecruiters.com/Carlisle/3743990016774046",
+      "clearance": false
+    }
+  ],
+  "workday:zebra.wd501.myworkdayjobs.com": [
+    {
+      "title": "2027 Summer Internship (US) - Program Management",
+      "company": "zebra",
+      "location": "Holtsville, New York",
+      "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Program-Management_JR103641",
+      "clearance": false
+    },
+    {
+      "title": "2027 Summer Internship (US) - Product Management",
+      "company": "zebra",
+      "location": "Lincolnshire, Illinois",
+      "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652",
+      "clearance": false
+    }
+  ],
+  "workable:senseye": [],
+  "workday:chevron.wd5.myworkdayjobs.com": [
+    {
+      "title": "2026-2027 Finance & Commercial MBA Development Program (FCMP) Intern",
+      "company": "chevron",
+      "location": "Houston, Texas, United States of America",
+      "url": "https://chevron.wd5.myworkdayjobs.com/en-US/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Finance---Commercial-MBA-Development-Program--FCMP--Intern_R000071052",
+      "clearance": false
+    },
+    {
+      "title": "2026-2027 Information Technology - Software Engineer - Intern",
+      "company": "chevron",
+      "location": "Houston, Texas, United States of America",
+      "url": "https://chevron.wd5.myworkdayjobs.com/en-US/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1",
+      "clearance": false
+    }
+  ],
+  "greenhouse:axontalentcommunity": [],
+  "workday:newbraunfels.wd12.myworkdayjobs.com": [],
+  "ashby:claylabs": [],
+  "workable:reasonable": []
 }
