@@ -769,7 +769,6 @@
   "greenhouse:horacemannservicecorporation": [],
   "greenhouse:trovebrands": [],
   "workday:tamus.wd1.myworkdayjobs.com": [],
-  "workday:usertesting.wd12.myworkdayjobs.com": [],
   "workday:enbridge.wd3.myworkdayjobs.com": [],
   "greenhouse:solidpower": [
     {
@@ -3515,15 +3514,7 @@
   "greenhouse:kargo": [],
   "ashby:nexttoken": [],
   "workable:bipventures": [],
-  "workday:spgi.wd5.myworkdayjobs.com": [
-    {
-      "title": "Summer Intern, Product Management",
-      "company": "spgi",
-      "location": "New York, NY",
-      "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Summer-Intern--Product-Management_332679-1",
-      "clearance": false
-    }
-  ],
+  "workday:spgi.wd5.myworkdayjobs.com": [],
   "workable:volga-partners": [],
   "greenhouse:later": [],
   "lever:nomihealth": [],
@@ -3646,7 +3637,15 @@
       "clearance": false
     }
   ],
-  "workday:eversource.wd1.myworkdayjobs.com": [],
+  "workday:eversource.wd1.myworkdayjobs.com": [
+    {
+      "title": "2027 Gas Systems Engineering Co-op",
+      "company": "eversource",
+      "location": "2 Locations",
+      "url": "https://eversource.wd1.myworkdayjobs.com/en-US/ExternalSite/job/MA-Westborough-Technology-Dr/XMLNAME-2027-Gas-Systems-Engineering-Co-op_R-032513",
+      "clearance": false
+    }
+  ],
   "ashby:mubi": [],
   "ashby:hypercubic": [],
   "lever:kpler": [],
@@ -4484,10 +4483,10 @@
   "ashby:reliable-robotics": [],
   "lever:pattern": [
     {
-      "title": "AI Automation Engineer Intern",
+      "title": "Data Science Internship",
       "company": "pattern",
       "location": "Lehi, UT, US",
-      "url": "https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e",
+      "url": "https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7",
       "clearance": false
     },
     {
@@ -4755,22 +4754,7 @@
   ],
   "greenhouse:theweathercompany": [],
   "greenhouse:540": [],
-  "workday:geaerospace.wd5.myworkdayjobs.com": [
-    {
-      "title": "Artificial Intelligence Intern",
-      "company": "geaerospace",
-      "location": "Remote",
-      "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1",
-      "clearance": false
-    },
-    {
-      "title": "GE Aerospace Research - Controls & Optimization Internship, 2027",
-      "company": "geaerospace",
-      "location": "Niskayuna",
-      "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Niskayuna/GE-Aerospace-Research---Controls---Optimization-Internship--2027_R5043004-1",
-      "clearance": false
-    }
-  ],
+  "workday:geaerospace.wd5.myworkdayjobs.com": [],
   "greenhouse:mavensecuritiesholdingltd": [],
   "workable:fssi": [],
   "smartrecruiters:indianauniversityfoundation": [],
@@ -4978,6 +4962,13 @@
       "company": "sharkninjaoperatingllc",
       "location": "Needham, MA, United States",
       "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721651006",
+      "clearance": false
+    },
+    {
+      "title": "Summer 2027: Data Science Intern (May to August)",
+      "company": "sharkninjaoperatingllc",
+      "location": "Needham, MA, United States",
+      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006",
       "clearance": false
     }
   ],
@@ -5334,6 +5325,13 @@
       "clearance": false
     },
     {
+      "title": "Bond and Specialty Insurance Intern: Underwriting Professional Development Program",
+      "company": "travelers",
+      "location": "IL - Chicago",
+      "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/IL---Chicago/Bond-and-Specialty-Insurance-Intern--Underwriting-Professional-Development-Program_R-53090",
+      "clearance": false
+    },
+    {
       "title": "Claim Professional Development Program (CPDP) Internship",
       "company": "travelers",
       "location": "NC - Charlotte",
@@ -5355,17 +5353,17 @@
       "clearance": false
     },
     {
-      "title": "Bond and Specialty Insurance Intern: Underwriting Professional Development Program",
-      "company": "travelers",
-      "location": "IL - Chicago",
-      "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/IL---Chicago/Bond-and-Specialty-Insurance-Intern--Underwriting-Professional-Development-Program_R-53090",
-      "clearance": false
-    },
-    {
       "title": "Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern",
       "company": "travelers",
       "location": "2 Locations",
       "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304",
+      "clearance": false
+    },
+    {
+      "title": "Bond and Specialty Insurance Intern: Underwriting Professional Development Program (UPDP)",
+      "company": "travelers",
+      "location": "MN - St. Paul",
+      "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/MN---St-Paul/Bond-and-Specialty-Insurance-Intern--Underwriting-Professional-Development-Program--UPDP-_R-53091",
       "clearance": false
     },
     {
@@ -5586,6 +5584,13 @@
       "location": "Boston-MA",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Co-op-Security_RQ4085104",
       "clearance": false
+    },
+    {
+      "title": "Security Co-op",
+      "company": "massgeneralbrigham",
+      "location": "Boston-MA",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Security-Co-op_RQ4086284",
+      "clearance": false
     }
   ],
   "workday:oumedicine.wd5.myworkdayjobs.com": [],
@@ -5596,10 +5601,24 @@
   "workday:ccf.wd1.myworkdayjobs.com": [],
   "workday:rollsroyce.wd3.myworkdayjobs.com": [
     {
+      "title": "Security Operations Intern",
+      "company": "rollsroyce",
+      "location": "Indianapolis",
+      "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Indianapolis/Security-Operations-Intern_JR6163223",
+      "clearance": false
+    },
+    {
       "title": "Enterprise AI & Automation – Summer Intern",
       "company": "rollsroyce",
       "location": "Novi",
       "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Novi/Enterprise-AI---Automation---Summer-Intern_JR6162881",
+      "clearance": false
+    },
+    {
+      "title": "Information System Security Officer (ISSO) Intern",
+      "company": "rollsroyce",
+      "location": "Indianapolis",
+      "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Indianapolis/Information-System-Security-Officer--ISSO--Intern_JR6163225",
       "clearance": false
     },
     {
@@ -5719,7 +5738,7 @@
       "title": "Data Science Intern",
       "company": "trinitylifesciences",
       "location": "2 Locations",
-      "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/en-US/trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881",
+      "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/en-US/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881",
       "clearance": false
     }
   ],
@@ -5797,7 +5816,15 @@
   "workday:livenation.wd503.myworkdayjobs.com": [],
   "workday:guidewire.wd5.myworkdayjobs.com": [],
   "greenhouse:itslogisticsllc": [],
-  "workday:gentex.wd5.myworkdayjobs.com": [],
+  "workday:gentex.wd5.myworkdayjobs.com": [
+    {
+      "title": "Business Systems Summer Intern 2027",
+      "company": "gentex",
+      "location": "Holland 16th St",
+      "url": "https://gentex.wd5.myworkdayjobs.com/en-US/Gentex/job/Holland-16th-St/Business-Systems-Summer-Intern-2027_REQ026812",
+      "clearance": false
+    }
+  ],
   "greenhouse:echodynecorp": [],
   "greenhouse:clear": [],
   "workday:usaa.wd1.myworkdayjobs.com": [],
@@ -6259,17 +6286,17 @@
       "clearance": false
     },
     {
-      "title": "Software Engineer Intern - Summer 2027",
-      "company": "shield",
-      "location": "San Mateo, California",
-      "url": "https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036",
-      "clearance": false
-    },
-    {
       "title": "2027 Summer Intern - Supplier Development Engineer - 6463",
       "company": "shield",
       "location": "Dallas, Texas",
       "url": "https://jobs.ashbyhq.com/shield/463966b6-fd51-47ef-b9b1-cb53c47cc275",
+      "clearance": false
+    },
+    {
+      "title": "2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)",
+      "company": "shield",
+      "location": "San Diego, California",
+      "url": "https://jobs.ashbyhq.com/shield/354d464d-ca91-4ce3-bd3f-d811b13755be",
       "clearance": false
     }
   ],
@@ -7242,7 +7269,6 @@
   ],
   "workday:macfound.wd1.myworkdayjobs.com": [],
   "workday:biotechne.wd5.myworkdayjobs.com": [],
-  "workday:lmu.wd1.myworkdayjobs.com": [],
   "ashby:weave": [],
   "lever:life": [],
   "ashby:bracket-bot": [
@@ -9028,5 +9054,119 @@
       "clearance": false
     }
   ],
-  "workable:raveaerospace": []
+  "workable:raveaerospace": [],
+  "lever:verisinsights": [],
+  "workday:mobility.wd503.myworkdayjobs.com": [],
+  "ashby:conveo": [],
+  "workday:allisontransmission.wd1.myworkdayjobs.com": [
+    {
+      "title": "Product Engineering Intern",
+      "company": "allisontransmission",
+      "location": "Indianapolis, IN",
+      "url": "https://allisontransmission.wd1.myworkdayjobs.com/en-US/ATI-External/job/Indianapolis-IN/Product-Engineering-Intern_R008414",
+      "clearance": false
+    },
+    {
+      "title": "Operations Program Management Intern",
+      "company": "allisontransmission",
+      "location": "Indianapolis, IN",
+      "url": "https://allisontransmission.wd1.myworkdayjobs.com/en-US/ATI-External/job/Indianapolis-IN/Operations-Program-Management-Intern_R008422",
+      "clearance": false
+    },
+    {
+      "title": "Business Analyst Intern - Summer 2027",
+      "company": "allisontransmission",
+      "location": "Indianapolis, IN",
+      "url": "https://allisontransmission.wd1.myworkdayjobs.com/en-US/ATI-External/job/Indianapolis-IN/Business-Analyst-Intern---Summer-2027_R008356",
+      "clearance": false
+    },
+    {
+      "title": "Product Engineering Intern - Summer 2027",
+      "company": "allisontransmission",
+      "location": "Indianapolis, IN",
+      "url": "https://allisontransmission.wd1.myworkdayjobs.com/en-US/ATI-External/job/Indianapolis-IN/Product-Engineering-Intern---Summer-2027_R008017",
+      "clearance": false
+    },
+    {
+      "title": "IT Security Analyst Internship - Summer 2027",
+      "company": "allisontransmission",
+      "location": "Indianapolis, IN",
+      "url": "https://allisontransmission.wd1.myworkdayjobs.com/en-US/ATI-External/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295",
+      "clearance": false
+    }
+  ],
+  "workday:cdk.wd1.myworkdayjobs.com": [],
+  "workday:hindscc.wd1.myworkdayjobs.com": [],
+  "workday:flexerasoftware.wd1.myworkdayjobs.com": [],
+  "workday:itw.wd5.myworkdayjobs.com": [
+    {
+      "title": "Intern - New Product Implementation (NPI) (Summer 2027) (for student graduating in 2028)",
+      "company": "itw",
+      "location": "Lake Forest - 60045",
+      "url": "https://itw.wd5.myworkdayjobs.com/en-US/external/job/Lake-Forest---60045/Intern---New-Product-Implementation--NPI---Summer-2027---for-student-graduating-in-2028-_JR10806-1",
+      "clearance": false
+    }
+  ],
+  "workday:wiley.wd1.myworkdayjobs.com": [],
+  "workday:multicare.wd1.myworkdayjobs.com": [],
+  "workday:capitalpower.wd10.myworkdayjobs.com": [],
+  "workday:synechron.wd1.myworkdayjobs.com": [],
+  "ashby:zetta2": [],
+  "workday:silgancontainers.wd1.myworkdayjobs.com": [],
+  "workday:ucf.wd1.myworkdayjobs.com": [],
+  "workday:vertexinc.wd1.myworkdayjobs.com": [],
+  "workday:axalta.wd1.myworkdayjobs.com": [],
+  "workday:nextracker.wd5.myworkdayjobs.com": [],
+  "workday:edftrading.wd1.myworkdayjobs.com": [],
+  "workday:jdgroupnam.wd1.myworkdayjobs.com": [],
+  "workday:varsitybrands.wd503.myworkdayjobs.com": [],
+  "workday:osc.wd3.myworkdayjobs.com": [],
+  "greenhouse:betatechnologiesinc": [],
+  "workday:lifetime.wd1.myworkdayjobs.com": [],
+  "workday:bonterra.wd1.myworkdayjobs.com": [],
+  "workday:wmeimg.wd1.myworkdayjobs.com": [],
+  "workday:kissusa.wd12.myworkdayjobs.com": [],
+  "workday:greyco.wd108.myworkdayjobs.com": [
+    {
+      "title": "Full Stack Engineer Intern - Summer 2027",
+      "company": "greyco",
+      "location": "Warrenton, VA",
+      "url": "https://greyco.wd108.myworkdayjobs.com/en-US/GTI/job/Warrenton-VA/Summer-2027---Full-Stack-Engineer-Internship_JR0000145",
+      "clearance": false
+    }
+  ],
+  "workday:illumina.wd1.myworkdayjobs.com": [],
+  "workday:owensminor.wd1.myworkdayjobs.com": [],
+  "workday:lennar.wd1.myworkdayjobs.com": [],
+  "workday:nordic.wd1.myworkdayjobs.com": [],
+  "workday:chess.wd1.myworkdayjobs.com": [],
+  "workday:archwellessentials.wd1.myworkdayjobs.com": [],
+  "workday:eosenergystorage.wd1.myworkdayjobs.com": [],
+  "workday:westlake.wd1.myworkdayjobs.com": [],
+  "workday:servicetitan.wd1.myworkdayjobs.com": [],
+  "workday:martinmarietta.wd5.myworkdayjobs.com": [
+    {
+      "title": "Intern, IS Infrastructure (Summer 2027)",
+      "company": "martinmarietta",
+      "location": "Raleigh, NC",
+      "url": "https://martinmarietta.wd5.myworkdayjobs.com/en-US/Martin_Marietta_Careers/job/Raleigh-NC/Intern--IS-Infrastructure_JR023723",
+      "clearance": false
+    },
+    {
+      "title": "Intern, Geographic Information Systems (Summer 2027)",
+      "company": "martinmarietta",
+      "location": "Raleigh, NC",
+      "url": "https://martinmarietta.wd5.myworkdayjobs.com/en-US/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Geographic-Information-Systems--Summer-2027-_JR023605",
+      "clearance": false
+    }
+  ],
+  "workday:tplink.wd503.myworkdayjobs.com": [],
+  "workday:broadviewfcu.wd1.myworkdayjobs.com": [],
+  "workday:huntsman.wd1.myworkdayjobs.com": [],
+  "workday:topcon.wd1.myworkdayjobs.com": [],
+  "workday:foxfactory.wd1.myworkdayjobs.com": [],
+  "workday:chenmed.wd1.myworkdayjobs.com": [],
+  "ashby:pragmatike": [],
+  "workday:tcbrands.wd1.myworkdayjobs.com": [],
+  "workday:oreillyauto.wd1.myworkdayjobs.com": []
 }
