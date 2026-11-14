@@ -1097,7 +1097,6 @@
   ],
   "greenhouse:lhvuk": [],
   "workday:bcbsa.wd1.myworkdayjobs.com": [],
-  "ashby:delinea": [],
   "workday:btisolutions.wd12.myworkdayjobs.com": [],
   "greenhouse:eventsandinterns": [],
   "workday:umb.wd1.myworkdayjobs.com": [],
@@ -2264,7 +2263,6 @@
       "clearance": false
     }
   ],
-  "greenhouse:digs": [],
   "workday:fei.wd5.myworkdayjobs.com": [],
   "ashby:gearset": [],
   "workday:apacheip.wd1.myworkdayjobs.com": [
@@ -6247,7 +6245,7 @@
       "title": "NAND Development Business Operations Intern",
       "company": "Solidigm",
       "location": "Rancho Cordova, CA, us",
-      "url": "https://jobs.smartrecruiters.com/Solidigm/744000152981999",
+      "url": "https://jobs.smartrecruiters.com/Solidigm/744000161579529",
       "clearance": false
     }
   ],
@@ -6683,21 +6681,21 @@
     {
       "title": "Summer 2027 - Software Engineer Intern",
       "company": "f7d8749a-72d6-407c-bf98-292ea630c73a",
-      "location": "San Diego, California",
+      "location": "San Diego, CA, US",
       "url": "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a",
       "clearance": false
     },
     {
       "title": "2027 Summer Intern - Supplier Development Engineer - 6463",
       "company": "f7d8749a-72d6-407c-bf98-292ea630c73a",
-      "location": "Dallas, Texas",
+      "location": "Dallas, TX, US",
       "url": "https://jobs.ashbyhq.com/shield/463966b6-fd51-47ef-b9b1-cb53c47cc275",
       "clearance": false
     },
     {
       "title": "2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)",
       "company": "f7d8749a-72d6-407c-bf98-292ea630c73a",
-      "location": "San Diego, California",
+      "location": "San Diego, CA, US",
       "url": "https://jobs.ashbyhq.com/shield/354d464d-ca91-4ce3-bd3f-d811b13755be",
       "clearance": false
     }
@@ -6833,6 +6831,13 @@
   "lever:lumaril-corporation": [],
   "greenhouse:olsson": [
     {
+      "title": "Engineering Internship - Building Automation Systems",
+      "company": "olsson",
+      "location": "Omaha, NE",
+      "url": "https://job-boards.greenhouse.io/olsson/jobs/5399497008",
+      "clearance": true
+    },
+    {
       "title": "Structural Engineering Internship - Federal Infrastructure",
       "company": "olsson",
       "location": "Overland Park, KS",
@@ -6875,13 +6880,6 @@
       "company": "pentair",
       "location": "Golden Valley, MN",
       "url": "https://pentair.wd5.myworkdayjobs.com/en-US/pentair_careers/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700",
-      "clearance": false
-    },
-    {
-      "title": "Product Management Leadership Development Internship Program - Summer 2027",
-      "company": "pentair",
-      "location": "6 Locations",
-      "url": "https://pentair.wd5.myworkdayjobs.com/en-US/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713",
       "clearance": false
     }
   ],
@@ -7097,6 +7095,13 @@
       "company": "bloomenergy",
       "location": "San Jose, California",
       "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/San-Jose-California/NPI-Engineering-Development-Intern_JR-25334",
+      "clearance": false
+    },
+    {
+      "title": "Process Development Engineering Intern",
+      "company": "bloomenergy",
+      "location": "San Jose, California",
+      "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/San-Jose-California/Process-Development-Engineering-Intern_JR-25333",
       "clearance": false
     }
   ],
@@ -7416,7 +7421,6 @@
   "workday:iberdrola.wd3.myworkdayjobs.com": [],
   "workday:msiexpress.wd5.myworkdayjobs.com": [],
   "workday:knitwellgroup.wd1.myworkdayjobs.com": [],
-  "ashby:gamechanger": [],
   "workday:marmon.wd501.myworkdayjobs.com": [],
   "workday:envista.wd1.myworkdayjobs.com": [
     {
@@ -7575,7 +7579,6 @@
       "clearance": false
     }
   ],
-  "lever:ivo": [],
   "workday:tysonfoods.wd5.myworkdayjobs.com": [],
   "workable:helical": [],
   "lever:cascademgt": [],
@@ -7691,6 +7694,13 @@
       "company": "bristolmyerssquibb",
       "location": "Princeton - NJ - US",
       "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Princeton---NJ---US/Intern--Commercial-MBA-Leadership-Development-Program-Internship--Summer-2027-_R1605026-1",
+      "clearance": false
+    },
+    {
+      "title": "Data & Quantitative Sciences Statistical Programming Intern - Summer 2027",
+      "company": "bristolmyerssquibb",
+      "location": "7 Locations",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Princeton---NJ---US/Data---Quantitative-Sciences-Statistical-Programming-Intern---Summer-2027_R1608542",
       "clearance": false
     }
   ],
@@ -8008,27 +8018,6 @@
   "workday:racetrac.wd5.myworkdayjobs.com": [],
   "greenhouse:sezzle": [
     {
-      "title": "AI Engineering Intern ",
-      "company": "sezzle",
-      "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7906563003",
-      "clearance": false
-    },
-    {
-      "title": " Product Design Intern",
-      "company": "sezzle",
-      "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7559727003",
-      "clearance": false
-    },
-    {
-      "title": "Product Design Intern",
-      "company": "sezzle",
-      "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044001003",
-      "clearance": false
-    },
-    {
       "title": "Product Management Intern ",
       "company": "sezzle",
       "location": "Colombia, Remote",
@@ -8066,29 +8055,15 @@
     {
       "title": "Product Operations Intern, Rewards",
       "company": "sezzle",
-      "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012085003",
-      "clearance": false
-    },
-    {
-      "title": "Product Operations Intern, Rewards",
-      "company": "sezzle",
       "location": "Chile, Remote",
       "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012084003",
       "clearance": false
     },
     {
-      "title": "Security Infrastructure Engineer Intern",
-      "company": "sezzle",
-      "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7694916003",
-      "clearance": false
-    },
-    {
-      "title": "Security Infrastructure Engineer Intern",
+      "title": "Product Operations Intern, Rewards",
       "company": "sezzle",
       "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7906517003",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012085003",
       "clearance": false
     }
   ],
@@ -8751,7 +8726,6 @@
   "workday:pennant.wd1.myworkdayjobs.com": [],
   "ashby:g2": [],
   "greenhouse:bti36021": [],
-  "greenhouse:arvinas": [],
   "workday:ultra.wd3.myworkdayjobs.com": [],
   "greenhouse:lumosfiber": [],
   "workday:evonik.wd3.myworkdayjobs.com": [],
@@ -9079,6 +9053,38 @@
       "company": "nexus-cognitive",
       "location": "Atlanta HQ",
       "url": "https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5",
+      "clearance": false
+    }
+  ],
+  "workday:rlicorp.wd1.myworkdayjobs.com": [],
+  "lever:esrtreit": [],
+  "greenhouse:skyryse": [],
+  "greenhouse:k2spacecorporation": [],
+  "greenhouse:enova": [],
+  "workday:fondsftq.wd10.myworkdayjobs.com": [],
+  "ashby:c898d712-c4ab-4157-954a-5df226a781e2": [],
+  "workday:bakerhughes.wd5.myworkdayjobs.com": [
+    {
+      "title": "Intern – Product Management – 2027",
+      "company": "bakerhughes",
+      "location": "IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2",
+      "url": "https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Product-Management---2027_R170509",
+      "clearance": false
+    },
+    {
+      "title": "Intern – Product Management – 2027 (M/F/D)",
+      "company": "bakerhughes",
+      "location": "IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2",
+      "url": "https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Product-Management---2027--M-F-D-_R171660-1",
+      "clearance": false
+    }
+  ],
+  "workday:formfactor.wd1.myworkdayjobs.com": [
+    {
+      "title": "Electrical Design Automation Intern – AI & EDA Automation",
+      "company": "formfactor",
+      "location": "Livermore, CA",
+      "url": "https://formfactor.wd1.myworkdayjobs.com/en-US/FFI-Careers/job/Livermore-CA/Electrical-Design-Automation-Intern---AI---EDA-Automation_JR101304",
       "clearance": false
     }
   ]
