@@ -101,15 +101,7 @@
   "ashby:periodic-labs": [],
   "workday:appliedis.wd5.myworkdayjobs.com": [],
   "greenhouse:2kearlycareers": [],
-  "ashby:eightsleep": [
-    {
-      "title": "Security & IT Intern",
-      "company": "eightsleep",
-      "location": "Remote - US",
-      "url": "https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550",
-      "clearance": false
-    }
-  ],
+  "ashby:eightsleep": [],
   "greenhouse:financialtimes33": [],
   "lever:dynamiccatholic": [
     {
@@ -709,7 +701,7 @@
       "title": "Intern, FFBA Analytical Development",
       "company": "legendcareers",
       "location": "Somerset, New Jersey, United States",
-      "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745147005",
+      "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745128005",
       "clearance": false
     }
   ],
@@ -831,6 +823,13 @@
       "company": "walmart",
       "location": "Bentonville, AR",
       "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Summer-2027-Corporate-Intern--Data-Science---Data-Analytics---Last-Mile-Delivery_R-2690193",
+      "clearance": false
+    },
+    {
+      "title": "Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern",
+      "company": "walmart",
+      "location": "(USA) Together Building AR Bentonville Home Office",
+      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Last-Mile-Delivery-Data-Science-Intern_R-2686435",
       "clearance": false
     }
   ],
@@ -1734,15 +1733,7 @@
   "ashby:greptile": [],
   "greenhouse:harbingermotors": [],
   "greenhouse:accuweather": [],
-  "lever:wepclinical": [
-    {
-      "title": "IT Intern - AI & Transformation",
-      "company": "wepclinical",
-      "location": "Morrisville, North Carolina, US",
-      "url": "https://jobs.lever.co/wepclinical/5d90ac52-4e43-48aa-8f01-18e7c9d1155b",
-      "clearance": false
-    }
-  ],
+  "lever:wepclinical": [],
   "smartrecruiters:collabera2": [],
   "ashby:equip": [],
   "greenhouse:authenticinsurance": [],
@@ -1817,10 +1808,10 @@
       "clearance": true
     },
     {
-      "title": "Software Engineer Intern, Vehicle Platforms",
+      "title": "Embedded Software Engineer Intern — Lidar",
       "company": "aurora-operations-inc",
-      "location": "Mountain View, CA",
-      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef",
+      "location": "Bozeman, MT",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868",
       "clearance": true
     }
   ],
@@ -2636,13 +2627,6 @@
     {
       "title": "Consulting Intern (Rail and Transportation)",
       "company": "dbeconorthamerica",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462750008",
-      "clearance": false
-    },
-    {
-      "title": "Consulting Intern (Rail and Transportation)",
-      "company": "dbeconorthamerica",
       "location": "Chicago, IL",
       "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462749008",
       "clearance": false
@@ -2652,6 +2636,13 @@
       "company": "dbeconorthamerica",
       "location": "Laguna Niguel, CA",
       "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462753008",
+      "clearance": false
+    },
+    {
+      "title": "Consulting Intern (Rail and Transportation)",
+      "company": "dbeconorthamerica",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5462750008",
       "clearance": false
     }
   ],
@@ -5489,7 +5480,6 @@
   ],
   "workday:oumedicine.wd5.myworkdayjobs.com": [],
   "lever:drivemode": [],
-  "ashby:revenuecat": [],
   "greenhouse:bevicareers": [],
   "workday:dyson.wd3.myworkdayjobs.com": [],
   "workday:ccf.wd1.myworkdayjobs.com": [],
@@ -9080,6 +9070,16 @@
       "location": "Mountain View, CA",
       "url": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed",
       "clearance": true
+    }
+  ],
+  "greenhouse:integratedbiosciencesinc": [],
+  "ashby:nexus-cognitive": [
+    {
+      "title": "Data Engineering Intern",
+      "company": "nexus-cognitive",
+      "location": "Atlanta HQ",
+      "url": "https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5",
+      "clearance": false
     }
   ]
 }
