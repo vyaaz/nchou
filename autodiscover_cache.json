@@ -5310,7 +5310,6 @@
     }
   ],
   "ashby:polymath": [],
-  "workday:tibco.wd5.myworkdayjobs.com": [],
   "greenhouse:wfclainc": [],
   "greenhouse:nuancelabs": [],
   "lever:altaml": [],
@@ -5428,7 +5427,6 @@
     }
   ],
   "workday:oumedicine.wd5.myworkdayjobs.com": [],
-  "lever:drivemode": [],
   "greenhouse:bevicareers": [],
   "workday:dyson.wd3.myworkdayjobs.com": [],
   "workday:ccf.wd1.myworkdayjobs.com": [],
@@ -7532,7 +7530,6 @@
   ],
   "workday:tysonfoods.wd5.myworkdayjobs.com": [],
   "workable:helical": [],
-  "lever:cascademgt": [],
   "workday:umusic.wd5.myworkdayjobs.com": [],
   "smartrecruiters:accenturefederalservices": [],
   "lever:pentagrp": [],
@@ -7847,7 +7844,15 @@
       "clearance": false
     }
   ],
-  "workday:quickenloans.wd5.myworkdayjobs.com": [],
+  "workday:quickenloans.wd5.myworkdayjobs.com": [
+    {
+      "title": "Financial Systems Intern - Summer 2027",
+      "company": "quickenloans",
+      "location": "Detroit, MI",
+      "url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Financial-Systems-Intern---Summer-2027_R-084978",
+      "clearance": false
+    }
+  ],
   "workday:capri.wd1.myworkdayjobs.com": [],
   "greenhouse:sironamedical": [],
   "greenhouse:goldenpetbrands": [],
@@ -8179,7 +8184,15 @@
       "clearance": false
     }
   ],
-  "workday:mmc.wd1.myworkdayjobs.com": [],
+  "workday:mmc.wd1.myworkdayjobs.com": [
+    {
+      "title": "Environmental Consulting and Risk Management Intern",
+      "company": "mmc",
+      "location": "4 Locations",
+      "url": "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Charlotte---Carnegie-Boulevard/Environmental-Consulting-and-Risk-Management-Intern_R_368602",
+      "clearance": false
+    }
+  ],
   "smartrecruiters:baesystems3": [],
   "workday:pmpediatrics.wd5.myworkdayjobs.com": [],
   "lever:easystreetcap": [],
@@ -9012,5 +9025,8 @@
       "url": "https://postman.wd108.myworkdayjobs.com/en-US/careers/job/San-Francisco-CA-US/AI-Engineer--Intern_JR1000055",
       "clearance": false
     }
-  ]
+  ],
+  "greenhouse:hootsuite": [],
+  "smartrecruiters:aristanetworks": [],
+  "lever:shieldai": []
 }
