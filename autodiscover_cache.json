@@ -74,15 +74,7 @@
   "workday:cengage.wd5.myworkdayjobs.com": [],
   "greenhouse:epickids": [],
   "ashby:eragon": [],
-  "workday:whitecap.wd1.myworkdayjobs.com": [
-    {
-      "title": "Corporate Intern - Product Strategy",
-      "company": "whitecap",
-      "location": "Atlanta_30360",
-      "url": "https://whitecap.wd1.myworkdayjobs.com/en-US/careers/job/Atlanta_30360/Corporate-Intern---Product-Strategy_WCJR-036870",
-      "clearance": false
-    }
-  ],
+  "workday:whitecap.wd1.myworkdayjobs.com": [],
   "ashby:wealthsimple": [],
   "ashby:interplay": [
     {
@@ -218,6 +210,13 @@
       "company": "workday",
       "location": "USA, CA, Pleasanton",
       "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
+      "clearance": false
+    },
+    {
+      "title": "Machine Learning Engineer Intern (Canada)",
+      "company": "workday",
+      "location": "2 Locations",
+      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806",
       "clearance": false
     },
     {
@@ -700,7 +699,7 @@
       "title": "Intern, FFBA Analytical Development",
       "company": "legendcareers",
       "location": "Somerset, New Jersey, United States",
-      "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745147005",
+      "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745128005",
       "clearance": false
     }
   ],
@@ -2895,7 +2894,15 @@
   ],
   "ashby:spaitial": [],
   "greenhouse:brunswickgroup": [],
-  "greenhouse:fanaticscollectibles": [],
+  "greenhouse:fanaticscollectibles": [
+    {
+      "title": "Summer 2027 Internship - Game Design Intern",
+      "company": "fanaticscollectibles",
+      "location": "Seattle, WA, United States",
+      "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507816009",
+      "clearance": false
+    }
+  ],
   "workday:finning.wd3.myworkdayjobs.com": [],
   "ashby:lambda": [],
   "workday:bpinternational.wd3.myworkdayjobs.com": [],
@@ -9082,5 +9089,12 @@
       "clearance": false
     }
   ],
-  "greenhouse:mcmaster-carr-systems": []
+  "greenhouse:mcmaster-carr-systems": [],
+  "workday:rbfcu.wd503.myworkdayjobs.com": [],
+  "workday:xboxgaming.wd1.myworkdayjobs.com": [],
+  "workday:echo.wd1.myworkdayjobs.com": [],
+  "workday:iagloyalty.wd3.myworkdayjobs.com": [],
+  "workday:oregonstate.wd501.myworkdayjobs.com": [],
+  "workday:fhlb.wd1.myworkdayjobs.com": [],
+  "workday:fortbendcountytx.wd5.myworkdayjobs.com": []
 }
