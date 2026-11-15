@@ -4344,7 +4344,6 @@
     }
   ],
   "greenhouse:datasystemsanalystsinc": [],
-  "greenhouse:devrev": [],
   "greenhouse:northspyre": [],
   "smartrecruiters:dataintellect": [],
   "workday:ontic.wd103.myworkdayjobs.com": [],
@@ -7622,7 +7621,15 @@
   "workday:halma.wd3.myworkdayjobs.com": [],
   "workday:regeneron.wd1.myworkdayjobs.com": [],
   "workday:dedalus.wd3.myworkdayjobs.com": [],
-  "workday:nike.wd1.myworkdayjobs.com": [],
+  "workday:nike.wd1.myworkdayjobs.com": [
+    {
+      "title": "NIKE, Inc. Product Graphics Design Internship",
+      "company": "nike",
+      "location": "Beaverton, Oregon",
+      "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Product-Graphics-Design-Internship_R-97437",
+      "clearance": false
+    }
+  ],
   "workday:ascendperformancematerials.wd1.myworkdayjobs.com": [],
   "ashby:bloxd": [],
   "greenhouse:sparxlearning": [],
@@ -8132,7 +8139,6 @@
   ],
   "lever:civitech": [],
   "greenhouse:eosfitness": [],
-  "workday:spellmanhv.wd1.myworkdayjobs.com": [],
   "workday:asuep.wd5.myworkdayjobs.com": [],
   "workday:point32health.wd5.myworkdayjobs.com": [],
   "greenhouse:bgeinccampus": [
