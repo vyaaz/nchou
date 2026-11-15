@@ -1209,7 +1209,6 @@
   "greenhouse:bugcrowd": [],
   "greenhouse:verifone": [],
   "greenhouse:isam": [],
-  "greenhouse:agoda": [],
   "greenhouse:spycloud": [],
   "lever:appen-2": [],
   "greenhouse:walleyecapital-external-fulltime": [],
@@ -3529,7 +3528,15 @@
   "workday:shawinc.wd1.myworkdayjobs.com": [],
   "workable:anatomage": [],
   "ashby:parasail": [],
-  "workday:msd.wd5.myworkdayjobs.com": [],
+  "workday:msd.wd5.myworkdayjobs.com": [
+    {
+      "title": "2027 Future Talent Program – Modeling & Informatics - Co-op",
+      "company": "msd",
+      "location": "6 Locations",
+      "url": "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2026-Future-Talent-Program---Modeling---Informatics---Co-op_R416280",
+      "clearance": false
+    }
+  ],
   "lever:belvederetrading": [],
   "workday:axis.wd3.myworkdayjobs.com": [],
   "greenhouse:xairatherapeutics": [
@@ -3853,7 +3860,15 @@
   "workday:wisk.wd108.myworkdayjobs.com": [],
   "lever:anavationllc": [],
   "greenhouse:ionq": [],
-  "workday:corteva.wd5.myworkdayjobs.com": [],
+  "workday:corteva.wd5.myworkdayjobs.com": [
+    {
+      "title": "R & D Intern - Computer & Data Science",
+      "company": "corteva",
+      "location": "Indianapolis, Indiana, United States",
+      "url": "https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W",
+      "clearance": false
+    }
+  ],
   "workday:wattswater.wd5.myworkdayjobs.com": [
     {
       "title": "Talent Development Intern, Summer 2027",
@@ -4112,7 +4127,15 @@
     }
   ],
   "workday:lseg.wd3.myworkdayjobs.com": [],
-  "workday:hcmportal.wd5.myworkdayjobs.com": [],
+  "workday:hcmportal.wd5.myworkdayjobs.com": [
+    {
+      "title": "2027 Buildings and Systems Engineering Summer Intern",
+      "company": "hcmportal",
+      "location": "US - UPS CORPORATE OFFICES (GACOR)",
+      "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Buildings-and-Systems-Engineering-Summer-Intern_R26030715",
+      "clearance": false
+    }
+  ],
   "workday:olg.wd3.myworkdayjobs.com": [],
   "workable:leap-legal-software": [],
   "greenhouse:grvty": [],
@@ -4568,7 +4591,15 @@
   ],
   "greenhouse:theweathercompany": [],
   "greenhouse:540": [],
-  "workday:geaerospace.wd5.myworkdayjobs.com": [],
+  "workday:geaerospace.wd5.myworkdayjobs.com": [
+    {
+      "title": "Digital Systems Engineering Intern - Bohemia, NY - Summer 2027",
+      "company": "geaerospace",
+      "location": "Bohemia",
+      "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Bohemia/Digital-Systems-Engineering-Intern---Bohemia--NY---Summer-2027_R5042961-1",
+      "clearance": false
+    }
+  ],
   "greenhouse:mavensecuritiesholdingltd": [],
   "workable:fssi": [],
   "smartrecruiters:indianauniversityfoundation": [],
@@ -4866,13 +4897,6 @@
       "company": "saabusa",
       "location": "East Syracuse, NY (Enterprise)",
       "url": "https://saabusa.wd1.myworkdayjobs.com/en-US/saab_careers/job/East-Syracuse-NY-Enterprise/Co-Op--IT-Systems-Spring---Summer-2027_R-03363-1",
-      "clearance": false
-    },
-    {
-      "title": "Program Management Co-Op (Summer 2027)",
-      "company": "saabusa",
-      "location": "East Syracuse, NY (Aspen Park)",
-      "url": "https://saabusa.wd1.myworkdayjobs.com/en-US/saab_careers/job/East-Syracuse-NY-Aspen-Park/Program-Management-Co-Op--Summer-2027-_R-03330-1",
       "clearance": false
     }
   ],
@@ -5235,6 +5259,27 @@
       "location": "GA - Alpharetta",
       "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/GA---Alpharetta/Business-Insurance-Underwriting-Professional-Development-Program--BI-UPDP--Internship_R-53001",
       "clearance": false
+    },
+    {
+      "title": "Business Insurance Underwriting Professional Development Program (BI UPDP) Internship",
+      "company": "travelers",
+      "location": "PA - Blue Bell",
+      "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/PA---Blue-Bell/Business-Insurance-Underwriting-Professional-Development-Program--BI-UPDP--Internship_R-52988",
+      "clearance": false
+    },
+    {
+      "title": "Business Insurance Underwriting Professional Development Program (BI UPDP) Internship",
+      "company": "travelers",
+      "location": "TN - Franklin",
+      "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/TN---Franklin/Business-Insurance-Underwriting-Professional-Development-Program--BI-UPDP--Internship_R-52995",
+      "clearance": false
+    },
+    {
+      "title": "Business Insurance Underwriting Professional Development Program (BI UPDP) Internship",
+      "company": "travelers",
+      "location": "NY - Melville",
+      "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/NY---Melville/Business-Insurance-Underwriting-Professional-Development-Program--BI-UPDP--Internship_R-52991",
+      "clearance": false
     }
   ],
   "workday:recar.wd108.myworkdayjobs.com": [],
@@ -5358,13 +5403,6 @@
   "workable:elevate-semiconductor": [],
   "workday:rbi.wd3.myworkdayjobs.com": [
     {
-      "title": "Leadership Development Program - Summer Internship EMEA",
-      "company": "rbi",
-      "location": "2 Locations",
-      "url": "https://rbi.wd3.myworkdayjobs.com/en-US/RBI_External_Career_Site/job/Corp---Zug-Corporate-Office/Leadership-Development-Program---Summer-Internship-EMEA_R3783",
-      "clearance": false
-    },
-    {
       "title": "Operations Leadership Development Program Internship - Miami, FL",
       "company": "rbi",
       "location": "2 Locations",
@@ -5410,22 +5448,7 @@
   "workday:procore.wd12.myworkdayjobs.com": [],
   "greenhouse:wurljobs": [],
   "workable:motia": [],
-  "workday:massgeneralbrigham.wd1.myworkdayjobs.com": [
-    {
-      "title": "Co-op Security",
-      "company": "massgeneralbrigham",
-      "location": "Boston-MA",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Co-op-Security_RQ4085104",
-      "clearance": false
-    },
-    {
-      "title": "Security Co-op",
-      "company": "massgeneralbrigham",
-      "location": "Boston-MA",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Security-Co-op_RQ4086284",
-      "clearance": false
-    }
-  ],
+  "workday:massgeneralbrigham.wd1.myworkdayjobs.com": [],
   "workday:oumedicine.wd5.myworkdayjobs.com": [],
   "greenhouse:bevicareers": [],
   "workday:dyson.wd3.myworkdayjobs.com": [],
@@ -5634,13 +5657,6 @@
       "company": "amfam",
       "location": "2 Locations",
       "url": "https://amfam.wd1.myworkdayjobs.com/en-US/AmFamGroupInternCareers/job/WI-Madison/Cybersecurity-Intern_R39591",
-      "clearance": false
-    },
-    {
-      "title": "AMFAM - 2027 Summer GenAI/ML Intern",
-      "company": "amfam",
-      "location": "2 Locations",
-      "url": "https://amfam.wd1.myworkdayjobs.com/en-US/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-Intern_R39561",
       "clearance": false
     }
   ],
@@ -6034,7 +6050,15 @@
     }
   ],
   "ashby:deeter-analytics": [],
-  "workday:dtna.wd5.myworkdayjobs.com": [],
+  "workday:dtna.wd5.myworkdayjobs.com": [
+    {
+      "title": "IT Developer Analyst Intern",
+      "company": "dtna",
+      "location": "Mount Holly, NC US",
+      "url": "https://dtna.wd5.myworkdayjobs.com/en-US/dtna_affiliate/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681-1",
+      "clearance": false
+    }
+  ],
   "workday:colpipe.wd1.myworkdayjobs.com": [],
   "workday:proofpoint.wd5.myworkdayjobs.com": [],
   "lever:aquabyte": [],
@@ -6150,7 +6174,6 @@
   "ashby:fortuna-health": [],
   "workday:aviagen.wd1.myworkdayjobs.com": [],
   "ashby:simple-ai": [],
-  "greenhouse:bloombergdotorg": [],
   "greenhouse:vestmark": [],
   "workday:crosscountrymortgage.wd1.myworkdayjobs.com": [],
   "greenhouse:cortland": [],
@@ -8889,6 +8912,20 @@
   "workday:servicetitan.wd1.myworkdayjobs.com": [],
   "workday:martinmarietta.wd5.myworkdayjobs.com": [
     {
+      "title": "Intern, Data Scientist",
+      "company": "martinmarietta",
+      "location": "Raleigh, NC",
+      "url": "https://martinmarietta.wd5.myworkdayjobs.com/en-US/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1",
+      "clearance": false
+    },
+    {
+      "title": "Intern, Software Data Integration Engineer",
+      "company": "martinmarietta",
+      "location": "Raleigh, NC",
+      "url": "https://martinmarietta.wd5.myworkdayjobs.com/en-US/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
+      "clearance": false
+    },
+    {
       "title": "Intern, IS Infrastructure (Summer 2027)",
       "company": "martinmarietta",
       "location": "Raleigh, NC",
@@ -9028,5 +9065,16 @@
   ],
   "greenhouse:hootsuite": [],
   "smartrecruiters:aristanetworks": [],
-  "lever:shieldai": []
+  "lever:shieldai": [],
+  "workday:tarkett.wd3.myworkdayjobs.com": [],
+  "workday:deezee.wd108.myworkdayjobs.com": [
+    {
+      "title": "Manufacturing Training & Development Intern",
+      "company": "deezee",
+      "location": "Des Moines",
+      "url": "https://deezee.wd108.myworkdayjobs.com/en-US/DeeZee_Careers/job/Des-Moines/Manufacturing-Training---Development-Intern_REQ00382",
+      "clearance": false
+    }
+  ],
+  "greenhouse:mcmaster-carr-systems": []
 }
