@@ -13104,8 +13104,8 @@
     "url": "https://go.vansh.nyc/Mi"
   },
   "https://go.vansh.nyc/mm": {
-    "title": "Software Engineer Intern",
-    "url": "https://go.vansh.nyc/Mm"
+    "title": "Software Engineer Co-op",
+    "url": "https://go.vansh.nyc/MM"
   },
   "https://go.vansh.nyc/mo": {
     "title": "AI/ML Engineering Intern",
@@ -18120,8 +18120,8 @@
     "url": "https://go.vansh.nyc/1ii"
   },
   "https://go.vansh.nyc/1ij": {
-    "title": "Automation Developer Intern",
-    "url": "https://go.vansh.nyc/1ij"
+    "title": "Information Security Intern",
+    "url": "https://go.vansh.nyc/1iJ"
   },
   "https://go.vansh.nyc/1ik": {
     "title": "Data Engineering Intern",
@@ -18920,7 +18920,7 @@
     "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005"
   },
   "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005": {
-    "title": "Backend Engineer Intern",
+    "title": "Backend Engineering Intern",
     "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005"
   },
   "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005": {
@@ -25720,8 +25720,8 @@
     "url": "https://go.vansh.nyc/1sS"
   },
   "https://go.vansh.nyc/1sw": {
-    "title": "Software Development Intern, C++",
-    "url": "https://go.vansh.nyc/1sw"
+    "title": "Simulation Engineering Intern",
+    "url": "https://go.vansh.nyc/1sW"
   },
   "https://go.vansh.nyc/1sz": {
     "title": "Artificial Intelligence/Machine Learning Intern",
@@ -27864,8 +27864,8 @@
     "url": "https://go.vansh.nyc/1ye"
   },
   "https://go.vansh.nyc/1yf": {
-    "title": "Forward Deployed Engineer Intern",
-    "url": "https://go.vansh.nyc/1yf"
+    "title": "Data Science/AI Intern",
+    "url": "https://go.vansh.nyc/1yF"
   },
   "https://go.vansh.nyc/1yg": {
     "title": "Software Engineering Intern",
@@ -28834,5 +28834,85 @@
   "https://go.vansh.nyc/1a3": {
     "title": "Software Engineering Intern",
     "url": "https://go.vansh.nyc/1A3"
+  },
+  "https://go.vansh.nyc/1a5": {
+    "title": "Data Scientist Intern",
+    "url": "https://go.vansh.nyc/1A5"
+  },
+  "https://go.vansh.nyc/1a6": {
+    "title": "Data Engineer Intern",
+    "url": "https://go.vansh.nyc/1A6"
+  },
+  "https://go.vansh.nyc/1a8": {
+    "title": "AI Engineering Intern, Generative and Agentic AI",
+    "url": "https://go.vansh.nyc/1A8"
+  },
+  "https://go.vansh.nyc/1a9": {
+    "title": "Technical Product Management Intern, ADX",
+    "url": "https://go.vansh.nyc/1A9"
+  },
+  "https://go.vansh.nyc/1aa": {
+    "title": "AI Acceleration Intern",
+    "url": "https://go.vansh.nyc/1Aa"
+  },
+  "https://go.vansh.nyc/1af": {
+    "title": "Embedded Systems Reverse Engineer Intern",
+    "url": "https://go.vansh.nyc/1Af"
+  },
+  "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53": {
+    "title": "Data Science Intern",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53"
+  },
+  "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7": {
+    "title": "Automation Developer Intern",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7"
+  },
+  "https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e": {
+    "title": "Software Engineering Intern",
+    "url": "https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e"
+  },
+  "https://job-boards.greenhouse.io/octaura/jobs/4662934007": {
+    "title": "Data Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007"
+  },
+  "https://bostonscientific.eightfold.ai/careers/job/563602813827837": {
+    "title": "AI Engineer Intern - Generative & Agentic AI",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837"
+  },
+  "https://job-boards.greenhouse.io/addepar1/jobs/8910324002": {
+    "title": "Technical Product Management Intern - ADX",
+    "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910324002"
+  },
+  "https://jobs.ashbyhq.com/atalanta/f7625af9-5408-44bd-a707-7f4519ca41d8": {
+    "title": "Forward Deployed Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/atalanta/f7625af9-5408-44bd-a707-7f4519ca41d8"
+  },
+  "https://job-boards.greenhouse.io/addepar1/jobs/8927595002": {
+    "title": "Product Design Intern - Summer 2027",
+    "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927595002"
+  },
+  "https://jobs.smartrecruiters.com/boschgroup/744000161844052": {
+    "title": "Research Intern: Multimodal Foundation Models for Healthcare",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161844052"
+  },
+  "https://jobs.smartrecruiters.com/boschgroup/744000161841434": {
+    "title": "Research Intern: Multimodal Sensor Foundation Models",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161841434"
+  },
+  "https://jobs.smartrecruiters.com/boschgroup/744000161790039": {
+    "title": "Paid Internship – Java Development (f/m)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161790039"
+  },
+  "https://jobs.smartrecruiters.com/intuitive/744000161861679": {
+    "title": "Clinical Research Engineering Intern",
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000161861679"
+  },
+  "https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e": {
+    "title": "Research Intern, Spatial Intelligence for Robotics",
+    "url": "https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e"
+  },
+  "https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f": {
+    "title": "Software Engineer Intern - C#, ASP.NET - Summer 2027 in Kansas City",
+    "url": "https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f"
   }
 }
