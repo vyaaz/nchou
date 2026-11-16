@@ -3720,7 +3720,6 @@
     }
   ],
   "lever:quantcast": [],
-  "greenhouse:pacvue": [],
   "ashby:observable-space": [],
   "ashby:lgads": [],
   "workday:lthc.wd1.myworkdayjobs.com": [],
@@ -6536,7 +6535,6 @@
   "lever:gr0": [],
   "workday:umd.wd1.myworkdayjobs.com": [],
   "lever:valkyrietrading": [],
-  "workday:simmonsbank.wd5.myworkdayjobs.com": [],
   "ashby:zettabyte-space": [],
   "workday:uasys.wd5.myworkdayjobs.com": [],
   "greenhouse:bluestaq": [],
@@ -6803,7 +6801,6 @@
   "workday:patientfirst.wd5.myworkdayjobs.com": [],
   "workday:pjtpartners.wd1.myworkdayjobs.com": [],
   "lever:nexuse-group": [],
-  "workday:pvh.wd1.myworkdayjobs.com": [],
   "lever:leantaas": [],
   "lever:traackr": [],
   "lever:lumaril-corporation": [],
@@ -7516,13 +7513,6 @@
   "workday:freight.wd108.myworkdayjobs.com": [],
   "workday:aaaie.wd1.myworkdayjobs.com": [
     {
-      "title": "UX Design Intern",
-      "company": "aaaie",
-      "location": "Arizona - Home Teleworkers",
-      "url": "https://aaaie.wd1.myworkdayjobs.com/en-US/CSAACareers2/job/Arizona---Home-Teleworkers/UX-Design-Intern_R8001-1",
-      "clearance": false
-    },
-    {
       "title": "Data Science Intern",
       "company": "aaaie",
       "location": "Arizona - Home Teleworkers",
@@ -7784,15 +7774,7 @@
   "ashby:generate": [],
   "workable:cogna": [],
   "workday:allina.wd5.myworkdayjobs.com": [],
-  "ashby:clera": [
-    {
-      "title": "ML Intern",
-      "company": "clera",
-      "location": "remote",
-      "url": "https://jobs.ashbyhq.com/Clera/1c3eb725-b3e0-414b-9a88-5fb6d6d785c7",
-      "clearance": false
-    }
-  ],
+  "ashby:clera": [],
   "lever:evr": [
     {
       "title": "January 2027 Industrial Networking (Digital Systems) Co-op",
@@ -7910,7 +7892,6 @@
     }
   ],
   "ashby:packz": [],
-  "greenhouse:doublegood": [],
   "ashby:uniswap": [],
   "greenhouse:skhynixamerica": [],
   "ashby:lawdepot": [],
@@ -8027,22 +8008,22 @@
     {
       "title": "Product Manager Intern, ShopX(Rewards)",
       "company": "sezzle",
-      "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044470003",
-      "clearance": false
-    },
-    {
-      "title": "Product Manager Intern, ShopX(Rewards)",
-      "company": "sezzle",
       "location": "Peru",
       "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044473003",
       "clearance": false
     },
     {
-      "title": "Product Operations Intern, Rewards",
+      "title": "Product Manager Intern, ShopX(Rewards)",
       "company": "sezzle",
       "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8010514003",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044470003",
+      "clearance": false
+    },
+    {
+      "title": "Product Operations Intern, Rewards",
+      "company": "sezzle",
+      "location": "Peru",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012085003",
       "clearance": false
     },
     {
@@ -8055,8 +8036,8 @@
     {
       "title": "Product Operations Intern, Rewards",
       "company": "sezzle",
-      "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012085003",
+      "location": "Colombia, Remote",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8010514003",
       "clearance": false
     }
   ],
@@ -9096,5 +9077,6 @@
   "workday:iagloyalty.wd3.myworkdayjobs.com": [],
   "workday:oregonstate.wd501.myworkdayjobs.com": [],
   "workday:fhlb.wd1.myworkdayjobs.com": [],
-  "workday:fortbendcountytx.wd5.myworkdayjobs.com": []
+  "workday:fortbendcountytx.wd5.myworkdayjobs.com": [],
+  "workday:russell.wd5.myworkdayjobs.com": []
 }
