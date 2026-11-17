@@ -3043,7 +3043,6 @@
   "workable:tecsys": [],
   "workable:practicetek": [],
   "workday:lendingclub.wd1.myworkdayjobs.com": [],
-  "workday:argonne.wd1.myworkdayjobs.com": [],
   "workable:viewline-ventures": [],
   "workday:capitalhealth.wd1.myworkdayjobs.com": [],
   "workday:kcura.wd1.myworkdayjobs.com": [],
@@ -3420,15 +3419,7 @@
       "clearance": false
     }
   ],
-  "lever:azul": [
-    {
-      "title": "IT Intern, AI and Operations",
-      "company": "azul",
-      "location": "Sunnyvale, CA",
-      "url": "https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db",
-      "clearance": false
-    }
-  ],
+  "lever:azul": [],
   "greenhouse:verainstituteofjustice": [],
   "ashby:alphalifesci": [],
   "greenhouse:hivefinancialsystems": [
@@ -4826,6 +4817,13 @@
       "company": "sharkninjaoperatingllc",
       "location": "Needham, MA, United States",
       "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006",
+      "clearance": false
+    },
+    {
+      "title": "Summer 2027: HW UX/UI Design Intern (May through August)",
+      "company": "sharkninjaoperatingllc",
+      "location": "Needham, MA, United States",
+      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721309006",
       "clearance": false
     }
   ],
@@ -6959,7 +6957,6 @@
   "greenhouse:barkleyokrp": [],
   "workday:progyny.wd5.myworkdayjobs.com": [],
   "workday:lifeworks.wd3.myworkdayjobs.com": [],
-  "ashby:steel": [],
   "lever:true-environmental": [],
   "greenhouse:scoutmotors": [],
   "ashby:sylvera": [],
@@ -9049,5 +9046,8 @@
   "workday:fhlb.wd1.myworkdayjobs.com": [],
   "workday:fortbendcountytx.wd5.myworkdayjobs.com": [],
   "workday:russell.wd5.myworkdayjobs.com": [],
-  "ashby:instil": []
+  "ashby:instil": [],
+  "lever:duetti": [],
+  "workday:tricorbraun.wd115.myworkdayjobs.com": [],
+  "greenhouse:octaura": []
 }
