@@ -7104,20 +7104,28 @@
   "workday:bigcommerce.wd12.myworkdayjobs.com": [],
   "workday:namsa.wd5.myworkdayjobs.com": [],
   "ashby:northslope-technologies": [],
-  "smartrecruiters:ubisoft2": [],
+  "smartrecruiters:ubisoft2": [
+    {
+      "title": "R&D Assistant - Neural Compositing for Real-Time Graphics - INTERNSHIP (F/M/NB)",
+      "company": "Ubisoft2",
+      "location": "Bordeaux, Nouvelle-Aquitaine, fr",
+      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161854669",
+      "clearance": false
+    },
+    {
+      "title": "R&D Assistant - Neural Appearance for Real-Time Graphics - INTERNSHIP (F/M/NB)",
+      "company": "Ubisoft2",
+      "location": "Bordeaux, Nouvelle-Aquitaine, fr",
+      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161854529",
+      "clearance": false
+    }
+  ],
   "ashby:within.ai": [],
   "workday:exelixis.wd1.myworkdayjobs.com": [],
   "lever:endpointclinical": [],
   "workday:bestbuycanada.wd3.myworkdayjobs.com": [],
   "ashby:cursor": [],
   "ashby:maticrobots": [
-    {
-      "title": "Robotics Customer Success Intern",
-      "company": "MaticRobots",
-      "location": "Menlo Park, CA",
-      "url": "https://jobs.ashbyhq.com/MaticRobots/a0d77cc5-555f-46d8-89b1-e1df201a77dc",
-      "clearance": false
-    },
     {
       "title": "Product Design Intern",
       "company": "MaticRobots",
@@ -7748,7 +7756,15 @@
   "ashby:generate": [],
   "workable:cogna": [],
   "workday:allina.wd5.myworkdayjobs.com": [],
-  "ashby:clera": [],
+  "ashby:clera": [
+    {
+      "title": "Full-Stack Software Engineering Intern",
+      "company": "clera",
+      "location": "New York",
+      "url": "https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d",
+      "clearance": false
+    }
+  ],
   "lever:evr": [
     {
       "title": "January 2027 Industrial Networking (Digital Systems) Co-op",
@@ -7982,22 +7998,22 @@
     {
       "title": "Product Manager Intern, ShopX(Rewards)",
       "company": "sezzle",
-      "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044473003",
-      "clearance": false
-    },
-    {
-      "title": "Product Manager Intern, ShopX(Rewards)",
-      "company": "sezzle",
       "location": "Colombia, Remote",
       "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044470003",
       "clearance": false
     },
     {
-      "title": "Product Operations Intern, Rewards",
+      "title": "Product Manager Intern, ShopX(Rewards)",
       "company": "sezzle",
       "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012085003",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044473003",
+      "clearance": false
+    },
+    {
+      "title": "Product Operations Intern, Rewards",
+      "company": "sezzle",
+      "location": "Colombia, Remote",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8010514003",
       "clearance": false
     },
     {
@@ -8010,8 +8026,8 @@
     {
       "title": "Product Operations Intern, Rewards",
       "company": "sezzle",
-      "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8010514003",
+      "location": "Peru",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012085003",
       "clearance": false
     }
   ],
@@ -8406,13 +8422,6 @@
       "company": "Keenfinity",
       "location": "Eindhoven, NB, nl",
       "url": "https://jobs.smartrecruiters.com/Keenfinity/744000157839239",
-      "clearance": false
-    },
-    {
-      "title": "Software Engineering Intern – Device Simulation & Digital Twin (February 2027)",
-      "company": "Keenfinity",
-      "location": "Eindhoven, NB, nl",
-      "url": "https://jobs.smartrecruiters.com/Keenfinity/744000153766721",
       "clearance": false
     },
     {
@@ -9049,5 +9058,8 @@
   "ashby:instil": [],
   "lever:duetti": [],
   "workday:tricorbraun.wd115.myworkdayjobs.com": [],
-  "greenhouse:octaura": []
+  "greenhouse:octaura": [],
+  "lever:fantom-corporation": [],
+  "lever:arrivelogistics": [],
+  "greenhouse:sage49": []
 }
