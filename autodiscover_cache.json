@@ -6630,6 +6630,13 @@
   "ashby:clipboard": [],
   "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a": [
     {
+      "title": "Program Manager, Intern Experience",
+      "company": "f7d8749a-72d6-407c-bf98-292ea630c73a",
+      "location": "Seattle, WA, US",
+      "url": "https://jobs.ashbyhq.com/shield/af061c1a-f291-4540-be30-2df5adc22cc5",
+      "clearance": true
+    },
+    {
       "title": "Summer 2027 - Software Engineer Intern",
       "company": "f7d8749a-72d6-407c-bf98-292ea630c73a",
       "location": "San Diego, CA, US",
@@ -7772,6 +7779,13 @@
       "location": "Sparwood, BC",
       "url": "https://jobs.lever.co/evr/9a72ee7f-1a6a-448e-99b8-0e3a57e5ee6e",
       "clearance": false
+    },
+    {
+      "title": "January 2027 Mining and Geology Systems Co-op",
+      "company": "evr",
+      "location": "Calgary, AB",
+      "url": "https://jobs.lever.co/evr/5e2bb870-428b-4c25-9caa-2c96068428f0",
+      "clearance": false
     }
   ],
   "workday:slu.wd5.myworkdayjobs.com": [],
@@ -7984,22 +7998,15 @@
     {
       "title": "Product Management Intern ",
       "company": "sezzle",
-      "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7537957003",
-      "clearance": false
-    },
-    {
-      "title": "Product Management Intern ",
-      "company": "sezzle",
       "location": "Peru",
       "url": "https://job-boards.greenhouse.io/sezzle/jobs/7998740003",
       "clearance": false
     },
     {
-      "title": "Product Manager Intern, ShopX(Rewards)",
+      "title": "Product Management Intern ",
       "company": "sezzle",
       "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044470003",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7537957003",
       "clearance": false
     },
     {
@@ -8007,6 +8014,13 @@
       "company": "sezzle",
       "location": "Peru",
       "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044473003",
+      "clearance": false
+    },
+    {
+      "title": "Product Manager Intern, ShopX(Rewards)",
+      "company": "sezzle",
+      "location": "Colombia, Remote",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044470003",
       "clearance": false
     },
     {
@@ -8417,13 +8431,6 @@
     }
   ],
   "smartrecruiters:keenfinity": [
-    {
-      "title": "Research Intern – AI-Based Audio Optimization (February 2027)",
-      "company": "Keenfinity",
-      "location": "Eindhoven, NB, nl",
-      "url": "https://jobs.smartrecruiters.com/Keenfinity/744000157839239",
-      "clearance": false
-    },
     {
       "title": "Software Engineering Intern",
       "company": "Keenfinity",
