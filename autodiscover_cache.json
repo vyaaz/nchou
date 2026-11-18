@@ -752,78 +752,6 @@
   "workday:wellsky.wd1.myworkdayjobs.com": [],
   "ashby:verne": [],
   "lever:gomaterials": [],
-  "workday:walmart.wd504.myworkdayjobs.com": [
-    {
-      "title": "Summer 2027 MBA Intern: Finance Leadership Development Program (FLDP)",
-      "company": "walmart",
-      "location": "(USA) Purpose Building AR Bentonville Home Office",
-      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Purpose-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--Finance-Leadership-Development-Program--FLDP-_R-2618233",
-      "clearance": false
-    },
-    {
-      "title": "Summer 2027 Intern: Intern: Sr Data Science",
-      "company": "walmart",
-      "location": "(USA) ISD Office - DGTC AR BENTONVILLE Home Office",
-      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032",
-      "clearance": false
-    },
-    {
-      "title": "Summer 2027 Intern:: Software Engineer II",
-      "company": "walmart",
-      "location": "(USA) ISD Office - DGTC AR BENTONVILLE Home Office",
-      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1",
-      "clearance": false
-    },
-    {
-      "title": "Summer 2027 Intern:: Data Science III",
-      "company": "walmart",
-      "location": "(USA) ISD Office - DGTC AR BENTONVILLE Home Office",
-      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030",
-      "clearance": false
-    },
-    {
-      "title": "Summer 2027 Intern: Cybersecurity Undergrad",
-      "company": "walmart",
-      "location": "(USA) ISD Office - DGTC AR BENTONVILLE Home Office",
-      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Undergrad_R-2630025",
-      "clearance": false
-    },
-    {
-      "title": "R-2690831 Summer 2027 Corporate Intern:  Portfolio and Development Intern",
-      "company": "walmart",
-      "location": "(USA) Always AR Bentonville Home Office",
-      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/R-2690831-Summer-2027-Corporate-Intern---Portfolio-and-Development-Intern_R-2690831",
-      "clearance": false
-    },
-    {
-      "title": "(USA) 2027 Summer Corporate Intern:  Portfolio and Development Intern",
-      "company": "walmart",
-      "location": "(USA) Always AR Bentonville Home Office",
-      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--2027-Summer-Corporate-Intern---Portfolio-and-Development-Intern_R-2690819",
-      "clearance": false
-    },
-    {
-      "title": "(USA) Summer 2027 Corporate Intern:  Development and Design Project Integration Intern",
-      "company": "walmart",
-      "location": "(USA) Always AR Bentonville Home Office",
-      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Development-and-Design-Project-Integration-Intern_R-2690416",
-      "clearance": false
-    },
-    {
-      "title": "Summer 2027 Corporate Intern: Data Science & Data Analytics – Last Mile Delivery",
-      "company": "walmart",
-      "location": "Bentonville, AR",
-      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Summer-2027-Corporate-Intern--Data-Science---Data-Analytics---Last-Mile-Delivery_R-2690193",
-      "clearance": false
-    },
-    {
-      "title": "Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern",
-      "company": "walmart",
-      "location": "(USA) Together Building AR Bentonville Home Office",
-      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Last-Mile-Delivery-Data-Science-Intern_R-2686435",
-      "clearance": false
-    }
-  ],
   "ashby:quadric": [
     {
       "title": "AI Kernel Engineer Intern",
@@ -1101,38 +1029,7 @@
   "greenhouse:credigysolutionsinc": [],
   "greenhouse:xebiausa": [],
   "lever:economicmodeling": [],
-  "smartrecruiters:captechconsulting": [
-    {
-      "title": "Consulting Internship: UX/Product Design (Summer 2027)",
-      "company": "CapTechConsulting",
-      "location": "Richmond, VA, us",
-      "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000159182656",
-      "clearance": false
-    },
-    {
-      "title": "Consulting Internship: Business Systems Analyst (Summer 2027)",
-      "company": "CapTechConsulting",
-      "location": "Richmond, VA, us",
-      "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155060459",
-      "clearance": false
-    },
-    {
-      "title": "Consulting Internship: Data Analysis/Data Engineering  (Summer 2027)",
-      "company": "CapTechConsulting",
-      "location": "Richmond, VA, us",
-      "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169",
-      "clearance": false
-    },
-    {
-      "title": "Consulting Internship: Software Engineering (Summer 2027)",
-      "company": "CapTechConsulting",
-      "location": "Richmond, VA, us",
-      "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115",
-      "clearance": false
-    }
-  ],
   "workday:cdw.wd5.myworkdayjobs.com": [],
-  "lever:riverdale": [],
   "workday:zoetis.wd5.myworkdayjobs.com": [
     {
       "title": "Organoid Culture and Assay Development Intern",
@@ -1642,15 +1539,6 @@
     }
   ],
   "lever:energyvault": [],
-  "lever:questanalytics": [
-    {
-      "title": "Software Engineer Intern - C#, ASP.NET - Summer 2027 in Kansas City",
-      "company": "questanalytics",
-      "location": "Overland Park, KS",
-      "url": "https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f",
-      "clearance": false
-    }
-  ],
   "workday:omers.wd3.myworkdayjobs.com": [],
   "lever:aprio": [],
   "workday:northwesternmutual.wd5.myworkdayjobs.com": [],
@@ -1664,29 +1552,6 @@
   "greenhouse:altentechnologyusa": [],
   "ashby:lendable": [],
   "workday:ms.wd5.myworkdayjobs.com": [],
-  "workday:criteo.wd3.myworkdayjobs.com": [
-    {
-      "title": "Machine Learning Engineer Intern",
-      "company": "criteo",
-      "location": "2 Locations",
-      "url": "https://criteo.wd3.myworkdayjobs.com/en-US/Criteo_Career_Site/job/Paris/Machine-Learning-Engineer-Intern_r14933",
-      "clearance": false
-    },
-    {
-      "title": "Software Engineer Intern - Backend or Fullstack",
-      "company": "criteo",
-      "location": "2 Locations",
-      "url": "https://criteo.wd3.myworkdayjobs.com/en-US/Criteo_Career_Site/job/Grenoble/Software-Engineer-Intern---Backend-or-Fullstack_r13375",
-      "clearance": false
-    },
-    {
-      "title": "Software Engineer Intern - Front-End or Fullstack",
-      "company": "criteo",
-      "location": "2 Locations",
-      "url": "https://criteo.wd3.myworkdayjobs.com/en-US/Criteo_Career_Site/job/Paris/Software-Engineer-Intern---Front-End-or-Fullstack_r16311",
-      "clearance": false
-    }
-  ],
   "ashby:tryroam": [],
   "workday:alteryx.wd108.myworkdayjobs.com": [],
   "ashby:alljoined": [],
@@ -1720,7 +1585,6 @@
   "workday:northwest.wd1.myworkdayjobs.com": [],
   "ashby:koahlabs": [],
   "workday:buildertrend.wd108.myworkdayjobs.com": [],
-  "ashby:greptile": [],
   "greenhouse:harbingermotors": [],
   "greenhouse:accuweather": [],
   "lever:wepclinical": [],
@@ -4491,7 +4355,15 @@
   "ashby:niural": [],
   "ashby:h3x-technologies": [],
   "lever:alltrails": [],
-  "ashby:illumio": [],
+  "ashby:illumio": [
+    {
+      "title": "Security and Compliance Analyst Intern",
+      "company": "illumio",
+      "location": "Sunnyvale, California - HQ",
+      "url": "https://jobs.ashbyhq.com/illumio/8013747a-938c-41ef-9d5b-7b6188ae0b5c",
+      "clearance": false
+    }
+  ],
   "workday:canvasinc.wd108.myworkdayjobs.com": [],
   "workable:persimmons-ai": [],
   "greenhouse:adelphirealworld": [],
@@ -4948,7 +4820,6 @@
   "greenhouse:antora": [],
   "workday:spinmaster.wd3.myworkdayjobs.com": [],
   "workday:circlek.wd3.myworkdayjobs.com": [],
-  "greenhouse:terraclear": [],
   "workday:gnw.wd1.myworkdayjobs.com": [],
   "ashby:flint": [],
   "greenhouse:iovancebiotherapeutics": [],
@@ -5504,7 +5375,6 @@
   "workable:fmx": [],
   "ashby:ande": [],
   "greenhouse:cobaltio": [],
-  "workday:alliancedata.wd5.myworkdayjobs.com": [],
   "workable:indra-uk": [],
   "smartrecruiters:loram1": [],
   "greenhouse:tpcengineeringholdingsllc": [],
@@ -6053,7 +5923,15 @@
     }
   ],
   "greenhouse:yesenergy": [],
-  "workable:thorlabs": [],
+  "workable:thorlabs": [
+    {
+      "title": "Summer 2027 Laser Systems and Technology Internship",
+      "company": "thorlabs",
+      "location": "Jessup, Maryland, United States",
+      "url": "https://apply.workable.com/j/39D8EFDC19",
+      "clearance": false
+    }
+  ],
   "greenhouse:okx": [],
   "workday:morningstar.wd5.myworkdayjobs.com": [],
   "greenhouse:fashionnova": [],
@@ -6090,6 +5968,13 @@
   "greenhouse:guidepointsecurity": [],
   "lever:lcbcchurch": [],
   "ashby:shield": [
+    {
+      "title": "Program Manager, Intern Experience",
+      "company": "shield",
+      "location": "Seattle, WA, US",
+      "url": "https://jobs.ashbyhq.com/shield/af061c1a-f291-4540-be30-2df5adc22cc5",
+      "clearance": true
+    },
     {
       "title": "Summer 2027 - Software Engineer Intern",
       "company": "shield",
@@ -8997,7 +8882,6 @@
       "clearance": false
     }
   ],
-  "workday:rlicorp.wd1.myworkdayjobs.com": [],
   "lever:esrtreit": [],
   "greenhouse:k2spacecorporation": [],
   "greenhouse:enova": [],
@@ -9068,5 +8952,18 @@
   "greenhouse:octaura": [],
   "lever:fantom-corporation": [],
   "lever:arrivelogistics": [],
-  "greenhouse:sage49": []
+  "greenhouse:sage49": [],
+  "greenhouse:farmersmutualhailinsurancecompany": [
+    {
+      "title": "AI Intern",
+      "company": "farmersmutualhailinsurancecompany",
+      "location": "West Des Moines, IA",
+      "url": "https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404387009",
+      "clearance": false
+    }
+  ],
+  "greenhouse:garnerhealth": [],
+  "ashby:remanence": [],
+  "lever:bis": [],
+  "smartrecruiters:sibyllineltd": []
 }
