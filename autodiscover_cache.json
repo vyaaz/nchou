@@ -4149,7 +4149,6 @@
   "smartrecruiters:idexcel3": [],
   "workday:geha.wd5.myworkdayjobs.com": [],
   "workable:sigmadefense": [],
-  "ashby:treefera": [],
   "workable:slip-robotics": [],
   "ashby:farsight": [],
   "lever:jamcity": [],
@@ -7146,13 +7145,6 @@
       "clearance": true
     },
     {
-      "title": "Internship: Full Stack Software Engineer",
-      "company": "revel",
-      "location": "Los Angeles",
-      "url": "https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314",
-      "clearance": true
-    },
-    {
       "title": "Internship: Embedded Software Engineer",
       "company": "revel",
       "location": "Los Angeles",
@@ -7883,22 +7875,15 @@
     {
       "title": "Product Management Intern ",
       "company": "sezzle",
-      "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7998740003",
-      "clearance": false
-    },
-    {
-      "title": "Product Management Intern ",
-      "company": "sezzle",
       "location": "Colombia, Remote",
       "url": "https://job-boards.greenhouse.io/sezzle/jobs/7537957003",
       "clearance": false
     },
     {
-      "title": "Product Manager Intern, ShopX(Rewards)",
+      "title": "Product Management Intern ",
       "company": "sezzle",
       "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044473003",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7998740003",
       "clearance": false
     },
     {
@@ -7906,6 +7891,13 @@
       "company": "sezzle",
       "location": "Colombia, Remote",
       "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044470003",
+      "clearance": false
+    },
+    {
+      "title": "Product Manager Intern, ShopX(Rewards)",
+      "company": "sezzle",
+      "location": "Peru",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044473003",
       "clearance": false
     },
     {
@@ -8457,21 +8449,21 @@
     {
       "title": "AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027",
       "company": "drivewealth",
-      "location": "Chicago",
+      "location": "Chicago, IL",
       "url": "https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a",
       "clearance": false
     },
     {
       "title": "AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027",
       "company": "drivewealth",
-      "location": "Chicago",
+      "location": "Chicago, IL",
       "url": "https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16",
       "clearance": false
     },
     {
       "title": "AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027",
       "company": "drivewealth",
-      "location": "Chicago",
+      "location": "Chicago, IL",
       "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87",
       "clearance": false
     }
@@ -8965,5 +8957,21 @@
   "greenhouse:garnerhealth": [],
   "ashby:remanence": [],
   "lever:bis": [],
-  "smartrecruiters:sibyllineltd": []
+  "smartrecruiters:sibyllineltd": [],
+  "ashby:bree": [],
+  "ashby:basis-research": [],
+  "workable:adept-consulting-services-inc": [],
+  "workable:falcomm": [],
+  "greenhouse:attainpartners": [
+    {
+      "title": "Summer 2027 Consulting Intern",
+      "company": "attainpartners",
+      "location": "McLean, VA",
+      "url": "https://job-boards.greenhouse.io/attainpartners/jobs/5485402008",
+      "clearance": false
+    }
+  ],
+  "ashby:solink": [],
+  "smartrecruiters:cityofcampbellriver": [],
+  "greenhouse:sofitechsolutions": []
 }
