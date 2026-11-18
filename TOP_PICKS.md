@@ -1,6 +1,6 @@
 # Top picks (auto-generated)
 
-_SWE / FDE / ML / product / design / consulting roles, anywhere in the US. 3215 of 3897 open roles. Rebuilt every sweep: 2026-11-18 09:33 UTC._
+_SWE / FDE / ML / product / design / consulting roles, anywhere in the US. 3227 of 3912 open roles. Rebuilt every sweep: 2026-11-18 18:34 UTC._
 
 Ranked software engineering and forward deployed first, then ML engineering, then robotics / autonomy / computer vision, then product management and design, then consulting. Within each, sweet-spot employers before the household names. 🇺🇸 marks a role that asks for US citizenship or a clearance.
 
@@ -18,6 +18,7 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Anduril — Software Engineer Intern](https://go.vansh.nyc/3h) — Atlanta, GA, Boston, MA, Costa Mesa, CA, Irvine, CA, Reston, VA, Seattle, WA
 - [Anduril — Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007) — Boston, MA, Seattle, WA, Newport Beach, CA, Irvine, CA, Reston, VA, Atlanta, GA
 - [Anduril — Systems Engineer Intern](https://go.vansh.nyc/g5) — Boston, MA, Costa Mesa, CA, Fort Collins, CO, Reston, VA, Seattle, WA
+- [andurilindustries — 2027 Business Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007) 🇺🇸 — Costa Mesa, California, United States
 - [andurilindustries — 2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) 🇺🇸 — Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States
 - [andurilindustries — 2027 Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) 🇺🇸 — Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States
 - [Apex — Software Engineer Intern - Embedded Systems](https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda/application?embed=true) — LA
@@ -29,6 +30,7 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Base Power Company — Quantitative Developer Intern](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e) — Austin, TX
 - [Base Power Company — Software Engineering Intern](https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc) — Austin, TX
 - [CACI — Cleared Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Denver-CO-US/Cleared-Software-Engineer-Intern---Summer-2027_331999) — Denver, CO +1
+- [CACI — Cybersecurity Intern](https://go.vansh.nyc/1Cd) — Remote, United States, Stafford, VA
 - [CACI — Embedded Software Development Intern](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147) — Westminster, CO
 - [CACI — Embedded Software Development Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147) — Denver, CO
 - [CACI — Software Development Intern](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051) — Ashburn, VA
@@ -233,7 +235,6 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Amplify — Software Engineer Intern](https://go.vansh.nyc/c6) — Remote in USA
 - [Amplify — Summer 2027: Software Engineering Intern](https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa) — Remote - USA
 - [Ancestry — Software Engineer - Observability - Co-op](https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434) — Draper, UT
-- [Antares — Reactor Software Engineering Intern](https://go.vansh.nyc/17z) — Los Angeles, CA
 - [Antares — Reactor Software Engineering Intern - Summer 2027](https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3) — Los Angeles, CA
 - [Antares Nuclear — Software Engineer Intern](https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true) — Torrance, CA
 - [Anthelion Capital — Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true) — NYC
@@ -302,7 +303,6 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Auto-Owners Insurance — Software Developer Internship - Summer 2027](https://aoins.wd5.myworkdayjobs.com/en-US/autoowners/job/Lansing-MI/Software-Developer-Internship_R_2121) — Lansing, MI
 - [Auto-Owners Insurance — Software Engineer Intern](https://go.vansh.nyc/gh) — Bedford, NH
 - [Awardco — Back-End Software Engineer Intern](https://go.vansh.nyc/Ip) — Lindon, UT
-- [Axiom Space — Software Engineer Intern](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767) — Houston, TX
 - [Axiom Space — Software Engineering Intern - Summer 2027](https://axiomspace.wd5.myworkdayjobs.com/en-US/external_career_site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767) — Houston, TX
 - [Axos Bank — Software Development Intern](https://go.vansh.nyc/1bT) — San Diego, CA
 - [Badger Meter — Software Engineering Intern](https://badgermeter.wd5.myworkdayjobs.com/en-US/us_careersite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645) — Escondido, CA
@@ -374,8 +374,10 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Booz Allen Hamilton — Cyber Security Intern](https://go.vansh.nyc/1bV) 🇺🇸 — Colorado Springs, CO
 - [Bosch — Information Security and Privacy Intern](https://go.vansh.nyc/8w) — Farmington Hills, MI
 - [Bosch — Software Engineering Co-op](https://go.vansh.nyc/bd) — Fountain Inn, SC
+- [BoschGroup — Internship in Software Engineering](https://jobs.smartrecruiters.com/BoschGroup/744000162282030) — Tranås, Jönköpings län, se
 - [Bose — Software/DSP Research Engineer Co-op](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369) — Framingham, MA
-- [Boston Consulting Group — Forward Deployed AI Engineer Intern](https://careers.bcg.com/global/en/job/59702) — Boston, MA, LA, Chicago, IL, NYC
+- [boseallaboutme — Acoustic Systems Engineering Co-op](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MI---Bloomfield-Hills/Acoustic-Systems-Engineering-Co-op_R29347) — US, MI - Bloomfield Hills
+- [boseallaboutme — Electrical Engineering Co-op — FPGA and Audio Research Platforms](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Electrical-Engineering-Co-op---FPGA-and-Audio-Research-Platforms_R29366) — US, MA - Framingham
 - [Boston Scientific — R&D Software Engineer Intern](https://go.vansh.nyc/cr) — Arden Hills, MN
 - [Bracco — Product Security Engineering Intern](https://go.vansh.nyc/VO) — Eden Prairie, MN
 - [Bracco — Software Engineer Intern/Co-op - R&D Sustaining](https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327) — Eden Prairie, MN
@@ -753,7 +755,6 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Green Bay Packaging — Cybersecurity Intern](https://go.vansh.nyc/1xs) — Green Bay, WI
 - [Greenheck Group — Application Developer Co-op](https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721) — Schofield, WI
 - [greyco — Full Stack Engineer Intern - Summer 2027](https://greyco.wd108.myworkdayjobs.com/en-US/GTI/job/Warrenton-VA/Summer-2027---Full-Stack-Engineer-Internship_JR0000145) — Warrenton, VA
-- [GuideStone — Software Developer Intern - Software Development](https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129) — Dallas, TX
 - [GuideStone — Software Developer Intern, Software Development](https://go.vansh.nyc/J6) — Dallas, TX
 - [GuideStone — Summer Intern - Software Developer](https://guidestone.wd1.myworkdayjobs.com/en-US/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129) — Dallas, TX
 - [H&CO — Software Development Intern](https://go.vansh.nyc/1K) — Coral Gables, FL
@@ -844,7 +845,6 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Illinois Tool Works — Software Engineer Intern](https://careers.itw.com/global/en/job/JR10261) — Eden Prairie, MN
 - [Illinois Tool Works — Software Engineer Intern - Application Software](https://careers.itw.com/global/en/job/JR10491) — Eden Prairie, MN
 - [Illinois Tool Works — Software Engineer Intern, Application Software](https://go.vansh.nyc/1wE) — Eden Prairie, MN
-- [Illumio — Engineering Intern, Product Security](https://go.vansh.nyc/cO) — Sunnyvale, CA
 - [Illumio — Engineering Intern, SRE](https://go.vansh.nyc/1pl) — Sunnyvale, CA
 - [Illumio — Security Research Intern](https://go.vansh.nyc/cQ) — Sunnyvale, CA
 - [illumio — Security and Compliance Analyst Intern](https://jobs.ashbyhq.com/illumio/8013747a-938c-41ef-9d5b-7b6188ae0b5c) — Sunnyvale, California - HQ
@@ -988,7 +988,7 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [LuxeMediaLLC — Web Developer/Programmer Intern/Volunteer](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337884) — Los Angeles, CA, us
 - [Lyft — Software Engineer Intern - Backend](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) — SF
 - [Lyft — Software Engineer Intern, Backend](https://go.vansh.nyc/Qm) — San Francisco, CA
-- [Macy's — Software Engineer Intern](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91780) — Johns Creek, GA
+- [Macy's — Software Engineer Intern](https://go.vansh.nyc/Co) — Johns Creek, GA
 - [Manhattan Associates — A.I. Developer Co-Op - Boston - MA](https://manh.wd5.myworkdayjobs.com/en-US/campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_17046) — USA
 - [Manitowoc — Cybersecurity Intern](https://go.vansh.nyc/Vt) — Shady Grove, PA
 - [martinmarietta — Intern, IS Infrastructure (Summer 2027)](https://martinmarietta.wd5.myworkdayjobs.com/en-US/Martin_Marietta_Careers/job/Raleigh-NC/Intern--IS-Infrastructure_JR023723) — Raleigh, NC
@@ -1005,7 +1005,6 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Mativ — Cybersecurity Intern](https://go.vansh.nyc/11W) — Alpharetta, GA
 - [Mayo Clinic — Graduate Engineer Intern - Software Development](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190) — Rochester, MN
 - [McDonald's — Global Tech Infrastructure & Operations Intern](https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors) — Chicago, IL
-- [Medpace — Python Developer Intern](https://go.vansh.nyc/Ca) — Cincinnati, OH
 - [Medpace — Python Developer Internship - Summer 2027](https://uscareers-medpace.icims.com/jobs/13059/job) — Cincinnati, OH
 - [mercor — Research Engineer Intern - Environments, Data and Post-Training](https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca) — San Francisco
 - [Mercor — Research Engineer Intern, Benchmarking](https://go.vansh.nyc/WT) — San Francisco, CA
@@ -1259,11 +1258,9 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Reliable Robotics Corporation — Flight Software Engineer Intern](https://go.vansh.nyc/1z1) — Mountain View, CA
 - [Reliable Robotics Corporation — Flight Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed) — Mountain View, CA
 - [RetailReady — Full Stack Intern](https://go.vansh.nyc/1rt) — San Francisco, CA
-- [Revel — Embedded Software Engineer Intern](https://go.vansh.nyc/1eS) — Los Angeles, CA, San Francisco, CA
 - [Revel — Embedded Software Engineer Intern](https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889/application?embed=true) — SF, LA
 - [Revel — Forward Deployed Engineer Intern - Software](https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/application?embed=true) — SF, LA
 - [Revel — Forward Deployed Engineer Intern, Software](https://go.vansh.nyc/1eT) — Los Angeles, CA, San Francisco, CA
-- [revel — Internship: Embedded Software Engineer](https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889) 🇺🇸 — Los Angeles
 - [revel — Internship: Forward Deployed Engineer, Software](https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc) 🇺🇸 — Los Angeles
 - [revel — Internship: Forward Deployed Engineer, Test](https://jobs.ashbyhq.com/revel/6ca4dca8-a43e-41da-acc3-e6b4d8f9b3c1) 🇺🇸 — Los Angeles
 - [revel — Internship: Software Engineer, Test](https://jobs.ashbyhq.com/revel/f080b27d-92c7-4e1f-a85f-b4a7c166d738) 🇺🇸 — Los Angeles
@@ -1294,16 +1291,16 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Roblox — Summer 2027 Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) — San Mateo, CA
 - [Rockefeller Capital Management — Analyst Intern, Core Platforms](https://go.vansh.nyc/1mu) — Hamilton, NJ
 - [Rockefeller Capital Management — Analyst Intern, Information Security](https://go.vansh.nyc/1mv) — New York, NY
-- [rocketlab — Ground Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/8007202003) — Stennis Space Center, MS
 - [rocketlab — Ground Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/8042092003) — Middle River, MD
+- [rocketlab — Ground Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/8007202003) — Stennis Space Center, MS
 - [rocketlab — Security Analyst Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986956003) 🇺🇸 — Long Beach, CA
-- [rocketlab — Security Analyst Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986874003) 🇺🇸 — Albuquerque, NM
-- [rocketlab — Security Analyst Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986963003) 🇺🇸 — Middle River, MD
 - [rocketlab — Security Analyst Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986961003) 🇺🇸 — Wallops Island, VA
-- [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) — Pasadena, CA
-- [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7990270003) — Tucson, AZ
+- [rocketlab — Security Analyst Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986963003) 🇺🇸 — Middle River, MD
+- [rocketlab — Security Analyst Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986874003) 🇺🇸 — Albuquerque, NM
 - [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7987046003) — Long Beach, CA
 - [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7990272003) — Chantilly, VA
+- [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7990270003) — Tucson, AZ
+- [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) — Pasadena, CA
 - [Rockwell Automation — Co-op - Embedded Software Engineer](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external-rockwell-automation-early-careers/job/Milwaukee-Wisconsin-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473) — Milwaukee, WI +1
 - [Rockwell Automation — Embedded Software Engineer Co-op](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473) — Mayfield Heights, OH
 - [Rockwell Automation — Intern - Software Developer/Engineering](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2) — Mequon, WI
@@ -1325,7 +1322,7 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Salesforce — Software Engineer Intern, Security/Government](https://go.vansh.nyc/bA) 🇺🇸 — San Francisco, CA, Bellevue, WA
 - [Salesforce — Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) — California, USA +9
 - [Salesforce — Summer 2027 Intern - Software Engineer - Security/Government](https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) — California, USA +2
-- [Sallie Mae — Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633) — Indianapolis, IN
+- [Sallie Mae — Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000625) — Indianapolis, IN
 - [Samsara — Software Engineering Internship - San Francisco](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) — San Francisco, CA
 - [Samsung Semiconductor — Compiler Engineer Intern](https://go.vansh.nyc/1yw) — San Jose, CA
 - [Samsung Semiconductor — Intern - Systems Software Engineering](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003) — San Jose, CA
@@ -1490,10 +1487,8 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Textron — Software Engineer Intern - Electronic Systems](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688) — Hunt Valley, Cockeysville, MD
 - [The Federal Reserve System — Computer Science and Software Engineering Intern](https://go.vansh.nyc/1oa) — Chicago, IL
 - [The Federal Reserve System — Information Security Intern](https://go.vansh.nyc/1iJ) — Atlanta, GA
-- [The New York Times — Android Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005) — NYC
-- [The New York Times — Android Engineering Intern](https://go.vansh.nyc/1l6) — New York, NY
-- [The New York Times — iOS Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005) — NYC
-- [The New York Times — iOS Engineering Intern](https://go.vansh.nyc/1l8) — New York, NY
+- [The New York Times — Android Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005) — New York City, NY
+- [The New York Times — iOS Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005) — New York City, NY
 - [The Nuclear Company — Software Engineering Intern - Product - Platform](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008) — Washington, DC
 - [The Toro Company — Cloud Software Developer Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498) — Frederick, CO
 - [The Toro Company — Cloud Software Development Intern - The Toro Company](https://ttc.wd1.myworkdayjobs.com/en-US/toro_external_careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498) — Frederick, CO
@@ -1665,6 +1660,8 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Waggoner Financial — Software Engineer Intern](https://go.vansh.nyc/109) — Lansing, MI
 - [waggoner-financial — Software Engineer Internship](https://apply.workable.com/j/FA0B644142) — Lansing, Michigan, United States
 - [Walmart — Software Engineer 2 Intern](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1) — Bentonville, AR, Bellevue, WA, Sunnyvale, CA
+- [walmart — Summer 2027 Corporate Intern: Platform Stability & Defect Prevention – Last Mile Delivery](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2705761) — (USA) Together Building AR Bentonville Home Office
+- [walmart — Summer 2027 Intern: Cybersecurity Undergrad](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Undergrad_R-2630025) — (USA) ISD Office - DGTC AR BENTONVILLE Home Office
 - [Walmart — Summer 2027 Intern:: Software Engineer II](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1) — USA
 - [Walrus — Full Stack Developer Intern](https://go.vansh.nyc/dZ) — NYC
 - [wattswater — End User & Infrastructure Support Intern, Summer 2027](https://wattswater.wd5.myworkdayjobs.com/en-US/Intern-External/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567) — Andover, MA Federal Street
@@ -2000,9 +1997,13 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Bosch — AI Research Intern, Wireless Foundation Models](https://go.vansh.nyc/be) — Pittsburgh, PA
 - [Bosch — Embedded AI Software Engineering Co-op](https://go.vansh.nyc/1tK) — Fountain Inn, SC
 - [BoschGroup — Extracurricular Internship: AI Software Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000162244270) — Aveiro, pt
+- [BoschGroup — (Internship) AI & Automatization Intern](https://jobs.smartrecruiters.com/BoschGroup/744000162263579) — Thu Duc City, vn
 - [Bose — DSP/ML Research Engineer Intern](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371) — Framingham, MA
 - [Bose — Digital Signal Processing ML Software Development Co-op](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372) — Framingham, MA
 - [Bose — Embedded Audio ML Engineer Co-op](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719) — Framingham, MA
+- [boseallaboutme — Audio Machine Learning Co-op](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Audio-Machine-Learning-Co-op_R29274) — US, MA - Framingham
+- [boseallaboutme — DSP/ML Research Engineer Intern | Summer 2027](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371) — US, MA - Framingham
+- [boseallaboutme — Data Science Co-Op (NLP & GenAI)](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251) — 3 Locations
 - [Boston Scientific — AI Acceleration Intern](https://go.vansh.nyc/1Aa) — Marlborough, MA
 - [Boston Scientific — AI Engineer Intern - Generative & Agentic AI](https://bostonscientific.eightfold.ai/careers/job/563602813827837) — Marlborough, MA, Maple Grove, MN, Arden Hills, MN
 - [Boston Scientific — AI Engineering Intern, Generative and Agentic AI](https://go.vansh.nyc/1A8) — Marlborough, MA
@@ -2064,7 +2065,6 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Clarios — IT Digital/AI Intern](https://go.vansh.nyc/1qy) — Milwaukee, WI
 - [clarios — IT Digital/AI Intern (Summer 2027)](https://clarios.wd5.myworkdayjobs.com/en-US/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910) — United States, Wisconsin, Milwaukee
 - [Clarios — IT Digital/AI Intern - Summer 2027](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910) — Milwaukee, WI
-- [cmu — AI Engineer Intern - Mission Innovation Lab (Summer 2027)](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1) — Pittsburgh, PA
 - [CNA Insurance — AI Engineering Intern, Technology](https://go.vansh.nyc/1ca) — Chicago, IL
 - [Coinbase — Machine Learning Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8175441) — SF
 - [collinear-ai — MTS - Research Scientist Internship ](https://jobs.ashbyhq.com/collinear-ai/ae85fd08-dfd8-42e5-9b3b-9921ba24742b) — Sunnyvale, California
@@ -2079,6 +2079,7 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Costco — Digital Services Intern, Infosec AI/ML](https://go.vansh.nyc/1bA) — Issaquah, WA
 - [CoVar — Machine Learning Intern](https://go.vansh.nyc/1g3) — Durham, NC
 - [covar — Machine Learning Internship Summer 2027](https://job-boards.greenhouse.io/covar/jobs/5240360007) — Durham, NC
+- [croesus — Internship - Technological Innovation Developer, AI profile](https://croesus.wd10.myworkdayjobs.com/en-US/ext/job/Laval/Internship---Technological-Innovation-Developer--AI-profile_JR100016-1) — Laval
 - [cssmerge — AI Research Intern  (BS/MS)](https://job-boards.greenhouse.io/cssmerge/jobs/8919606002) — Mountain View, CA
 - [CVS Health — Data Science Intern, Innovation & Technology](https://go.vansh.nyc/fm) — New York, NY
 - [CVS Health — Innovation & Technology Data Science Intern](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067) — NYC
@@ -2351,6 +2352,7 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [phonic — Machine Learning Research Intern 2027](https://jobs.ashbyhq.com/phonic/a6c8c3d2-250a-4c2f-8a20-e4667ca38e41) — San Francisco
 - [Pinterest — Data Science Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) — Palo Alto, CA, Seattle, WA, SF, NYC
 - [Pinterest — Machine Learning Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) — Palo Alto, CA, Seattle, WA, SF, NYC
+- [plexus — Intern - IT Data Science (Summer 2027)](https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---IT-Data-Science--Summer-2027-_R041586) — Neenah, WI
 - [plot — Co-op -- Applied AI](https://jobs.ashbyhq.com/plot/5f8cfeaa-c368-480f-aaa5-de52452a63d0) — New York City
 - [pluralis-research — Research Scientist Intern](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be) — San Francisco
 - [PODS — Operations Data Science Intern](https://go.vansh.nyc/1yX) — Clearwater, FL
@@ -2429,6 +2431,7 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [ServiceNow — Associate AI Engineering Intern, Cloud Security Automation](https://go.vansh.nyc/1vZ) — Santa Clara, CA
 - [ServiceNow — Associate Software Engineer Intern, AI Engineering](https://go.vansh.nyc/8N) — Santa Clara, CA
 - [sevenresearch — Deep Learning Researcher - Summer Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008) — New York
+- [sezzle — AI Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7906563003) — Peru
 - [SharkNinja — Data Science Intern](https://go.vansh.nyc/1wu) — Needham, MA
 - [sharkninjaoperatingllc — Applied AI, Analytics & Data Science Intern Summer Opportunities (May-Aug 2027)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713808006) — Miami, Florida, United States; Needham, MA, United States
 - [sharkninjaoperatingllc — Summer 2027: Data Science Intern (May to August)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006) — Needham, MA, United States
@@ -2457,6 +2460,8 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [stradaeducation — Strada Education Foundation Internship: Clear Outcomes and Data Science Intern](https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b) — Washington, DC
 - [Stripe — Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=8328662) — Seattle, WA, SF, NYC
 - [Susquehanna International Group — Machine Learning Engineering Intern](https://go.vansh.nyc/RM) — Bala Cynwyd, PA
+- [symbotic — Co-op- Machine Learning Ops](https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Wilmington--MA---HQ/Co-op--Machine-Learning-Ops_R8327) — USA Wilmington,  MA - HQ
+- [symbotic — Intern- Machine Learning Ops](https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Wilmington--MA---HQ/Intern--Machine-Learning-Ops_R8202) — USA Wilmington,  MA - HQ
 - [Syntiant — DevOps Machine Learning Infrastructure Intern](https://go.vansh.nyc/11V) — Irvine, CA
 - [Syntiant — Internship - DevOps Machine Learning Infrastructure](https://apply.workable.com/syntiant/j/468B53B345/) — Irvine, CA
 - [syntiant — Internship - DevOps Machine Learning Infrastructure Engineer](https://apply.workable.com/j/468B53B345) — Irvine, California, United States
@@ -2532,10 +2537,12 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [TikTok — Machine Learning Engineer Intern - Trust and Safety](https://lifeattiktok.com/search/7662672554084059445) — San Jose, CA
 - [TikTok — Machine Learning Engineer Intern, Ads Signal & Measurement](https://go.vansh.nyc/17Q) — San Jose, CA
 - [TikTok — Machine Learning Engineer Intern, Brand Ads](https://go.vansh.nyc/17N) — San Jose, CA
+- [TikTok — Machine Learning Engineer Intern, Commerce Ads](https://go.vansh.nyc/17Z) — San Jose, CA
 - [TikTok — Machine Learning Engineer Intern, Data-Global E-Commerce-Search](https://go.vansh.nyc/1ym) — San Jose, CA
 - [TikTok — Machine Learning Engineer Intern, E-Commerce Governance](https://go.vansh.nyc/Cx) — Seattle, WA
 - [TikTok — Machine Learning Engineer Intern, E-Commerce Recommendation Mall](https://go.vansh.nyc/Cw) — Seattle, WA
 - [TikTok — Machine Learning Engineer Intern, E-Commerce Recommendation Mall](https://go.vansh.nyc/1sI) — San Jose, CA
+- [TikTok — Machine Learning Engineer Intern, E-Commerce Recommendation/Search Alliance](https://go.vansh.nyc/CA) — Seattle, WA
 - [TikTok — Machine Learning Engineer Intern, Global E-Commerce Search](https://go.vansh.nyc/18r) — Seattle, WA
 - [TikTok — Machine Learning Engineer Intern, Lead Ads](https://go.vansh.nyc/182) — San Jose, CA
 - [TikTok — Machine Learning Engineer Intern, Monetization Technology, Ads Core Global](https://go.vansh.nyc/G8) — San Jose, CA
@@ -2631,6 +2638,10 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Walmart — Data Science & Data Analytics Intern, Last Mile Delivery](https://go.vansh.nyc/1sh) — Bentonville, AR
 - [Walmart — Data Science Intern 3](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030) — Bentonville, AR
 - [Walmart — Data Science Intern, Last Mile Delivery](https://go.vansh.nyc/1jy) — Bentonville, AR
+- [walmart — Summer 2027 Corporate Intern: Data Science & Data Analytics – Last Mile Delivery](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/Bentonville-AR/Summer-2027-Corporate-Intern--Data-Science---Data-Analytics---Last-Mile-Delivery_R-2690193) — Bentonville, AR
+- [walmart — Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Last-Mile-Delivery-Data-Science-Intern_R-2686435) — (USA) Together Building AR Bentonville Home Office
+- [walmart — Summer 2027 Intern: Intern: Sr Data Science](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032) — (USA) ISD Office - DGTC AR BENTONVILLE Home Office
+- [walmart — Summer 2027 Intern:: Data Science III](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030) — (USA) ISD Office - DGTC AR BENTONVILLE Home Office
 - [Wellmark — Software Engineer Intern - AI Platform Team](https://jobs.smartrecruiters.com/WellmarkInc/744000159260670) — Des Moines, IA
 - [Wellmark — Software Engineer Intern, AI Platform Team](https://go.vansh.nyc/1bl) — Des Moines, IA
 - [Wellmark — Software Engineer Internship - AI Platform Team](https://jobs.smartrecruiters.com/WellmarkInc/744000159260670-software-engineer-internship-ai-platform-team?oga=true) — Des Moines, IA
@@ -2724,6 +2735,7 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [skydio — Autonomy Engineer Intern, Reinforcement Learning, 2027 (HQ)](https://jobs.ashbyhq.com/skydio/19352f5e-c30d-4184-a070-3c25b0ebc048) — San Mateo, California, United States
 - [Skydio — Autonomy Engineer Intern, Simulation & Robotics](https://go.vansh.nyc/Si) — San Mateo, CA
 - [skydio — Autonomy Engineer Intern, Simulation & Robotics, 2027 (HQ)](https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17) — San Mateo, California, United States
+- [The Aerospace Corporation — Lidar Undergraduate Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Lidar-Undergraduate-Intern_R017200) — El Segundo, CA
 - [Zoox — Autonomy and Geofence Expansion Intern](https://go.vansh.nyc/ZX) — Foster City, CA
 - [Zoox — Software Engineer Intern - Autonomy Software](https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877/apply) — Foster City, CA
 - [Zoox — Software Engineer Intern - Autonomy Software - Summer 2027](https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877) — Foster City, CA
@@ -2757,7 +2769,6 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [bobyard — Computer Vision Research Engineer - Intern ](https://jobs.ashbyhq.com/bobyard/ae7aa71b-5ed2-4066-b173-fc0618f2ed8f) — San Francisco
 - [Bosch — Powertrain Controls Software Engineering Intern - 6-Months - Full-Time](https://jobs.smartrecruiters.com/BoschGroup/744000142898574-powertrain-controls-software-engineering-intern-6-months-full-time-?oga=true) — Farmington Hills, MI
 - [Bosch — Robotics Research Intern](https://go.vansh.nyc/86) — Sunnyvale, CA
-- [BoschGroup — Robot Learning Research Intern ](https://jobs.smartrecruiters.com/BoschGroup/744000162212029) — Pittsburgh, PA, us
 - [bracket-bot — Robotics Engineering Intern](https://jobs.ashbyhq.com/bracket-bot/aecb5cb3-a96b-4ba8-863d-a1ad45414086) — San Francisco
 - [Brunswick — Mercury Marine: Software Controls Engineering Intern](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Software-Controls-Engineering-Intern_JR-051436) — Fond du Lac, WI
 - [ByteDance — AI Perception Intern - Pico](https://jobs.bytedance.com/en/position/7665457718334425349/detail) — San Jose, CA
@@ -2847,6 +2858,7 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [StackAV — Research Intern - Autonomy](https://job-boards.greenhouse.io/stackav/jobs/5287594007) — Remote in USA, Pittsburgh, PA
 - [stealth-startup-community — Embedded Firmware and Controls Engineer Intern](https://go.vansh.nyc/X4) — Austin, TX
 - [SurePoint Ag Systems — Drone Imaging Agronomy Intern](https://surepoint.bamboohr.com/careers/109/) — Manhattan, KS
+- [symbotic — Intern- Robot Manipulation](https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Wilmington--MA---HQ/Intern--Robot-Manipulation_R8278) — USA Wilmington,  MA - HQ
 - [Symbotic — Robot Manipulation Intern](https://go.vansh.nyc/bt) — Wilmington, MA
 - [Textron — Autonomy Engineer Intern - Air Systems](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342925) — Hunt Valley, Cockeysville, MD
 - [Textron — Autonomy Engineer Intern, Air Systems](https://go.vansh.nyc/LE) — Hunt Valley, MD, Cockeysville, MD
@@ -2971,8 +2983,8 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Dick's Sporting Goods — Product Management Intern - Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) — Pittsburgh, PA
 - [doordashusa — Product Design, Intern (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) — San Francisco, CA; New York, NY
 - [DreamWorks Animation — Streaming Platforms – Product Management Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160661249) — NYC
-- [drivewealth — AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87) — Chicago, IL
 - [drivewealth — AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027](https://boards.greenhouse.io/drivewealth/jobs/8038087003?gh_jid=8038087003) — Office - Chicago; Office - NYC
+- [drivewealth — AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87) — Chicago, IL
 - [DriveWealth — AI Consulting Associate Program Product Owner Intern](https://boards.greenhouse.io/drivewealth/jobs/8038087003) — Chicago, IL, NYC
 - [DriveWealth — AI Consulting Associate Program Product Owner Intern](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true) — Chicago, IL
 - [DriveWealth — Product Owner Intern, AI Consulting Associate Program](https://go.vansh.nyc/df) — Chicago, IL, NYC
@@ -2981,7 +2993,6 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [DwyerOmega — Product Management Intern - Pressure & Force](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645741) — Michigan City, IN, Sunbury, OH
 - [Dynamic Catholic — Front-End UX Intern](https://go.vansh.nyc/1eA) — Erlanger, KY
 - [dynamiccatholic — Internship - Front-End UX Intern](https://jobs.lever.co/dynamiccatholic/603f082e-07c8-4b1c-ac09-8963c51229ad) — Erlanger, Kentucky
-- [Electronic Arts — Product Management Intern](https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182) — Austin, TX
 - [Entegris — Associate Product Manager Intern](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) — Chaska, MN
 - [Entegris — Product Management Intern](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838) — Colorado Springs, CO
 - [Epic Games — Product Management Intern](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) — Cary, NC
@@ -3022,7 +3033,6 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [Medline — Product Management Intern - Summer 2027](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983) — Chicago, IL, Northfield, IL
 - [mill — Product Design Engineering Intern, Summer 2027](https://job-boards.greenhouse.io/mill/jobs/4737767005) — San Bruno, California
 - [Mohawk — Product Management Intern](https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors) — Calhoun, GA
-- [NBCUniversal3 — Franchise, Products & Partnerships: Creative and Product Design & Development Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000161161787) — Universal City, CA, us
 - [Nelnet — Intern - UX/UI Front End Engineer](https://nelnet.wd1.myworkdayjobs.com/en-US/mynelnet/job/Madison-WI/Intern---UX-UI-Front-End-Engineer_R23118) — Madison, WI
 - [njm — Insurance Product Management Analyst Intern](https://njm.wd1.myworkdayjobs.com/en-US/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190) — NJM - Trenton
 - [NJM Insurance Group — Insurance Product Management Analyst Intern 3](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190) — Trenton, NJ
@@ -3053,8 +3063,8 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [SageSure — Data Science Product Analyst Intern](https://go.vansh.nyc/1oj) — Fairfield, CA
 - [SageSure — Software Product Management Intern](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006) — Chicago, IL +2
 - [ServiceNow — Inbound Product Manager Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161885234) — San Diego, CA
-- [sezzle — Product Management Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7537957003) — Colombia, Remote
 - [sezzle — Product Management Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7998740003) — Peru
+- [sezzle — Product Management Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7537957003) — Colombia, Remote
 - [sezzle — Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044470003) — Colombia, Remote
 - [sezzle — Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044473003) — Peru
 - [sharkninjaoperatingllc — Product Design Engineering Intern Summer Opportunities (May-Aug 2027)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713810006) — Needham, MA, United States
@@ -3194,7 +3204,9 @@ Ranked software engineering and forward deployed first, then ML engineering, the
 - [drivewealth — AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027](https://boards.greenhouse.io/drivewealth/jobs/8039368003?gh_jid=8039368003) — Office - Chicago
 - [drivewealth — AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027](https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a) — Chicago, IL
 - [drivewealth — AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027](https://boards.greenhouse.io/drivewealth/jobs/8039350003?gh_jid=8039350003) — Office - Chicago; Office - NYC
+- [drivewealth — AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec) — Chicago, IL
 - [DriveWealth — AI Consulting Associate Program Brokerage Intern](https://boards.greenhouse.io/drivewealth/jobs/8039368003) — Chicago, IL
+- [DriveWealth — AI Consulting Associate Program People Analytics Intern](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true) — Chicago, IL, NYC
 - [DriveWealth — AI Consulting Associate Program – AI Engineer Intern](https://boards.greenhouse.io/drivewealth/jobs/8039350003) — Chicago, IL, NYC
 - [DriveWealth — AI Consulting Associate Program – AI Engineer Intern](https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true) — Chicago, IL
 - [DriveWealth — AI Engineer Intern, AI Consulting Associate Program](https://go.vansh.nyc/de) — Chicago, IL, NYC

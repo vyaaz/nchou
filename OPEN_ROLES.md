@@ -1,6 +1,6 @@
 # Open roles right now
 
-_Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3897 posting(s) currently open and matching filters._
+_Auto-generated each run; do not hand-edit. Last update: 2026-11-18 18:34 UTC. 3912 posting(s) currently open and matching filters._
 
 ## AI: Allen Institute (AI2) (1)
 
@@ -10,70 +10,57 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 
 - [AI: Haize Labs — Software Engineer Intern](https://job-boards.greenhouse.io/haizelabs/jobs/4685944008) — NYC
 
-## AUTO-DISCOVER (all boards found in trackers) (985)
+## AUTO-DISCOVER (all boards found in trackers) (1008)
 
 - [leantechniques — Software Intern - Hybrid](https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862) — Hybrid
+- [allen-control-systems — Systems Engineering Intern, 2027](https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476) — Austin, TX
+- [allen-control-systems — Computer Vision/Machine Learning Intern, 2027](https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037) — Austin, TX
+- [ellipsislabs — Software Engineer - 2027 Interns](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) — New York, New York
+- [patreon — Product Design Intern - Summer 2027](https://jobs.ashbyhq.com/patreon/b492a008-4218-4ec8-91dc-0fb512027849) — New York
 - [atalanta — Software Engineer Intern](https://jobs.ashbyhq.com/atalanta/52011b21-df9a-4304-81a9-005a79f55335) — Washington D.C.
 - [atalanta — Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/atalanta/f7625af9-5408-44bd-a707-7f4519ca41d8) — Washington D.C.
-- [ellipsislabs — Software Engineer - 2027 Interns](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) — New York, New York
-- [Terranova — AI Intern — Part-Time, Temporary (In Person)](https://jobs.ashbyhq.com/Terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942) — Berkeley
 - [netic — Forward Deployed Engineer (FDE) - Intern - 2026-2027](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c) — San Francisco
 - [netic — Full-Stack Software Engineer (Product) - Intern - 2026-2027](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef) — San Francisco
 - [netic — Software Engineer (Agent Platform) - Intern - 2026-2027](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) — San Francisco
-- [rhoda-ai — Optical Sensing Intern - Robot Perception](https://jobs.ashbyhq.com/rhoda-ai/df2aa2a4-ca56-4fa6-b106-89a7fc6a9bb4) — Mountain View
-- [allen-control-systems — Systems Engineering Intern, 2027](https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476) — Austin, TX
-- [allen-control-systems — Computer Vision/Machine Learning Intern, 2027](https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037) — Austin, TX
+- [Astro-Mechanica — GNC Engineering Intern](https://jobs.ashbyhq.com/Astro-Mechanica/6ee33f39-7a07-4b46-8caf-5f6f7b62eb40) — San Francisco
 - [amplify — Summer 2027: AI Scientist Intern](https://jobs.ashbyhq.com/amplify/bb45b7f6-dd7e-40e5-84e6-52e21650a7b8) — Remote - United States
 - [amplify — Summer 2027: Product Design Intern](https://jobs.ashbyhq.com/amplify/0b593144-07c5-45be-b979-6c37879e6300) — Remote - United States
 - [amplify — Summer 2027: Product Management Intern](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e) — Remote - United States
-- [Astro-Mechanica — GNC Engineering Intern](https://jobs.ashbyhq.com/Astro-Mechanica/6ee33f39-7a07-4b46-8caf-5f6f7b62eb40) — San Francisco
-- [patreon — Product Design Intern - Summer 2027](https://jobs.ashbyhq.com/patreon/b492a008-4218-4ec8-91dc-0fb512027849) — New York
-- [megazone — Data Engineer Co-op 2027](https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa) — Rochester, NY
+- [Etched — Infrastructure Engineering & Projects Intern](https://jobs.ashbyhq.com/Etched/1a92048c-60e0-445b-a84e-8f008f1cf47b) — San Jose
+- [heron-power — Intern, Power Electronics Controls Engineer (Spring /Summer 2027)](https://jobs.ashbyhq.com/heron-power/225d25cd-4b1a-4025-92bf-0624f2261862) — Scotts Valley
+- [Terranova — AI Intern — Part-Time, Temporary (In Person)](https://jobs.ashbyhq.com/Terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942) — Berkeley
+- [rhoda-ai — Optical Sensing Intern - Robot Perception](https://jobs.ashbyhq.com/rhoda-ai/df2aa2a4-ca56-4fa6-b106-89a7fc6a9bb4) — Mountain View
 - [rilla — Product Designer, Internship](https://jobs.ashbyhq.com/rilla/c15fc0ad-6da3-4bab-9c64-f8288453b2ae) — New York City
 - [gecko-robotics — AI/Machine Learning Engineering Intern](https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8) — New York City
-- [n1 — Software Engineer Intern (Fullstack)](https://jobs.ashbyhq.com/n1/298585c3-96b1-4728-8d37-31482f85a064) — New York City
-- [heron-power — Intern, Power Electronics Controls Engineer (Spring /Summer 2027)](https://jobs.ashbyhq.com/heron-power/225d25cd-4b1a-4025-92bf-0624f2261862) — Scotts Valley
 - [reliable-robotics — Electrical Systems Integration Intern (Summer 2027)](https://jobs.ashbyhq.com/reliable-robotics/b5068379-a36c-4b10-ab38-1c0282f24a69) — Mountain View, CA
 - [reliable-robotics — Flight Simulation Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/reliable-robotics/0cd44e07-169f-4664-bf31-cded94b93deb) — Mountain View, CA
 - [reliable-robotics — Flight Guidance Intern (Summer 2027)](https://jobs.ashbyhq.com/reliable-robotics/3df94176-256f-49be-af9a-c9a8d1d1f5e4) — Mountain View, CA
 - [reliable-robotics — Flight Navigation Intern (Summer 2027)](https://jobs.ashbyhq.com/reliable-robotics/abe9c754-1559-471f-b472-4c1be9ba6c2f) — Mountain View, CA
-- [bedrock-robotics — 2027 Internship Sensor Systems Engineer](https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c) — San Francisco, CA
-- [bedrock-robotics — 2027 Internship Onboard Infrastructure Engineer, ML Inference](https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8) — San Francisco, CA
-- [bedrock-robotics — 2027 Internship Behavior Machine Learning Engineer, World Models](https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1) — San Francisco, CA
-- [bedrock-robotics — 2027 Internship State Estimation, Learned Mapping & Semantic SLAM](https://jobs.ashbyhq.com/bedrock-robotics/8c7bad61-50e3-4702-be36-72e9b72a9760) — San Francisco, CA
-- [bedrock-robotics — 2027 Internship Simulation Engineer, Neural Rendering](https://jobs.ashbyhq.com/bedrock-robotics/77759050-75f5-45ed-a3a8-35b665daaadc) — San Francisco, CA
-- [bedrock-robotics — 2027 Internship Behavior ML Engineer, Learned Manipulation Policies](https://jobs.ashbyhq.com/bedrock-robotics/96a6423e-7439-4cb4-9109-117b14e47f7c) — San Francisco, CA
-- [uipath — Software Engineer Intern](https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04) — Bellevue
-- [gritt — Robot Learning Engineer Intern](https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd) — South San Francisco
-- [gritt — Robotics Perception Engineer Intern](https://jobs.ashbyhq.com/gritt/26af4e71-339d-4aa3-9f22-91574c1166b9) — South San Francisco
-- [gritt — Robotics Planning & Controls Engineer Intern](https://jobs.ashbyhq.com/gritt/df9254b5-e323-411a-a36f-57bd24a3de56) — South San Francisco
-- [Etched — Infrastructure Engineering & Projects Intern](https://jobs.ashbyhq.com/Etched/1a92048c-60e0-445b-a84e-8f008f1cf47b) — San Jose
-- [aurora-operations-inc — Lidar Systems Intern](https://jobs.ashbyhq.com/aurora-operations-inc/ce5ad079-0588-402a-aa0e-b5efe0ba28f1) — Mountain View, CA
-- [aurora-operations-inc — Lidar R&D and Architecture Intern](https://jobs.ashbyhq.com/aurora-operations-inc/b61cb8ea-3ab6-46ed-90d7-be3ad9ac85ad) — Bozeman, MT
 - [REGENT — Systems Engineering Intern (Commercial) (Summer)](https://jobs.ashbyhq.com/REGENT/2b47c43c-79ad-499f-8570-61f9107ff32c) — North Kingstown, Rhode Island, USA
 - [REGENT — State Estimation Intern (Summer)](https://jobs.ashbyhq.com/REGENT/8c76e568-34ce-49d0-ade8-fcc6bdf656cf) — North Kingstown, Rhode Island, USA
 - [REGENT — Systems Engineering Intern - Safety Analysis (Summer)](https://jobs.ashbyhq.com/REGENT/9370adbc-f344-4aeb-a99d-65acaac87894) — North Kingstown, Rhode Island, USA
 - [REGENT — Cybersecurity & IT Operations Intern (Summer)](https://jobs.ashbyhq.com/REGENT/dfdbb28f-f289-45b9-a2e5-158d81b93524) — North Kingstown, Rhode Island, USA
 - [REGENT — Modeling & Simulation Intern (Summer)](https://jobs.ashbyhq.com/REGENT/bca4be90-229d-49c4-8424-44a15dd72b1c) — North Kingstown, Rhode Island, USA
 - [REGENT — Guidance, Navigation and Control (GNC) Intern](https://jobs.ashbyhq.com/REGENT/6b044f00-b7e8-4141-8cd8-2d77fa40eea0) — North Kingstown, Rhode Island, USA
-- [reonic — AI Product Manager Intern - (AI x Greentech) (m/f/d)](https://jobs.ashbyhq.com/reonic/1f2083ea-7dba-47ff-8429-f4bed27e224c) — Augsburg
-- [reonic — Software Engineer Intern - (AI x Greentech) (m/f/d)](https://jobs.ashbyhq.com/reonic/1e64e8ef-224e-4c03-9e63-851623370638) — Augsburg
-- [telus-digital — Product Analyst Intern (US) - Summer 2027](https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7) — Columbus
-- [realmalliance — Software Engineer - Intern](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) — Remote
-- [prophet-security — Software Engineer, Backend Intern](https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612) — Palo Alto (In office)
-- [taktile — Software Engineer Intern](https://jobs.ashbyhq.com/taktile/bce11078-1da2-4826-a70e-7eccfd702dd1) — Iasi Office
-- [mercor — Research Engineer Intern - Environments, Data and Post-Training](https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca) — San Francisco
-- [mercor — Research Engineer, Intern – Benchmarking](https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae) — San Francisco
-- [notion — Product Design Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9) — New York, New York
+- [megazone — Data Engineer Co-op 2027](https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa) — Rochester, NY
+- [uipath — Software Engineer Intern](https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04) — Bellevue
+- [n1 — Software Engineer Intern (Fullstack)](https://jobs.ashbyhq.com/n1/298585c3-96b1-4728-8d37-31482f85a064) — New York City
+- [aurora-operations-inc — Lidar Systems Intern](https://jobs.ashbyhq.com/aurora-operations-inc/ce5ad079-0588-402a-aa0e-b5efe0ba28f1) — Mountain View, CA
+- [aurora-operations-inc — Lidar R&D and Architecture Intern](https://jobs.ashbyhq.com/aurora-operations-inc/b61cb8ea-3ab6-46ed-90d7-be3ad9ac85ad) — Bozeman, MT
+- [gritt — Robot Learning Engineer Intern](https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd) — South San Francisco
+- [gritt — Robotics Perception Engineer Intern](https://jobs.ashbyhq.com/gritt/26af4e71-339d-4aa3-9f22-91574c1166b9) — South San Francisco
+- [gritt — Robotics Planning & Controls Engineer Intern](https://jobs.ashbyhq.com/gritt/df9254b5-e323-411a-a36f-57bd24a3de56) — South San Francisco
+- [bedrock-robotics — 2027 Internship Sensor Systems Engineer](https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c) — San Francisco, CA
+- [bedrock-robotics — 2027 Internship Onboard Infrastructure Engineer, ML Inference](https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8) — San Francisco, CA
+- [bedrock-robotics — 2027 Internship Behavior Machine Learning Engineer, World Models](https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1) — San Francisco, CA
+- [bedrock-robotics — 2027 Internship State Estimation, Learned Mapping & Semantic SLAM](https://jobs.ashbyhq.com/bedrock-robotics/8c7bad61-50e3-4702-be36-72e9b72a9760) — San Francisco, CA
+- [bedrock-robotics — 2027 Internship Simulation Engineer, Neural Rendering](https://jobs.ashbyhq.com/bedrock-robotics/77759050-75f5-45ed-a3a8-35b665daaadc) — San Francisco, CA
+- [bedrock-robotics — 2027 Internship Behavior ML Engineer, Learned Manipulation Policies](https://jobs.ashbyhq.com/bedrock-robotics/96a6423e-7439-4cb4-9109-117b14e47f7c) — San Francisco, CA
 - [ramp — Applied Scientist Intern](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) — New York, NY (HQ)
 - [ramp — Software Engineering Intern, Backend](https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04) — New York, NY (HQ)
-- [base-power — Hardware Technical Program Management Intern](https://jobs.ashbyhq.com/base-power/c6228333-5f84-4363-9a3a-fd1dfb8ad1a2) — Austin, TX
-- [base-power — Manufacturing Controls Engineering Intern](https://jobs.ashbyhq.com/base-power/6c56e236-888e-423d-9f68-764bd9a4742d) — Austin, TX
-- [base-power — Power Systems Engineering Intern](https://jobs.ashbyhq.com/base-power/8397f115-7806-4911-a12b-6231852c3443) — Austin, TX
-- [hadrian-automation — Robotics Engineer Intern](https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584) — Los Angeles, CA
-- [hadrian-automation — Data Science/ Data Engineer Intern](https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813) — Los Angeles, CA
-- [rivianvw.tech — Data Engineering Intern - AI & Analytics (January - August 2027)](https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322) — Palo Alto, California
-- [rivianvw.tech — Data Engineering Intern - AI & Analytics (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464) — Palo Alto, California
+- [notion — Product Design Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9) — New York, New York
+- [reonic — AI Product Manager Intern - (AI x Greentech) (m/f/d)](https://jobs.ashbyhq.com/reonic/1f2083ea-7dba-47ff-8429-f4bed27e224c) — Augsburg
+- [reonic — Software Engineer Intern - (AI x Greentech) (m/f/d)](https://jobs.ashbyhq.com/reonic/1e64e8ef-224e-4c03-9e63-851623370638) — Augsburg
 - [skydio — Autonomy Engineer Intern, Computer Vision / Deep Learning, 2027](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) — San Mateo, California, United States
 - [skydio — Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c) — San Mateo, California, United States
 - [skydio — Product Design Engineer Intern ](https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f) — San Mateo, California, United States
@@ -83,9 +70,24 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [skydio — Autonomy Engineer Intern, Simulation & Robotics, 2027 (HQ)](https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17) — San Mateo, California, United States
 - [skydio — Autonomy Engineer Intern, Reinforcement Learning, 2027 (HQ)](https://jobs.ashbyhq.com/skydio/19352f5e-c30d-4184-a070-3c25b0ebc048) — San Mateo, California, United States
 - [skydio — Systems Engineering Intern](https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a) — San Mateo, California, United States
+- [telus-digital — Product Analyst Intern (US) - Summer 2027](https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7) — Columbus
+- [taktile — Software Engineer Intern](https://jobs.ashbyhq.com/taktile/bce11078-1da2-4826-a70e-7eccfd702dd1) — Iasi Office
+- [prophet-security — Software Engineer, Backend Intern](https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612) — Palo Alto (In office)
+- [rivianvw.tech — Data Engineering Intern - AI & Analytics (January - August 2027)](https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322) — Palo Alto, California
+- [rivianvw.tech — Data Engineering Intern - AI & Analytics (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464) — Palo Alto, California
+- [realmalliance — Software Engineer - Intern](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) — Remote
+- [mercor — Research Engineer Intern - Environments, Data and Post-Training](https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca) — San Francisco
+- [mercor — Research Engineer, Intern – Benchmarking](https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae) — San Francisco
+- [base-power — Hardware Technical Program Management Intern](https://jobs.ashbyhq.com/base-power/c6228333-5f84-4363-9a3a-fd1dfb8ad1a2) — Austin, TX
+- [base-power — Manufacturing Controls Engineering Intern](https://jobs.ashbyhq.com/base-power/6c56e236-888e-423d-9f68-764bd9a4742d) — Austin, TX
+- [base-power — Power Systems Engineering Intern](https://jobs.ashbyhq.com/base-power/8397f115-7806-4911-a12b-6231852c3443) — Austin, TX
+- [hadrian-automation — Robotics Engineer Intern](https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584) — Los Angeles, CA
+- [hadrian-automation — Data Science/ Data Engineer Intern](https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813) — Los Angeles, CA
 - [saronic — Forward Deployed Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce) — Austin, TX
 - [saronic — Enterprise Technology Intern - AI and Automation (Summer 2027)](https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1) — Austin, TX
-- [solopulseco — Systems Engineering Intern](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51) — Peachtree Corners, GA
+- [SimbeRobotics — Computer Vision / Applied AI Intern — Summer 2027](https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8) — San Francisco Bay Area
+- [SimbeRobotics — Data Analytics & Data Science Intern — Spring & Summer 2027](https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f) — San Francisco Bay Area
+- [acronaviation — Systems Engineer Intern - St. Pete Site](https://jobs.lever.co/acronaviation/eaebe6c7-a38f-404f-ba93-210861faf184) — St Petersburg, FL
 - [neuralink — Electrical Engineer Intern, Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003) — Austin, Texas, United States; South San Francisco, California, United States
 - [neuralink — Electrical Engineer Intern, Robotics and Surgery Engineering](https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003) — South San Francisco, California, United States
 - [neuralink — Embedded Software Engineer Intern, Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003) — Austin, Texas, United States; South San Francisco, California, United States
@@ -98,28 +100,31 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [neuralink — Software Engineer Intern, Infrastructure](https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003) — South San Francisco, California, United States
 - [neuralink — Software Engineer Intern, Internal Apps](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003) — Austin, Texas, United States; South San Francisco, California, United States
 - [neuralink — Software Engineer Intern, Robotics](https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003) — Austin, Texas, United States; South San Francisco, California, United States
+- [matchgroup — Android Engineer Intern](https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d) — Los Angeles, California
+- [matchgroup — Data Scientist Intern](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff) — San Francisco, California
+- [matchgroup — Machine Learning Engineer Intern](https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72) — Palo Alto, California
+- [matchgroup — Product Design Intern](https://jobs.lever.co/matchgroup/dff2b57b-17a7-4ac7-b193-1ca6f143cfc2) — Los Angeles, California
+- [matchgroup — Technical Program Management Intern](https://jobs.lever.co/matchgroup/107da1ee-5b8a-4a1b-9d75-5ba3d597116c) — Los Angeles, California
+- [matchgroup — User Experience Research Intern](https://jobs.lever.co/matchgroup/e2747122-5e35-4230-9d54-8d274dd0a713) — Los Angeles, California
 - [point72 — Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) — New York
 - [point72 — Micro-Intern: Research Technology Developer (IAP)](https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002) — New York
 - [point72 — Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) — New York
 - [point72 — Quantitative Research Intern (NLP)](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) — New York
 - [point72 — Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) — New York
-- [acronaviation — Systems Engineer Intern - St. Pete Site](https://jobs.lever.co/acronaviation/eaebe6c7-a38f-404f-ba93-210861faf184) — St Petersburg, FL
+- [alice-bob — Nanofabrication AOI software Intern M/F](https://jobs.lever.co/alice-bob/e291b0c7-adb2-4ac7-8f51-59d650be431c) — Aubervilliers
+- [xcimer — Summer 2027 Internship - Controls Systems Engineering](https://jobs.lever.co/xcimer/4b031cd4-5f45-4d53-9332-dd23bc349480) — Denver, CO
 - [databricks — Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) — Bellevue, Washington; Mountain View, California; San Francisco, California
 - [databricks — Software Engineering Intern (2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) — Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada
-- [viget — Product & Web Designer Intern (2027)](https://jobs.lever.co/viget/938c3301-b358-42e3-afff-123b97b6d290) — Boulder, CO
-- [viget — Project & Product Manager Intern (2027)](https://jobs.lever.co/viget/969d8237-ec1a-4ec4-ba09-b08bcfcd81c4) — Boulder, CO
-- [shopback-2 — Software Engineer Intern](https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15) — San Francisco, California
-- [schonfeld — 2027 Cybersecurity Operations Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) — New York, New York, United States
-- [schonfeld — 2027 Platform Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) — New York, New York, United States
-- [xcimer — Summer 2027 Internship - Controls Systems Engineering](https://jobs.lever.co/xcimer/4b031cd4-5f45-4d53-9332-dd23bc349480) — Denver, CO
 - [pacificfusion — Summer 2027 Modeling and Simulation Intern](https://job-boards.greenhouse.io/pacificfusion/jobs/4505730009) — San Leandro, CA
 - [pacificfusion — Summer 2027 Vacuum Systems Engineering Internship](https://job-boards.greenhouse.io/pacificfusion/jobs/4505556009) — San Leandro, CA
-- [formlabsinternships — Hardware Systems Integration Intern (Summer 2027)](https://job-boards.greenhouse.io/formlabsinternships/jobs/8381595) — Somerville, MA
+- [schonfeld — 2027 Cybersecurity Operations Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) — New York, New York, United States
+- [schonfeld — 2027 Platform Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) — New York, New York, United States
 - [minitab — Cybersecurity Intern (Summer 2027)](https://job-boards.greenhouse.io/minitab/jobs/8200356003) — State College, Pennsylvania, United States
 - [minitab — Software Engineering Intern](https://job-boards.greenhouse.io/minitab/jobs/8200708003) — State College, Pennsylvania, United States
+- [formlabsinternships — Hardware Systems Integration Intern (Summer 2027)](https://job-boards.greenhouse.io/formlabsinternships/jobs/8381595) — Somerville, MA
+- [solopulseco — Systems Engineering Intern](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51) — Peachtree Corners, GA
 - [figma — Data Engineer Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) — San Francisco, CA • New York, NY
 - [figma — Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) — San Francisco, CA • New York, NY
-- [lightmatter — Data & AI Platform, Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008) — Boston, MA
 - [samsungsemiconductor — Intern, AI Application Engineer](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003) — Folsom, California, United States
 - [samsungsemiconductor — Intern, AI System Architecture Research Scientist](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197305003) — San Jose, California, United States
 - [samsungsemiconductor — Intern, AI Systems Performance Engineer](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003) — San Jose, California, United States
@@ -127,40 +132,6 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [samsungsemiconductor — Intern, ML Compiler (Kernel Auto-Tuning)](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003) — San Jose, California, United States
 - [muonspace — GNC Hardware Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/muonspace/jobs/5252677007) — Mountain View, CA
 - [muonspace — Security Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/muonspace/jobs/5294028007) — Mountain View, CA
-- [gardacp — Infrastructure Engineer Intern](https://job-boards.greenhouse.io/gardacp/jobs/6239821004) — Wayzata, Minnesota, United States
-- [protagonist — Software Engineering Intern](https://job-boards.greenhouse.io/protagonist/jobs/6236620004) — Washington DC
-- [lilasciences — Co-op, Agentic and Generative Protein Design](https://job-boards.greenhouse.io/lilasciences/jobs/4462613009) — Cambridge, MA USA; San Francisco, CA USA
-- [lilasciences — Co-Op, Agentic Simulations for Materials Science](https://job-boards.greenhouse.io/lilasciences/jobs/4465059009) — Cambridge, MA USA; San Francisco, CA USA
-- [lilasciences — Co-Op, AI-Driven Equation Discovery](https://job-boards.greenhouse.io/lilasciences/jobs/4469152009) — Cambridge, MA USA; San Francisco, CA USA
-- [lilasciences — Co-op, AI for Protein Design](https://job-boards.greenhouse.io/lilasciences/jobs/4480337009) — San Francisco, CA USA
-- [lilasciences — Co-Op, AI Nucleic Acid Design](https://job-boards.greenhouse.io/lilasciences/jobs/4465061009) — San Francisco, CA USA
-- [lilasciences — Co-Op, Automated Systems Engineer](https://job-boards.greenhouse.io/lilasciences/jobs/4462594009) — Cambridge, MA USA
-- [lilasciences — Co-Op, IT/OT Security Analyst](https://job-boards.greenhouse.io/lilasciences/jobs/4477308009) — Cambridge, MA USA
-- [lilasciences — Co-op, Mechatronics Engineer](https://job-boards.greenhouse.io/lilasciences/jobs/4465068009) — Cambridge, MA USA
-- [raft — AI/ML Intern - Summer 2027](https://job-boards.greenhouse.io/raft/jobs/6240555004) — McLean, Virginia, United States
-- [raft — Data Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/raft/jobs/6239800004) — McLean, Virginia
-- [addepar1 — Product Design Intern - Summer 2027](https://job-boards.greenhouse.io/addepar1/jobs/8927595002) — New York, NY
-- [parallel — Product Management Intern](https://boards.greenhouse.io/parallel/jobs/5275719007?gh_jid=5275719007) — Los Angeles, CA
-- [zoox — Data Science Intern (Summer 2027)](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97) — Foster City, CA
-- [zoox — Data Scientist Intern (Summer 2027)](https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db) — Foster City, CA
-- [zoox — Hardware Engineer Intern, Vehicle Development (Summer 2027)](https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62) — Foster City, CA
-- [zoox — Hardware Engineer Intern, Vehicle Systems (Summer 2027)](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b) — Foster City, CA
-- [zoox — MBA Program Manager Intern (Summer 2027)](https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8) — Foster City, CA
-- [zoox — Systems & Safety Engineering Intern (Summer 2027)](https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f) — Foster City, CA
-- [zoox — UX Designer Intern (Summer 2027)](https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93) — Foster City, CA
-- [astranis — Automation & Controls Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4718206006) — San Francisco
-- [twosixtechnologies — Security Operations Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6142957004) — Arlington, Virginia
-- [gcmgrosvenor — 2027 Cybersecurity Summer Intern](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8035929003) — Chicago, Illinois, United States
-- [arcesiumllc — AI Transformation Intern](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007) — New York
-- [arcesiumllc — Infrastructure Engineer Intern](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007) — New York
-- [arcesiumllc — Product Management Intern](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007) — New York
-- [vardaspace — Cybersecurity Internship - Summer 2027](https://job-boards.greenhouse.io/vardaspace/jobs/8005821003) — El Segundo, California, United States
-- [vardaspace — Guidance, Navigation & Controls (GNC) Internship - Summer 2027](https://job-boards.greenhouse.io/vardaspace/jobs/7865601003) — El Segundo, California, United States
-- [genevatrading — Systems Support Analyst Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242246007) — Chicago Office
-- [thenewyorktimes — Creative Development Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748297005) — New York, NY
-- [loftorbital — AI/ML Engineering Intern: System 1 Models for Reactive Space Operations](https://jobs.lever.co/loftorbital/7e9d723a-6afa-495c-a3ac-4f89ef5400b5) — Toulouse, Occitanie
-- [loftorbital — Backend Engineering Intern: Ground Platform Control](https://jobs.lever.co/loftorbital/1014b6c1-049d-43e5-a67a-42aac6ba4c84) — Toulouse, Occitanie
-- [loftorbital — Image Processing Intern: AI-Assisted Tools for CalVal](https://jobs.lever.co/loftorbital/fc7d15c8-5055-48d7-8569-fd7668ed8ee2) — Toulouse, Occitanie
 - [palantir — Deployment Strategist, Internship - US Government](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) — Honolulu, HI
 - [palantir — Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) — New York, NY · Chicago, IL
 - [palantir — Forward Deployed Software Engineer, Internship - France](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) — New York, NY
@@ -177,16 +148,53 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [palantir — Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) — Chicago, IL · New York, NY
 - [palantir — Year at Palantir - Forward Deployed Software Engineer, Internship - USG](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) — Washington, D.C. · New York, NY
 - [palantir — Year at Palantir - Software Engineer, Internship](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) — New York, NY
-- [amca — Program Management Internship, Business Operations (Summer 2027)](https://job-boards.greenhouse.io/amca/jobs/4253815009) — El Segundo, CA
-- [workshop — Product Design Intern (Summer 2027)](https://job-boards.greenhouse.io/workshop/jobs/5237950007) — Omaha, Nebraska, United States
+- [lightmatter — Data & AI Platform, Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008) — Boston, MA
+- [gardacp — Infrastructure Engineer Intern](https://job-boards.greenhouse.io/gardacp/jobs/6239821004) — Wayzata, Minnesota, United States
+- [raft — AI/ML Intern - Summer 2027](https://job-boards.greenhouse.io/raft/jobs/6240555004) — McLean, Virginia, United States
+- [raft — Data Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/raft/jobs/6239800004) — McLean, Virginia
+- [addepar1 — Product Design Intern - Summer 2027](https://job-boards.greenhouse.io/addepar1/jobs/8927595002) — New York, NY
+- [lilasciences — Co-op, Agentic and Generative Protein Design](https://job-boards.greenhouse.io/lilasciences/jobs/4462613009) — Cambridge, MA USA; San Francisco, CA USA
+- [lilasciences — Co-Op, Agentic Simulations for Materials Science](https://job-boards.greenhouse.io/lilasciences/jobs/4465059009) — Cambridge, MA USA; San Francisco, CA USA
+- [lilasciences — Co-Op, AI-Driven Equation Discovery](https://job-boards.greenhouse.io/lilasciences/jobs/4469152009) — Cambridge, MA USA; San Francisco, CA USA
+- [lilasciences — Co-op, AI for Protein Design](https://job-boards.greenhouse.io/lilasciences/jobs/4480337009) — San Francisco, CA USA
+- [lilasciences — Co-Op, AI Nucleic Acid Design](https://job-boards.greenhouse.io/lilasciences/jobs/4465061009) — San Francisco, CA USA
+- [lilasciences — Co-Op, Automated Systems Engineer](https://job-boards.greenhouse.io/lilasciences/jobs/4462594009) — Cambridge, MA USA
+- [lilasciences — Co-Op, IT/OT Security Analyst](https://job-boards.greenhouse.io/lilasciences/jobs/4477308009) — Cambridge, MA USA
+- [lilasciences — Co-op, Mechatronics Engineer](https://job-boards.greenhouse.io/lilasciences/jobs/4465068009) — Cambridge, MA USA
+- [astranis — Automation & Controls Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4718206006) — San Francisco
+- [protagonist — Software Engineering Intern](https://job-boards.greenhouse.io/protagonist/jobs/6236620004) — Washington DC
+- [parallel — Product Management Intern](https://boards.greenhouse.io/parallel/jobs/5275719007?gh_jid=5275719007) — Los Angeles, CA
+- [twosixtechnologies — Security Operations Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6142957004) — Arlington, Virginia
+- [vardaspace — Cybersecurity Internship - Summer 2027](https://job-boards.greenhouse.io/vardaspace/jobs/8005821003) — El Segundo, California, United States
+- [vardaspace — Guidance, Navigation & Controls (GNC) Internship - Summer 2027](https://job-boards.greenhouse.io/vardaspace/jobs/7865601003) — El Segundo, California, United States
+- [nisc — Intern - Platform Development (Systems Engineering)](https://job-boards.greenhouse.io/nisc/jobs/8204101) — Lake Saint Louis, MO or Mandan, ND
+- [nisc — Intern - Software Development](https://job-boards.greenhouse.io/nisc/jobs/8092699) — Any NISC Location
+- [arcesiumllc — AI Transformation Intern](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007) — New York
+- [arcesiumllc — Infrastructure Engineer Intern](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007) — New York
+- [arcesiumllc — Product Management Intern](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007) — New York
+- [gcmgrosvenor — 2027 Cybersecurity Summer Intern](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8035929003) — Chicago, Illinois, United States
+- [genevatrading — Systems Support Analyst Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242246007) — Chicago Office
 - [doordashusa — Drone Operations, Intern - Labs (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8312381) — San Francisco, CA
 - [doordashusa — Product Design, Intern (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) — San Francisco, CA; New York, NY
+- [amca — Program Management Internship, Business Operations (Summer 2027)](https://job-boards.greenhouse.io/amca/jobs/4253815009) — El Segundo, CA
+- [workshop — Product Design Intern (Summer 2027)](https://job-boards.greenhouse.io/workshop/jobs/5237950007) — Omaha, Nebraska, United States
+- [relaypro — Solutions Engineer Intern (Summer 2027 Opportunity)](https://job-boards.greenhouse.io/relaypro/jobs/8214334) — Raleigh, NC
+- [dvtrading — Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732697005) — New York · Chicago
+- [zoox — Data Science Intern (Summer 2027)](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97) — Foster City, CA
+- [zoox — Data Scientist Intern (Summer 2027)](https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db) — Foster City, CA
+- [zoox — Hardware Engineer Intern, Vehicle Development (Summer 2027)](https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62) — Foster City, CA
+- [zoox — Hardware Engineer Intern, Vehicle Systems (Summer 2027)](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b) — Foster City, CA
+- [zoox — MBA Program Manager Intern (Summer 2027)](https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8) — Foster City, CA
+- [zoox — Systems & Safety Engineering Intern (Summer 2027)](https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f) — Foster City, CA
+- [zoox — UX Designer Intern (Summer 2027)](https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93) — Foster City, CA
 - [eulerity — AI Intern - Office of CEO & Head of Product](https://job-boards.greenhouse.io/eulerity/jobs/4722871006) — New York, NY
 - [eulerity — Mobile iOS Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671025006) — New York, New York
 - [eulerity — Recruiting Intern - AI & Automation ](https://job-boards.greenhouse.io/eulerity/jobs/4728431006) — New York, NY
-- [relaypro — Solutions Engineer Intern (Summer 2027 Opportunity)](https://job-boards.greenhouse.io/relaypro/jobs/8214334) — Raleigh, NC
-- [dvtrading — Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732697005) — New York · Chicago
-- [dvtrading — Database Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4741016005) — Chicago
+- [hpiq — Experience Design Intern (Summer 2027)](https://job-boards.greenhouse.io/hpiq/jobs/6230959004) — San Francisco, CA
+- [testnisc — Intern - Platform Development (Systems Engineering)](https://job-boards.greenhouse.io/testnisc/jobs/8204131) — Mandan, ND · Lake Saint Louis, MO
+- [testnisc — Intern - Software Development](https://job-boards.greenhouse.io/testnisc/jobs/8174096) — Mandan, ND
+- [viget — Product & Web Designer Intern (2027)](https://jobs.lever.co/viget/938c3301-b358-42e3-afff-123b97b6d290) — Boulder, CO
+- [viget — Project & Product Manager Intern (2027)](https://jobs.lever.co/viget/969d8237-ec1a-4ec4-ba09-b08bcfcd81c4) — Boulder, CO
 - [morsecorpcoop — Aerospace Algorithms Engineer Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968520003) — Cambridge, MA, Arlington, VA, Seattle, WA
 - [morsecorpcoop — Aerospace Algorithms Engineer Graduate Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968522003) — Cambridge, MA, Arlington, VA, Seattle, WA
 - [morsecorpcoop — Cloud Software Engineer Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003) — Cambridge, MA
@@ -198,34 +206,32 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [morsecorpcoop — Full Stack Software Engineer Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968093003) — Cambridge, MA, Arlington, VA, Seattle, WA
 - [morsecorpcoop — Machine Learning Engineer Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003) — Cambridge, MA, Arlington, VA, Seattle, WA
 - [morsecorpcoop — Network Engineer Graduate Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968729003) — Cambridge, MA
-- [testnisc — Intern - Platform Development (Systems Engineering)](https://job-boards.greenhouse.io/testnisc/jobs/8204131) — Mandan, ND · Lake Saint Louis, MO
-- [testnisc — Intern - Software Development](https://job-boards.greenhouse.io/testnisc/jobs/8174096) — Mandan, ND
-- [hpiq — Experience Design Intern (Summer 2027)](https://job-boards.greenhouse.io/hpiq/jobs/6230959004) — San Francisco, CA
 - [pdtpartners — Summer 2027 Systems Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) — New York, NY
+- [generalmatter — Summer 2027 Internship - Information Security Engineer](https://job-boards.greenhouse.io/generalmatter/jobs/5448019008) — Los Angeles, CA
 - [scaleai — Software Engineering Intern (Summer 2027) ](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) — Doha, Qatar
 - [xtillion — 2027 Internship Program: Associate Software Engineer](https://job-boards.greenhouse.io/xtillion/jobs/5436823008) — San Juan, Puerto Rico
-- [generalmatter — Summer 2027 Internship - Information Security Engineer](https://job-boards.greenhouse.io/generalmatter/jobs/5448019008) — Los Angeles, CA
 - [censysinternships — 2027 Software Engineering Intern](https://job-boards.greenhouse.io/censysinternships/jobs/8795029002) — Remote
 - [enterpret — (Backend, Onsite) Software Engineering Intern](https://job-boards.greenhouse.io/enterpret/jobs/7847134003) — Bengaluru, Onsite
 - [enterpret — Machine Learning Intern](https://job-boards.greenhouse.io/enterpret/jobs/7723230003) — Bengaluru
+- [transmarketgroup — DevOps/SRE Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) — Chicago, Illinois, United States
 - [sevenresearch — Algorithmic Developer - Summer Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008) — New York
 - [sevenresearch — Core Developer - Summer Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008) — New York
 - [sevenresearch — Deep Learning Researcher - Summer Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008) — New York
-- [transmarketgroup — DevOps/SRE Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) — Chicago, Illinois, United States
+- [appian — Associate Consultant Intern ](https://job-boards.greenhouse.io/appian/jobs/8088498) — McLean, Virginia
+- [appian — Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496) — McLean, Virginia
+- [appian — Product Manager Intern ](https://job-boards.greenhouse.io/appian/jobs/8041243) — McLean, Virginia
 - [trace3 — Cloud FinOps Consulting Intern](https://job-boards.greenhouse.io/trace3/jobs/8329225) — Remote
 - [trace3 — Security Intern](https://job-boards.greenhouse.io/trace3/jobs/8274792) — Irvine, CA, United States
 - [trace3 — Solutions Architect Intern](https://job-boards.greenhouse.io/trace3/jobs/8328124) — Dallas, TX
 - [trace3 — Workplace AI Intern](https://job-boards.greenhouse.io/trace3/jobs/8274799) — Detroit, MI
-- [appian — Associate Consultant Intern ](https://job-boards.greenhouse.io/appian/jobs/8088498) — McLean, Virginia
-- [appian — Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496) — McLean, Virginia
-- [appian — Product Manager Intern ](https://job-boards.greenhouse.io/appian/jobs/8041243) — McLean, Virginia
 - [sophinea — Mobile App Developer Intern](https://apply.workable.com/j/B392177653) — Manassas, Virginia, United States
 - [sophinea — UI/UX Design Intern](https://apply.workable.com/j/1CDAAA0252) — Manassas, Virginia, United States
 - [enfos-inc — Software Engineer Intern (Summer 2027)](https://apply.workable.com/j/CA15908E0A) — Durham, North Carolina, United States
-- [coldquanta — Summer 2027 Internship - Quantum Software (QSW)](https://apply.workable.com/j/EB77DE8198) — Chicago, Illinois, United States
 - [syntiant — Internship - DevOps Machine Learning Infrastructure Engineer](https://apply.workable.com/j/468B53B345) — Irvine, California, United States
-- [nisc — Intern - Platform Development (Systems Engineering)](https://job-boards.greenhouse.io/nisc/jobs/8204101) — Lake Saint Louis, MO or Mandan, ND
-- [nisc — Intern - Software Development](https://job-boards.greenhouse.io/nisc/jobs/8092699) — Any NISC Location
+- [cloudflare — Product Manager Intern (2027) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8274790?gh_jid=8274790) — In-Office
+- [cloudflare — Product Manager Intern (2027) - Lisbon, PT](https://boards.greenhouse.io/cloudflare/jobs/8332008?gh_jid=8332008) — In-Office
+- [cloudflare — Product Manager Intern (2027) - London, UK](https://boards.greenhouse.io/cloudflare/jobs/8328914?gh_jid=8328914) — In-Office
+- [coldquanta — Summer 2027 Internship - Quantum Software (QSW)](https://apply.workable.com/j/EB77DE8198) — Chicago, Illinois, United States
 - [bask-health-1 — AI Engineering Intern](https://apply.workable.com/j/F0E122E877) — United States
 - [bask-health-1 — AI Product Intern](https://apply.workable.com/j/9D7E69054E) — United States
 - [bask-health-1 — Backend Engineering Intern](https://apply.workable.com/j/98DB106D88) — United States
@@ -240,47 +246,52 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [bask-health-1 — UX Research Intern](https://apply.workable.com/j/1F58DD2D0A) — United States
 - [bask-health-1 — UX Writing Intern](https://apply.workable.com/j/E35FFA0BD1) — United States
 - [rocketlab — Fluid Systems Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986794003) — Long Beach, CA
-- [rocketlab — Ground Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/8007202003) — Stennis Space Center, MS · Middle River, MD
-- [rocketlab — Security Analyst Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986956003) — Long Beach, CA · Albuquerque, NM · Middle River, MD +1 more
-- [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) — Pasadena, CA · Tucson, AZ · Long Beach, CA +1 more
+- [rocketlab — Ground Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/8042092003) — Middle River, MD · Stennis Space Center, MS
+- [rocketlab — Security Analyst Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986956003) — Long Beach, CA · Wallops Island, VA · Middle River, MD +1 more
+- [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7987046003) — Long Beach, CA · Chantilly, VA · Tucson, AZ +1 more
 - [LLNL — Power Systems Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990016610446) — Livermore, CA, us
 - [LLNL — Power Systems Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990016610436) — Livermore, CA, us
 - [LLNL — Critical Infrastructure Analysis Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990016610426) — Livermore, CA, us
 - [LLNL — Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990016610186) — Livermore, CA, us
 - [LLNL — Cybersecurity Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990016610101) — Livermore, CA, us
-- [cloudflare — Product Manager Intern (2027) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8274790?gh_jid=8274790) — In-Office
-- [cloudflare — Product Manager Intern (2027) - Lisbon, PT](https://boards.greenhouse.io/cloudflare/jobs/8332008?gh_jid=8332008) — In-Office
-- [cloudflare — Product Manager Intern (2027) - London, UK](https://boards.greenhouse.io/cloudflare/jobs/8328914?gh_jid=8328914) — In-Office
-- [CesiumAstro — Summer 2027 - GNC Internship](https://jobs.lever.co/CesiumAstro/e18ce6a5-32ed-468e-a39e-28de9eb16872) — Westminster, CO
-- [CesiumAstro — Summer 2027 - Systems Engineering Internship](https://jobs.lever.co/CesiumAstro/a3b0f097-9d62-4a67-9800-de5dfe416da2) — Westminster, CO · El Segundo, CA
+- [LLNL — Business Systems Analyst Undergraduate Intern - 2027](https://jobs.smartrecruiters.com/LLNL/3743990016356816) — Livermore, CA, us
 - [Interco — Paid Internship -- Software Development -- React ](https://jobs.smartrecruiters.com/Interco/744000158581114) — St. Louis, MO, us
-- [NBCUniversal3 — Film Production & Development Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000161878602) — Universal City, CA, us
-- [NBCUniversal3 — Franchise, Products & Partnerships: Creative and Product Design & Development Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000161161787) — Universal City, CA, us
-- [Acumatica — Intern Developer/ Stagiaire développeur ](https://jobs.smartrecruiters.com/Acumatica/744000161353959) — Montreal, QC, ca
 - [WellmarkInc — Security Analyst Internship](https://jobs.smartrecruiters.com/WellmarkInc/744000152694203) — Des Moines, IA, us
 - [WellmarkInc — Software Engineer Internship - Technology Healthcare Innovation](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768) — Des Moines, IA, us
 - [WellmarkInc — Cyber Security Internship ](https://jobs.smartrecruiters.com/WellmarkInc/744000148918178) — Des Moines, IA, us
+- [Acumatica — Intern Developer/ Stagiaire développeur ](https://jobs.smartrecruiters.com/Acumatica/744000161353959) — Montreal, QC, ca
 - [CapTechConsulting — Consulting Internship: UX/Product Design (Summer 2027)](https://jobs.smartrecruiters.com/CapTechConsulting/744000159182656) — Richmond, VA, us
 - [CapTechConsulting — Consulting Internship: Business Systems Analyst (Summer 2027)](https://jobs.smartrecruiters.com/CapTechConsulting/744000155060459) — Richmond, VA, us
 - [CapTechConsulting — Consulting Internship: Data Analysis/Data Engineering  (Summer 2027)](https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169) — Richmond, VA, us
 - [CapTechConsulting — Consulting Internship: Software Engineering (Summer 2027)](https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115) — Richmond, VA, us
-- [Intuitive — Clinical Development Engineering Intern](https://jobs.smartrecruiters.com/Intuitive/744000162128885) — Sunnyvale, CA, us
-- [Intuitive — Clinical Research Engineering Intern](https://jobs.smartrecruiters.com/Intuitive/744000161896920) — Sunnyvale, CA, us
-- [BoschGroup — Extracurricular Internship: AI Software Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000162244270) — Aveiro, pt
-- [BoschGroup — Robot Learning Research Intern ](https://jobs.smartrecruiters.com/BoschGroup/744000162212029) — Pittsburgh, PA, us
-- [WesternDigital — Internship - Software Development (Embedded)](https://jobs.smartrecruiters.com/WesternDigital/744000161997959) — Petaling Jaya, Selangor, my
-- [WesternDigital — Summer 2027 Intern - Software Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000160975819) — San Jose, CA, us
-- [Lesaffre — INTERNSHIP - Data engineering & AI-ready software architecture ](https://jobs.smartrecruiters.com/Lesaffre/744000154054660) — Marcq-en-Barœul, Nord, fr
+- [andurilindustries — 2027 Business Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007) — Costa Mesa, California, United States
 - [andurilindustries — 2027 Guidance, Navigation, & Control Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007) — Costa Mesa, California, United States
 - [andurilindustries — 2027 Machine Learning Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007) — Santa Ana, California, United States
 - [andurilindustries — 2027 Product Designer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) — Costa Mesa, California, United States
 - [andurilindustries — 2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) — Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States
 - [andurilindustries — 2027 Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) — Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States
 - [andurilindustries — 2027 Technical Program Manager Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) — Costa Mesa, California, United States; Honolulu, Hawaii, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States
-- [cmu — Agentic Development Intern](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/Agentic-Development-Intern_2025292-1) — Pittsburgh, PA
-- [cmu — Cyber Range Development Intern](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291-1) — Pittsburgh, PA
-- [cmu — AI Engineer Intern - Mission Innovation Lab (Summer 2027)](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1) — Pittsburgh, PA
+- [Lesaffre — INTERNSHIP - Data engineering & AI-ready software architecture ](https://jobs.smartrecruiters.com/Lesaffre/744000154054660) — Marcq-en-Barœul, Nord, fr
+- [WesternDigital — Internship - Software Development (Embedded)](https://jobs.smartrecruiters.com/WesternDigital/744000161997959) — Petaling Jaya, Selangor, my
+- [WesternDigital — Summer 2027 Intern - Software Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000160975819) — San Jose, CA, us
+- [Intuitive — Clinical Development Engineering Intern](https://jobs.smartrecruiters.com/Intuitive/744000162128885) — Sunnyvale, CA, us
+- [Intuitive — Clinical Research Engineering Intern](https://jobs.smartrecruiters.com/Intuitive/744000161896920) — Sunnyvale, CA, us
+- [BoschGroup — Internship in Software Engineering](https://jobs.smartrecruiters.com/BoschGroup/744000162282030) — Tranås, Jönköpings län, se
+- [BoschGroup — (Internship) AI & Automatization Intern](https://jobs.smartrecruiters.com/BoschGroup/744000162263579) — Thu Duc City, vn
+- [BoschGroup — Extracurricular Internship: AI Software Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000162244270) — Aveiro, pt
+- [NBCUniversal3 — Film Production & Development Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000161878602) — Universal City, CA, us
+- [shopback-2 — Software Engineer Intern](https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15) — San Francisco, California
+- [symbotic — Co-op- Machine Learning Ops](https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Wilmington--MA---HQ/Co-op--Machine-Learning-Ops_R8327) — USA Wilmington,  MA - HQ
+- [symbotic — Intern- Robot Manipulation](https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Wilmington--MA---HQ/Intern--Robot-Manipulation_R8278) — USA Wilmington,  MA - HQ
+- [symbotic — Intern- Data Engineer](https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Wilmington--MA---HQ/Data-Engineer_R7967) — USA Wilmington,  MA - HQ
+- [symbotic — Intern- Machine Learning Ops](https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Wilmington--MA---HQ/Intern--Machine-Learning-Ops_R8202) — USA Wilmington,  MA - HQ
+- [boseallaboutme — DSP/ML Research Engineer Intern | Summer 2027](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371) — US, MA - Framingham
+- [boseallaboutme — Data Science Co-Op (NLP & GenAI)](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251) — 3 Locations
+- [boseallaboutme — Acoustic Systems Engineering Co-op](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MI---Bloomfield-Hills/Acoustic-Systems-Engineering-Co-op_R29347) — US, MI - Bloomfield Hills
+- [boseallaboutme — Electrical Engineering Co-op — FPGA and Audio Research Platforms](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Electrical-Engineering-Co-op---FPGA-and-Audio-Research-Platforms_R29366) — US, MA - Framingham
+- [boseallaboutme — Audio Machine Learning Co-op](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Audio-Machine-Learning-Co-op_R29274) — US, MA - Framingham
 - [physicalintelligence — Mechatronics Intern](https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a) — San Francisco
+- [croesus — Internship - Technological Innovation Developer, AI profile](https://croesus.wd10.myworkdayjobs.com/en-US/ext/job/Laval/Internship---Technological-Innovation-Developer--AI-profile_JR100016-1) — Laval
 - [astera — Robotics Systems Intern](https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8) — Emeryville HQ
 - [voleon — Software Engineer Intern - (Summer 2027)](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6) — Berkeley, CA
 - [human-computer-lab — Intern - Software/ML Engineer](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705) — San Francisco
@@ -288,44 +299,42 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [ctgt — Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155) — San Francisco
 - [droyd — Machine Learning Intern](https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9) — San Francisco, CA
 - [droyd — Software Engineering Intern](https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694) — San Francisco, CA
-- [quadrillion-labs — Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) — New York City
-- [phonely — Software Engineer Intern](https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5) — San Francisco, California
+- [plexus — Intern - Product Engineer (Summer 2027)](https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Nampa-ID/Intern---Product-Engineer--Summer-2027-_R041356) — Nampa, ID
+- [plexus — Intern - IT Data Science (Summer 2027)](https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---IT-Data-Science--Summer-2027-_R041586) — Neenah, WI
 - [clera — Full-Stack Software Engineering Intern](https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d) — New York
-- [graymatter-robotics — Robotics Engineering Intern: Systems & Applications - IMMEDIATE START](https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320) — Los Angeles - HQ
-- [revel — Internship: Forward Deployed Engineer, Software](https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc) — Los Angeles
-- [revel — Internship: Software Engineer, Test](https://jobs.ashbyhq.com/revel/f080b27d-92c7-4e1f-a85f-b4a7c166d738) — Los Angeles
-- [revel — Internship: Embedded Software Engineer](https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889) — Los Angeles
-- [revel — Internship: Forward Deployed Engineer, Test](https://jobs.ashbyhq.com/revel/6ca4dca8-a43e-41da-acc3-e6b4d8f9b3c1) — Los Angeles
-- [bracket-bot — Robotics Engineering Intern](https://jobs.ashbyhq.com/bracket-bot/aecb5cb3-a96b-4ba8-863d-a1ad45414086) — San Francisco
-- [withpace — Forward Deployed Engineer, Intern](https://jobs.ashbyhq.com/withpace/24c69367-3dfe-428e-98e6-0a6bf94a00e1) — New York City
-- [qumulo — Software Development Engineer (Seattle) - Internship 2027](https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183) — Seattle (hybrid)
-- [pangramlabs — AI Research Intern](https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b) — Brooklyn
-- [ibotta — Data Engineering Intern](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2) — Hybrid - Denver
-- [ibotta — Product Design Intern](https://jobs.ashbyhq.com/ibotta/18bc055e-8958-4a09-9d5d-59894e6b9747) — Hybrid - Denver
-- [ibotta — Information Security Intern](https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582) — Hybrid - Denver
-- [hyphenate — Software engineering Intern](https://jobs.ashbyhq.com/hyphenate/3ff6e57d-5430-4836-b6f0-19044d8ee6d8) — New York City
-- [onerobot — Machine Learning Intern](https://jobs.ashbyhq.com/onerobot/12fc1098-421d-4068-9879-e1737fb91571) — San Francisco
-- [powertown — Forward Deployed Engineer, Intern (Term-Time)](https://jobs.ashbyhq.com/powertown/642bc3ac-1d1f-400a-975e-a80e745f277b) — Boston
-- [powertown — Machine Learning Engineer, Intern (Term-Time)](https://jobs.ashbyhq.com/powertown/754a7189-5505-459d-a7d3-dda2e0eaf38b) — Boston
-- [integrate — Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3) — Seattle, WA
-- [happyrobot.ai — Product Engineer Intern](https://jobs.ashbyhq.com/happyrobot.ai/875c5335-97a5-4408-a9ae-9fdefdd3b768) — San Francisco
-- [hoyoverse — Research Scientist Intern - Video Generation](https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280) — Mountain View
-- [drivewealth — AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027](https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a) — Chicago, IL · Office - Chicago; Office - NYC
-- [drivewealth — AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027](https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16) — Chicago, IL · Office - Chicago
-- [drivewealth — AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87) — Chicago, IL · Office - Chicago; Office - NYC
-- [serval — Software Engineer Intern](https://jobs.ashbyhq.com/Serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b) — San Francisco
-- [MaticRobots — Product Design Intern](https://jobs.ashbyhq.com/MaticRobots/655f8bb2-26f0-4324-acd6-f9c0d0d24f6b) — Menlo Park, CA
+- [phonely — Software Engineer Intern](https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5) — San Francisco, California
+- [quadrillion-labs — Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) — New York City
 - [applied — Research Intern - Reinforcement Learning, Self-Driving](https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526) — Sunnyvale
 - [applied — Research Intern - 3D Vision and Generation, Self-Driving](https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4) — Sunnyvale
 - [applied — Research Intern - Robotic Hardware, Simulation and Data](https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883) — Sunnyvale
 - [applied — Research Intern - Reinforcement Learning, Robotics](https://jobs.ashbyhq.com/applied/bb953f29-0059-4a40-aa9e-3a8c88733902) — Sunnyvale
 - [applied — Research Intern - World-Action Foundation Model, Robotics](https://jobs.ashbyhq.com/applied/edc2528d-6e6c-4a67-b871-bfe7d9c890b4) — Sunnyvale
-- [SimbeRobotics — Computer Vision / Applied AI Intern — Summer 2027](https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8) — San Francisco Bay Area
-- [SimbeRobotics — Data Analytics & Data Science Intern — Spring & Summer 2027](https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f) — San Francisco Bay Area
-- [f7d8749a-72d6-407c-bf98-292ea630c73a — Program Manager, Intern Experience](https://jobs.ashbyhq.com/shield/af061c1a-f291-4540-be30-2df5adc22cc5) — Seattle, WA, US
-- [f7d8749a-72d6-407c-bf98-292ea630c73a — Summer 2027 - Software Engineer Intern](https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a) — San Diego, CA, US
-- [f7d8749a-72d6-407c-bf98-292ea630c73a — 2027 Summer Intern - Supplier Development Engineer - 6463](https://jobs.ashbyhq.com/shield/463966b6-fd51-47ef-b9b1-cb53c47cc275) — Dallas, TX, US
-- [f7d8749a-72d6-407c-bf98-292ea630c73a — 2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)](https://jobs.ashbyhq.com/shield/354d464d-ca91-4ce3-bd3f-d811b13755be) — San Diego, CA, US
+- [graymatter-robotics — Robotics Engineering Intern: Systems & Applications - IMMEDIATE START](https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320) — Los Angeles - HQ
+- [revel — Internship: Forward Deployed Engineer, Software](https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc) — Los Angeles
+- [revel — Internship: Software Engineer, Test](https://jobs.ashbyhq.com/revel/f080b27d-92c7-4e1f-a85f-b4a7c166d738) — Los Angeles
+- [revel — Internship: Forward Deployed Engineer, Test](https://jobs.ashbyhq.com/revel/6ca4dca8-a43e-41da-acc3-e6b4d8f9b3c1) — Los Angeles
+- [qumulo — Software Development Engineer (Seattle) - Internship 2027](https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183) — Seattle (hybrid)
+- [withpace — Forward Deployed Engineer, Intern](https://jobs.ashbyhq.com/withpace/24c69367-3dfe-428e-98e6-0a6bf94a00e1) — New York City
+- [bracket-bot — Robotics Engineering Intern](https://jobs.ashbyhq.com/bracket-bot/aecb5cb3-a96b-4ba8-863d-a1ad45414086) — San Francisco
+- [ibotta — Data Engineering Intern](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2) — Hybrid - Denver
+- [ibotta — Product Design Intern](https://jobs.ashbyhq.com/ibotta/18bc055e-8958-4a09-9d5d-59894e6b9747) — Hybrid - Denver
+- [ibotta — Information Security Intern](https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582) — Hybrid - Denver
+- [hyphenate — Software engineering Intern](https://jobs.ashbyhq.com/hyphenate/3ff6e57d-5430-4836-b6f0-19044d8ee6d8) — New York City
+- [integrate — Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3) — Seattle, WA
+- [powertown — Forward Deployed Engineer, Intern (Term-Time)](https://jobs.ashbyhq.com/powertown/642bc3ac-1d1f-400a-975e-a80e745f277b) — Boston
+- [powertown — Machine Learning Engineer, Intern (Term-Time)](https://jobs.ashbyhq.com/powertown/754a7189-5505-459d-a7d3-dda2e0eaf38b) — Boston
+- [pangramlabs — AI Research Intern](https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b) — Brooklyn
+- [onerobot — Machine Learning Intern](https://jobs.ashbyhq.com/onerobot/12fc1098-421d-4068-9879-e1737fb91571) — San Francisco
+- [drivewealth — AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec) — Chicago, IL
+- [drivewealth — AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027](https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a) — Chicago, IL · Office - Chicago; Office - NYC
+- [drivewealth — AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027](https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16) — Chicago, IL · Office - Chicago
+- [drivewealth — AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87) — Chicago, IL
+- [hoyoverse — Research Scientist Intern - Video Generation](https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280) — Mountain View
+- [MaticRobots — Product Design Intern](https://jobs.ashbyhq.com/MaticRobots/655f8bb2-26f0-4324-acd6-f9c0d0d24f6b) — Menlo Park, CA
+- [serval — Software Engineer Intern](https://jobs.ashbyhq.com/Serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b) — San Francisco
+- [loftorbital — AI/ML Engineering Intern: System 1 Models for Reactive Space Operations](https://jobs.lever.co/loftorbital/7e9d723a-6afa-495c-a3ac-4f89ef5400b5) — Toulouse, Occitanie
+- [loftorbital — Backend Engineering Intern: Ground Platform Control](https://jobs.lever.co/loftorbital/1014b6c1-049d-43e5-a67a-42aac6ba4c84) — Toulouse, Occitanie
+- [loftorbital — Image Processing Intern: AI-Assisted Tools for CalVal](https://jobs.lever.co/loftorbital/fc7d15c8-5055-48d7-8569-fd7668ed8ee2) — Toulouse, Occitanie
 - [nxp — Web Application Developer Intern](https://nxp.wd116.myworkdayjobs.com/en-US/careers/job/Sibiu/Web-Application-Developer_R-10062194-1) — Sibiu
 - [nxp — Software Intern - Linux/Yocto](https://nxp.wd116.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Software-Intern---Linux-Yocto_R-10066605-1) — 2 Locations
 - [nxp — Software Intern: Linux/Yocto](https://nxp.wd116.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Software-Intern--Linux-Yocto_R-10066617) — 2 Locations
@@ -334,35 +343,45 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [nxp — Automotive Systems & Applications Engineer Intern - Summer 2027](https://nxp.wd116.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Automotive-Systems---Applications-Engineer-Intern---Summer-2027_R-10067777) — Austin (Oakhill, Office)
 - [nxp — UWB Radar Signal Processing & Algorithms Intern - Summer 2027](https://nxp.wd116.myworkdayjobs.com/en-US/careers/job/Irvine/UWB-Radar-Signal-Processing---Algorithms-Intern---Summer-2027_R-10065402) — Irvine
 - [nxp — Internship: Secure Firmware Development (m/f/d)](https://nxp.wd116.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Secure-Firmware-Development--m-f-d-_R-10066772) — Gratkorn
-- [acceldata — Software Engineering Co-op](https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4) — Kitchener
-- [analyticpartners — Data Science Co-Op | January 2027](https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302) — Miami, Florida, United States
-- [alice-bob — Nanofabrication AOI software Intern M/F](https://jobs.lever.co/alice-bob/e291b0c7-adb2-4ac7-8f51-59d650be431c) — Aubervilliers
-- [thinkahead — MS Infrastructure Intern (6 months)](https://jobs.lever.co/thinkahead/76649f02-c9df-4206-a365-cf9d33350b55) — Gurugram, Haryana
-- [stradaeducation — Strada Education Foundation Internship: Clear Outcomes and Data Science Intern](https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b) — Washington, DC
-- [stradaeducation — Strada Education Foundation Internship: Strategic Partnership & Corporate Development Intern](https://jobs.lever.co/stradaeducation/2b03de4a-699c-4f1c-aefb-3e57a3d27851) — Washington, DC
-- [camstex — APM Predictive Analytics Engineer Intern](https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9) — Houston, Texas
-- [matchgroup — Android Engineer Intern](https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d) — Los Angeles, California
-- [matchgroup — Data Scientist Intern](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff) — San Francisco, California
-- [matchgroup — Machine Learning Engineer Intern](https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72) — Palo Alto, California
-- [matchgroup — Product Design Intern](https://jobs.lever.co/matchgroup/dff2b57b-17a7-4ac7-b193-1ca6f143cfc2) — Los Angeles, California
-- [matchgroup — Technical Program Management Intern](https://jobs.lever.co/matchgroup/107da1ee-5b8a-4a1b-9d75-5ba3d597116c) — Los Angeles, California
-- [matchgroup — User Experience Research Intern](https://jobs.lever.co/matchgroup/e2747122-5e35-4230-9d54-8d274dd0a713) — Los Angeles, California
+- [nxp — Internship: Software Toolchain & Debugger Development (f/m/d)](https://nxp.wd116.myworkdayjobs.com/en-US/careers/job/Gratkorn/Student-Position--Software-Toolchain---Debugger-Development--f-m-d-_R-10064613) — Gratkorn
+- [happyrobot.ai — Product Engineer Intern](https://jobs.ashbyhq.com/happyrobot.ai/875c5335-97a5-4408-a9ae-9fdefdd3b768) — San Francisco
+- [f7d8749a-72d6-407c-bf98-292ea630c73a — Program Manager, Intern Experience](https://jobs.ashbyhq.com/shield/af061c1a-f291-4540-be30-2df5adc22cc5) — Seattle, WA, US
+- [f7d8749a-72d6-407c-bf98-292ea630c73a — Summer 2027 - Software Engineer Intern](https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a) — San Diego, CA, US
+- [f7d8749a-72d6-407c-bf98-292ea630c73a — 2027 Summer Intern - Supplier Development Engineer - 6463](https://jobs.ashbyhq.com/shield/463966b6-fd51-47ef-b9b1-cb53c47cc275) — Dallas, TX, US
+- [f7d8749a-72d6-407c-bf98-292ea630c73a — 2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)](https://jobs.ashbyhq.com/shield/354d464d-ca91-4ce3-bd3f-d811b13755be) — San Diego, CA, US
 - [reply — Social Network Intern](https://jobs.lever.co/reply/7bb0afb0-cea1-4e7a-b51e-1c529f37d843) — Chicago, Illinois
-- [queracomputinginc — Internship - Scientific Software and Compilation](https://job-boards.greenhouse.io/queracomputinginc/jobs/5435902008) — Boston, MA, USA
+- [acceldata — Software Engineering Co-op](https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4) — Kitchener
+- [thinkahead — MS Infrastructure Intern (6 months)](https://jobs.lever.co/thinkahead/76649f02-c9df-4206-a365-cf9d33350b55) — Gurugram, Haryana
+- [analyticpartners — Data Science Co-Op | January 2027](https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302) — Miami, Florida, United States
 - [evr — January 2027 Industrial Networking (Digital Systems) Co-op](https://jobs.lever.co/evr/9a72ee7f-1a6a-448e-99b8-0e3a57e5ee6e) — Sparwood, BC
 - [evr — January 2027 Mining and Geology Systems Co-op](https://jobs.lever.co/evr/5e2bb870-428b-4c25-9caa-2c96068428f0) — Calgary, AB
-- [clarityinnovates — Junior Software Engineer Internship](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007) — Herndon, VA
-- [sezzle — Product Management Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7537957003) — Colombia, Remote · Peru
+- [camstex — APM Predictive Analytics Engineer Intern](https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9) — Houston, Texas
+- [stradaeducation — Strada Education Foundation Internship: Clear Outcomes and Data Science Intern](https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b) — Washington, DC
+- [stradaeducation — Strada Education Foundation Internship: Strategic Partnership & Corporate Development Intern](https://jobs.lever.co/stradaeducation/2b03de4a-699c-4f1c-aefb-3e57a3d27851) — Washington, DC
+- [walmart — Summer 2027 MBA Intern: Finance Leadership Development Program (FLDP)](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-Purpose-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--Finance-Leadership-Development-Program--FLDP-_R-2618233) — (USA) Purpose Building AR Bentonville Home Office
+- [walmart — Summer 2027 Intern: Intern: Sr Data Science](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032) — (USA) ISD Office - DGTC AR BENTONVILLE Home Office
+- [walmart — Summer 2027 Intern:: Data Science III](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030) — (USA) ISD Office - DGTC AR BENTONVILLE Home Office
+- [walmart — Summer 2027 Intern: Cybersecurity Undergrad](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Undergrad_R-2630025) — (USA) ISD Office - DGTC AR BENTONVILLE Home Office
+- [walmart — R-2690831 Summer 2027 Corporate Intern:  Portfolio and Development Intern](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-Always-AR-Bentonville-Home-Office/R-2690831-Summer-2027-Corporate-Intern---Portfolio-and-Development-Intern_R-2690831) — (USA) Always AR Bentonville Home Office
+- [walmart — (USA) 2027 Summer Corporate Intern:  Portfolio and Development Intern](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--2027-Summer-Corporate-Intern---Portfolio-and-Development-Intern_R-2690819) — (USA) Always AR Bentonville Home Office
+- [walmart — (USA) Summer 2027 Corporate Intern:  Development and Design Project Integration Intern](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Development-and-Design-Project-Integration-Intern_R-2690416) — (USA) Always AR Bentonville Home Office
+- [walmart — Summer 2027 Corporate Intern: Data Science & Data Analytics – Last Mile Delivery](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/Bentonville-AR/Summer-2027-Corporate-Intern--Data-Science---Data-Analytics---Last-Mile-Delivery_R-2690193) — Bentonville, AR
+- [walmart — Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Last-Mile-Delivery-Data-Science-Intern_R-2686435) — (USA) Together Building AR Bentonville Home Office
+- [walmart — Summer 2027 Corporate Intern: Platform Stability & Defect Prevention – Last Mile Delivery](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2705761) — (USA) Together Building AR Bentonville Home Office
+- [hermeus — Mission Systems Engineering Intern - Spring/Summer 2027](https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d) — Atlanta, GA
+- [queracomputinginc — Internship - Scientific Software and Compilation](https://job-boards.greenhouse.io/queracomputinginc/jobs/5435902008) — Boston, MA, USA
+- [sezzle — AI Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7906563003) — Peru
+- [sezzle — Product Management Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7998740003) — Peru · Colombia, Remote
 - [sezzle — Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044470003) — Colombia, Remote · Peru
 - [sezzle — Product Operations Intern, Rewards](https://job-boards.greenhouse.io/sezzle/jobs/8010514003) — Colombia, Remote · Chile, Remote · Peru
+- [clarityinnovates — Junior Software Engineer Internship](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007) — Herndon, VA
 - [knowbe4 — Security Awareness Content Specialist Summer Internship (Hybrid)](https://job-boards.greenhouse.io/knowbe4/jobs/8928056002) — Clearwater, Florida
+- [celonis — Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003) — Raleigh, US, North Carolina
+- [cssmerge — AI Research Intern  (BS/MS)](https://job-boards.greenhouse.io/cssmerge/jobs/8919606002) — Mountain View, CA
+- [cssmerge — Robotics Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8695475002) — Pittsburgh, PA
 - [mill — Product Design Engineering Intern, Summer 2027](https://job-boards.greenhouse.io/mill/jobs/4737767005) — San Bruno, California
 - [themjcos — Pharmacy Consultant Internship](https://job-boards.greenhouse.io/themjcos/jobs/5479231008) — Carmel, IN
 - [covar — Machine Learning Internship Summer 2027](https://job-boards.greenhouse.io/covar/jobs/5240360007) — Durham, NC
-- [celonis — Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003) — Raleigh, US, North Carolina
-- [eqtcorporation — AI Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) — Remote
-- [eqtcorporation — Data Engineering Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5422414008) — Canonsburg, PA
-- [eqtcorporation — Water Infrastructure Engineering Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5424757008) — Canonsburg, PA
 - [bgeinccampus — ATLANTA - Land/Site Development, Internship](https://job-boards.greenhouse.io/bgeinccampus/jobs/5417903008) — 245 TownPark Drive, Suite 470, Kennesaw, Georgia 30144
 - [bgeinccampus — AUSTIN - Electrical Engineer-Power Systems, Internship](https://job-boards.greenhouse.io/bgeinccampus/jobs/5441464008) — 101 W Louis Henna Blvd, Suite 400, Austin, Texas 78728
 - [bgeinccampus — CHARLOTTE - Land/Site Development, Internship](https://job-boards.greenhouse.io/bgeinccampus/jobs/5394178008) — 1111 Metropolitan Avenue, Suite 250, ​Charlotte, North Carolina 28204
@@ -373,48 +392,52 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [bgeinccampus — North Austin - Land/Site Development, Internship](https://job-boards.greenhouse.io/bgeinccampus/jobs/5450918008) — 101 W Louis Henna Blvd, Suite 400, Austin, Texas 78728
 - [bgeinccampus — RALEIGH - Land/Site Development, Internship](https://job-boards.greenhouse.io/bgeinccampus/jobs/5377618008) — 5438 Wade Park Boulevard, Suite 420, Raleigh, North Carolina 27607
 - [bgeinccampus — TAMPA  - Land/Site Development, Internship](https://job-boards.greenhouse.io/bgeinccampus/jobs/5417914008) — 5426 Bay Center Dr., Suite 100, Tampa, Florida 33609
+- [eqtcorporation — AI Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) — Remote
+- [eqtcorporation — Data Engineering Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5422414008) — Canonsburg, PA
+- [eqtcorporation — Water Infrastructure Engineering Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5424757008) — Canonsburg, PA
 - [foundenergy — Data Engineer Co-op](https://job-boards.greenhouse.io/foundenergy/jobs/4719227006) — Cambridge, MA
 - [arcboatcompany — Software Engineering Intern](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008) — Torrance, CA
 - [arcboatcompany — Vehicle Controls Engineering Intern](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442902008) — Torrance, CA
-- [usafacts — AI Product Intern](https://job-boards.greenhouse.io/usafacts/jobs/4478239009) — Bellevue, WA
-- [usafacts — Technical Product Manager Intern](https://job-boards.greenhouse.io/usafacts/jobs/4478253009) — Bellevue, WA
 - [insomniac — Animation Intern (Gameplay)- Undergraduate](https://job-boards.greenhouse.io/insomniac/jobs/6226213004) — United States, Burbank, CA
 - [insomniac — Engine and Tools Programming Intern – Undergraduate](https://job-boards.greenhouse.io/insomniac/jobs/6227080004) — United States, Burbank, CA
 - [insomniac — Game Design Intern-Undergraduate](https://job-boards.greenhouse.io/insomniac/jobs/6226630004) — United States, Burbank, CA
 - [insomniac — Gameplay Programming Intern - Undergraduate ](https://job-boards.greenhouse.io/insomniac/jobs/6226611004) — United States, Burbank, CA; United States, Remote
 - [insomniac — Pod Development Manager Intern- Undergraduate ](https://job-boards.greenhouse.io/insomniac/jobs/6227083004) — United States, Burbank, CA
-- [cssmerge — AI Research Intern  (BS/MS)](https://job-boards.greenhouse.io/cssmerge/jobs/8919606002) — Mountain View, CA
-- [cssmerge — Robotics Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8695475002) — Pittsburgh, PA
-- [centerforstrategicandinternationalstudiesinc — Intern - Energy Security and Climate Change Program](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4437922009) — Washington, D.C.
+- [judihealth — AI Solutions Intern](https://job-boards.greenhouse.io/judihealth/jobs/5477146008) — New York, New York, United States
+- [usafacts — AI Product Intern](https://job-boards.greenhouse.io/usafacts/jobs/4478239009) — Bellevue, WA
+- [usafacts — Technical Product Manager Intern](https://job-boards.greenhouse.io/usafacts/jobs/4478253009) — Bellevue, WA
+- [atoms — AI Research Intern  (BS/MS)](https://job-boards.greenhouse.io/atoms/jobs/8919596002) — Mountain View, CA
 - [c3ascend — Software Engineer - Intern (Summer 2027)](https://job-boards.greenhouse.io/c3ascend/jobs/8739036002) — Redwood City, CA
+- [centerforstrategicandinternationalstudiesinc — Intern - Energy Security and Climate Change Program](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4437922009) — Washington, D.C.
 - [skhynixmemorysolutionsamericainc — Embedded Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009) — San Jose
 - [skhynixmemorysolutionsamericainc — Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009) — San Jose
 - [skhynixmemorysolutionsamericainc — SSD Firmware Development Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009) — San Jose
-- [atoms — AI Research Intern  (BS/MS)](https://job-boards.greenhouse.io/atoms/jobs/8919596002) — Mountain View, CA
-- [judihealth — AI Solutions Intern](https://job-boards.greenhouse.io/judihealth/jobs/5477146008) — New York, New York, United States
 - [co-op_intern — IT Co-op ERP Data Migration ](https://job-boards.greenhouse.io/co-op_intern/jobs/4473614009) — Mason, OH
 - [co-op_intern — IT Co-op- ERP Testing & Training ](https://job-boards.greenhouse.io/co-op_intern/jobs/4473606009) — Mason, OH
 - [attainpartners — Summer 2027 Consulting Intern](https://job-boards.greenhouse.io/attainpartners/jobs/5485402008) — McLean, VA
-- [precisionaq — Summer 2027 Internship, Market Access Consulting](https://job-boards.greenhouse.io/precisionaq/jobs/6205781004) — New York, NY, USA
 - [olsson — Engineering Internship - Building Automation Systems](https://job-boards.greenhouse.io/olsson/jobs/5399497008) — Omaha, NE
 - [olsson — Structural Engineering Internship - Federal Infrastructure](https://job-boards.greenhouse.io/olsson/jobs/5396073008) — Overland Park, KS
 - [olsson — Student Internship - Network and Server Infrastructure](https://job-boards.greenhouse.io/olsson/jobs/5462183008) — Lincoln, NE
+- [precisionaq — Summer 2027 Internship, Market Access Consulting](https://job-boards.greenhouse.io/precisionaq/jobs/6205781004) — New York, NY, USA
 - [worldquant — Data Science Intern](https://job-boards.greenhouse.io/worldquant/jobs/4069460006) — Beijing OR Shanghai
 - [pony-dot-ai — Research Intern - Deep Learning](https://apply.workable.com/j/4C1F53EF5D) — Fremont, California, United States
 - [red-rabbit-robotics — Mechatronics Engineer Intern](https://apply.workable.com/j/5B8938477D) — Chicago, Illinois, United States
 - [sorting-robotics — Robotics Engineering Co-Op Internship](https://apply.workable.com/j/05B01A3981) — Los Angeles, California, United States
-- [hermeus — Mission Systems Engineering Intern - Spring/Summer 2027](https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d) — Atlanta, GA
 - [scout-clean-energy — East Region Development Intern - Summer 2027](https://apply.workable.com/j/E75C2C93CB) — Boulder, Colorado, United States
 - [scout-clean-energy — Real Estate Systems Intern - Summer 2027](https://apply.workable.com/j/EC27E34D20) — Boulder, Colorado, United States
-- [Solidigm — NAND Development Business Operations Intern](https://jobs.smartrecruiters.com/Solidigm/744000161579529) — Rancho Cordova, CA, us
+- [CesiumAstro — Summer 2027 - GNC Internship](https://jobs.lever.co/CesiumAstro/e18ce6a5-32ed-468e-a39e-28de9eb16872) — Westminster, CO
+- [CesiumAstro — Summer 2027 - Systems Engineering Internship](https://jobs.lever.co/CesiumAstro/a3b0f097-9d62-4a67-9800-de5dfe416da2) — Westminster, CO · El Segundo, CA
 - [SightCall — INTERNSHIP - Web Developer](https://jobs.smartrecruiters.com/SightCall/80298252) — San Francisco, CA, us
-- [RegDeskInc — Front End Developer Internship](https://jobs.smartrecruiters.com/RegDeskInc/92145731) — Philadelphia, PA, us
 - [AeroVect — Autonomy Intern](https://jobs.smartrecruiters.com/AeroVect/743999725988642) — San Francisco, CA, us
+- [Solidigm — Engineering Research Intern (Architecture, Firmware, Software)](https://jobs.smartrecruiters.com/Solidigm/744000162339619) — Gdańsk, pl
+- [Solidigm — NAND Development Business Operations Intern](https://jobs.smartrecruiters.com/Solidigm/744000161579529) — Rancho Cordova, CA, us
+- [RegDeskInc — Front End Developer Internship](https://jobs.smartrecruiters.com/RegDeskInc/92145731) — Philadelphia, PA, us
 - [Ubisoft2 — R&D Assistant - Neural Compositing for Real-Time Graphics - INTERNSHIP (F/M/NB)](https://jobs.smartrecruiters.com/Ubisoft2/744000161854669) — Bordeaux, Nouvelle-Aquitaine, fr
 - [Ubisoft2 — R&D Assistant - Neural Appearance for Real-Time Graphics - INTERNSHIP (F/M/NB)](https://jobs.smartrecruiters.com/Ubisoft2/744000161854529) — Bordeaux, Nouvelle-Aquitaine, fr
 - [Keenfinity — Software Engineering Intern](https://jobs.smartrecruiters.com/Keenfinity/744000152241469) — Lincoln, NE, us
 - [Keenfinity — Product Development Co-op](https://jobs.smartrecruiters.com/Keenfinity/744000151396749) — Fairport, NY, us
 - [Keenfinity — Software Test Automation Co-Op](https://jobs.smartrecruiters.com/Keenfinity/744000151395769) — Fairport, NY, us
+- [toyota — 2027 TFS Data Science Internship](https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1) — Plano, Texas
 - [nory-co — Program Development & Operations Intern (Boston)](https://jobs.ashbyhq.com/nory-co/4bc21310-9787-4690-9ed8-ff7a5844b818) — Boston
 - [kos.ai — Software Engineer Intern](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3) — San Francisco
 - [interplay — AI Labs Intern](https://jobs.ashbyhq.com/interplay/bdf67758-1f20-4a01-8bb3-ccebfa79e9ac) — New York
@@ -748,6 +771,7 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [jainglobal — Data Engineer Intern](https://jainglobal.wd5.myworkdayjobs.com/en-US/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1) — New York, New York
 - [jainglobal — Quant Modelling Intern](https://jainglobal.wd5.myworkdayjobs.com/en-US/ExternalSite/job/New-York-New-York/Quant-Modelling-Intern_JR100616) — New York, New York
 - [hcmportal — 2027 Buildings and Systems Engineering Summer Intern](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Buildings-and-Systems-Engineering-Summer-Intern_R26030715) — US - UPS CORPORATE OFFICES (GACOR)
+- [drivewealth — AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027](https://boards.greenhouse.io/drivewealth/jobs/8038087003?gh_jid=8038087003) — Office - Chicago; Office - NYC
 - [wfscorp — AI Finance Internship - Specialty Practice](https://wfscorp.wd5.myworkdayjobs.com/en-US/wfscareers/job/SAN-JOSE-COSTA-RICA/AI-Finance-Internship-Program_R23062) — SAN JOSE, COSTA RICA
 - [faithtechnologies — Digital Platforms Intern- Summer 2027](https://faithtechnologies.wd1.myworkdayjobs.com/en-US/fti/job/WI---Menasha/Digital-Platforms-Intern--Summer-2027_R12068-1) — WI - Menasha
 - [auctor — Software Engineering Intern](https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607) — New York
@@ -890,7 +914,6 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [formulary — Software Engineering Intern](https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04) — New York City (4 days on-site)
 - [tel — Research Scientist - ATG Optical Sensor Development Intern (Summer 2027)](https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/Austin-RiverSouth/Research-Scientist---ATG-Optical-Sensor-Development-Intern--Summer-2027-_R26-02311) — Austin RiverSouth
 - [snapchat — 2027 Generative Media Research Intern](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179) — Los Angeles, California
-- [toyota — 2027 TFS Data Science Internship](https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1) — Plano, Texas
 - [maxar — AI Engineer Intern](https://maxar.wd1.myworkdayjobs.com/en-US/Vantor/job/Remote-United-States/AI-Engineer-Intern_R24605) — Remote (United States)
 - [fhlbi — Network Engineer Intern](https://fhlbi.wd1.myworkdayjobs.com/en-US/FHLBI_Careers/job/Indianapolis/Network-Engineer-Intern_R630) — Indianapolis
 - [fhlbi — Model Risk Intern](https://fhlbi.wd1.myworkdayjobs.com/en-US/FHLBI_Careers/job/Indianapolis/Model-Risk-Intern_R636) — Indianapolis
@@ -1075,6 +1098,10 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 
 - [Page: Accenture students — Page changed - check Page: Accenture students (may mean applications opened)](https://www.accenture.com/us-en/careers/local/students)
 
+## Page: Apple Jobs (1)
+
+- [Page: Apple Jobs — Page changed - check Page: Apple Jobs (may mean applications opened)](https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN)
+
 ## Page: Booz Allen careers (1)
 
 - [Page: Booz Allen careers — Page changed - check Page: Booz Allen careers (may mean applications opened)](https://www.boozallen.com/careers.html)
@@ -1211,7 +1238,7 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 
 ## Tech: Samsara (2)
 
-- [Tech: Samsara — Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119) — Atlanta, Georgia, United States
+- [Tech: Samsara — Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325057?gh_jid=8325057) — Atlanta, Georgia, United States
 - [Tech: Samsara — Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784) — Phoenix, Arizona, United States
 
 ## Tech: Stripe (2)
@@ -1219,7 +1246,7 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [Tech: Stripe — Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332681) — San Francisco, Seattle, New York City
 - [Tech: Stripe — Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) — Bengaluru
 
-## Tracker: SimplifyJobs Summer2027 (979)
+## Tracker: SimplifyJobs Summer2027 (971)
 
 - [Aquatic Capital Management — Software Engineer Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) — London, UK, Chicago, IL
 - [TikTok — Research Scientist Intern - TikTok Search / Generative AI - LLM](https://lifeattiktok.com/search/7629250876813642037) — San Jose, CA
@@ -1697,7 +1724,6 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [ONE Finance — AI Research Intern](https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7/application?embed=true) — United States
 - [ByteDance — Product Management Project Intern - Global Payment](https://jobs.bytedance.com/en/position/7686394581777631541/detail) — San Jose, CA
 - [Waymo — Software Engineer Intern - Simulation Evaluation ML Model](https://careers.withwaymo.com/jobs?gh_jid=8221795) — Mountain View, CA
-- [GuideStone — Software Developer Intern - Software Development](https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129) — Dallas, TX
 - [Rippling — Software Engineer Intern - Backend Focused](https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba) — Seattle, WA, SF, NYC
 - [Rippling — Machine Learning Software Engineer Intern - Summer 2027](https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d) — SF
 - [Rippling — Full Stack Software Engineer Intern](https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262) — Seattle, WA, SF, NYC
@@ -1794,7 +1820,6 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [FHLBank Chicago — AI Intern](https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---AI-Intern_R2600477) — Chicago, IL
 - [Pure Storage — Software Engineer Intern](https://job-boards.greenhouse.io/purestorage/jobs/8249749) — Santa Clara, CA
 - [Meta — Data Scientist Intern - Product Analytics](https://www.metacareers.com/jobs/1633096478817942) — Menlo Park, CA, NYC · Menlo Park, CA
-- [Electronic Arts — Product Management Intern](https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182) — Austin, TX
 - [ABB — AI Engineering ERP Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711) — Cary, NC
 - [ABB — AI Engineering Intern - Business Systems](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714) — Cary, NC
 - [JP Morgan Chase — Consumer & Community Banking Internship - Risk Modeling Associate Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796061) — Palo Alto, CA, Plano, TX, Jersey City, NJ, Columbus, OH, Wilmington, DE
@@ -1844,7 +1869,6 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [Vertiv — UI/UX Design Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371) — Delaware, OH, Fort Lauderdale, FL, Huntsville, AL
 - [The Toro Company — IT Business Analyst Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608) — Perry, OK
 - [Amazon — Hardware Development Engineer Intern Co-op - Robotics](https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) — North Reading, MA, Westborough, MA
-- [Boston Consulting Group — Forward Deployed AI Engineer Intern](https://careers.bcg.com/global/en/job/59702) — Boston, MA, LA, Chicago, IL, NYC
 - [Netflix — Software Engineer Intern](https://explore.jobs.netflix.net/careers/job/790318904468) — LA, Los Gatos, CA
 - [Waymo — Machine Learning Intern - Planning/Prediction](https://careers.withwaymo.com/jobs?gh_jid=8279620) — Mountain View, CA
 - [ServiceNow — Software Engineer Intern](https://jobs.smartrecruiters.com/ServiceNow/744000155345689) — Santa Clara, CA, West Palm Beach, FL, Kirkland, WA, San Diego, CA
@@ -1864,7 +1888,6 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [LSEG — Software Engineer Intern](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1) — NYC
 - [Formlabs — Hardware Systems Integration Intern](https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683) — Somerville, MA
 - [onsemi — Semiconductor AI Specialist Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506918) — Gresham, OR
-- [Macy's — Software Engineer Intern](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91780) — Johns Creek, GA
 - [TikTok — Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7694360101507762485) — Seattle, WA
 - [TikTok — Machine Learning Engineer Intern - E-Commerce Recommendation Video](https://lifeattiktok.com/search/7694362230074673461) — Seattle, WA
 - [TikTok — Machine Learning Engineer Intern - E-Commerce Recommendation Live](https://lifeattiktok.com/search/7694360097210861829) — Seattle, WA
@@ -1881,14 +1904,12 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [General Motors — Onboard Autonomy Intern - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543) — Sunnyvale, CA
 - [KLA — Research Scientist Intern - Plasma Light Source Characterization](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2) — Ann Arbor, MI
 - [Inversion Space — Avionics Embedded Software Engineer Intern](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005) — Playa Vista, LA
-- [Axiom Space — Software Engineer Intern](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767) — Houston, TX
 - [Healthpeak Properties — Forward Deployed Software Engineer Intern](https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship) — Irvine, CA
 - [KLA Corporation — Research Scientist Intern - Plasma Light Source Characterization](https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-1) — Ann Arbor, MI
 - [TikTok — Software Engineer Intern - Recommendation Performance Efficiency](https://lifeattiktok.com/search/7673636206961641781) — San Jose, CA
 - [Cummins — IT Systems Intern - Engine Plant IT Systems](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2436714) — Darlington, UK
 - [Wellmark — Software Engineer Intern - Technology Health Plan](https://jobs.smartrecruiters.com/WellmarkInc/744000156043218) — Des Moines, IA
 - [Ryan — Software Development Intern](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1) — Plano, TX
-- [Ryan — Application Development Intern](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Application-Development_R0020820-1) — Plano, TX
 - [Ryan — Software Engineer Intern](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1) — Plano, TX
 - [Robert Bosch Venture Capital — Software Engineering Co-op](https://jobs.smartrecruiters.com/BoschGroup/744000156311682) — Fountain Inn, SC
 - [The Allen Institute for AI — Research Intern - Robotics](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641) — Seattle, WA
@@ -2054,7 +2075,6 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [TikTok — Research Scientist Intern - Monetization Technology - Ads Core](https://lifeattiktok.com/search/7703777085291415813) — San Jose, CA
 - [Atlassian — AI Research Intern](https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job) — SF
 - [Liberty Mutual — Analyst Development Intern](https://campus-libertymutual.icims.com/jobs/122764/job?mobile=true&needsRedirect=false) — Boston, MA, Seattle, WA, Plano, TX
-- [East Penn Manufacturing — Research & Development Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30850/job?mobile=true&needsRedirect=false) — Kutztown, PA
 - [Peraton — Cyber Research Intern](https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false) — West Lafayette, IN, Basking Ridge, Bernards, NJ, Silver Spring, MD, Bedford, NH
 - [NVIDIA — Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548) — Canada, Santa Clara, CA, United States
 - [Vizient — Product Operations Intern](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations_36065R) — Irving, TX
@@ -2079,8 +2099,6 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [Waymo — Software Engineer Intern](https://careers.withwaymo.com/jobs?gh_jid=8350832) — SF
 - [Duolingo — AI Research Intern](https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002) — Pittsburgh, PA, NYC
 - [Waymo — Machine Learning Intern - Generative World Models & Controllable Simulation](https://careers.withwaymo.com/jobs?gh_jid=8351210) — Mountain View, CA
-- [The New York Times — Android Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005) — NYC
-- [The New York Times — iOS Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005) — NYC
 - [Enovation Controls — Embedded Machine Learning Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646257) — Tulsa, OK
 - [Enovation Controls — Manufacturing Software Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416) — Tulsa, OK
 - [Honeywell — Product Management Intern - MBA](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159658) — Atlanta, GA
@@ -2094,7 +2112,6 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [Badger Meter — Product Management Intern](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676) — Milwaukee, WI
 - [DwyerOmega — Product Management Intern - Pressure & Force](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645741) — Michigan City, IN, Sunbury, OH
 - [Johns Hopkins Applied Physics Laboratory — Artificial Intelligence Intern - Information Fusion](https://careers.jhuapl.edu/jobs/60673?icims=1&lang=en-us) — Laurel, MD
-- [Ryan — Application Development Intern - Application Development](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Burlington/Summer-2027-Intern--Application-Development_R0020810-1) — Burlington, VT
 - [Persona AI — Humanoid Robotics Software Intern](https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb/application?embed=true) — Houston, TX, Pensacola, FL
 - [AstraZeneca — Network Planning & Data Analytics Intern](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845) — Tarzana, LA
 - [UiPath — Software Engineer Intern](https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04/application?embed=true) — Bellevue, WA
@@ -2197,11 +2214,13 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [Raptor Maps — Software Engineer Intern](https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a) — Somerville, MA
 - [Constellation Energy — IT Software Developer Intern](https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us) — San Diego, CA
 - [Uber — Product Management Intern](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983) — SF
-- [Sallie Mae — Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633) — Indianapolis, IN
 - [Smarty — Product Management Intern](https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749) — Orem, UT
 - [Airbnb — Software Engineer Intern](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) — SF
+- [The Aerospace Corporation — Lidar Undergraduate Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Lidar-Undergraduate-Intern_R017200) — El Segundo, CA
+- [DriveWealth — AI Consulting Associate Program People Analytics Intern](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true) — Chicago, IL, NYC
+- [Sallie Mae — Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000625) — Indianapolis, IN
 
-## Tracker: speedyapply 2027 SWE (US) (514)
+## Tracker: speedyapply 2027 SWE (US) (516)
 
 - [Meta — Research Intern — Neural Network Training and Hardware-Software Co-Design](https://www.metacareers.com/jobs/1560905132724186) — Burlingame, CA
 - [Microsoft — Research Intern - Research in Software Engineering - ML Systems - Agents](https://apply.careers.microsoft.com/careers/job/1970393557054069) — Redmond, WA
@@ -2336,6 +2355,8 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [Raft — DevOps Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/raft/jobs/6239819004) — McLean, VA
 - [Raft — Full Stack Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/raft/jobs/6240549004) — McLean, VA
 - [Samsara — Software Engineering Internship - San Francisco](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) — San Francisco, CA
+- [The New York Times — Android Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005) — New York City, NY
+- [The New York Times — iOS Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005) — New York City, NY
 - [TTM Technologies — Software Engineering Intern - Summer 2027](https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/Syracuse-NY/Software-Engineering-Intern---Summer-2027_R18253) — Syracuse, NY
 - [Apex Technology — Software Engineering Internship - Embedded Systems - Spring or Summer 2027](https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda) — Los Angeles, CA
 - [Apex Technology — Software Engineering Internship - Test & Automation - Summer 2027](https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344) — Los Angeles, CA
@@ -2718,7 +2739,7 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [Mathtech — Web Application Developer Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf1a92f4-16eb-4267-86ca-bc956024f426&jobId=565843) — Falls Church, VA
 - [Gritt Robotics — ML & Cloud Infrastructure Engineer Intern](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523) — South San Francisco, CA
 
-## Tracker: vanshb03 Summer2027 (1113)
+## Tracker: vanshb03 Summer2027 (1111)
 
 - [Point72 — Quantitative Developer Intern](https://go.vansh.nyc/1e) — New York, NY · NYC
 - [TETRAMEM — Software Engineer Intern, Embedded](https://go.vansh.nyc/1x) — San Jose, CA
@@ -2871,7 +2892,6 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [Micron Technology — SMAI Probe AI Engineer Intern](https://go.vansh.nyc/cE) — Boise, ID
 - [Salesforce — AI Research Intern](https://go.vansh.nyc/cG) — Palo Alto, CA
 - [Keysight Technologies — Software Engineer Intern, R&D](https://go.vansh.nyc/cK) — Santa Clara, CA
-- [Illumio — Engineering Intern, Product Security](https://go.vansh.nyc/cO) — Sunnyvale, CA
 - [Sony — Research Engineer Intern, Ethical Creative and Protective AI Lab](https://go.vansh.nyc/cP) — Remote in USA
 - [Illumio — Security Research Intern](https://go.vansh.nyc/cQ) — Sunnyvale, CA
 - [Rockwell Automation — Hardware Development Engineer Intern](https://go.vansh.nyc/d1) — Mayfield Heights, OH
@@ -2962,10 +2982,11 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [CapTech Consulting — Consulting Software Engineer Intern](https://go.vansh.nyc/BZ) — Richmond, VA
 - [Hewlett Packard Enterprise — HPC AI Networking Intern, Network Transport](https://go.vansh.nyc/C3) — Chippewa Falls, WI, Fort Collins, CO
 - [Schweitzer Engineering Laboratories — Software Engineer Intern](https://go.vansh.nyc/C7) — Spokane Valley, WA
-- [Medpace — Python Developer Intern](https://go.vansh.nyc/Ca) — Cincinnati, OH
 - [Assurant — Software Engineer Intern](https://go.vansh.nyc/Cf) — Miami, FL, Chicago, IL, Atlanta, GA
+- [Macy's — Software Engineer Intern](https://go.vansh.nyc/Co) — Johns Creek, GA
 - [TikTok — Machine Learning Engineer Intern, E-Commerce Recommendation Mall](https://go.vansh.nyc/Cw) — Seattle, WA · San Jose, CA
 - [TikTok — Machine Learning Engineer Intern, E-Commerce Governance](https://go.vansh.nyc/Cx) — Seattle, WA
+- [TikTok — Machine Learning Engineer Intern, E-Commerce Recommendation/Search Alliance](https://go.vansh.nyc/CA) — Seattle, WA
 - [National Laboratory of the Rockies — AI/ML for Cybersecurity Intern](https://go.vansh.nyc/CB) — Golden, CO
 - [Muon Space — Ground Software Engineer Intern](https://go.vansh.nyc/CJ) — San Jose, CA
 - [PTC — Software Engineer Intern](https://go.vansh.nyc/CS) — Boston, MA
@@ -3299,7 +3320,6 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [Amazon — Software Development Engineer Intern, Annapurna Labs](https://go.vansh.nyc/17u) — Cupertino, CA
 - [Powertown — Forward Deployed Engineer Intern](https://go.vansh.nyc/17w) — Boston, MA
 - [Microsoft — Software Engineering Intern](https://go.vansh.nyc/17x) — Redmond, WA · Reston, VA
-- [Antares — Reactor Software Engineering Intern](https://go.vansh.nyc/17z) — Los Angeles, CA
 - [Antares — Multiphysics Software Intern](https://go.vansh.nyc/17A) — Los Angeles, CA
 - [IXL Learning — Software Engineer Intern](https://go.vansh.nyc/17D) — San Mateo, CA
 - [Samsung Semiconductor — Systems Software Engineering Intern](https://go.vansh.nyc/17G) — San Jose, CA
@@ -3312,6 +3332,7 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [TikTok — Data Science Intern, TikTok Integrity and Safety](https://go.vansh.nyc/17R) — San Jose, CA
 - [TikTok — Machine Learning MLOps Intern, Global SRE](https://go.vansh.nyc/17S) — San Jose, CA
 - [TikTok — ML Infra Engineer Intern, Ads Infra](https://go.vansh.nyc/17V) — San Jose, CA
+- [TikTok — Machine Learning Engineer Intern, Commerce Ads](https://go.vansh.nyc/17Z) — San Jose, CA
 - [TikTok — Machine Learning Engineer Intern, Search Ads](https://go.vansh.nyc/180) — San Jose, CA
 - [TikTok — Machine Learning Engineer Intern, Performance Monetization](https://go.vansh.nyc/181) — San Jose, CA
 - [TikTok — Machine Learning Engineer Intern, Lead Ads](https://go.vansh.nyc/182) — San Jose, CA
@@ -3424,7 +3445,6 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [Bedrock Robotics — Onboard Infrastructure Engineer Intern, ML Inference](https://go.vansh.nyc/1eG) — San Francisco, CA
 - [Xcimer Energy — Computational and Software Engineering Intern](https://go.vansh.nyc/1eH) — Denver, CO
 - [Bedrock Robotics — Software Engineer Intern, Fleet Platform](https://go.vansh.nyc/1eL) — New York, NY
-- [Revel — Embedded Software Engineer Intern](https://go.vansh.nyc/1eS) — Los Angeles, CA, San Francisco, CA
 - [Revel — Forward Deployed Engineer Intern, Software](https://go.vansh.nyc/1eT) — Los Angeles, CA, San Francisco, CA
 - [TWG Global — AI Engineering Intern](https://go.vansh.nyc/1eY) — Santa Monica, CA
 - [Baird — Software Developer Intern](https://go.vansh.nyc/1eZ) — Milwaukee, WI, Madison, WI
@@ -3513,8 +3533,6 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [DwyerOmega — Cyber Resilience & Product Security Intern](https://go.vansh.nyc/1kY) — Michigan City, IN
 - [GM Financial — Software Development Engineer Intern](https://go.vansh.nyc/1kZ) — Arlington, TX
 - [Kudu Dynamics — AI/Automation Development Intern, Assessment & Authorization](https://go.vansh.nyc/1l3) — Remote, United States
-- [The New York Times — Android Engineering Intern](https://go.vansh.nyc/1l6) — New York, NY
-- [The New York Times — iOS Engineering Intern](https://go.vansh.nyc/1l8) — New York, NY
 - [Samsung — Care AI Data Analytic Intern](https://go.vansh.nyc/1le) — Plano, TX
 - [Trimble — AI Automation Intern](https://go.vansh.nyc/1lh) — Dayton, OH, Westminster, CO
 - [AfterQuery — Software Engineering Intern](https://go.vansh.nyc/1li) — San Francisco, CA
@@ -3833,3 +3851,4 @@ _Auto-generated each run; do not hand-edit. Last update: 2026-11-18 09:33 UTC. 3
 - [Bissell — AI & Automation Intern](https://go.vansh.nyc/1BJ) — Grand Rapids, MI
 - [Paccar — Data Scientist Intern](https://go.vansh.nyc/1BQ) — Denton, TX
 - [State Street — Data Scientist Intern](https://go.vansh.nyc/1C1) — Boston, MA
+- [CACI — Cybersecurity Intern](https://go.vansh.nyc/1Cd) — Remote, United States, Stafford, VA

@@ -1656,7 +1656,6 @@
   "workday:flsmidth.wd3.myworkdayjobs.com": [],
   "lever:sfgiants": [],
   "greenhouse:avride": [],
-  "ashby:coverdash": [],
   "workday:syneoshealth.wd12.myworkdayjobs.com": [],
   "workday:tutorperini.wd12.myworkdayjobs.com": [],
   "greenhouse:duolingounirecruitment": [],
@@ -4821,7 +4820,6 @@
   "workday:circlek.wd3.myworkdayjobs.com": [],
   "workday:gnw.wd1.myworkdayjobs.com": [],
   "ashby:flint": [],
-  "greenhouse:iovancebiotherapeutics": [],
   "workday:aderant.wd5.myworkdayjobs.com": [],
   "ashby:hiya": [],
   "workable:fuse-integration": [],
@@ -6078,6 +6076,13 @@
   "workday:fhlbtopeka.wd1.myworkdayjobs.com": [],
   "smartrecruiters:solidigm": [
     {
+      "title": "Engineering Research Intern (Architecture, Firmware, Software)",
+      "company": "Solidigm",
+      "location": "Gdańsk, pl",
+      "url": "https://jobs.smartrecruiters.com/Solidigm/744000162339619",
+      "clearance": false
+    },
+    {
       "title": "NAND Development Business Operations Intern",
       "company": "Solidigm",
       "location": "Rancho Cordova, CA, us",
@@ -7145,13 +7150,6 @@
       "clearance": true
     },
     {
-      "title": "Internship: Embedded Software Engineer",
-      "company": "revel",
-      "location": "Los Angeles",
-      "url": "https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889",
-      "clearance": true
-    },
-    {
       "title": "Internship: Forward Deployed Engineer, Test",
       "company": "revel",
       "location": "Los Angeles",
@@ -7246,7 +7244,6 @@
   "ashby:vega": [],
   "greenhouse:newtonresearch": [],
   "greenhouse:freestonecapitalmanagement": [],
-  "greenhouse:cognitiv": [],
   "ashby:output": [],
   "workday:axcelis.wd1.myworkdayjobs.com": [],
   "lever:protolabs": [],
@@ -7873,10 +7870,10 @@
   "workday:racetrac.wd5.myworkdayjobs.com": [],
   "greenhouse:sezzle": [
     {
-      "title": "Product Management Intern ",
+      "title": "AI Engineering Intern ",
       "company": "sezzle",
-      "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7537957003",
+      "location": "Peru",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7906563003",
       "clearance": false
     },
     {
@@ -7884,6 +7881,13 @@
       "company": "sezzle",
       "location": "Peru",
       "url": "https://job-boards.greenhouse.io/sezzle/jobs/7998740003",
+      "clearance": false
+    },
+    {
+      "title": "Product Management Intern ",
+      "company": "sezzle",
+      "location": "Colombia, Remote",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7537957003",
       "clearance": false
     },
     {
@@ -8447,6 +8451,13 @@
   ],
   "ashby:drivewealth": [
     {
+      "title": "AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027",
+      "company": "drivewealth",
+      "location": "Chicago, IL",
+      "url": "https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec",
+      "clearance": false
+    },
+    {
       "title": "AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027",
       "company": "drivewealth",
       "location": "Chicago, IL",
@@ -8461,7 +8472,7 @@
       "clearance": false
     },
     {
-      "title": "AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027",
+      "title": "AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027",
       "company": "drivewealth",
       "location": "Chicago, IL",
       "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87",
@@ -8973,5 +8984,6 @@
   ],
   "ashby:solink": [],
   "smartrecruiters:cityofcampbellriver": [],
-  "greenhouse:sofitechsolutions": []
+  "greenhouse:sofitechsolutions": [],
+  "workable:eqltech": []
 }
