@@ -22,7 +22,6 @@
   "workday:woodmac.wd3.myworkdayjobs.com": [],
   "greenhouse:signifyd95": [],
   "greenhouse:otter": [],
-  "ashby:8vc": [],
   "greenhouse:grafanalabs": [],
   "workday:pra.wd1.myworkdayjobs.com": [],
   "lever:benchsci": [],
@@ -95,22 +94,6 @@
   "greenhouse:2kearlycareers": [],
   "ashby:eightsleep": [],
   "greenhouse:financialtimes33": [],
-  "lever:dynamiccatholic": [
-    {
-      "title": "Internship - Front-End UX Intern",
-      "company": "dynamiccatholic",
-      "location": "Erlanger, Kentucky",
-      "url": "https://jobs.lever.co/dynamiccatholic/603f082e-07c8-4b1c-ac09-8963c51229ad",
-      "clearance": false
-    },
-    {
-      "title": "Internship - Software Developer - Commerce Cloud",
-      "company": "dynamiccatholic",
-      "location": "Erlanger, Kentucky",
-      "url": "https://jobs.lever.co/dynamiccatholic/e94fa581-892c-4958-9515-0221f862ce57",
-      "clearance": false
-    }
-  ],
   "smartrecruiters:zoro": [],
   "greenhouse:quince": [],
   "ashby:tunnl": [],
@@ -552,7 +535,6 @@
   "lever:metergysolutions": [],
   "workday:huntelec.wd501.myworkdayjobs.com": [],
   "lever:wisecode": [],
-  "workday:genmab.wd3.myworkdayjobs.com": [],
   "greenhouse:brightai": [],
   "smartrecruiters:zen31": [],
   "workday:bannerhealth.wd108.myworkdayjobs.com": [],
@@ -818,7 +800,6 @@
   "lever:brightmachines": [],
   "ashby:hawkeyeinnovations": [],
   "greenhouse:tebra": [],
-  "smartrecruiters:assystem": [],
   "workday:vantagedc.wd1.myworkdayjobs.com": [],
   "workday:suncor.wd1.myworkdayjobs.com": [],
   "smartrecruiters:dominos": [],
@@ -1015,7 +996,6 @@
     }
   ],
   "greenhouse:lhvuk": [],
-  "workday:bcbsa.wd1.myworkdayjobs.com": [],
   "workday:btisolutions.wd12.myworkdayjobs.com": [],
   "greenhouse:eventsandinterns": [],
   "workday:umb.wd1.myworkdayjobs.com": [],
@@ -1969,7 +1949,6 @@
   "greenhouse:planetlabs": [],
   "greenhouse:arcanaanalytics": [],
   "workday:repligen.wd108.myworkdayjobs.com": [],
-  "workday:ing.wd3.myworkdayjobs.com": [],
   "smartrecruiters:averydennison": [],
   "workday:turo.wd12.myworkdayjobs.com": [],
   "workday:aba.wd1.myworkdayjobs.com": [
@@ -2090,7 +2069,6 @@
   "smartrecruiters:vusiongroupsa": [],
   "workday:arrow.wd1.myworkdayjobs.com": [],
   "ashby:hudson-pacific-properties": [],
-  "ashby:newxel": [],
   "workday:jcrew.wd1.myworkdayjobs.com": [],
   "ashby:circleback": [
     {
@@ -2376,7 +2354,6 @@
       "clearance": false
     }
   ],
-  "ashby:crusoe": [],
   "lever:dga": [],
   "workday:methodisthealth.wd5.myworkdayjobs.com": [],
   "workday:brinks.wd5.myworkdayjobs.com": [],
@@ -2399,7 +2376,6 @@
   "greenhouse:speechmatics": [],
   "ashby:tessera-labs": [],
   "workday:eisneramper.wd1.myworkdayjobs.com": [],
-  "workday:microchiphr.wd5.myworkdayjobs.com": [],
   "greenhouse:attentive": [],
   "lever:callan": [],
   "workday:masco.wd1.myworkdayjobs.com": [],
@@ -2858,15 +2834,6 @@
   ],
   "workable:vectoratomic": [],
   "workable:digitalmediaservices": [],
-  "lever:extremenetworks": [
-    {
-      "title": "Intern - Lab/TAC  Network Engineer",
-      "company": "extremenetworks",
-      "location": "Raleigh, North Carolina, United States",
-      "url": "https://jobs.lever.co/extremenetworks/c3017f47-8150-44ae-8522-71fd28657e25",
-      "clearance": false
-    }
-  ],
   "workable:msr-fsr": [],
   "workable:seeq": [],
   "workday:oneoncology.wd1.myworkdayjobs.com": [],
@@ -3175,15 +3142,6 @@
   "greenhouse:adyen": [],
   "workday:equifax.wd5.myworkdayjobs.com": [],
   "greenhouse:jumio": [],
-  "smartrecruiters:infinitequant": [
-    {
-      "title": "Quantitative Developer - Internship - Summer 2027",
-      "company": "InfiniteQuant",
-      "location": "New York, New York, us",
-      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879",
-      "clearance": false
-    }
-  ],
   "workday:neogen.wd5.myworkdayjobs.com": [
     {
       "title": "Manufacturing Internship -Sample Collection Solution Prep Optimization",
@@ -3204,7 +3162,6 @@
     }
   ],
   "workday:ibc.wd5.myworkdayjobs.com": [],
-  "greenhouse:kargo": [],
   "ashby:nexttoken": [],
   "workable:bipventures": [],
   "workday:spgi.wd5.myworkdayjobs.com": [],
@@ -3264,7 +3221,6 @@
   "workday:morganlewis.wd5.myworkdayjobs.com": [],
   "workable:drug-hunter": [],
   "workday:freddiemac.wd5.myworkdayjobs.com": [],
-  "workday:pae.wd1.myworkdayjobs.com": [],
   "workday:madixinc.wd12.myworkdayjobs.com": [],
   "smartrecruiters:redbull": [],
   "workday:alkegen.wd5.myworkdayjobs.com": [],
@@ -3528,7 +3484,6 @@
   "greenhouse:relativity": [],
   "greenhouse:innodatainc": [],
   "ashby:1x": [],
-  "workday:acs.wd5.myworkdayjobs.com": [],
   "greenhouse:skildai-careers": [],
   "ashby:qualified-health-pbc": [],
   "workday:goodrx.wd1.myworkdayjobs.com": [],
@@ -4400,15 +4355,6 @@
   "greenhouse:secretariatadvisorsllc": [],
   "workday:dalcourmaclaren.wd3.myworkdayjobs.com": [],
   "workday:valmet.wd103.myworkdayjobs.com": [],
-  "workable:waggoner-financial": [
-    {
-      "title": "Software Engineer Internship",
-      "company": "waggoner-financial",
-      "location": "Lansing, Michigan, United States",
-      "url": "https://apply.workable.com/j/FA0B644142",
-      "clearance": false
-    }
-  ],
   "workday:elevancehealth.wd1.myworkdayjobs.com": [],
   "greenhouse:scmaea": [],
   "ashby:dexmate": [],
@@ -4510,29 +4456,6 @@
       "company": "fireworkhq",
       "location": "San Mateo, California",
       "url": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09",
-      "clearance": false
-    }
-  ],
-  "workday:lighting.wd3.myworkdayjobs.com": [
-    {
-      "title": "Global Product Management Intern",
-      "company": "lighting",
-      "location": "Eindhoven",
-      "url": "https://lighting.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Global-Product-Management-Intern-Philips-Hue_364282",
-      "clearance": false
-    },
-    {
-      "title": "Development Engineer Mechanics Intern",
-      "company": "lighting",
-      "location": "Ketrzyn",
-      "url": "https://lighting.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Ketrzyn/Development-Engineer-Mechanics-Intern_365830",
-      "clearance": false
-    },
-    {
-      "title": "AI & Process Improvement Intern – Project Management",
-      "company": "lighting",
-      "location": "Warszawa",
-      "url": "https://lighting.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Warszawa/AI---Process-Improvement-Intern---Project-Management_366880",
       "clearance": false
     }
   ],
@@ -5702,7 +5625,6 @@
   "workday:bupa.wd3.myworkdayjobs.com": [],
   "lever:prizeout": [],
   "workday:bdx.wd1.myworkdayjobs.com": [],
-  "greenhouse:doubleverify": [],
   "lever:artera": [],
   "greenhouse:kodiak": [],
   "lever:project-healthy-minds": [],
@@ -5933,7 +5855,6 @@
   "workday:morningstar.wd5.myworkdayjobs.com": [],
   "greenhouse:fashionnova": [],
   "workday:aimco.wd10.myworkdayjobs.com": [],
-  "workday:finastra.wd3.myworkdayjobs.com": [],
   "smartrecruiters:mcwaneinc": [],
   "workday:veralto.wd1.myworkdayjobs.com": [],
   "ashby:madhive": [],
@@ -6488,22 +6409,6 @@
   "workday:fullsteam.wd1.myworkdayjobs.com": [],
   "greenhouse:optoinvest": [],
   "ashby:sciemo": [],
-  "workday:draper.wd5.myworkdayjobs.com": [
-    {
-      "title": "GNC Systems Engineering Intern (Summer 2027)",
-      "company": "draper",
-      "location": "Cambridge, MA",
-      "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129",
-      "clearance": false
-    },
-    {
-      "title": "GN&C Modeling, Simulation and Analysis Intern (Summer 2027)",
-      "company": "draper",
-      "location": "Cambridge, MA",
-      "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/GN-C-Modeling--Simulation-and-Analysis-Intern--Summer-2027-_JR002773-1",
-      "clearance": false
-    }
-  ],
   "ashby:treeswift": [],
   "greenhouse:mwinternshipprogram": [],
   "workday:datasite.wd1.myworkdayjobs.com": [],
@@ -6900,7 +6805,6 @@
   "greenhouse:honehealth": [],
   "lever:intropic": [],
   "workday:dallascollege.wd1.myworkdayjobs.com": [],
-  "workday:shakeshack.wd5.myworkdayjobs.com": [],
   "greenhouse:babelstreet": [],
   "lever:pibenchmark": [],
   "lever:erg": [],
@@ -7130,7 +7034,15 @@
   "greenhouse:stackline": [],
   "ashby:vmax": [],
   "lever:omnidesigntech": [],
-  "smartrecruiters:pyrotek3": [],
+  "smartrecruiters:pyrotek3": [
+    {
+      "title": "Intern - Product Management",
+      "company": "Pyrotek3",
+      "location": "Spokane, WA, us",
+      "url": "https://jobs.smartrecruiters.com/Pyrotek3/744000162385949",
+      "clearance": false
+    }
+  ],
   "workday:litera.wd12.myworkdayjobs.com": [],
   "workday:nshe.wd1.myworkdayjobs.com": [],
   "workday:jadeglobal.wd5.myworkdayjobs.com": [],
@@ -7325,7 +7237,6 @@
   "workday:miele.wd3.myworkdayjobs.com": [],
   "workday:wisconsin.wd1.myworkdayjobs.com": [],
   "workday:halifaxhealth.wd12.myworkdayjobs.com": [],
-  "greenhouse:meriton": [],
   "greenhouse:americaninstitutesforresearch": [],
   "workday:bbh.wd5.myworkdayjobs.com": [],
   "ashby:capy": [],
@@ -7494,7 +7405,6 @@
   "ashby:bloxd": [],
   "greenhouse:sparxlearning": [],
   "ashby:thumbtack": [],
-  "greenhouse:thenuclearcompany": [],
   "greenhouse:mixpanel": [],
   "workday:sanofi.wd3.myworkdayjobs.com": [],
   "ashby:sampura": [],
@@ -8768,7 +8678,6 @@
   ],
   "workday:illumina.wd1.myworkdayjobs.com": [],
   "workday:owensminor.wd1.myworkdayjobs.com": [],
-  "workday:lennar.wd1.myworkdayjobs.com": [],
   "workday:nordic.wd1.myworkdayjobs.com": [],
   "workday:chess.wd1.myworkdayjobs.com": [],
   "workday:archwellessentials.wd1.myworkdayjobs.com": [],
@@ -8828,22 +8737,6 @@
       "company": "Carlisle",
       "location": "Carlisle, Pennsylvania, us",
       "url": "https://jobs.smartrecruiters.com/Carlisle/3743990016774046",
-      "clearance": false
-    }
-  ],
-  "workday:zebra.wd501.myworkdayjobs.com": [
-    {
-      "title": "2027 Summer Internship (US) - Program Management",
-      "company": "zebra",
-      "location": "Holtsville, New York",
-      "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Program-Management_JR103641",
-      "clearance": false
-    },
-    {
-      "title": "2027 Summer Internship (US) - Product Management",
-      "company": "zebra",
-      "location": "Lincolnshire, Illinois",
-      "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652",
       "clearance": false
     }
   ],
@@ -8972,7 +8865,6 @@
   "ashby:bree": [],
   "ashby:basis-research": [],
   "workable:adept-consulting-services-inc": [],
-  "workable:falcomm": [],
   "greenhouse:attainpartners": [
     {
       "title": "Summer 2027 Consulting Intern",
@@ -8985,5 +8877,9 @@
   "ashby:solink": [],
   "smartrecruiters:cityofcampbellriver": [],
   "greenhouse:sofitechsolutions": [],
-  "workable:eqltech": []
+  "workable:eqltech": [],
+  "ashby:tank-payments": [],
+  "greenhouse:lucidsoftware": [],
+  "lever:smiledigitalhealth": [],
+  "greenhouse:rectanglehealth": []
 }
