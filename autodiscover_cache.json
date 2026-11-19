@@ -101,15 +101,7 @@
   "greenhouse:mergeworld": [],
   "workday:everestre.wd5.myworkdayjobs.com": [],
   "workday:menasha.wd12.myworkdayjobs.com": [],
-  "smartrecruiters:crb": [
-    {
-      "title": "Control Systems Integration Intern (Summer 2027)",
-      "company": "CRB",
-      "location": "Kansas City, MO, us",
-      "url": "https://jobs.smartrecruiters.com/CRB/744000151621144",
-      "clearance": false
-    }
-  ],
+  "smartrecruiters:crb": [],
   "workday:kengarff.wd1.myworkdayjobs.com": [],
   "workday:ankura.wd5.myworkdayjobs.com": [
     {
@@ -382,15 +374,7 @@
   "workday:vareximaging.wd103.myworkdayjobs.com": [],
   "smartrecruiters:hirevue": [],
   "workday:shell.wd3.myworkdayjobs.com": [],
-  "ashby:ixianrobotics": [
-    {
-      "title": "Software Intern",
-      "company": "ixianrobotics",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/ixianrobotics/23738c13-3881-402e-9919-85683052d233",
-      "clearance": false
-    }
-  ],
+  "ashby:ixianrobotics": [],
   "lever:bisnow": [],
   "greenhouse:lexingtonmedical": [],
   "workday:ssctech.wd1.myworkdayjobs.com": [],
@@ -635,6 +619,13 @@
       "clearance": false
     },
     {
+      "title": "Pioneering Medicines: Drug Substance (Process Modeling) Co-Op",
+      "company": "fspco-op012325",
+      "location": "Cambridge, MA USA",
+      "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8948840002",
+      "clearance": false
+    },
+    {
       "title": "ProFound Therapeutics: AI/ML Engineering - SAGE Platform Co-Op",
       "company": "fspco-op012325",
       "location": "Cambridge, MA USA",
@@ -674,7 +665,14 @@
       "title": "Intern, FFBA Analytical Development",
       "company": "legendcareers",
       "location": "Somerset, New Jersey, United States",
-      "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745147005",
+      "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745128005",
+      "clearance": false
+    },
+    {
+      "title": "Research & Development Intern",
+      "company": "legendcareers",
+      "location": "Somerset, New Jersey, United States",
+      "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4755562005",
       "clearance": false
     }
   ],
@@ -1122,10 +1120,10 @@
       "clearance": false
     },
     {
-      "title": "2027 Digital Infrastructure Intern - NYC",
+      "title": "2027 Site Reliability Engineer Intern-Afton, Texas",
       "company": "galaxydigitalservices",
-      "location": "New York",
-      "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004",
+      "location": "Afton, Texas",
+      "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004",
       "clearance": false
     }
   ],
@@ -1518,7 +1516,15 @@
       "clearance": false
     }
   ],
-  "lever:energyvault": [],
+  "lever:energyvault": [
+    {
+      "title": "Intern, Power Electronics Engineering – Power Systems",
+      "company": "EnergyVault",
+      "location": "United States",
+      "url": "https://jobs.lever.co/EnergyVault/cc3ec6ea-b462-448a-96a7-819a308c290c",
+      "clearance": false
+    }
+  ],
   "workday:omers.wd3.myworkdayjobs.com": [],
   "lever:aprio": [],
   "workday:northwesternmutual.wd5.myworkdayjobs.com": [],
@@ -1535,7 +1541,15 @@
   "ashby:tryroam": [],
   "workday:alteryx.wd108.myworkdayjobs.com": [],
   "ashby:alljoined": [],
-  "smartrecruiters:experian": [],
+  "smartrecruiters:experian": [
+    {
+      "title": "Software Engineering Intern",
+      "company": "Experian",
+      "location": "Cyberjaya, Selangor, my",
+      "url": "https://jobs.smartrecruiters.com/Experian/744000161988609",
+      "clearance": false
+    }
+  ],
   "workday:bcbsri.wd1.myworkdayjobs.com": [
     {
       "title": "Intern - Business Systems Analyst",
@@ -1823,7 +1837,15 @@
   ],
   "workday:alfalaval.wd3.myworkdayjobs.com": [],
   "greenhouse:monsterenergy": [],
-  "smartrecruiters:syngentagroup": [],
+  "smartrecruiters:syngentagroup": [
+    {
+      "title": "Data Science Intern",
+      "company": "SyngentaGroup",
+      "location": "Greensboro, North Carolina, us",
+      "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708",
+      "clearance": false
+    }
+  ],
   "greenhouse:kensingtontours": [],
   "ashby:ando": [],
   "ashby:phil": [],
@@ -1951,22 +1973,7 @@
   "workday:repligen.wd108.myworkdayjobs.com": [],
   "smartrecruiters:averydennison": [],
   "workday:turo.wd12.myworkdayjobs.com": [],
-  "workday:aba.wd1.myworkdayjobs.com": [
-    {
-      "title": "Intern, Web Content",
-      "company": "aba",
-      "location": "US DC Main Office",
-      "url": "https://aba.wd1.myworkdayjobs.com/en-US/aba/job/US-DC-Main-Office/Intern--Web-Content_R632",
-      "clearance": false
-    },
-    {
-      "title": "Intern, Cybersecurity Policy Analyst",
-      "company": "aba",
-      "location": "US DC Main Office",
-      "url": "https://aba.wd1.myworkdayjobs.com/en-US/aba/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611",
-      "clearance": false
-    }
-  ],
+  "workday:aba.wd1.myworkdayjobs.com": [],
   "workday:homedepot.wd5.myworkdayjobs.com": [],
   "greenhouse:aevexaerospace": [
     {
@@ -2008,13 +2015,6 @@
       "company": "nyisocoops",
       "location": "Rensselaer, New York, United States",
       "url": "https://job-boards.greenhouse.io/nyisocoops/jobs/5236045007",
-      "clearance": false
-    },
-    {
-      "title": "Co-Op – System Modeling",
-      "company": "nyisocoops",
-      "location": "Rensselaer, New York, United States",
-      "url": "https://job-boards.greenhouse.io/nyisocoops/jobs/5236029007",
       "clearance": false
     }
   ],
@@ -2217,6 +2217,20 @@
       "title": "Automated Driving Advanced Development Intern, Machine Learning Research",
       "company": "tri",
       "location": "Los Altos, CA",
+      "url": "https://jobs.lever.co/tri/9c48b236-e6ad-4b97-9380-c675e5432415",
+      "clearance": false
+    },
+    {
+      "title": "Automated Driving Advanced Development Intern, Machine Learning Research (Cambridge)",
+      "company": "tri",
+      "location": "Cambridge, MA",
+      "url": "https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476",
+      "clearance": false
+    },
+    {
+      "title": "Automated Driving Advanced Development Intern, Machine Learning Research (Explainable AI)",
+      "company": "tri",
+      "location": "Los Altos, CA",
       "url": "https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4",
       "clearance": false
     },
@@ -2284,6 +2298,20 @@
       "clearance": false
     },
     {
+      "title": "Robotics Intern, Agentic Robotics",
+      "company": "tri",
+      "location": "Cambridge, MA",
+      "url": "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49",
+      "clearance": false
+    },
+    {
+      "title": "Robotics Intern, Generalist Robot Learning (GRL)",
+      "company": "tri",
+      "location": "Los Altos, CA",
+      "url": "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943",
+      "clearance": false
+    },
+    {
       "title": "Robotics Intern, Human Aware Interactions and Learning",
       "company": "tri",
       "location": "Cambridge, MA",
@@ -2319,6 +2347,13 @@
       "clearance": false
     },
     {
+      "title": "Robotics Intern, Prototyping and Robotics Operations",
+      "company": "tri",
+      "location": "Cambridge, MA",
+      "url": "https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8",
+      "clearance": false
+    },
+    {
       "title": "Robotics Intern, Teleoperation and Spatial Computing",
       "company": "tri",
       "location": "Cambridge, MA",
@@ -2344,6 +2379,13 @@
       "company": "tri",
       "location": "Los Altos, CA",
       "url": "https://jobs.lever.co/tri/016bbb58-857a-4367-b1aa-0cdc9f818478",
+      "clearance": false
+    },
+    {
+      "title": "Robotics Intern, World Models, Multimodal Sensing",
+      "company": "tri",
+      "location": "Cambridge, MA",
+      "url": "https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3",
       "clearance": false
     },
     {
@@ -3918,7 +3960,6 @@
   ],
   "lever:ketch": [],
   "workday:mydpr.wd5.myworkdayjobs.com": [],
-  "greenhouse:rexfordindustrial": [],
   "greenhouse:impact": [],
   "greenhouse:internshiplist2000": [],
   "workday:michelinhr.wd3.myworkdayjobs.com": [],
@@ -8586,13 +8627,6 @@
       "location": "Mountain View, CA",
       "url": "https://job-boards.greenhouse.io/cariadinc/jobs/5462798008",
       "clearance": false
-    },
-    {
-      "title": "Engineer I, VLA Planning and Control Deployment (Intern)",
-      "company": "cariadinc",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/cariadinc/jobs/5462886008",
-      "clearance": false
     }
   ],
   "workable:raveaerospace": [],
@@ -8881,5 +8915,40 @@
   "ashby:tank-payments": [],
   "greenhouse:lucidsoftware": [],
   "lever:smiledigitalhealth": [],
-  "greenhouse:rectanglehealth": []
+  "greenhouse:rectanglehealth": [],
+  "workable:ecliptic-enterprises-corporation": [],
+  "greenhouse:familyoffice": [],
+  "ashby:valon": [],
+  "greenhouse:dlrgroup": [
+    {
+      "title": "Audiovisual Systems Design Intern | Summer 2027",
+      "company": "dlrgroup",
+      "location": "Cleveland, Ohio, United States; Los Angeles, California, United States; Seattle, Washington, United States",
+      "url": "https://job-boards.greenhouse.io/dlrgroup/jobs/5441252008",
+      "clearance": false
+    }
+  ],
+  "ashby:bild-ai": [
+    {
+      "title": "AI/SWE Intern",
+      "company": "bild-ai",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364",
+      "clearance": false
+    }
+  ],
+  "lever:humble-robotics": [],
+  "greenhouse:absolicsinc": [],
+  "ashby:warp-sciences": [
+    {
+      "title": "Member of Technical Staff Intern - Robotics Learning",
+      "company": "warp-sciences",
+      "location": "South San Francisco",
+      "url": "https://jobs.ashbyhq.com/warp-sciences/addb09af-18ab-4aa1-a7b5-861f8485e9a9",
+      "clearance": true
+    }
+  ],
+  "smartrecruiters:nemetschekse2": [],
+  "lever:z1tech": [],
+  "workable:mindex": []
 }

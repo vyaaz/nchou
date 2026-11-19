@@ -23968,7 +23968,7 @@
     "url": "https://jobs.lever.co/tri/debebb69-84c1-4466-a75f-e12244f68593"
   },
   "https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4": {
-    "title": "Automated Driving Advanced Development Intern, Machine Learning Research",
+    "title": "Automated Driving Advanced Development Intern, Machine Learning Research (Explainable AI)",
     "url": "https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4"
   },
   "https://jobs.lever.co/tri/0e7063a7-7761-4843-bc28-bf7870fa44b3": {
@@ -28561,7 +28561,7 @@
   },
   "https://jobs.smartrecruiters.com/solidigm/744000161579529": {
     "title": "NAND Development Business Operations Intern",
-    "url": "https://jobs.smartrecruiters.com/Solidigm/744000161579529"
+    "url": "https://jobs.smartrecruiters.com/solidigm/744000161579529"
   },
   "https://go.vansh.nyc/1zr": {
     "title": "Software Engineer Intern, Cloud",
@@ -29405,7 +29405,7 @@
   },
   "https://jobs.smartrecruiters.com/solidigm/744000162339619": {
     "title": "Engineering Research Intern (Architecture, Firmware, Software)",
-    "url": "https://jobs.smartrecruiters.com/Solidigm/744000162339619"
+    "url": "https://jobs.smartrecruiters.com/solidigm/744000162339619"
   },
   "https://go.vansh.nyc/1co": {
     "title": "Data Science Intern",
@@ -29636,7 +29636,79 @@
     "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000162407819"
   },
   "https://jobs.smartrecruiters.com/pyrotek3/744000162385949": {
-    "title": "Intern - Product Management",
+    "title": "Product Management Intern",
     "url": "https://jobs.smartrecruiters.com/Pyrotek3/744000162385949"
+  },
+  "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply": {
+    "title": "Robotics Intern - Generalist Robot Learning",
+    "url": "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply"
+  },
+  "https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/ai-engineer-intern---mission-innovation-lab--summer-2027-_2025364-1": {
+    "title": "AI Engineer Intern - Mission Innovation Lab",
+    "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1"
+  },
+  "https://argonne.wd1.myworkdayjobs.com/en-us/edu_pub/job/lemont-il-usa/business-systems-administration-internship_413528": {
+    "title": "Business Systems Administration Internship",
+    "url": "https://argonne.wd1.myworkdayjobs.com/en-US/edu_pub/job/Lemont-IL-USA/Business-Systems-Administration-Internship_413528"
+  },
+  "https://boseallaboutme.wd503.myworkdayjobs.com/en-us/bose_careers/job/us-ma---framingham/software-engineer-co-op_r29387": {
+    "title": "Software Engineer Co-op",
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387"
+  },
+  "https://cmu.wd115.myworkdayjobs.com/en-us/cmu/job/pittsburgh-pa/ai-engineer-intern---mission-innovation-lab--summer-2027-_2025364": {
+    "title": "AI Engineer Intern - Mission Innovation Lab (Summer 2027)",
+    "url": "https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364"
+  },
+  "https://jobs.ashbyhq.com/warp-sciences/addb09af-18ab-4aa1-a7b5-861f8485e9a9": {
+    "title": "Member of Technical Staff Intern - Robotics Learning",
+    "url": "https://jobs.ashbyhq.com/warp-sciences/addb09af-18ab-4aa1-a7b5-861f8485e9a9"
+  },
+  "https://jobs.lever.co/tri/9c48b236-e6ad-4b97-9380-c675e5432415": {
+    "title": "Automated Driving Advanced Development Intern, Machine Learning Research",
+    "url": "https://jobs.lever.co/tri/9c48b236-e6ad-4b97-9380-c675e5432415"
+  },
+  "https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476": {
+    "title": "Automated Driving Advanced Development Intern, Machine Learning Research (Cambridge)",
+    "url": "https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476"
+  },
+  "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49": {
+    "title": "Robotics Intern, Agentic Robotics",
+    "url": "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49"
+  },
+  "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943": {
+    "title": "Robotics Intern, Generalist Robot Learning (GRL)",
+    "url": "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943"
+  },
+  "https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8": {
+    "title": "Robotics Intern, Prototyping and Robotics Operations",
+    "url": "https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8"
+  },
+  "https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3": {
+    "title": "Robotics Intern, World Models, Multimodal Sensing",
+    "url": "https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3"
+  },
+  "https://job-boards.greenhouse.io/fspco-op012325/jobs/8948840002": {
+    "title": "Pioneering Medicines: Drug Substance (Process Modeling) Co-Op",
+    "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8948840002"
+  },
+  "https://job-boards.greenhouse.io/legendcareers/jobs/4755562005": {
+    "title": "Research & Development Intern",
+    "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4755562005"
+  },
+  "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004": {
+    "title": "2027 Site Reliability Engineer Intern-Afton, Texas",
+    "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004"
+  },
+  "https://job-boards.greenhouse.io/dlrgroup/jobs/5441252008": {
+    "title": "Audiovisual Systems Design Intern | Summer 2027",
+    "url": "https://job-boards.greenhouse.io/dlrgroup/jobs/5441252008"
+  },
+  "https://jobs.lever.co/energyvault/cc3ec6ea-b462-448a-96a7-819a308c290c": {
+    "title": "Intern, Power Electronics Engineering – Power Systems",
+    "url": "https://jobs.lever.co/EnergyVault/cc3ec6ea-b462-448a-96a7-819a308c290c"
+  },
+  "https://jobs.smartrecruiters.com/syngentagroup/744000162383708": {
+    "title": "Data Science Intern",
+    "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708"
   }
 }
