@@ -3827,15 +3827,7 @@
   "workday:stevens.wd5.myworkdayjobs.com": [],
   "greenhouse:m3": [],
   "greenhouse:ridgeline": [],
-  "greenhouse:drweng": [
-    {
-      "title": "Software Developer Intern",
-      "company": "drweng",
-      "location": "Chicago",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "clearance": false
-    }
-  ],
+  "greenhouse:drweng": [],
   "workday:bankeasy.wd5.myworkdayjobs.com": [
     {
       "title": "Software Development Intern",
@@ -3979,7 +3971,14 @@
       "clearance": false
     },
     {
-      "title": "AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027",
+      "title": "AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027",
+      "company": "drivewealth",
+      "location": "Office - Chicago; Office - NYC",
+      "url": "https://boards.greenhouse.io/drivewealth/jobs/8200548003?gh_jid=8200548003",
+      "clearance": false
+    },
+    {
+      "title": "AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027",
       "company": "drivewealth",
       "location": "Office - Chicago; Office - NYC",
       "url": "https://boards.greenhouse.io/drivewealth/jobs/8038087003?gh_jid=8038087003",
@@ -4437,7 +4436,15 @@
       "clearance": false
     }
   ],
-  "smartrecruiters:mirantis": [],
+  "smartrecruiters:mirantis": [
+    {
+      "title": "Intern — Support Specialist / Business Analyst",
+      "company": "Mirantis",
+      "location": "Almaty, Almaty Region, kz",
+      "url": "https://jobs.smartrecruiters.com/Mirantis/744000162251735",
+      "clearance": false
+    }
+  ],
   "lever:galatea-associates": [],
   "workday:baincapital.wd1.myworkdayjobs.com": [],
   "ashby:sycamore": [],
@@ -5543,6 +5550,13 @@
   "greenhouse:affirmedrxpbc": [],
   "ashby:opusclip": [
     {
+      "title": "AI Research Intern",
+      "company": "opusclip",
+      "location": "Mountain View",
+      "url": "https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2",
+      "clearance": false
+    },
+    {
       "title": "AI Product Management Intern",
       "company": "opusclip",
       "location": "Mountain View",
@@ -5652,15 +5666,7 @@
   ],
   "workable:trycaddi": [],
   "greenhouse:eudia": [],
-  "greenhouse:compeerfinancial": [
-    {
-      "title": "Intern Infrastructure Engineering",
-      "company": "compeerfinancial",
-      "location": "MN-Lakeville",
-      "url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5422577008",
-      "clearance": false
-    }
-  ],
+  "greenhouse:compeerfinancial": [],
   "workday:davidyurman.wd1.myworkdayjobs.com": [
     {
       "title": "Product Development Intern",
@@ -8918,5 +8924,49 @@
       "url": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa",
       "clearance": false
     }
-  ]
+  ],
+  "greenhouse:generalmatter": [
+    {
+      "title": "Summer 2027 Internship - Information Security Engineer",
+      "company": "generalmatter",
+      "location": "Los Angeles, CA",
+      "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5448019008",
+      "clearance": false
+    }
+  ],
+  "workable:executive-title-agency": [],
+  "greenhouse:klaviyocampus": [],
+  "greenhouse:horizontradingsolutions": [],
+  "ashby:gritt": [
+    {
+      "title": "Robot Learning Engineer Intern",
+      "company": "gritt",
+      "location": "South San Francisco",
+      "url": "https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd",
+      "clearance": false
+    },
+    {
+      "title": "Robotics Perception Engineer Intern",
+      "company": "gritt",
+      "location": "South San Francisco",
+      "url": "https://jobs.ashbyhq.com/gritt/26af4e71-339d-4aa3-9f22-91574c1166b9",
+      "clearance": false
+    },
+    {
+      "title": "Robotics Planning & Controls Engineer Intern",
+      "company": "gritt",
+      "location": "South San Francisco",
+      "url": "https://jobs.ashbyhq.com/gritt/df9254b5-e323-411a-a36f-57bd24a3de56",
+      "clearance": false
+    },
+    {
+      "title": "ML & Cloud Infrastructure Engineer Intern",
+      "company": "gritt",
+      "location": "South San Francisco",
+      "url": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523",
+      "clearance": false
+    }
+  ],
+  "workday:collegeboard.wd1.myworkdayjobs.com": [],
+  "workday:invitationhomes.wd503.myworkdayjobs.com": []
 }

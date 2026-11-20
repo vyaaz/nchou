@@ -9556,7 +9556,7 @@
     "url": "https://boards.greenhouse.io/drivewealth/jobs/8039350003?gh_jid=8039350003"
   },
   "https://boards.greenhouse.io/drivewealth/jobs/8038087003?gh_jid=8038087003": {
-    "title": "AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027",
+    "title": "AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027",
     "url": "https://boards.greenhouse.io/drivewealth/jobs/8038087003?gh_jid=8038087003"
   },
   "https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302": {
@@ -11480,8 +11480,8 @@
     "url": "https://go.vansh.nyc/8t"
   },
   "https://go.vansh.nyc/8u": {
-    "title": "Software Engineering Intern",
-    "url": "https://go.vansh.nyc/8u"
+    "title": "Risk & Analytics Enterprise Risk Consulting Intern",
+    "url": "https://go.vansh.nyc/8U"
   },
   "https://go.vansh.nyc/8v": {
     "title": "Member of Technical Staff Intern, Frontend",
@@ -28561,7 +28561,7 @@
   },
   "https://jobs.smartrecruiters.com/solidigm/744000161579529": {
     "title": "NAND Development Business Operations Intern",
-    "url": "https://jobs.smartrecruiters.com/Solidigm/744000161579529"
+    "url": "https://jobs.smartrecruiters.com/solidigm/744000161579529"
   },
   "https://go.vansh.nyc/1zr": {
     "title": "Software Engineer Intern, Cloud",
@@ -29405,7 +29405,7 @@
   },
   "https://jobs.smartrecruiters.com/solidigm/744000162339619": {
     "title": "Engineering Research Intern (Architecture, Firmware, Software)",
-    "url": "https://jobs.smartrecruiters.com/Solidigm/744000162339619"
+    "url": "https://jobs.smartrecruiters.com/solidigm/744000162339619"
   },
   "https://go.vansh.nyc/1co": {
     "title": "Data Science Intern",
@@ -29876,7 +29876,7 @@
     "url": "https://jobs.smartrecruiters.com/LLNL/3743990016984046"
   },
   "https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007": {
-    "title": "Intern, AI & Data (Applied AI/Machine Learning), Summer 2027",
+    "title": "AI & Data Intern - Applied AI/Machine Learning",
     "url": "https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007"
   },
   "https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007": {
@@ -29910,5 +29910,101 @@
   "https://job-boards.greenhouse.io/heartflowinc/jobs/6263395004": {
     "title": "Platform Engineering Intern (Summer 2027)",
     "url": "https://job-boards.greenhouse.io/heartflowinc/jobs/6263395004"
+  },
+  "https://go.vansh.nyc/1dt": {
+    "title": "Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving",
+    "url": "https://go.vansh.nyc/1DT"
+  },
+  "https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009": {
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009"
+  },
+  "https://apply.careers.microsoft.com/careers/job/1970393557076095": {
+    "title": "Research Intern - Deep Learning Group",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557076095"
+  },
+  "https://ejko.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_3/job/15160": {
+    "title": "Object Oriented Programming Intern",
+    "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160"
+  },
+  "https://egup.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/20286620": {
+    "title": "AI Intern",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620"
+  },
+  "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true": {
+    "title": "Software Engineer Intern - AI / ML",
+    "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true"
+  },
+  "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true": {
+    "title": "Software Engineer Intern - Core - Infrastructure & Security",
+    "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true"
+  },
+  "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true": {
+    "title": "Software Engineer Intern - Database Engineering",
+    "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true"
+  },
+  "https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply": {
+    "title": "Autonomy Intern - Autonomy - Path Planning",
+    "url": "https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply"
+  },
+  "https://amperity.com/careers?gh_jid=8393990#openpositions": {
+    "title": "Software Development Engineer Intern",
+    "url": "https://amperity.com/careers?gh_jid=8393990#openpositions"
+  },
+  "https://jobs.smartrecruiters.com/linkedin3/744000162623639": {
+    "title": "AI/ML Engineer Intern - Generative AI",
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623639"
+  },
+  "https://jobs.smartrecruiters.com/linkedin3/744000162628808": {
+    "title": "AI/ML Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162628808"
+  },
+  "https://jobs.smartrecruiters.com/linkedin3/744000162623368": {
+    "title": "Artificial Intelligence/Machine Learning Engineer Intern - Search and Recommender Systems",
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623368"
+  },
+  "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007": {
+    "title": "Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving",
+    "url": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007"
+  },
+  "https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007": {
+    "title": "ADAS Systems Integration Intern",
+    "url": "https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007"
+  },
+  "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007": {
+    "title": "Infotainment Software Intern",
+    "url": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007"
+  },
+  "https://recruiting2.ultipro.com/mel1001mel/jobboard/d5ffce96-7247-41c4-831b-454b3454c233/opportunitydetail?opportunityid=da1623df-5176-4008-9b62-c1c59dda63bf": {
+    "title": "Software Development Intern",
+    "url": "https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf"
+  },
+  "https://jobs.smartrecruiters.com/llnl/3743990016985966": {
+    "title": "Seaborg Institute Nuclear Science and Security Undergraduate Intern - Summer 2027",
+    "url": "https://jobs.smartrecruiters.com/LLNL/3743990016985966"
+  },
+  "https://jobs.smartrecruiters.com/llnl/3743990016985836": {
+    "title": "Seaborg Institute Nuclear Science and Security Graduate Intern - Summer 2027",
+    "url": "https://jobs.smartrecruiters.com/LLNL/3743990016985836"
+  },
+  "https://jobs.smartrecruiters.com/llnl/3743990016985486": {
+    "title": "Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027",
+    "url": "https://jobs.smartrecruiters.com/LLNL/3743990016985486"
+  },
+  "https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2": {
+    "title": "AI Research Intern",
+    "url": "https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2"
+  },
+  "https://boards.greenhouse.io/drivewealth/jobs/8200548003?gh_jid=8200548003": {
+    "title": "AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027",
+    "url": "https://boards.greenhouse.io/drivewealth/jobs/8200548003?gh_jid=8200548003"
+  },
+  "https://jobs.smartrecruiters.com/mirantis/744000162251735": {
+    "title": "Intern — Support Specialist / Business Analyst",
+    "url": "https://jobs.smartrecruiters.com/Mirantis/744000162251735"
+  },
+  "https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007": {
+    "title": "Product Security Engineering Intern, Summer 2027",
+    "url": "https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007"
   }
 }
