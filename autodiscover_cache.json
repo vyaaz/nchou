@@ -585,7 +585,6 @@
   "ashby:aescape": [],
   "greenhouse:generalatlantic": [],
   "ashby:fluidstack": [],
-  "greenhouse:workstream": [],
   "workday:seic.wd1.myworkdayjobs.com": [],
   "smartrecruiters:marlabsinc1": [],
   "greenhouse:tpgcareers": [],
@@ -645,7 +644,6 @@
   "greenhouse:sandstonecare": [],
   "lever:bhvr": [],
   "workday:hoganas.wd3.myworkdayjobs.com": [],
-  "greenhouse:truveta": [],
   "greenhouse:gallup": [],
   "smartrecruiters:sutherland": [],
   "workday:maritz.wd1.myworkdayjobs.com": [],
@@ -1111,29 +1109,6 @@
   ],
   "smartrecruiters:stefanini1": [],
   "ashby:fellowai": [],
-  "greenhouse:galaxydigitalservices": [
-    {
-      "title": "2027 Data Center Growth & Development Intern - NYC",
-      "company": "galaxydigitalservices",
-      "location": "New York",
-      "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6256234004",
-      "clearance": false
-    },
-    {
-      "title": "2027 Digital Infrastructure Intern - NYC",
-      "company": "galaxydigitalservices",
-      "location": "New York",
-      "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004",
-      "clearance": false
-    },
-    {
-      "title": "2027 Site Reliability Engineer Intern-Afton, Texas",
-      "company": "galaxydigitalservices",
-      "location": "Afton, Texas",
-      "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004",
-      "clearance": false
-    }
-  ],
   "lever:filevine": [
     {
       "title": "Security Specialist, Intern",
@@ -1593,7 +1568,6 @@
   "ashby:equip": [],
   "greenhouse:authenticinsurance": [],
   "workday:vfc.wd5.myworkdayjobs.com": [],
-  "workday:valeris.wd108.myworkdayjobs.com": [],
   "smartrecruiters:syncreonconsulting": [],
   "smartrecruiters:clinicalink": [],
   "greenhouse:interwellhealth": [],
@@ -2109,7 +2083,6 @@
       "clearance": false
     }
   ],
-  "greenhouse:doximity": [],
   "greenhouse:starmountaincapital": [],
   "workday:swib.wd12.myworkdayjobs.com": [
     {
@@ -2959,7 +2932,6 @@
   ],
   "workable:ballotpedia": [],
   "workable:szns": [],
-  "workable:softheon": [],
   "workable:credence": [],
   "workday:msudenver.wd1.myworkdayjobs.com": [],
   "workable:synthesisim": [],
@@ -3027,7 +2999,6 @@
   "greenhouse:bwaltpostings": [],
   "ashby:fuel-cycle": [],
   "workday:vsp.wd1.myworkdayjobs.com": [],
-  "greenhouse:remodelhealth": [],
   "lever:spawglass": [],
   "ashby:matx": [],
   "lever:farfetch": [],
@@ -3435,7 +3406,6 @@
   "lever:cologix": [],
   "greenhouse:realchemistry": [],
   "smartrecruiters:edf-uk": [],
-  "workday:sierraspace.wd1.myworkdayjobs.com": [],
   "lever:salesdemo-jr": [],
   "workday:vst.wd5.myworkdayjobs.com": [],
   "greenhouse:baltimoreorioles": [],
@@ -4837,7 +4807,6 @@
   "greenhouse:undercontrolroboticsinc": [],
   "ashby:maya-htt": [],
   "workday:swift.wd3.myworkdayjobs.com": [],
-  "greenhouse:presencelearning": [],
   "workable:trexquant": [],
   "greenhouse:agency": [],
   "workday:chewy.wd5.myworkdayjobs.com": [],
@@ -6108,7 +6077,15 @@
   "ashby:tldraw": [],
   "workday:formulaone.wd3.myworkdayjobs.com": [],
   "workable:onyx-capital-group": [],
-  "greenhouse:heartflowinc": [],
+  "greenhouse:heartflowinc": [
+    {
+      "title": "Platform Engineering Intern (Summer 2027)",
+      "company": "heartflowinc",
+      "location": "San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/heartflowinc/jobs/6263395004",
+      "clearance": false
+    }
+  ],
   "workable:dcthomson": [],
   "lever:ravl_io": [],
   "lever:shyftlabs": [],
@@ -6122,15 +6099,7 @@
   "lever:lightship": [],
   "greenhouse:freedomconsulting": [],
   "workday:sprinklr.wd1.myworkdayjobs.com": [],
-  "greenhouse:judihealth": [
-    {
-      "title": "AI Solutions Intern",
-      "company": "judihealth",
-      "location": "New York, New York, United States",
-      "url": "https://job-boards.greenhouse.io/judihealth/jobs/5477146008",
-      "clearance": false
-    }
-  ],
+  "greenhouse:judihealth": [],
   "workday:fhlbi.wd1.myworkdayjobs.com": [
     {
       "title": "Network Engineer Intern",
@@ -6924,15 +6893,7 @@
   "workable:ssci": [],
   "smartrecruiters:atriagroupllc": [],
   "greenhouse:nyisointernships": [],
-  "ashby:graymatter-robotics": [
-    {
-      "title": "Robotics Engineering Intern: Systems & Applications - IMMEDIATE START",
-      "company": "graymatter-robotics",
-      "location": "Los Angeles - HQ",
-      "url": "https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320",
-      "clearance": false
-    }
-  ],
+  "ashby:graymatter-robotics": [],
   "greenhouse:athinkingape": [],
   "smartrecruiters:turnertownsend": [],
   "workday:bigcommerce.wd12.myworkdayjobs.com": [],
@@ -7068,15 +7029,7 @@
   "greenhouse:stackline": [],
   "ashby:vmax": [],
   "lever:omnidesigntech": [],
-  "smartrecruiters:pyrotek3": [
-    {
-      "title": "Intern - Product Management",
-      "company": "Pyrotek3",
-      "location": "Spokane, WA, us",
-      "url": "https://jobs.smartrecruiters.com/Pyrotek3/744000162385949",
-      "clearance": false
-    }
-  ],
+  "smartrecruiters:pyrotek3": [],
   "workday:litera.wd12.myworkdayjobs.com": [],
   "workday:nshe.wd1.myworkdayjobs.com": [],
   "workday:jadeglobal.wd5.myworkdayjobs.com": [],
@@ -7093,13 +7046,6 @@
       "company": "revel",
       "location": "Los Angeles",
       "url": "https://jobs.ashbyhq.com/revel/f080b27d-92c7-4e1f-a85f-b4a7c166d738",
-      "clearance": true
-    },
-    {
-      "title": "Internship: Forward Deployed Engineer, Test",
-      "company": "revel",
-      "location": "Los Angeles",
-      "url": "https://jobs.ashbyhq.com/revel/6ca4dca8-a43e-41da-acc3-e6b4d8f9b3c1",
       "clearance": true
     }
   ],
@@ -7124,7 +7070,6 @@
   "workday:neiu.wd1.myworkdayjobs.com": [],
   "greenhouse:horizonindustrieslimited": [],
   "greenhouse:aegworldwide": [],
-  "workday:rbc.wd3.myworkdayjobs.com": [],
   "ashby:siftstack": [],
   "greenhouse:peregrinetechnologies": [],
   "greenhouse:canonical": [],
@@ -7199,7 +7144,43 @@
   "ashby:harvey": [],
   "workday:gladstone.wd503.myworkdayjobs.com": [],
   "workday:wgl.wd5.myworkdayjobs.com": [],
-  "greenhouse:lucidmotors": [],
+  "greenhouse:lucidmotors": [
+    {
+      "title": "Intern, AI & Data (Applied AI/Machine Learning), Summer 2027",
+      "company": "lucidmotors",
+      "location": "Newark, CA",
+      "url": "https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007",
+      "clearance": false
+    },
+    {
+      "title": "Intern, Embedded Software, Summer 2027",
+      "company": "lucidmotors",
+      "location": "Newark, CA",
+      "url": "https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007",
+      "clearance": false
+    },
+    {
+      "title": "Intern, Motor Control Software Development and Validation Engineer, Summer 2027",
+      "company": "lucidmotors",
+      "location": "Newark, CA",
+      "url": "https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007",
+      "clearance": false
+    },
+    {
+      "title": "Intern, Simulation & Virtualization Engineer, Summer 2027",
+      "company": "lucidmotors",
+      "location": "Newark, CA",
+      "url": "https://lucidmotors.com/careers/search/5290915007?gh_jid=5290915007",
+      "clearance": false
+    },
+    {
+      "title": "Intern, Software Engineer, SDET, Summer 2027",
+      "company": "lucidmotors",
+      "location": "Newark, CA",
+      "url": "https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007",
+      "clearance": false
+    }
+  ],
   "smartrecruiters:pilotcompany": [],
   "workable:teguar-corporation": [],
   "workday:iberdrola.wd3.myworkdayjobs.com": [],
@@ -7461,10 +7442,8 @@
   "workday:acxiomllc.wd5.myworkdayjobs.com": [],
   "smartrecruiters:portmandentex": [],
   "ashby:onepot": [],
-  "workday:arbella.wd5.myworkdayjobs.com": [],
   "ashby:cerebras": [],
   "lever:scottlogic": [],
-  "workday:qvc.wd5.myworkdayjobs.com": [],
   "ashby:backbone": [],
   "workday:alston.wd1.myworkdayjobs.com": [],
   "workable:nogigiddy": [],
@@ -7617,7 +7596,6 @@
   "workday:goosehead.wd503.myworkdayjobs.com": [],
   "workday:uva.wd1.myworkdayjobs.com": [],
   "lever:hottopic": [],
-  "greenhouse:rab": [],
   "workday:exclusivenetworks.wd103.myworkdayjobs.com": [],
   "lever:biointellisense": [],
   "workday:rogersbh.wd1.myworkdayjobs.com": [],
@@ -7837,15 +7815,22 @@
     {
       "title": "Product Manager Intern, ShopX(Rewards)",
       "company": "sezzle",
-      "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044470003",
+      "location": "Peru",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044473003",
       "clearance": false
     },
     {
       "title": "Product Manager Intern, ShopX(Rewards)",
       "company": "sezzle",
+      "location": "Colombia, Remote",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044470003",
+      "clearance": false
+    },
+    {
+      "title": "Product Operations Intern, Rewards",
+      "company": "sezzle",
       "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044473003",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012085003",
       "clearance": false
     },
     {
@@ -7860,13 +7845,6 @@
       "company": "sezzle",
       "location": "Chile, Remote",
       "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012084003",
-      "clearance": false
-    },
-    {
-      "title": "Product Operations Intern, Rewards",
-      "company": "sezzle",
-      "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012085003",
       "clearance": false
     }
   ],
@@ -7944,7 +7922,6 @@
   "workday:austincc.wd1.myworkdayjobs.com": [],
   "workable:ace-it-careers-1": [],
   "ashby:crosby": [],
-  "workday:helenoftroy.wd503.myworkdayjobs.com": [],
   "workday:3m.wd1.myworkdayjobs.com": [
     {
       "title": "Internship - 2027 Undergraduate 3M UX/UI Design Intern - Safety & Industrial Business Group (SIBG)",
@@ -8131,7 +8108,6 @@
   "workday:rsm.wd1.myworkdayjobs.com": [],
   "lever:ion": [],
   "ashby:beaconai": [],
-  "workday:soti.wd3.myworkdayjobs.com": [],
   "lever:weloglobal": [],
   "workday:simpro.wd3.myworkdayjobs.com": [],
   "ashby:collective": [],
@@ -8393,36 +8369,7 @@
       "clearance": false
     }
   ],
-  "ashby:drivewealth": [
-    {
-      "title": "AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027",
-      "company": "drivewealth",
-      "location": "Chicago, IL",
-      "url": "https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec",
-      "clearance": false
-    },
-    {
-      "title": "AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027",
-      "company": "drivewealth",
-      "location": "Chicago, IL",
-      "url": "https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a",
-      "clearance": false
-    },
-    {
-      "title": "AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027",
-      "company": "drivewealth",
-      "location": "Chicago, IL",
-      "url": "https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16",
-      "clearance": false
-    },
-    {
-      "title": "AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027",
-      "company": "drivewealth",
-      "location": "Chicago, IL",
-      "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87",
-      "clearance": false
-    }
-  ],
+  "ashby:drivewealth": [],
   "workday:chamberlain.wd1.myworkdayjobs.com": [],
   "workday:gfs.wd5.myworkdayjobs.com": [
     {
@@ -8451,16 +8398,7 @@
   "smartrecruiters:uapinc": [],
   "greenhouse:a3c41b8b71eff8c4": [],
   "workday:horizonmedia.wd1.myworkdayjobs.com": [],
-  "ashby:kira": [],
-  "lever:thinkahead": [
-    {
-      "title": "MS Infrastructure Intern (6 months)",
-      "company": "thinkahead",
-      "location": "Gurugram, Haryana",
-      "url": "https://jobs.lever.co/thinkahead/76649f02-c9df-4206-a365-cf9d33350b55",
-      "clearance": false
-    }
-  ],
+  "lever:thinkahead": [],
   "greenhouse:albedo": [],
   "workable:mistywest": [],
   "workday:tdwilliamson.wd1.myworkdayjobs.com": [],
@@ -8943,5 +8881,42 @@
   ],
   "smartrecruiters:nemetschekse2": [],
   "lever:z1tech": [],
-  "workable:mindex": []
+  "workable:mindex": [],
+  "lever:aeva": [],
+  "smartrecruiters:williamjessupuniversitybayareacampus": [],
+  "greenhouse:scoutspace": [
+    {
+      "title": "Computer Vision (AI/ML) Engineering Intern (Summer 2027)",
+      "company": "scoutspace",
+      "location": "Reston, VA - Remote",
+      "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008",
+      "clearance": false
+    },
+    {
+      "title": "GNC and Astrodynamics Engineering Intern (Summer 2027)",
+      "company": "scoutspace",
+      "location": "Reston, VA - Remote",
+      "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489233008",
+      "clearance": false
+    },
+    {
+      "title": "Systems Engineering Intern (Summer 2027)",
+      "company": "scoutspace",
+      "location": "Reston, VA - Remote",
+      "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489235008",
+      "clearance": false
+    }
+  ],
+  "greenhouse:thenewyorktimes": [],
+  "ashby:uipath": [],
+  "ashby:makermaker.ai": [],
+  "ashby:megazone": [
+    {
+      "title": "Data Engineer Co-op 2027",
+      "company": "megazone",
+      "location": "Rochester, NY",
+      "url": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa",
+      "clearance": false
+    }
+  ]
 }
