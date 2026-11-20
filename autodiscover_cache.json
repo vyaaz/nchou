@@ -411,7 +411,6 @@
   ],
   "ashby:sela": [],
   "workday:coorstek.wd1.myworkdayjobs.com": [],
-  "greenhouse:matteprojects": [],
   "workday:iatinsurancegroup.wd1.myworkdayjobs.com": [
     {
       "title": "Data Engineering & Visualization Internship",
@@ -1616,7 +1615,6 @@
   "greenhouse:simplisafe": [],
   "ashby:hilberts": [],
   "ashby:aptura": [],
-  "ashby:nascent": [],
   "lever:bellese": [],
   "ashby:goodlord": [],
   "ashby:picogrid": [],
@@ -3147,15 +3145,6 @@
   "greenhouse:adyen": [],
   "workday:equifax.wd5.myworkdayjobs.com": [],
   "greenhouse:jumio": [],
-  "workday:neogen.wd5.myworkdayjobs.com": [
-    {
-      "title": "Manufacturing Internship -Sample Collection Solution Prep Optimization",
-      "company": "neogen",
-      "location": "Lexington, KY",
-      "url": "https://neogen.wd5.myworkdayjobs.com/en-US/neogencareers/job/Lexington-KY/Manufacturing-Internship--Sample-Collection-Solution-Prep-Optimization_REQ-11232",
-      "clearance": false
-    }
-  ],
   "workday:remitly.wd5.myworkdayjobs.com": [],
   "workday:fourseasons.wd3.myworkdayjobs.com": [
     {
@@ -3592,13 +3581,6 @@
       "company": "asteraearlycareer2027",
       "location": "Cary, NC",
       "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731587005",
-      "clearance": false
-    },
-    {
-      "title": "Platform Solutions Engineer Intern (EE)",
-      "company": "asteraearlycareer2027",
-      "location": "Cary, NC",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731586005",
       "clearance": false
     },
     {
@@ -4445,7 +4427,6 @@
   "greenhouse:ftsp27co-ops": [],
   "ashby:sentilink": [],
   "ashby:idler": [],
-  "workday:signetjewelers.wd1.myworkdayjobs.com": [],
   "greenhouse:penninteractive": [],
   "ashby:laminar-jobs": [],
   "ashby:elveo": [],
@@ -4490,36 +4471,6 @@
   ],
   "greenhouse:teletrackingtechnologiesinc": [],
   "workday:ncr.wd1.myworkdayjobs.com": [],
-  "workday:roche.wd3.myworkdayjobs.com": [
-    {
-      "title": "2027 Summer Intern - Translational Pharmacokinetics & Pharmacodynamics (tPKPD): QSP Modeling in Cardiovascular, Renal and Metabolic Diseases",
-      "company": "roche",
-      "location": "South San Francisco",
-      "url": "https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Translational-Pharmacokinetics---Pharmacodynamics--tPKPD---QSP-Modeling-in-Cardiovascular--Renal-and-Metabolic-Diseases_202611-129010",
-      "clearance": false
-    },
-    {
-      "title": "2027 Summer Intern - Product Development Data Sciences",
-      "company": "roche",
-      "location": "Boston",
-      "url": "https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/Boston/XMLNAME-2027-Summer-Intern---Product-Development-Data-Sciences_202611-128802",
-      "clearance": false
-    },
-    {
-      "title": "2027 Summer Intern - Digital, AI, and Clinical Outcome Assessments",
-      "company": "roche",
-      "location": "South San Francisco",
-      "url": "https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790",
-      "clearance": false
-    },
-    {
-      "title": "2027 Summer Intern - Biostatistics and Analytical Data Sciences",
-      "company": "roche",
-      "location": "South San Francisco",
-      "url": "https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Biostatistics-and-Analytical-Data-Sciences_202611-128787",
-      "clearance": false
-    }
-  ],
   "workable:continuum-resource-network": [],
   "workday:athene.wd5.myworkdayjobs.com": [],
   "workable:ripjar": [],
@@ -5313,6 +5264,13 @@
       "location": "Seattle, WA",
       "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/8293636",
       "clearance": false
+    },
+    {
+      "title": "Research Internship, Climate Modeling",
+      "company": "thealleninstitute",
+      "location": "Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052",
+      "clearance": false
     }
   ],
   "workday:zayo.wd1.myworkdayjobs.com": [],
@@ -5653,15 +5611,6 @@
   "smartrecruiters:cityofphiladelphia": [],
   "greenhouse:assuredguaranty": [],
   "greenhouse:robinhood": [],
-  "workday:centene.wd5.myworkdayjobs.com": [
-    {
-      "title": "Social Media & AI Undergraduate Summer Intern",
-      "company": "centene",
-      "location": "Remote-CA",
-      "url": "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-CA/Social-Media---AI-Undergraduate-Summer-Intern_1667859",
-      "clearance": false
-    }
-  ],
   "workable:trycaddi": [],
   "greenhouse:eudia": [],
   "greenhouse:compeerfinancial": [],
@@ -5959,7 +5908,6 @@
     }
   ],
   "workday:scanhealthplan.wd108.myworkdayjobs.com": [],
-  "greenhouse:astronicscorporation": [],
   "workday:davita.wd1.myworkdayjobs.com": [],
   "ashby:fortuna-health": [],
   "workday:aviagen.wd1.myworkdayjobs.com": [],
@@ -6368,7 +6316,6 @@
   "lever:lexeotx": [],
   "ashby:faculty": [],
   "workable:zaber": [],
-  "workday:compassion.wd5.myworkdayjobs.com": [],
   "greenhouse:uberfreight": [],
   "greenhouse:bettermentcampusrecruiting": [],
   "lever:fiscalnote": [],
@@ -7281,7 +7228,6 @@
   "greenhouse:applovin": [],
   "ashby:teya": [],
   "greenhouse:tenstorrentuniversity": [],
-  "workday:bdo.wd3.myworkdayjobs.com": [],
   "greenhouse:cssmerge": [
     {
       "title": "AI Research Intern  (BS/MS)",
@@ -7426,7 +7372,6 @@
   "workday:sanofi.wd3.myworkdayjobs.com": [],
   "ashby:sampura": [],
   "workday:largo.wd1.myworkdayjobs.com": [],
-  "lever:geocomply-2": [],
   "greenhouse:synack": [],
   "greenhouse:diligentcorporation": [],
   "workable:altom-transport": [],
@@ -8726,7 +8671,6 @@
   "workday:jsx.wd503.myworkdayjobs.com": [],
   "workable:bmlltech": [],
   "workable:fidus": [],
-  "workday:cliftonlarsonallen.wd115.myworkdayjobs.com": [],
   "greenhouse:integratedbiosciencesinc": [],
   "ashby:nexus-cognitive": [
     {
@@ -8870,29 +8814,6 @@
   "workable:mindex": [],
   "lever:aeva": [],
   "smartrecruiters:williamjessupuniversitybayareacampus": [],
-  "greenhouse:scoutspace": [
-    {
-      "title": "Computer Vision (AI/ML) Engineering Intern (Summer 2027)",
-      "company": "scoutspace",
-      "location": "Reston, VA - Remote",
-      "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008",
-      "clearance": false
-    },
-    {
-      "title": "GNC and Astrodynamics Engineering Intern (Summer 2027)",
-      "company": "scoutspace",
-      "location": "Reston, VA - Remote",
-      "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489233008",
-      "clearance": false
-    },
-    {
-      "title": "Systems Engineering Intern (Summer 2027)",
-      "company": "scoutspace",
-      "location": "Reston, VA - Remote",
-      "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489235008",
-      "clearance": false
-    }
-  ],
   "greenhouse:thenewyorktimes": [],
   "ashby:uipath": [],
   "ashby:makermaker.ai": [],
@@ -8949,5 +8870,6 @@
   ],
   "workday:collegeboard.wd1.myworkdayjobs.com": [],
   "workday:invitationhomes.wd503.myworkdayjobs.com": [],
-  "workable:legatics": []
+  "workable:legatics": [],
+  "lever:viget": []
 }
