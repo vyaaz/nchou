@@ -17708,12 +17708,12 @@
     "url": "https://go.vansh.nyc/1gf"
   },
   "https://go.vansh.nyc/1gj": {
-    "title": "Software Test Engineering Intern",
-    "url": "https://go.vansh.nyc/1gj"
+    "title": "AI Intern",
+    "url": "https://go.vansh.nyc/1Gj"
   },
   "https://go.vansh.nyc/1gk": {
-    "title": "DevOps Software Engineering Intern",
-    "url": "https://go.vansh.nyc/1gk"
+    "title": "DevOps, IT & Cybersecurity Intern",
+    "url": "https://go.vansh.nyc/1Gk"
   },
   "https://go.vansh.nyc/1gl": {
     "title": "Software Engineering & AI Intern",
@@ -17804,8 +17804,8 @@
     "url": "https://go.vansh.nyc/1gH"
   },
   "https://go.vansh.nyc/1gi": {
-    "title": "Software Engineering Intern",
-    "url": "https://go.vansh.nyc/1gI"
+    "title": "Data Science Intern",
+    "url": "https://go.vansh.nyc/1Gi"
   },
   "https://go.vansh.nyc/1go": {
     "title": "Robotics Software Engineering Intern",
@@ -28561,7 +28561,7 @@
   },
   "https://jobs.smartrecruiters.com/solidigm/744000161579529": {
     "title": "NAND Development Business Operations Intern",
-    "url": "https://jobs.smartrecruiters.com/Solidigm/744000161579529"
+    "url": "https://jobs.smartrecruiters.com/solidigm/744000161579529"
   },
   "https://go.vansh.nyc/1zr": {
     "title": "Software Engineer Intern, Cloud",
@@ -29405,7 +29405,7 @@
   },
   "https://jobs.smartrecruiters.com/solidigm/744000162339619": {
     "title": "Engineering Research Intern (Architecture, Firmware, Software)",
-    "url": "https://jobs.smartrecruiters.com/Solidigm/744000162339619"
+    "url": "https://jobs.smartrecruiters.com/solidigm/744000162339619"
   },
   "https://go.vansh.nyc/1co": {
     "title": "Data Science Intern",
@@ -30386,5 +30386,25 @@
   "https://firstpremier.wd503.myworkdayjobs.com/en-us/premier_careers/job/sioux-falls-sd/premier-it-networking-operations-internship_r-555-1": {
     "title": "PREMIER IT Networking Operations Internship",
     "url": "https://firstpremier.wd503.myworkdayjobs.com/en-US/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-IT-Networking-Operations-Internship_R-555-1"
+  },
+  "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007": {
+    "title": "Autonomy Intern",
+    "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/fr-ca/private_posting_no_tmp/job/us-az-tucson-m02--1151-e-hermans-rd--bldg-m02/advanced-effector-guidance-systems-electrical-engineer-intern--summer-2027-_01870393-1": {
+    "title": "Advanced Effector Guidance Systems Electrical Engineer Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Advanced-Effector-Guidance-Systems-Electrical-Engineer-Intern--Summer-2027-_01870393-1"
+  },
+  "https://copart.wd12.myworkdayjobs.com/en-us/copart/job/dallas-tx---headquarters/software-engineering-intern_jr112593": {
+    "title": "Software Engineering Intern",
+    "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR112593"
+  },
+  "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/software-applications-engineering-intern_2642337-1": {
+    "title": "Software Applications Engineering Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337-1"
+  },
+  "https://swib.wd12.myworkdayjobs.com/en-us/ext/job/madison-wisconsin/information-security-intern_r-001332": {
+    "title": "Information Security Intern",
+    "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Information-Security-Intern_R-001332"
   }
 }

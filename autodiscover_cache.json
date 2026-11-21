@@ -570,7 +570,6 @@
   "greenhouse:atomicmachines": [],
   "greenhouse:carefeed": [],
   "lever:espace": [],
-  "greenhouse:axs": [],
   "workday:choicehotels.wd5.myworkdayjobs.com": [],
   "greenhouse:avepoint": [],
   "workday:theaccessgroup.wd103.myworkdayjobs.com": [],
@@ -786,7 +785,6 @@
   "lever:brightmachines": [],
   "ashby:hawkeyeinnovations": [],
   "greenhouse:tebra": [],
-  "workday:vantagedc.wd1.myworkdayjobs.com": [],
   "workday:suncor.wd1.myworkdayjobs.com": [],
   "smartrecruiters:dominos": [],
   "ashby:vendelux": [],
@@ -1310,13 +1308,6 @@
     }
   ],
   "workday:interdigital.wd5.myworkdayjobs.com": [
-    {
-      "title": "Intern, IT Infrastructure",
-      "company": "interdigital",
-      "location": "Conshohocken, PA",
-      "url": "https://interdigital.wd5.myworkdayjobs.com/en-US/InterDigital_Intern/job/Conshohocken-PA/Intern--IT-Infrastructure_REQ26-1141",
-      "clearance": false
-    },
     {
       "title": "Intern, Corporate Development",
       "company": "interdigital",
@@ -2065,6 +2056,13 @@
   ],
   "greenhouse:starmountaincapital": [],
   "workday:swib.wd12.myworkdayjobs.com": [
+    {
+      "title": "Information Security Intern",
+      "company": "swib",
+      "location": "Madison Wisconsin",
+      "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Information-Security-Intern_R-001332",
+      "clearance": false
+    },
     {
       "title": "UI/UX Intern",
       "company": "swib",
@@ -3039,7 +3037,6 @@
   "ashby:color-health": [],
   "greenhouse:detroitlions": [],
   "greenhouse:abacusinsights": [],
-  "workday:gen.wd1.myworkdayjobs.com": [],
   "ashby:check-technologies": [],
   "lever:weride": [],
   "greenhouse:assystinc": [],
@@ -3184,7 +3181,6 @@
       "clearance": false
     }
   ],
-  "smartrecruiters:matholdings": [],
   "greenhouse:optimove": [],
   "smartrecruiters:williamsracing": [],
   "greenhouse:ultimagenomics": [],
@@ -4601,7 +4597,6 @@
   "greenhouse:sesco": [],
   "workday:baltimorecity.wd1.myworkdayjobs.com": [],
   "lever:hatchit": [],
-  "lever:plusgrade": [],
   "greenhouse:geocgi": [],
   "ashby:sweatpals": [],
   "workday:acg.wd1.myworkdayjobs.com": [],
@@ -6852,7 +6847,6 @@
   ],
   "lever:worldscape-technology": [],
   "greenhouse:lunarenergy": [],
-  "lever:openx": [],
   "workday:calibercollision.wd1.myworkdayjobs.com": [],
   "ashby:trovy": [],
   "ashby:goaly": [],
@@ -7453,7 +7447,6 @@
   "workable:saalex": [],
   "workday:mfs.wd1.myworkdayjobs.com": [],
   "workday:clorox.wd1.myworkdayjobs.com": [],
-  "workday:taxwell.wd1.myworkdayjobs.com": [],
   "greenhouse:gensyn": [],
   "ashby:foundationhealthcareers": [],
   "lever:upscale-ai": [],
