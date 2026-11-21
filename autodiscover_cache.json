@@ -5908,15 +5908,7 @@
   "lever:elementsolutions": [],
   "ashby:claimsorted": [],
   "workday:nbtbancorp.wd12.myworkdayjobs.com": [],
-  "workday:toyota.wd503.myworkdayjobs.com": [
-    {
-      "title": "2027 TFS Data Science Internship",
-      "company": "toyota",
-      "location": "Plano, Texas",
-      "url": "https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1",
-      "clearance": false
-    }
-  ],
+  "workday:toyota.wd503.myworkdayjobs.com": [],
   "workday:ulse.wd5.myworkdayjobs.com": [],
   "workable:genetec-inc": [],
   "smartrecruiters:circlelogistics1": [],
@@ -6281,7 +6273,6 @@
   "ashby:liveview-technologies": [],
   "workday:rit.wd12.myworkdayjobs.com": [],
   "workday:pattersoncompanies.wd501.myworkdayjobs.com": [],
-  "workday:fmc.wd12.myworkdayjobs.com": [],
   "workday:fortrea.wd1.myworkdayjobs.com": [
     {
       "title": "AIML Rapid Development Studio Internship",
@@ -7224,10 +7215,10 @@
   "workday:freight.wd108.myworkdayjobs.com": [],
   "workday:aaaie.wd1.myworkdayjobs.com": [
     {
-      "title": "Data Science Intern",
+      "title": "Product Strategy & Development Intern",
       "company": "aaaie",
       "location": "Arizona - Home Teleworkers",
-      "url": "https://aaaie.wd1.myworkdayjobs.com/en-US/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002",
+      "url": "https://aaaie.wd1.myworkdayjobs.com/en-US/CSAACareers2/job/Arizona---Home-Teleworkers/PS-D-Innovation-Intern_R8004",
       "clearance": false
     }
   ],
@@ -8862,6 +8853,22 @@
       "company": "epwealth",
       "location": "Torrance CA",
       "url": "https://jobs.lever.co/epwealth/b9b8ce36-70e5-495e-8ec2-f06456b5851b",
+      "clearance": false
+    }
+  ],
+  "workday:firstpremier.wd503.myworkdayjobs.com": [
+    {
+      "title": "PREMIER Information Security Intern",
+      "company": "firstpremier",
+      "location": "Sioux Falls, SD",
+      "url": "https://firstpremier.wd503.myworkdayjobs.com/en-US/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Information-Security-Intern_R-549-1",
+      "clearance": false
+    },
+    {
+      "title": "PREMIER IT Networking Operations Internship",
+      "company": "firstpremier",
+      "location": "Sioux Falls, SD",
+      "url": "https://firstpremier.wd503.myworkdayjobs.com/en-US/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-IT-Networking-Operations-Internship_R-555-1",
       "clearance": false
     }
   ]
