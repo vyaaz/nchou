@@ -5973,7 +5973,6 @@
   "greenhouse:schoolmint": [],
   "lever:matillion": [],
   "greenhouse:nimblegravity": [],
-  "greenhouse:thehealthmanagementacademy": [],
   "greenhouse:clenera": [],
   "workable:luminance-1": [],
   "greenhouse:riversidenaturalfoodsltd": [],
@@ -6190,15 +6189,7 @@
   "workday:daikinapplied.wd1.myworkdayjobs.com": [],
   "ashby:fsh": [],
   "greenhouse:energysolutions": [],
-  "workable:pony-dot-ai": [
-    {
-      "title": "Research Intern - Deep Learning",
-      "company": "pony-dot-ai",
-      "location": "Fremont, California, United States",
-      "url": "https://apply.workable.com/j/4C1F53EF5D",
-      "clearance": false
-    }
-  ],
+  "workable:pony-dot-ai": [],
   "ashby:liveflow": [],
   "ashby:powertown": [
     {
@@ -6990,13 +6981,6 @@
       "location": "Los Angeles",
       "url": "https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc",
       "clearance": true
-    },
-    {
-      "title": "Internship: Software Engineer, Test",
-      "company": "revel",
-      "location": "Los Angeles",
-      "url": "https://jobs.ashbyhq.com/revel/f080b27d-92c7-4e1f-a85f-b4a7c166d738",
-      "clearance": true
     }
   ],
   "greenhouse:radixuniversity": [],
@@ -7096,27 +7080,6 @@
   "workday:wgl.wd5.myworkdayjobs.com": [],
   "greenhouse:lucidmotors": [
     {
-      "title": "Intern, AI & Data (Applied AI/Machine Learning), Summer 2027",
-      "company": "lucidmotors",
-      "location": "Newark, CA",
-      "url": "https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007",
-      "clearance": false
-    },
-    {
-      "title": "Intern, Embedded Software, Summer 2027",
-      "company": "lucidmotors",
-      "location": "Newark, CA",
-      "url": "https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007",
-      "clearance": false
-    },
-    {
-      "title": "Intern, Motor Control Software Development and Validation Engineer, Summer 2027",
-      "company": "lucidmotors",
-      "location": "Newark, CA",
-      "url": "https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007",
-      "clearance": false
-    },
-    {
       "title": "Intern, Simulation & Virtualization Engineer, Summer 2027",
       "company": "lucidmotors",
       "location": "Newark, CA",
@@ -7128,6 +7091,20 @@
       "company": "lucidmotors",
       "location": "Newark, CA",
       "url": "https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007",
+      "clearance": false
+    },
+    {
+      "title": "Intern, Vehicle Motion Controls Engineer, Summer 2027",
+      "company": "lucidmotors",
+      "location": "Newark, CA",
+      "url": "https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007",
+      "clearance": false
+    },
+    {
+      "title": "Product Security Engineering Intern, Summer 2027",
+      "company": "lucidmotors",
+      "location": "Newark, CA",
+      "url": "https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007",
       "clearance": false
     }
   ],
@@ -7234,6 +7211,13 @@
       "company": "cssmerge",
       "location": "Mountain View, CA",
       "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8919606002",
+      "clearance": false
+    },
+    {
+      "title": "Robotics & Autonomous Systems Intern - AHS Operations & Diagnostics",
+      "company": "cssmerge",
+      "location": "Nova Lima, BRA",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8952896002",
       "clearance": false
     },
     {
@@ -7748,22 +7732,15 @@
     {
       "title": "Product Management Intern ",
       "company": "sezzle",
-      "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7998740003",
-      "clearance": false
-    },
-    {
-      "title": "Product Management Intern ",
-      "company": "sezzle",
       "location": "Colombia, Remote",
       "url": "https://job-boards.greenhouse.io/sezzle/jobs/7537957003",
       "clearance": false
     },
     {
-      "title": "Product Manager Intern, ShopX(Rewards)",
+      "title": "Product Management Intern ",
       "company": "sezzle",
       "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044473003",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7998740003",
       "clearance": false
     },
     {
@@ -7774,10 +7751,10 @@
       "clearance": false
     },
     {
-      "title": "Product Operations Intern, Rewards",
+      "title": "Product Manager Intern, ShopX(Rewards)",
       "company": "sezzle",
       "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012085003",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044473003",
       "clearance": false
     },
     {
@@ -7793,6 +7770,13 @@
       "location": "Chile, Remote",
       "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012084003",
       "clearance": false
+    },
+    {
+      "title": "Product Operations Intern, Rewards",
+      "company": "sezzle",
+      "location": "Peru",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012085003",
+      "clearance": false
     }
   ],
   "workday:kemper.wd5.myworkdayjobs.com": [],
@@ -7801,43 +7785,7 @@
   "ashby:iambic-therapeutics": [],
   "workable:prevail": [],
   "workable:zippd": [],
-  "greenhouse:insomniac": [
-    {
-      "title": "Animation Intern (Gameplay)- Undergraduate",
-      "company": "insomniac",
-      "location": "United States, Burbank, CA",
-      "url": "https://job-boards.greenhouse.io/insomniac/jobs/6226213004",
-      "clearance": false
-    },
-    {
-      "title": "Engine and Tools Programming Intern – Undergraduate",
-      "company": "insomniac",
-      "location": "United States, Burbank, CA",
-      "url": "https://job-boards.greenhouse.io/insomniac/jobs/6227080004",
-      "clearance": false
-    },
-    {
-      "title": "Game Design Intern-Undergraduate",
-      "company": "insomniac",
-      "location": "United States, Burbank, CA",
-      "url": "https://job-boards.greenhouse.io/insomniac/jobs/6226630004",
-      "clearance": false
-    },
-    {
-      "title": "Gameplay Programming Intern - Undergraduate ",
-      "company": "insomniac",
-      "location": "United States, Burbank, CA; United States, Remote",
-      "url": "https://job-boards.greenhouse.io/insomniac/jobs/6226611004",
-      "clearance": false
-    },
-    {
-      "title": "Pod Development Manager Intern- Undergraduate ",
-      "company": "insomniac",
-      "location": "United States, Burbank, CA",
-      "url": "https://job-boards.greenhouse.io/insomniac/jobs/6227083004",
-      "clearance": false
-    }
-  ],
+  "greenhouse:insomniac": [],
   "workday:vialto.wd107.myworkdayjobs.com": [],
   "workday:financialombudsman.wd3.myworkdayjobs.com": [],
   "workday:ecolab.wd1.myworkdayjobs.com": [],
@@ -8318,29 +8266,7 @@
   ],
   "ashby:drivewealth": [],
   "workday:chamberlain.wd1.myworkdayjobs.com": [],
-  "workday:gfs.wd5.myworkdayjobs.com": [
-    {
-      "title": "Software Engineer Intern (Low Code)",
-      "company": "gfs",
-      "location": "Wyoming, Michigan",
-      "url": "https://gfs.wd5.myworkdayjobs.com/en-US/usprivate-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375-2",
-      "clearance": false
-    },
-    {
-      "title": "Inbound Transportation Network Internship",
-      "company": "gfs",
-      "location": "Wyoming, Michigan",
-      "url": "https://gfs.wd5.myworkdayjobs.com/en-US/usprivate-gfs/job/Wyoming-Michigan/Inbound-Transportation-Network-Internship_R-57173-2",
-      "clearance": false
-    },
-    {
-      "title": "Digital Product Management Internship",
-      "company": "gfs",
-      "location": "Wyoming, Michigan",
-      "url": "https://gfs.wd5.myworkdayjobs.com/en-US/usprivate-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336-2",
-      "clearance": false
-    }
-  ],
+  "workday:gfs.wd5.myworkdayjobs.com": [],
   "greenhouse:uvimco": [],
   "smartrecruiters:uapinc": [],
   "greenhouse:a3c41b8b71eff8c4": [],
@@ -8871,5 +8797,19 @@
   "workday:collegeboard.wd1.myworkdayjobs.com": [],
   "workday:invitationhomes.wd503.myworkdayjobs.com": [],
   "workable:legatics": [],
-  "lever:viget": []
+  "lever:viget": [],
+  "greenhouse:gusto": [],
+  "workable:dsn": [],
+  "lever:momsmeals": [
+    {
+      "title": "New Product Development/Strategic Sourcing Intern",
+      "company": "momsmeals",
+      "location": "Ankeny, IA",
+      "url": "https://jobs.lever.co/momsmeals/5fb89117-7ce8-4dff-a46f-e9610a3af13d",
+      "clearance": false
+    }
+  ],
+  "ashby:keplar": [],
+  "ashby:litmushiring": [],
+  "ashby:multiplyai": []
 }
