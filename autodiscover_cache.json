@@ -637,7 +637,6 @@
       "clearance": false
     }
   ],
-  "greenhouse:twistbioscience": [],
   "workday:bloomberg.wd1.myworkdayjobs.com": [],
   "greenhouse:sandstonecare": [],
   "lever:bhvr": [],
@@ -661,7 +660,7 @@
       "title": "Intern, FFBA Analytical Development",
       "company": "legendcareers",
       "location": "Somerset, New Jersey, United States",
-      "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745128005",
+      "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745147005",
       "clearance": false
     },
     {
@@ -734,13 +733,6 @@
       "company": "quadric",
       "location": "Burlingame, CA (HQ)",
       "url": "https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c",
-      "clearance": false
-    },
-    {
-      "title": "Deep Learning Compiler Intern",
-      "company": "quadric",
-      "location": "Burlingame, CA (HQ)",
-      "url": "https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52",
       "clearance": false
     }
   ],
@@ -1027,6 +1019,13 @@
     }
   ],
   "smartrecruiters:nexthink": [
+    {
+      "title": "Product Management Intern",
+      "company": "Nexthink",
+      "location": "Lausanne, VD, ch",
+      "url": "https://jobs.smartrecruiters.com/Nexthink/744000162689809",
+      "clearance": false
+    },
     {
       "title": "Software Engineer (Intern)",
       "company": "Nexthink",
@@ -1767,15 +1766,7 @@
     }
   ],
   "ashby:allica-bank": [],
-  "ashby:old-mission-capital": [
-    {
-      "title": "Software Engineer – 2027 Internship Program (June Start)",
-      "company": "old-mission-capital",
-      "location": "Chicago, IL",
-      "url": "https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6",
-      "clearance": false
-    }
-  ],
+  "ashby:old-mission-capital": [],
   "workday:vizient.wd1.myworkdayjobs.com": [
     {
       "title": "2027 Summer Internship - Consulting Intern, Spend Insights & Services",
@@ -1815,15 +1806,7 @@
   ],
   "workday:alfalaval.wd3.myworkdayjobs.com": [],
   "greenhouse:monsterenergy": [],
-  "smartrecruiters:syngentagroup": [
-    {
-      "title": "Data Science Intern",
-      "company": "SyngentaGroup",
-      "location": "Greensboro, North Carolina, us",
-      "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708",
-      "clearance": false
-    }
-  ],
+  "smartrecruiters:syngentagroup": [],
   "greenhouse:kensingtontours": [],
   "ashby:ando": [],
   "ashby:phil": [],
@@ -2328,6 +2311,13 @@
       "company": "tri",
       "location": "Los Altos, CA",
       "url": "https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424",
+      "clearance": false
+    },
+    {
+      "title": "Robotics Intern, UX Design",
+      "company": "tri",
+      "location": "Los Altos, CA",
+      "url": "https://jobs.lever.co/tri/2d9833d5-a940-4862-b13b-a1ecc9378fea",
       "clearance": false
     },
     {
@@ -6722,7 +6712,6 @@
   "workday:heidelbergmaterials.wd3.myworkdayjobs.com": [],
   "greenhouse:wonderschool": [],
   "greenhouse:emergingtalent": [],
-  "lever:cgsfederal": [],
   "workday:ufpi.wd503.myworkdayjobs.com": [],
   "ashby:pangramlabs": [
     {
@@ -7256,7 +7245,6 @@
   "workable:go-media": [],
   "ashby:chambercardio": [],
   "greenhouse:celigo": [],
-  "workday:benefis.wd1.myworkdayjobs.com": [],
   "workday:mhs.wd1.myworkdayjobs.com": [],
   "workday:pacificsource.wd5.myworkdayjobs.com": [],
   "workable:quadric-dot-i-o-inc": [],
@@ -8811,5 +8799,70 @@
   ],
   "ashby:keplar": [],
   "ashby:litmushiring": [],
-  "ashby:multiplyai": []
+  "ashby:multiplyai": [],
+  "greenhouse:hrwallingford": [],
+  "workable:arondite": [],
+  "workday:fireflyspace.wd115.myworkdayjobs.com": [],
+  "greenhouse:vertexservicepartners": [],
+  "greenhouse:appian": [
+    {
+      "title": "Associate Consultant Intern ",
+      "company": "appian",
+      "location": "McLean, Virginia",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8088498",
+      "clearance": false
+    },
+    {
+      "title": "Information Security Engineer Intern",
+      "company": "appian",
+      "location": "McLean, Virginia",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8088496",
+      "clearance": false
+    },
+    {
+      "title": "Product Manager Intern ",
+      "company": "appian",
+      "location": "McLean, Virginia",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8041243",
+      "clearance": false
+    }
+  ],
+  "greenhouse:arvaintelligence": [],
+  "smartrecruiters:captechconsulting": [
+    {
+      "title": "Consulting Internship: UX/Product Design (Summer 2027)",
+      "company": "CapTechConsulting",
+      "location": "Richmond, VA, us",
+      "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000159182656",
+      "clearance": false
+    }
+  ],
+  "workable:cascade-engineering-services-1": [],
+  "greenhouse:method": [
+    {
+      "title": "Residency Internship Program - Program Management ",
+      "company": "method",
+      "location": "Charlotte, New York, Santa Clara, Remote - US, Canada",
+      "url": "https://job-boards.greenhouse.io/method/jobs/8207684003",
+      "clearance": false
+    }
+  ],
+  "ashby:trener-robotics": [],
+  "greenhouse:aon3d": [],
+  "lever:epwealth": [
+    {
+      "title": "Cybersecurity Intern",
+      "company": "epwealth",
+      "location": "Torrance CA",
+      "url": "https://jobs.lever.co/epwealth/6f92e3ad-ab55-44bf-b2d6-395cdd4dc7a9",
+      "clearance": false
+    },
+    {
+      "title": "Data AI Engineering Intern",
+      "company": "epwealth",
+      "location": "Torrance CA",
+      "url": "https://jobs.lever.co/epwealth/b9b8ce36-70e5-495e-8ec2-f06456b5851b",
+      "clearance": false
+    }
+  ]
 }
