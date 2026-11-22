@@ -30510,5 +30510,17 @@
   "https://job-boards.greenhouse.io/auctane/jobs/8202418003": {
     "title": "Associate Software Engineer - internship",
     "url": "https://job-boards.greenhouse.io/auctane/jobs/8202418003"
+  },
+  "pw::https://ieeextreme.org/::#ab7def2d2a639214": {
+    "title": "Page changed - check Competition: IEEEXtreme (24h, October) (may mean applications opened)",
+    "url": "https://ieeextreme.org/"
+  },
+  "pw::https://www.treehacks.com/::#e87e990bf768e62f": {
+    "title": "Page changed - check Hackathon: TreeHacks (Stanford) (may mean applications opened)",
+    "url": "https://www.treehacks.com/"
+  },
+  "pw::https://www.hertzfoundation.org/the-fellowship/::#14e54cb45acdb1a1": {
+    "title": "Page changed - check Fellowship: Hertz (senior year) (may mean applications opened)",
+    "url": "https://www.hertzfoundation.org/the-fellowship/"
   }
 }
