@@ -2020,7 +2020,7 @@
     "url": "https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/Syracuse-NY/Software-Engineering-Intern---Summer-2027_R18253"
   },
   "https://gdit.wd5.myworkdayjobs.com/en-us/gdit_earlytalent/job/usa-la-bossier-city/gdit-summer-internship-program---summer-2027-ai-ml-software-development-and-engineering-internship_rq228941": {
-    "title": "GDIT Summer Internship Program - Summer 2027 AI/ML Software Development and Engineering Internship",
+    "title": "GDIT Summer Internship Program – Summer 2027 AI/ML Software Development and Engineering Internship",
     "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228941"
   },
   "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0": {
@@ -3540,7 +3540,7 @@
     "url": "https://conagrabrands.wd1.myworkdayjobs.com/en-US/careers_us/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787"
   },
   "https://flir.wd1.myworkdayjobs.com/en-us/flircareers/job/us---huntsville-al/nhrc-software-engineering-internship--summer-2027-_req36194-2": {
-    "title": "NHRC Software Engineering Internship - Summer 2027",
+    "title": "NHRC Software Engineering Internship (Summer 2027)",
     "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2"
   },
   "https://jobs.smartrecruiters.com/westerndigital/744000143171017-summer-2027-intern-software-engineering?oga=true": {
@@ -17716,8 +17716,8 @@
     "url": "https://go.vansh.nyc/1Gk"
   },
   "https://go.vansh.nyc/1gl": {
-    "title": "Software Engineering & AI Intern",
-    "url": "https://go.vansh.nyc/1gL"
+    "title": "Autonomy Intern",
+    "url": "https://go.vansh.nyc/1Gl"
   },
   "https://go.vansh.nyc/1gm": {
     "title": "Software Engineer Intern",
@@ -30406,5 +30406,41 @@
   "https://swib.wd12.myworkdayjobs.com/en-us/ext/job/madison-wisconsin/information-security-intern_r-001332": {
     "title": "Information Security Intern",
     "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Information-Security-Intern_R-001332"
+  },
+  "https://workday.wd5.myworkdayjobs.com/workday_early_career/job/usa-ca-pleasanton/software-application-development-engineer-intern_jr-0110811": {
+    "title": "Software Application Development Engineer Intern",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811"
+  },
+  "https://transunion.wd5.myworkdayjobs.com/en-us/transunion/job/chicago-illinois/data-science---analytics-internship---summer-2027_19043450": {
+    "title": "Data Science and Analytics Intern",
+    "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/applied-research-scientist-intern--agentic-biology---summer-2027_jr2029307": {
+    "title": "Applied Research Scientist Intern - Agentic Biology",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307"
+  },
+  "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007": {
+    "title": "Firmware/Embedded Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007"
+  },
+  "https://schnucks.wd5.myworkdayjobs.com/schnuckscareers/job/schnucks-store-support-center-corporate-office/xmlname-2027-data-science---generative-ai-internship_r-0043971": {
+    "title": "Data Science Generative AI Intern",
+    "url": "https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971"
+  },
+  "https://alliancedata.wd5.myworkdayjobs.com/en-us/breadfinancial_us/job/columbus-oh/intern---cybersecurity_r1013438": {
+    "title": "Intern - Cybersecurity",
+    "url": "https://alliancedata.wd5.myworkdayjobs.com/en-US/breadfinancial_us/job/Columbus-OH/Intern---Cybersecurity_R1013438"
+  },
+  "https://aero.wd5.myworkdayjobs.com/en-us/external/job/el-segundo-ca/xmlname-2027-machine-learning-engineering-graduate-intern_r016432": {
+    "title": "2027 Machine Learning Engineering Graduate Intern",
+    "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432"
+  },
+  "https://aero.wd5.myworkdayjobs.com/en-us/external/job/el-segundo-ca/xmlname-2027-microwave-measurements--modeling-and-simulation-undergradintern_r016892": {
+    "title": "2027 Microwave Measurements, Modeling and Simulation Undergrad Intern",
+    "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Microwave-Measurements--Modeling-and-Simulation-UndergradIntern_R016892"
+  },
+  "https://gdit.wd5.myworkdayjobs.com/en-us/gdit_earlytalent/job/usa-va-falls-church/summer-2027-ai-and-estimation-intern_rq232867": {
+    "title": "Summer 2027 AI and Estimation Intern",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-AI-and-Estimation-Intern_RQ232867"
   }
 }
