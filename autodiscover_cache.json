@@ -6282,7 +6282,22 @@
   ],
   "workday:gables.wd5.myworkdayjobs.com": [],
   "ashby:xapien": [],
-  "greenhouse:nerostechnologies": [],
+  "greenhouse:nerostechnologies": [
+    {
+      "title": "Autonomy Intern - Summer 2027",
+      "company": "nerostechnologies",
+      "location": "Torrance, California, United States",
+      "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007",
+      "clearance": false
+    },
+    {
+      "title": "Firmware/Embedded Software Engineer Intern - Summer 2027",
+      "company": "nerostechnologies",
+      "location": "Torrance, California, United States",
+      "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
+      "clearance": false
+    }
+  ],
   "workable:premium-merchant-funding-3": [],
   "workable:murphy-research": [],
   "workday:corpay.wd103.myworkdayjobs.com": [],
@@ -8819,5 +8834,45 @@
   "ashby:secureframe": [],
   "greenhouse:boomilp": [],
   "workday:verily.wd1.myworkdayjobs.com": [],
-  "greenhouse:biohub": []
+  "greenhouse:biohub": [],
+  "workday:takeda.wd502.myworkdayjobs.com": [
+    {
+      "title": "2027 Summer Internship Program: Applied AI for Formulation Data Science Intern",
+      "company": "takeda",
+      "location": "Lexington, MA",
+      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Lexington-MA/XMLNAME-2027-Summer-Internship-Program--Applied-AI-for-Formulation-Data-Science-Intern_R0193569",
+      "clearance": false
+    },
+    {
+      "title": "2027 Summer Internship Program: Clinical Data Science Statistics Intern",
+      "company": "takeda",
+      "location": "Boston, MA",
+      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--Clinical-Data-Science-Statistics-Intern_R0193775",
+      "clearance": false
+    },
+    {
+      "title": "2027 Summer Internship Program: Statistics Summer Intern in Clinical Data Science",
+      "company": "takeda",
+      "location": "Boston, MA",
+      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--Statistics-Summer-Intern-in-Clinical-Data-Science_R0193909",
+      "clearance": false
+    },
+    {
+      "title": "2027 Summer Internship Program: Global Clinical Development Operations-Study Management Intern",
+      "company": "takeda",
+      "location": "USA - MA - Cambridge - Kendall Square - 500",
+      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/USA---MA---Cambridge---Kendall-Square---500/XMLNAME-2027-Summer-Internship-Program--Global-Clinical-Development-Operations-Study-Management-Intern_R0193917",
+      "clearance": false
+    }
+  ],
+  "ashby:anthelioncap": [
+    {
+      "title": "Quant Developer / Quant Research Intern - 2026/2027",
+      "company": "anthelioncap",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96",
+      "clearance": false
+    }
+  ],
+  "lever:getwingapp": []
 }
