@@ -17812,8 +17812,8 @@
     "url": "https://go.vansh.nyc/1Go"
   },
   "https://go.vansh.nyc/1gp": {
-    "title": "AI Engineer Intern, R&D",
-    "url": "https://go.vansh.nyc/1gP"
+    "title": "Embedded Systems Engineer Intern",
+    "url": "https://go.vansh.nyc/1Gp"
   },
   "https://apply.careers.microsoft.com/careers/job/1970393557037859": {
     "title": "Software Engineer Intern",
@@ -28561,7 +28561,7 @@
   },
   "https://jobs.smartrecruiters.com/solidigm/744000161579529": {
     "title": "NAND Development Business Operations Intern",
-    "url": "https://jobs.smartrecruiters.com/Solidigm/744000161579529"
+    "url": "https://jobs.smartrecruiters.com/solidigm/744000161579529"
   },
   "https://go.vansh.nyc/1zr": {
     "title": "Software Engineer Intern, Cloud",
@@ -29405,7 +29405,7 @@
   },
   "https://jobs.smartrecruiters.com/solidigm/744000162339619": {
     "title": "Engineering Research Intern (Architecture, Firmware, Software)",
-    "url": "https://jobs.smartrecruiters.com/Solidigm/744000162339619"
+    "url": "https://jobs.smartrecruiters.com/solidigm/744000162339619"
   },
   "https://go.vansh.nyc/1co": {
     "title": "Data Science Intern",
@@ -30080,7 +30080,7 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162723219"
   },
   "https://symbotic.wd504.myworkdayjobs.com/en-us/symbotic/job/usa-austin-tx/intern--software-engineer--front-end_r8567-1": {
-    "title": "Intern- Software Engineer, Front-End",
+    "title": "Intern- Software Engineer - Front-End",
     "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1"
   },
   "https://nxp.wd116.myworkdayjobs.com/en-us/careers/job/gratkorn/internship--hardware-and-software-development-uwb--m-f-d--_r-10064640-1": {
@@ -30458,5 +30458,57 @@
   "https://takeda.wd502.myworkdayjobs.com/en-us/external/job/usa---ma---cambridge---kendall-square---500/xmlname-2027-summer-internship-program--global-clinical-development-operations-study-management-intern_r0193917": {
     "title": "2027 Summer Internship Program: Global Clinical Development Operations-Study Management Intern",
     "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/USA---MA---Cambridge---Kendall-Square---500/XMLNAME-2027-Summer-Internship-Program--Global-Clinical-Development-Operations-Study-Management-Intern_R0193917"
+  },
+  "https://us-careers-rivian.icims.com/jobs/37339/job": {
+    "title": "Software Engineering Intern - AI Platform - Autonomy - Summer 2027",
+    "url": "https://us-careers-rivian.icims.com/jobs/37339/job"
+  },
+  "https://app.dover.io/apply/job/3d3ef9d6-40f3-47cf-ada4-a90a4e0744f5/": {
+    "title": "DevOps - IT & Cybersecurity Intern",
+    "url": "https://app.dover.io/apply/job/3d3ef9d6-40f3-47cf-ada4-a90a4e0744f5/"
+  },
+  "https://careers-garmin.icims.com/jobs/22650/job": {
+    "title": "Software Engineering Intern - Web/Mobile",
+    "url": "https://careers-garmin.icims.com/jobs/22650/job"
+  },
+  "https://aero.wd5.myworkdayjobs.com/en-us/external/job/el-segundo-ca/xmlname-2027-software-systems-engineer-and-acquisition-grad-intern_r017175": {
+    "title": "2027 Software Systems Engineer and Acquisition Grad Intern",
+    "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Grad-Intern_R017175"
+  },
+  "https://gorbel.wd501.myworkdayjobs.com/en-us/gorbelcareers/job/usa-new-york-victor/front-end-web-developer-co-op_req-2026-2375-1": {
+    "title": "Front-End Web Developer Co-Op",
+    "url": "https://gorbel.wd501.myworkdayjobs.com/en-US/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1"
+  },
+  "https://jabil.wd5.myworkdayjobs.com/en-us/jabil_careers/job/austin-tx/software-engineering-intern_j2472697": {
+    "title": "Software Engineering Intern",
+    "url": "https://jabil.wd5.myworkdayjobs.com/en-US/jabil_careers/job/Austin-TX/Software-Engineering-Intern_J2472697"
+  },
+  "https://rockwellautomation.wd1.myworkdayjobs.com/en-us/external-rockwell-automation-early-careers/job/mayfield-heights-ohio-united-states/intern--content-ide-software-development--lcs-_r26-5010-1": {
+    "title": "Intern - Content IDE Software Development - LCS",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external-rockwell-automation-early-careers/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-1"
+  },
+  "https://rockwellautomation.wd1.myworkdayjobs.com/en-us/external_rockwell_automation/job/orlando-florida-united-states/intern---embedded-controls-engineering_r26-5043-2": {
+    "title": "Intern - Embedded Controls Engineering",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2"
+  },
+  "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/bellevue-washington/summer-2027-software-engineering-internship_req383767": {
+    "title": "Summer 2027 Software Engineering Internship",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ383767"
+  },
+  "https://valeo.wd3.myworkdayjobs.com/en-us/valeo_jobs/job/troy-mi/systems-engineering-co-op--software-_req2026071241": {
+    "title": "Systems Engineering Co-Op - Software",
+    "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241"
+  },
+  "https://zoll.wd5.myworkdayjobs.com/en-us/zollmedicalcorp/job/chelmsford-ma/software-automation-intern_r20929": {
+    "title": "Software Automation Intern",
+    "url": "https://zoll.wd5.myworkdayjobs.com/en-US/zollmedicalcorp/job/Chelmsford-MA/Software-Automation-Intern_R20929"
+  },
+  "https://statestreet.wd1.myworkdayjobs.com/en-us/global/job/boston-massachusetts/software-engineering-intern---full-time-internship--jan---june-2027-_r-801272": {
+    "title": "Software Engineering Intern - Full-time Internship - Jan - June 2027",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Boston-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801272"
+  },
+  "https://job-boards.greenhouse.io/auctane/jobs/8202418003": {
+    "title": "Associate Software Engineer - internship",
+    "url": "https://job-boards.greenhouse.io/auctane/jobs/8202418003"
   }
 }

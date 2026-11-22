@@ -562,7 +562,6 @@
   ],
   "greenhouse:nozominetworks": [],
   "greenhouse:riotgamesup": [],
-  "workday:zoll.wd5.myworkdayjobs.com": [],
   "ashby:relationrx": [],
   "ashby:layerfi": [],
   "ashby:hipp": [],
@@ -2029,7 +2028,6 @@
   "ashby:ashby": [],
   "lever:octoenergy": [],
   "workday:shi.wd12.myworkdayjobs.com": [],
-  "greenhouse:coherentsolutions": [],
   "greenhouse:startree": [],
   "workday:evolito.wd3.myworkdayjobs.com": [],
   "workday:spe.wd1.myworkdayjobs.com": [],
@@ -5426,7 +5424,6 @@
   "greenhouse:solutions": [],
   "workday:gsknch.wd3.myworkdayjobs.com": [],
   "workday:cerence.wd5.myworkdayjobs.com": [],
-  "workday:gorbel.wd501.myworkdayjobs.com": [],
   "workday:oakgov.wd5.myworkdayjobs.com": [],
   "lever:mulliganfunding": [],
   "lever:subsense": [],
@@ -6282,22 +6279,6 @@
   ],
   "workday:gables.wd5.myworkdayjobs.com": [],
   "ashby:xapien": [],
-  "greenhouse:nerostechnologies": [
-    {
-      "title": "Autonomy Intern - Summer 2027",
-      "company": "nerostechnologies",
-      "location": "Torrance, California, United States",
-      "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007",
-      "clearance": false
-    },
-    {
-      "title": "Firmware/Embedded Software Engineer Intern - Summer 2027",
-      "company": "nerostechnologies",
-      "location": "Torrance, California, United States",
-      "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
-      "clearance": false
-    }
-  ],
   "workable:premium-merchant-funding-3": [],
   "workable:murphy-research": [],
   "workday:corpay.wd103.myworkdayjobs.com": [],
@@ -8525,7 +8506,6 @@
       "clearance": false
     }
   ],
-  "greenhouse:axontalentcommunity": [],
   "workday:newbraunfels.wd12.myworkdayjobs.com": [],
   "ashby:claylabs": [],
   "workable:reasonable": [],
@@ -8639,7 +8619,6 @@
   "workable:eqltech": [],
   "ashby:tank-payments": [],
   "greenhouse:lucidsoftware": [],
-  "lever:smiledigitalhealth": [],
   "greenhouse:rectanglehealth": [],
   "workable:ecliptic-enterprises-corporation": [],
   "greenhouse:familyoffice": [],
@@ -8738,15 +8717,6 @@
   "lever:viget": [],
   "greenhouse:gusto": [],
   "workable:dsn": [],
-  "lever:momsmeals": [
-    {
-      "title": "New Product Development/Strategic Sourcing Intern",
-      "company": "momsmeals",
-      "location": "Ankeny, IA",
-      "url": "https://jobs.lever.co/momsmeals/5fb89117-7ce8-4dff-a46f-e9610a3af13d",
-      "clearance": false
-    }
-  ],
   "ashby:keplar": [],
   "ashby:litmushiring": [],
   "ashby:multiplyai": [],
@@ -8874,5 +8844,76 @@
       "clearance": false
     }
   ],
-  "lever:getwingapp": []
+  "lever:getwingapp": [],
+  "greenhouse:pdtpartners": [
+    {
+      "title": "Summer 2027 Systems Engineering Intern",
+      "company": "pdtpartners",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
+      "clearance": false
+    }
+  ],
+  "greenhouse:lightmatter": [
+    {
+      "title": "Data & AI Platform, Intern - Summer 2027",
+      "company": "lightmatter",
+      "location": "Boston, MA",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008",
+      "clearance": false
+    },
+    {
+      "title": "IT and Security Intern – Summer 2027",
+      "company": "lightmatter",
+      "location": "Boston, MA",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5473539008?gh_jid=5473539008",
+      "clearance": false
+    },
+    {
+      "title": "Photonics Circuit Simulation Intern – Summer 2027",
+      "company": "lightmatter",
+      "location": "Mountain View, CA",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008",
+      "clearance": false
+    },
+    {
+      "title": "Systems Engineering, Intern Summer 2027",
+      "company": "lightmatter",
+      "location": "Mountain View, CA",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5473822008?gh_jid=5473822008",
+      "clearance": false
+    }
+  ],
+  "ashby:aurora-operations-inc": [
+    {
+      "title": "Safety & Systems Engineering Intern",
+      "company": "aurora-operations-inc",
+      "location": "Mountain View, CA",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
+      "clearance": true
+    },
+    {
+      "title": "Lidar Systems Intern",
+      "company": "aurora-operations-inc",
+      "location": "Mountain View, CA",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/ce5ad079-0588-402a-aa0e-b5efe0ba28f1",
+      "clearance": true
+    },
+    {
+      "title": "Lidar R&D and Architecture Intern",
+      "company": "aurora-operations-inc",
+      "location": "Bozeman, MT",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/b61cb8ea-3ab6-46ed-90d7-be3ad9ac85ad",
+      "clearance": true
+    },
+    {
+      "title": "Hardware Systems Engineering Intern",
+      "company": "aurora-operations-inc",
+      "location": "Pittsburgh, PA",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/f1c72f1c-8270-4526-a642-fcb61a4b4d26",
+      "clearance": true
+    }
+  ],
+  "ashby:crusoe": [],
+  "workday:greatamerica.wd12.myworkdayjobs.com": []
 }
