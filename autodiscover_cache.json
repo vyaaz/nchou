@@ -379,7 +379,6 @@
   "greenhouse:nimblerobotics": [],
   "ashby:standardsubsea": [],
   "greenhouse:ieqcapital": [],
-  "greenhouse:guidepoint": [],
   "workday:americanfidelity.wd5.myworkdayjobs.com": [],
   "greenhouse:thinkacademyus": [],
   "workday:uchicago.wd5.myworkdayjobs.com": [],
@@ -1060,7 +1059,6 @@
   "greenhouse:bugcrowd": [],
   "greenhouse:verifone": [],
   "greenhouse:isam": [],
-  "greenhouse:spycloud": [],
   "lever:appen-2": [],
   "greenhouse:walleyecapital-external-fulltime": [],
   "workday:clarios.wd5.myworkdayjobs.com": [
@@ -1116,7 +1114,6 @@
   "smartrecruiters:intelerad": [],
   "workday:lytx.wd1.myworkdayjobs.com": [],
   "lever:wyetechllc": [],
-  "workday:woundedwarriorproject.wd5.myworkdayjobs.com": [],
   "greenhouse:klaviyojobs": [],
   "workday:ryder.wd5.myworkdayjobs.com": [],
   "ashby:mistral.ai": [],
@@ -2987,7 +2984,6 @@
   "greenhouse:radar": [],
   "greenhouse:rotheramarketsllc": [],
   "ashby:flashpoint.io": [],
-  "greenhouse:palmettocleantech": [],
   "workday:pfizer.wd1.myworkdayjobs.com": [
     {
       "title": "Data Analytics & AI Innovation Intern",
@@ -3104,7 +3100,6 @@
     }
   ],
   "ashby:careers.mural": [],
-  "greenhouse:1800contacts": [],
   "workable:pronexus-1": [],
   "greenhouse:idmeuniversityrecruiting": [
     {
@@ -3780,6 +3775,27 @@
   "greenhouse:arevonenergyimpltest": [],
   "ashby:inworld-ai": [],
   "greenhouse:artefactlinkedin": [
+    {
+      "title": "AI Adoption Intern",
+      "company": "artefactlinkedin",
+      "location": "135 W 26th Street, New York, NY 10001",
+      "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002",
+      "clearance": false
+    },
+    {
+      "title": "AI Engineering Intern",
+      "company": "artefactlinkedin",
+      "location": "135 W 26th Street, New York, NY 10001",
+      "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002",
+      "clearance": false
+    },
+    {
+      "title": "AI Strategy Intern",
+      "company": "artefactlinkedin",
+      "location": "135 W 26th Street, New York, NY 10001",
+      "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958071002",
+      "clearance": false
+    },
     {
       "title": "Data Consultant Intern (CL-CO-MX)",
       "company": "artefactlinkedin",
@@ -6172,7 +6188,6 @@
       "clearance": false
     }
   ],
-  "workday:plugpower.wd5.myworkdayjobs.com": [],
   "ashby:cogent-security": [],
   "workday:aep.wd1.myworkdayjobs.com": [
     {
@@ -6336,7 +6351,6 @@
   "greenhouse:globalizationpartners": [],
   "workday:clr.wd5.myworkdayjobs.com": [],
   "ashby:kalshi": [],
-  "greenhouse:sanmar": [],
   "ashby:bland": [],
   "lever:robust-ai": [],
   "lever:exowatt": [],
@@ -8915,5 +8929,8 @@
     }
   ],
   "ashby:crusoe": [],
-  "workday:greatamerica.wd12.myworkdayjobs.com": []
+  "workday:greatamerica.wd12.myworkdayjobs.com": [],
+  "smartrecruiters:qsl": [],
+  "workable:katmai": [],
+  "workable:aegiq": []
 }
