@@ -1618,7 +1618,6 @@
   "workday:verdantas.wd108.myworkdayjobs.com": [],
   "workday:nationalindemnity.wd5.myworkdayjobs.com": [],
   "ashby:wealth-com": [],
-  "workday:aramsco.wd1.myworkdayjobs.com": [],
   "workday:intactfc.wd3.myworkdayjobs.com": [],
   "workday:hastingsdirect.wd3.myworkdayjobs.com": [],
   "workday:guidehouse.wd1.myworkdayjobs.com": [
@@ -4107,7 +4106,15 @@
   "smartrecruiters:dataintellect": [],
   "workday:ontic.wd103.myworkdayjobs.com": [],
   "workday:repsol.wd3.myworkdayjobs.com": [],
-  "ashby:benchling": [],
+  "ashby:benchling": [
+    {
+      "title": "Software Engineer, Intern (Summer 2027)",
+      "company": "benchling",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099",
+      "clearance": false
+    }
+  ],
   "workday:mtb.wd5.myworkdayjobs.com": [
     {
       "title": "Technology Intern - Software Engineering (Enterprise API Services Development Team)",
@@ -4517,13 +4524,6 @@
       "company": "sharkninjaoperatingllc",
       "location": "Needham, MA, United States",
       "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713878006",
-      "clearance": false
-    },
-    {
-      "title": "Summer 2027: Control Systems & Algorithms Intern (May to August)",
-      "company": "sharkninjaoperatingllc",
-      "location": "Needham, MA, United States",
-      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721651006",
       "clearance": false
     },
     {
@@ -5012,15 +5012,7 @@
     }
   ],
   "smartrecruiters:thoughtforge": [],
-  "workday:idexx.wd115.myworkdayjobs.com": [
-    {
-      "title": "User Experience (UX) Intern",
-      "company": "idexx",
-      "location": "Hoofddorp HQ, NL",
-      "url": "https://idexx.wd115.myworkdayjobs.com/en-US/idexx/job/Hoofddorp-HQ-NL/User-Experience--UX--Intern_J-055463",
-      "clearance": false
-    }
-  ],
+  "workday:idexx.wd115.myworkdayjobs.com": [],
   "workday:td.wd3.myworkdayjobs.com": [],
   "workday:bakertilly.wd5.myworkdayjobs.com": [],
   "smartrecruiters:freshworks": [],
@@ -5814,17 +5806,17 @@
       "clearance": false
     },
     {
-      "title": "2027 Summer Intern - Supplier Development Engineer - 6463",
-      "company": "shield",
-      "location": "Dallas, TX, US",
-      "url": "https://jobs.ashbyhq.com/shield/463966b6-fd51-47ef-b9b1-cb53c47cc275",
-      "clearance": false
-    },
-    {
       "title": "2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)",
       "company": "shield",
       "location": "San Diego, CA, US",
       "url": "https://jobs.ashbyhq.com/shield/354d464d-ca91-4ce3-bd3f-d811b13755be",
+      "clearance": false
+    },
+    {
+      "title": "2027 Summer Intern - Software Engineering - 5815",
+      "company": "shield",
+      "location": "Dallas, TX, US",
+      "url": "https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503",
       "clearance": false
     }
   ],
@@ -8951,6 +8943,15 @@
       "company": "artefactnoram",
       "location": "135 W 26th Street, New York, NY 10001",
       "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958073002",
+      "clearance": false
+    }
+  ],
+  "workday:greenheckgroup.wd504.myworkdayjobs.com": [
+    {
+      "title": "Product Development Engineer Co-Op",
+      "company": "greenheckgroup",
+      "location": "Marion, NC",
+      "url": "https://greenheckgroup.wd504.myworkdayjobs.com/en-US/external/job/Marion-NC/Product-Development-Engineer-Co-Op_JR104708",
       "clearance": false
     }
   ]
