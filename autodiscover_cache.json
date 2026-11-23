@@ -8,7 +8,6 @@
   "ashby:oligo": [],
   "ashby:frontier-health": [],
   "greenhouse:amendconsulting": [],
-  "lever:levelai": [],
   "lever:veeva": [
     {
       "title": "Technology Consulting Intern - Entry-Level",
@@ -4557,7 +4556,6 @@
   "workable:brady-martz": [],
   "lever:aeratechnology": [],
   "smartrecruiters:assent": [],
-  "workday:championx.wd1.myworkdayjobs.com": [],
   "greenhouse:think-cell": [],
   "smartrecruiters:somfygroup": [],
   "workday:sharpservices.wd3.myworkdayjobs.com": [],
@@ -8932,5 +8930,28 @@
   "workday:greatamerica.wd12.myworkdayjobs.com": [],
   "smartrecruiters:qsl": [],
   "workable:katmai": [],
-  "workable:aegiq": []
+  "workable:aegiq": [],
+  "greenhouse:artefactnoram": [
+    {
+      "title": "AI Adoption Intern",
+      "company": "artefactnoram",
+      "location": "135 W 26th Street, New York, NY 10001",
+      "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958081002",
+      "clearance": false
+    },
+    {
+      "title": "AI Engineering Intern",
+      "company": "artefactnoram",
+      "location": "135 W 26th Street, New York, NY 10001",
+      "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958076002",
+      "clearance": false
+    },
+    {
+      "title": "AI Strategy Intern",
+      "company": "artefactnoram",
+      "location": "135 W 26th Street, New York, NY 10001",
+      "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958073002",
+      "clearance": false
+    }
+  ]
 }
