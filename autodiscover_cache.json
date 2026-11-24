@@ -7077,13 +7077,6 @@
       "clearance": false
     },
     {
-      "title": "Data Engineering Intern",
-      "company": "eqtcorporation",
-      "location": "Canonsburg, PA",
-      "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5422414008",
-      "clearance": false
-    },
-    {
       "title": "Water Infrastructure Engineering Intern",
       "company": "eqtcorporation",
       "location": "Canonsburg, PA",
@@ -7691,6 +7684,13 @@
     {
       "title": "Product Operations Intern, Rewards",
       "company": "sezzle",
+      "location": "Peru",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012085003",
+      "clearance": false
+    },
+    {
+      "title": "Product Operations Intern, Rewards",
+      "company": "sezzle",
       "location": "Colombia, Remote",
       "url": "https://job-boards.greenhouse.io/sezzle/jobs/8010514003",
       "clearance": false
@@ -7703,10 +7703,17 @@
       "clearance": false
     },
     {
-      "title": "Product Operations Intern, Rewards",
+      "title": "Software Engineer Intern ",
       "company": "sezzle",
       "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012085003",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7906408003",
+      "clearance": false
+    },
+    {
+      "title": "Software Engineer Intern ",
+      "company": "sezzle",
+      "location": "Colombia, Remote",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/6233081003",
       "clearance": false
     }
   ],
@@ -8811,31 +8818,73 @@
   "greenhouse:biohub": [],
   "workday:takeda.wd502.myworkdayjobs.com": [
     {
-      "title": "2027 Summer Internship Program: Applied AI for Formulation Data Science Intern",
-      "company": "takeda",
-      "location": "Lexington, MA",
-      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Lexington-MA/XMLNAME-2027-Summer-Internship-Program--Applied-AI-for-Formulation-Data-Science-Intern_R0193569",
-      "clearance": false
-    },
-    {
-      "title": "2027 Summer Internship Program: Clinical Data Science Statistics Intern",
+      "title": "2027 Summer Internship Program: Statistics Clinical Data Science Intern",
       "company": "takeda",
       "location": "Boston, MA",
-      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--Clinical-Data-Science-Statistics-Intern_R0193775",
+      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--Statistics-Clinical-Data-Science-Intern_R0195248",
       "clearance": false
     },
     {
       "title": "2027 Summer Internship Program: Statistics Summer Intern in Clinical Data Science",
       "company": "takeda",
       "location": "Boston, MA",
-      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--Statistics-Summer-Intern-in-Clinical-Data-Science_R0193909",
+      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--Statistics-Summer-Intern-in-Clinical-Data-Science_R0195065",
       "clearance": false
     },
     {
-      "title": "2027 Summer Internship Program: Global Clinical Development Operations-Study Management Intern",
+      "title": "2027 Summer Internship Program: Computational Biology – Agentic AI for Disease Biology Intern",
       "company": "takeda",
-      "location": "USA - MA - Cambridge - Kendall Square - 500",
-      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/USA---MA---Cambridge---Kendall-Square---500/XMLNAME-2027-Summer-Internship-Program--Global-Clinical-Development-Operations-Study-Management-Intern_R0193917",
+      "location": "Boston, MA",
+      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--Computational-Biology---Agentic-AI-for-Disease-Biology-Intern_R0193726",
+      "clearance": false
+    },
+    {
+      "title": "2027 Summer Internship Program: R&D Strategic Planning & Enablement AI, Analytic & Operational Excellence Intern",
+      "company": "takeda",
+      "location": "Boston, MA",
+      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--R-D-Strategic-Planning---Enablement-AI--Analytic---Operational-Excellence-Intern_R0193683",
+      "clearance": false
+    },
+    {
+      "title": "2027 Summer Internship Program: AI/ML for Drug Discovery Intern",
+      "company": "takeda",
+      "location": "Cambridge, MA",
+      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Cambridge-MA/XMLNAME-2027-Summer-Internship-Program--AI-ML-for-Drug-Discovery-Intern_R0193718",
+      "clearance": false
+    },
+    {
+      "title": "2027 Summer Internship Program: AI/ML for Drug Discovery Intern",
+      "company": "takeda",
+      "location": "Boston, MA",
+      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--AI-ML-for-Drug-Discovery-Intern_R0193510",
+      "clearance": false
+    },
+    {
+      "title": "2027 Summer Internship Program: Agentic AI for Drug Discovery Intern",
+      "company": "takeda",
+      "location": "Boston, MA",
+      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--Agentic-AI-for-Drug-Discovery-Intern_R0193880",
+      "clearance": false
+    },
+    {
+      "title": "2027 Summer Internship Program:  AI/ML Digital Pathology Imaging Intern  ",
+      "company": "takeda",
+      "location": "Boston, MA",
+      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program---AI-ML-Digital-Pathology-Imaging-Intern--_R0194452",
+      "clearance": false
+    },
+    {
+      "title": "2027 Summer Internship Program: AI/ML in Quantitative Clinical Pharmacology Intern",
+      "company": "takeda",
+      "location": "Boston, MA",
+      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--AI-ML-in-Quantitative-Clinical-Pharmacology-Intern_R0193651",
+      "clearance": false
+    },
+    {
+      "title": "2027 Summer Internship Program: Digital Complaint System Developer",
+      "company": "takeda",
+      "location": "Lexington, MA",
+      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Lexington-MA/XMLNAME-2027-Summer-Internship-Program--Digital-Complaint-System-Developer_R0193480",
       "clearance": false
     }
   ],
@@ -8954,5 +9003,94 @@
       "url": "https://greenheckgroup.wd504.myworkdayjobs.com/en-US/external/job/Marion-NC/Product-Development-Engineer-Co-Op_JR104708",
       "clearance": false
     }
-  ]
+  ],
+  "greenhouse:capitaltg": [
+    {
+      "title": "Summer Internship - Data Engineering and Data Science",
+      "company": "capitaltg",
+      "location": "Hybrid (Silver Spring, MD)",
+      "url": "https://boards.greenhouse.io/capitaltg/jobs/5307074007?gh_jid=5307074007",
+      "clearance": false
+    },
+    {
+      "title": "Summer Internship - Software Development",
+      "company": "capitaltg",
+      "location": "Hybrid (Silver Spring, MD)",
+      "url": "https://boards.greenhouse.io/capitaltg/jobs/5281563007?gh_jid=5281563007",
+      "clearance": false
+    }
+  ],
+  "greenhouse:vailexa": [],
+  "ashby:strava": [
+    {
+      "title": "Software Engineering Intern, Server, Comms",
+      "company": "Strava",
+      "location": "Strava SF",
+      "url": "https://jobs.ashbyhq.com/Strava/96968b02-dde9-4e0d-b6a8-d2363f550126",
+      "clearance": false
+    },
+    {
+      "title": "Software Engineering Intern, Server, Security",
+      "company": "Strava",
+      "location": "Strava SF",
+      "url": "https://jobs.ashbyhq.com/Strava/924afc4f-b490-4716-a308-5e02fe56653b",
+      "clearance": false
+    },
+    {
+      "title": "Software Engineering Intern, Server, User Lifecycle",
+      "company": "Strava",
+      "location": "Strava SF",
+      "url": "https://jobs.ashbyhq.com/Strava/12d85f67-5fac-4dfa-8fd7-a4f886b4a10a",
+      "clearance": false
+    },
+    {
+      "title": "Software Engineering Intern, AI/ML Data Products  ",
+      "company": "Strava",
+      "location": "Strava SF",
+      "url": "https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023",
+      "clearance": false
+    },
+    {
+      "title": "Software Engineering Intern, Android, Subscriptions  ",
+      "company": "Strava",
+      "location": "Strava SF",
+      "url": "https://jobs.ashbyhq.com/Strava/02999001-164a-45c2-a763-03dedf458f0c",
+      "clearance": false
+    },
+    {
+      "title": "Software Engineering Intern, Server, Next Sports ",
+      "company": "Strava",
+      "location": "Strava SF",
+      "url": "https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9",
+      "clearance": false
+    }
+  ],
+  "greenhouse:astronicscorporation": [],
+  "ashby:webai": [],
+  "ashby:first-resonance": [
+    {
+      "title": "Software Engineering Intern, Platform (Summer 2027)",
+      "company": "first-resonance",
+      "location": "Los Angeles",
+      "url": "https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7",
+      "clearance": true
+    },
+    {
+      "title": "Forward Deployed Engineering Intern (Summer 2027)",
+      "company": "first-resonance",
+      "location": "Los Angeles",
+      "url": "https://jobs.ashbyhq.com/first-resonance/465193ff-26d7-41d1-8202-2b4ecb22ad0a",
+      "clearance": true
+    },
+    {
+      "title": "Product Management Intern (Summer 2027)",
+      "company": "first-resonance",
+      "location": "Los Angeles",
+      "url": "https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741",
+      "clearance": true
+    }
+  ],
+  "ashby:runna": [],
+  "workable:blueprint-health": [],
+  "greenhouse:proton": []
 }
