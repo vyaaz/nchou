@@ -7656,22 +7656,15 @@
     {
       "title": "Product Management Intern ",
       "company": "sezzle",
-      "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7537957003",
-      "clearance": false
-    },
-    {
-      "title": "Product Management Intern ",
-      "company": "sezzle",
       "location": "Peru",
       "url": "https://job-boards.greenhouse.io/sezzle/jobs/7998740003",
       "clearance": false
     },
     {
-      "title": "Product Manager Intern, ShopX(Rewards)",
+      "title": "Product Management Intern ",
       "company": "sezzle",
       "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044470003",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7537957003",
       "clearance": false
     },
     {
@@ -7679,6 +7672,13 @@
       "company": "sezzle",
       "location": "Peru",
       "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044473003",
+      "clearance": false
+    },
+    {
+      "title": "Product Manager Intern, ShopX(Rewards)",
+      "company": "sezzle",
+      "location": "Colombia, Remote",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044470003",
       "clearance": false
     },
     {
@@ -7691,15 +7691,15 @@
     {
       "title": "Product Operations Intern, Rewards",
       "company": "sezzle",
-      "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8010514003",
+      "location": "Chile, Remote",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012084003",
       "clearance": false
     },
     {
       "title": "Product Operations Intern, Rewards",
       "company": "sezzle",
-      "location": "Chile, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012084003",
+      "location": "Colombia, Remote",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8010514003",
       "clearance": false
     },
     {
@@ -8233,7 +8233,15 @@
       "clearance": false
     }
   ],
-  "greenhouse:rfsmart": [],
+  "greenhouse:rfsmart": [
+    {
+      "title": "Software Developer Internship- Summer 2027",
+      "company": "rfsmart",
+      "location": "Highlands Ranch, Colorado, United States",
+      "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5446867008",
+      "clearance": false
+    }
+  ],
   "workday:nisource.wd1.myworkdayjobs.com": [],
   "greenhouse:usafacts": [
     {
@@ -8810,6 +8818,13 @@
       "location": "Sioux Falls, SD",
       "url": "https://firstpremier.wd503.myworkdayjobs.com/en-US/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-IT-Networking-Operations-Internship_R-555-1",
       "clearance": false
+    },
+    {
+      "title": "PREMIER Financial Modeling & Analysis Internship",
+      "company": "firstpremier",
+      "location": "Sioux Falls, SD",
+      "url": "https://firstpremier.wd503.myworkdayjobs.com/en-US/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Financial-Modeling---Analysis-Internship_R-517-1",
+      "clearance": false
     }
   ],
   "ashby:secureframe": [],
@@ -9092,5 +9107,108 @@
   ],
   "ashby:runna": [],
   "workable:blueprint-health": [],
-  "greenhouse:proton": []
+  "greenhouse:proton": [],
+  "greenhouse:studentinternships": [
+    {
+      "title": "Student Internship - AI Assisted Modeling of Energy Storage",
+      "company": "studentinternships",
+      "location": "Holyoke, Massachusetts, United States",
+      "url": "https://job-boards.greenhouse.io/studentinternships/jobs/4456494009",
+      "clearance": false
+    },
+    {
+      "title": "Student Internship - Cyber Adversary Defense Optimization",
+      "company": "studentinternships",
+      "location": "Holyoke, Massachusetts, United States",
+      "url": "https://job-boards.greenhouse.io/studentinternships/jobs/4455645009",
+      "clearance": false
+    },
+    {
+      "title": "Student Internship - Dynamic Dashboard Development & Energy Market Analyst",
+      "company": "studentinternships",
+      "location": "Holyoke, Massachusetts, United States",
+      "url": "https://job-boards.greenhouse.io/studentinternships/jobs/4453371009",
+      "clearance": false
+    },
+    {
+      "title": "Student Internship - Operations Process Automation Developer",
+      "company": "studentinternships",
+      "location": "Holyoke, Massachusetts, United States",
+      "url": "https://job-boards.greenhouse.io/studentinternships/jobs/4455610009",
+      "clearance": false
+    },
+    {
+      "title": "Student Internship - Power System Modeling Engineer",
+      "company": "studentinternships",
+      "location": "Windsor, Connecticut, United States",
+      "url": "https://job-boards.greenhouse.io/studentinternships/jobs/4455588009",
+      "clearance": false
+    }
+  ],
+  "greenhouse:studentprogram": [
+    {
+      "title": "ArcGIS Product Engineering Internship",
+      "company": "studentprogram",
+      "location": "Redlands, CA",
+      "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5217878007",
+      "clearance": false
+    },
+    {
+      "title": "Information Technology Internship - Business Analyst",
+      "company": "studentprogram",
+      "location": "Redlands, CA",
+      "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5230671007",
+      "clearance": false
+    },
+    {
+      "title": "Information Technology Internship - Systems Engineer",
+      "company": "studentprogram",
+      "location": "Redlands, CA",
+      "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5230680007",
+      "clearance": false
+    },
+    {
+      "title": "Product Design Internship",
+      "company": "studentprogram",
+      "location": "Redlands, CA",
+      "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5286433007",
+      "clearance": false
+    },
+    {
+      "title": "Professional Services and Consulting Internship",
+      "company": "studentprogram",
+      "location": "Redlands, CA",
+      "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5217867007",
+      "clearance": false
+    },
+    {
+      "title": "Professional Services and Consulting Internship - St. Lous, MO",
+      "company": "studentprogram",
+      "location": "St. Louis, MO",
+      "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5286722007",
+      "clearance": false
+    },
+    {
+      "title": "Software Development Engineer Internship - St. Louis, MO",
+      "company": "studentprogram",
+      "location": "St. Louis, MO",
+      "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5286753007",
+      "clearance": false
+    },
+    {
+      "title": "UX Design Internship",
+      "company": "studentprogram",
+      "location": "Redlands, CA",
+      "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5286385007",
+      "clearance": false
+    },
+    {
+      "title": "UX Researcher Internship",
+      "company": "studentprogram",
+      "location": "Redlands, CA",
+      "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5286365007",
+      "clearance": false
+    }
+  ],
+  "greenhouse:dmcengineering_campus": []
 }
