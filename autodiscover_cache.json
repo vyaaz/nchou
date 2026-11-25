@@ -1302,7 +1302,6 @@
       "clearance": false
     }
   ],
-  "greenhouse:msfcareers": [],
   "workday:abcsupply.wd1.myworkdayjobs.com": [],
   "workday:ascensushr.wd1.myworkdayjobs.com": [],
   "workday:hl.wd1.myworkdayjobs.com": [],
@@ -1537,7 +1536,15 @@
   "workday:buildertrend.wd108.myworkdayjobs.com": [],
   "greenhouse:harbingermotors": [],
   "greenhouse:accuweather": [],
-  "lever:wepclinical": [],
+  "lever:wepclinical": [
+    {
+      "title": "IT Intern - AI & Transformation",
+      "company": "wepclinical",
+      "location": "Morrisville, North Carolina, US",
+      "url": "https://jobs.lever.co/wepclinical/5d90ac52-4e43-48aa-8f01-18e7c9d1155b",
+      "clearance": false
+    }
+  ],
   "smartrecruiters:collabera2": [],
   "ashby:equip": [],
   "greenhouse:authenticinsurance": [],
@@ -1968,7 +1975,6 @@
   "ashby:fortell": [],
   "greenhouse:bottomlinetechnologies": [],
   "lever:cimgroup": [],
-  "workday:bmc.wd1.myworkdayjobs.com": [],
   "greenhouse:amarok": [],
   "ashby:voxel": [],
   "ashby:cuspai": [],
@@ -2402,17 +2408,17 @@
   "workday:pru.wd5.myworkdayjobs.com": [],
   "workday:trustage.wd1.myworkdayjobs.com": [
     {
-      "title": "Information Technology - Development and Infrastructure Internship (hybrid)",
-      "company": "trustage",
-      "location": "Wisconsin - Remote",
-      "url": "https://trustage.wd1.myworkdayjobs.com/en-US/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155",
-      "clearance": false
-    },
-    {
       "title": "IT - Innovation & AI Technology Internship (Hybrid)",
       "company": "trustage",
       "location": "Madison, WI",
       "url": "https://trustage.wd1.myworkdayjobs.com/en-US/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293",
+      "clearance": false
+    },
+    {
+      "title": "Information Technology - Development and Infrastructure Internship (hybrid)",
+      "company": "trustage",
+      "location": "Wisconsin - Remote",
+      "url": "https://trustage.wd1.myworkdayjobs.com/en-US/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155",
       "clearance": false
     }
   ],
@@ -4030,7 +4036,6 @@
   "workday:geha.wd5.myworkdayjobs.com": [],
   "workable:sigmadefense": [],
   "workable:slip-robotics": [],
-  "ashby:farsight": [],
   "lever:jamcity": [],
   "greenhouse:clearstreet": [],
   "workday:icon.wd3.myworkdayjobs.com": [],
@@ -6250,7 +6255,6 @@
   "workday:rehlko.wd12.myworkdayjobs.com": [],
   "smartrecruiters:boydgaming": [],
   "workday:oh.wd3.myworkdayjobs.com": [],
-  "greenhouse:piaggiofastforward": [],
   "greenhouse:globalizationpartners": [],
   "workday:clr.wd5.myworkdayjobs.com": [],
   "ashby:kalshi": [],
@@ -8046,7 +8050,6 @@
   "workday:gfs.wd5.myworkdayjobs.com": [],
   "greenhouse:uvimco": [],
   "smartrecruiters:uapinc": [],
-  "greenhouse:a3c41b8b71eff8c4": [],
   "workday:horizonmedia.wd1.myworkdayjobs.com": [],
   "lever:thinkahead": [],
   "greenhouse:albedo": [],
