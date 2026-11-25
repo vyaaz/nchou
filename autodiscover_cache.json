@@ -47,7 +47,6 @@
   "ashby:nox-metals": [],
   "lever:kabam": [],
   "workday:huntington.wd12.myworkdayjobs.com": [],
-  "ashby:contoro": [],
   "workday:disney.wd5.myworkdayjobs.com": [],
   "greenhouse:fourhands": [],
   "workday:applied.wd501.myworkdayjobs.com": [],
@@ -369,7 +368,15 @@
   "ashby:binance.us": [],
   "workday:magellanhealth.wd5.myworkdayjobs.com": [],
   "workday:vareximaging.wd103.myworkdayjobs.com": [],
-  "smartrecruiters:hirevue": [],
+  "smartrecruiters:hirevue": [
+    {
+      "title": "Integrations Consultant Intern | Fully Remote USA",
+      "company": "HireVue",
+      "location": "Sandy, UT, us",
+      "url": "https://jobs.smartrecruiters.com/HireVue/744000163544902",
+      "clearance": false
+    }
+  ],
   "workday:shell.wd3.myworkdayjobs.com": [],
   "ashby:ixianrobotics": [],
   "lever:bisnow": [],
@@ -722,15 +729,7 @@
   "workday:wellsky.wd1.myworkdayjobs.com": [],
   "ashby:verne": [],
   "lever:gomaterials": [],
-  "ashby:quadric": [
-    {
-      "title": "AI Kernel Engineer Intern",
-      "company": "quadric",
-      "location": "Burlingame, CA (HQ)",
-      "url": "https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c",
-      "clearance": false
-    }
-  ],
+  "ashby:quadric": [],
   "ashby:jigsaw": [],
   "greenhouse:leolabsinc": [],
   "ashby:mintlify": [],
@@ -1013,13 +1012,6 @@
     }
   ],
   "smartrecruiters:nexthink": [
-    {
-      "title": "Product Management Intern",
-      "company": "Nexthink",
-      "location": "Lausanne, VD, ch",
-      "url": "https://jobs.smartrecruiters.com/Nexthink/744000162689809",
-      "clearance": false
-    },
     {
       "title": "Software Engineer (Intern)",
       "company": "Nexthink",
@@ -1912,13 +1904,6 @@
   "ashby:morse-micro": [],
   "greenhouse:nyisocoops": [
     {
-      "title": "Co-Op – IT – ServiceNow CMDB and Discovery",
-      "company": "nyisocoops",
-      "location": "Rensselaer, New York, United States",
-      "url": "https://job-boards.greenhouse.io/nyisocoops/jobs/5236019007",
-      "clearance": false
-    },
-    {
       "title": "Co-Op – IT – ServiceNow Platform Administration",
       "company": "nyisocoops",
       "location": "Rensselaer, New York, United States",
@@ -2158,7 +2143,7 @@
       "title": "Automated Driving Advanced Development Intern, Machine Learning Research (Explainable AI)",
       "company": "tri",
       "location": "Los Altos, CA",
-      "url": "https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4",
+      "url": "https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b",
       "clearance": false
     },
     {
@@ -2997,7 +2982,6 @@
   "ashby:agave": [],
   "workday:axiscapital.wd1.myworkdayjobs.com": [],
   "ashby:ntt-data-aivista": [],
-  "workday:talentmanagementsolution.wd3.myworkdayjobs.com": [],
   "smartrecruiters:accellearning": [],
   "workday:mecca.wd3.myworkdayjobs.com": [],
   "workday:riotinto.wd3.myworkdayjobs.com": [],
@@ -3010,7 +2994,6 @@
       "clearance": false
     }
   ],
-  "workday:manulife.wd3.myworkdayjobs.com": [],
   "greenhouse:beyondtrust": [],
   "workday:cswg.wd1.myworkdayjobs.com": [],
   "ashby:moss": [],
@@ -4106,15 +4089,6 @@
   "smartrecruiters:dataintellect": [],
   "workday:ontic.wd103.myworkdayjobs.com": [],
   "workday:repsol.wd3.myworkdayjobs.com": [],
-  "ashby:benchling": [
-    {
-      "title": "Software Engineer, Intern (Summer 2027)",
-      "company": "benchling",
-      "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099",
-      "clearance": false
-    }
-  ],
   "workday:mtb.wd5.myworkdayjobs.com": [
     {
       "title": "Technology Intern - Software Engineering (Enterprise API Services Development Team)",
@@ -4504,43 +4478,6 @@
   "workday:brambles.wd5.myworkdayjobs.com": [],
   "ashby:linqapp": [],
   "workday:medable.wd503.myworkdayjobs.com": [],
-  "greenhouse:sharkninjaoperatingllc": [
-    {
-      "title": "Applied AI, Analytics & Data Science Intern Summer Opportunities (May-Aug 2027)",
-      "company": "sharkninjaoperatingllc",
-      "location": "Miami, Florida, United States; Needham, MA, United States",
-      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713808006",
-      "clearance": false
-    },
-    {
-      "title": "Product Design Engineering Intern Summer Opportunities (May-Aug 2027)",
-      "company": "sharkninjaoperatingllc",
-      "location": "Needham, MA, United States",
-      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713810006",
-      "clearance": false
-    },
-    {
-      "title": "Product Development, Design & Consumer Insights Intern Summer Opportunities (May-Aug 2027)",
-      "company": "sharkninjaoperatingllc",
-      "location": "Needham, MA, United States",
-      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713878006",
-      "clearance": false
-    },
-    {
-      "title": "Summer 2027: Data Science Intern (May to August)",
-      "company": "sharkninjaoperatingllc",
-      "location": "Needham, MA, United States",
-      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006",
-      "clearance": false
-    },
-    {
-      "title": "Summer 2027: HW UX/UI Design Intern (May through August)",
-      "company": "sharkninjaoperatingllc",
-      "location": "Needham, MA, United States",
-      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721309006",
-      "clearance": false
-    }
-  ],
   "workday:hrhub.wd3.myworkdayjobs.com": [],
   "workday:pureinsurance.wd5.myworkdayjobs.com": [],
   "workday:merative.wd12.myworkdayjobs.com": [],
@@ -4593,29 +4530,6 @@
   "greenhouse:snorkelai": [],
   "ashby:sciforium": [],
   "smartrecruiters:skyward1": [],
-  "workday:saabusa.wd1.myworkdayjobs.com": [
-    {
-      "title": "Co-Op, Information Security (Spring - Summer 2027)",
-      "company": "saabusa",
-      "location": "East Syracuse, NY (Collamer)",
-      "url": "https://saabusa.wd1.myworkdayjobs.com/en-US/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--Information-Security--Spring---Summer-2027-_R-03409-1",
-      "clearance": false
-    },
-    {
-      "title": "Co-Op, Program Management",
-      "company": "saabusa",
-      "location": "2 Locations",
-      "url": "https://saabusa.wd1.myworkdayjobs.com/en-US/saab_careers/job/Quincy-MA/Co-Op--Program-Management_R-03386",
-      "clearance": false
-    },
-    {
-      "title": "Co-Op, IT Systems Spring & Summer 2027",
-      "company": "saabusa",
-      "location": "East Syracuse, NY (Enterprise)",
-      "url": "https://saabusa.wd1.myworkdayjobs.com/en-US/saab_careers/job/East-Syracuse-NY-Enterprise/Co-Op--IT-Systems-Spring---Summer-2027_R-03363-1",
-      "clearance": false
-    }
-  ],
   "ashby:julius": [
     {
       "title": "Investment Banking - AI Research (MBA Intern)",
@@ -5012,7 +4926,6 @@
     }
   ],
   "smartrecruiters:thoughtforge": [],
-  "workday:idexx.wd115.myworkdayjobs.com": [],
   "workday:td.wd3.myworkdayjobs.com": [],
   "workday:bakertilly.wd5.myworkdayjobs.com": [],
   "smartrecruiters:freshworks": [],
@@ -6343,7 +6256,6 @@
   "ashby:kalshi": [],
   "ashby:bland": [],
   "lever:robust-ai": [],
-  "lever:exowatt": [],
   "greenhouse:faire": [],
   "lever:significanceinc": [],
   "greenhouse:hp": [],
@@ -7645,78 +7557,6 @@
   "workday:harman.wd3.myworkdayjobs.com": [],
   "ashby:unify": [],
   "workday:racetrac.wd5.myworkdayjobs.com": [],
-  "greenhouse:sezzle": [
-    {
-      "title": "AI Engineering Intern ",
-      "company": "sezzle",
-      "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7906563003",
-      "clearance": false
-    },
-    {
-      "title": "Product Management Intern ",
-      "company": "sezzle",
-      "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7998740003",
-      "clearance": false
-    },
-    {
-      "title": "Product Management Intern ",
-      "company": "sezzle",
-      "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7537957003",
-      "clearance": false
-    },
-    {
-      "title": "Product Manager Intern, ShopX(Rewards)",
-      "company": "sezzle",
-      "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044473003",
-      "clearance": false
-    },
-    {
-      "title": "Product Manager Intern, ShopX(Rewards)",
-      "company": "sezzle",
-      "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044470003",
-      "clearance": false
-    },
-    {
-      "title": "Product Operations Intern, Rewards",
-      "company": "sezzle",
-      "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012085003",
-      "clearance": false
-    },
-    {
-      "title": "Product Operations Intern, Rewards",
-      "company": "sezzle",
-      "location": "Chile, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8012084003",
-      "clearance": false
-    },
-    {
-      "title": "Product Operations Intern, Rewards",
-      "company": "sezzle",
-      "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/8010514003",
-      "clearance": false
-    },
-    {
-      "title": "Software Engineer Intern ",
-      "company": "sezzle",
-      "location": "Peru",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/7906408003",
-      "clearance": false
-    },
-    {
-      "title": "Software Engineer Intern ",
-      "company": "sezzle",
-      "location": "Colombia, Remote",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/6233081003",
-      "clearance": false
-    }
-  ],
   "workday:kemper.wd5.myworkdayjobs.com": [],
   "workable:prosync": [],
   "smartrecruiters:northwesternmedicine": [],
@@ -7734,7 +7574,6 @@
   "workable:avk-seg-uk-ltd": [],
   "greenhouse:samsungresearchamericainternship": [],
   "greenhouse:ohio": [],
-  "workday:myview.wd3.myworkdayjobs.com": [],
   "ashby:gumloop": [],
   "workday:insitu.wd1.myworkdayjobs.com": [],
   "greenhouse:consumerreports": [],
@@ -8370,15 +8209,7 @@
   "ashby:stratos": [],
   "workday:sidley.wd501.myworkdayjobs.com": [],
   "workday:plusgrade.wd10.myworkdayjobs.com": [],
-  "greenhouse:cariadinc": [
-    {
-      "title": "Engineer I, VLA Model Development (Intern)",
-      "company": "cariadinc",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/cariadinc/jobs/5462798008",
-      "clearance": false
-    }
-  ],
+  "greenhouse:cariadinc": [],
   "workable:raveaerospace": [],
   "lever:verisinsights": [],
   "workday:mobility.wd503.myworkdayjobs.com": [],
@@ -8831,78 +8662,6 @@
   "greenhouse:boomilp": [],
   "workday:verily.wd1.myworkdayjobs.com": [],
   "greenhouse:biohub": [],
-  "workday:takeda.wd502.myworkdayjobs.com": [
-    {
-      "title": "2027 Summer Internship Program: Statistics Clinical Data Science Intern",
-      "company": "takeda",
-      "location": "Boston, MA",
-      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--Statistics-Clinical-Data-Science-Intern_R0195248",
-      "clearance": false
-    },
-    {
-      "title": "2027 Summer Internship Program: Statistics Summer Intern in Clinical Data Science",
-      "company": "takeda",
-      "location": "Boston, MA",
-      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--Statistics-Summer-Intern-in-Clinical-Data-Science_R0195065",
-      "clearance": false
-    },
-    {
-      "title": "2027 Summer Internship Program: Computational Biology – Agentic AI for Disease Biology Intern",
-      "company": "takeda",
-      "location": "Boston, MA",
-      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--Computational-Biology---Agentic-AI-for-Disease-Biology-Intern_R0193726",
-      "clearance": false
-    },
-    {
-      "title": "2027 Summer Internship Program: R&D Strategic Planning & Enablement AI, Analytic & Operational Excellence Intern",
-      "company": "takeda",
-      "location": "Boston, MA",
-      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--R-D-Strategic-Planning---Enablement-AI--Analytic---Operational-Excellence-Intern_R0193683",
-      "clearance": false
-    },
-    {
-      "title": "2027 Summer Internship Program: AI/ML for Drug Discovery Intern",
-      "company": "takeda",
-      "location": "Cambridge, MA",
-      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Cambridge-MA/XMLNAME-2027-Summer-Internship-Program--AI-ML-for-Drug-Discovery-Intern_R0193718",
-      "clearance": false
-    },
-    {
-      "title": "2027 Summer Internship Program: AI/ML for Drug Discovery Intern",
-      "company": "takeda",
-      "location": "Boston, MA",
-      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--AI-ML-for-Drug-Discovery-Intern_R0193510",
-      "clearance": false
-    },
-    {
-      "title": "2027 Summer Internship Program: Agentic AI for Drug Discovery Intern",
-      "company": "takeda",
-      "location": "Boston, MA",
-      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--Agentic-AI-for-Drug-Discovery-Intern_R0193880",
-      "clearance": false
-    },
-    {
-      "title": "2027 Summer Internship Program:  AI/ML Digital Pathology Imaging Intern  ",
-      "company": "takeda",
-      "location": "Boston, MA",
-      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program---AI-ML-Digital-Pathology-Imaging-Intern--_R0194452",
-      "clearance": false
-    },
-    {
-      "title": "2027 Summer Internship Program: AI/ML in Quantitative Clinical Pharmacology Intern",
-      "company": "takeda",
-      "location": "Boston, MA",
-      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Boston-MA/XMLNAME-2027-Summer-Internship-Program--AI-ML-in-Quantitative-Clinical-Pharmacology-Intern_R0193651",
-      "clearance": false
-    },
-    {
-      "title": "2027 Summer Internship Program: Digital Complaint System Developer",
-      "company": "takeda",
-      "location": "Lexington, MA",
-      "url": "https://takeda.wd502.myworkdayjobs.com/en-US/external/job/Lexington-MA/XMLNAME-2027-Summer-Internship-Program--Digital-Complaint-System-Developer_R0193480",
-      "clearance": false
-    }
-  ],
   "ashby:anthelioncap": [
     {
       "title": "Quant Developer / Quant Research Intern - 2026/2027",
@@ -8973,13 +8732,6 @@
       "location": "Bozeman, MT",
       "url": "https://jobs.ashbyhq.com/aurora-operations-inc/b61cb8ea-3ab6-46ed-90d7-be3ad9ac85ad",
       "clearance": true
-    },
-    {
-      "title": "Hardware Systems Engineering Intern",
-      "company": "aurora-operations-inc",
-      "location": "Pittsburgh, PA",
-      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/f1c72f1c-8270-4526-a642-fcb61a4b4d26",
-      "clearance": true
     }
   ],
   "ashby:crusoe": [],
@@ -9019,93 +8771,9 @@
       "clearance": false
     }
   ],
-  "greenhouse:capitaltg": [
-    {
-      "title": "Summer Internship - Data Engineering and Data Science",
-      "company": "capitaltg",
-      "location": "Hybrid (Silver Spring, MD)",
-      "url": "https://boards.greenhouse.io/capitaltg/jobs/5307074007?gh_jid=5307074007",
-      "clearance": false
-    },
-    {
-      "title": "Summer Internship - Software Development",
-      "company": "capitaltg",
-      "location": "Hybrid (Silver Spring, MD)",
-      "url": "https://boards.greenhouse.io/capitaltg/jobs/5281563007?gh_jid=5281563007",
-      "clearance": false
-    }
-  ],
   "greenhouse:vailexa": [],
-  "ashby:strava": [
-    {
-      "title": "Software Engineering Intern, Server, Comms",
-      "company": "Strava",
-      "location": "Strava SF",
-      "url": "https://jobs.ashbyhq.com/Strava/96968b02-dde9-4e0d-b6a8-d2363f550126",
-      "clearance": false
-    },
-    {
-      "title": "Software Engineering Intern, Server, Security",
-      "company": "Strava",
-      "location": "Strava SF",
-      "url": "https://jobs.ashbyhq.com/Strava/924afc4f-b490-4716-a308-5e02fe56653b",
-      "clearance": false
-    },
-    {
-      "title": "Software Engineering Intern, Server, User Lifecycle",
-      "company": "Strava",
-      "location": "Strava SF",
-      "url": "https://jobs.ashbyhq.com/Strava/12d85f67-5fac-4dfa-8fd7-a4f886b4a10a",
-      "clearance": false
-    },
-    {
-      "title": "Software Engineering Intern, AI/ML Data Products  ",
-      "company": "Strava",
-      "location": "Strava SF",
-      "url": "https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023",
-      "clearance": false
-    },
-    {
-      "title": "Software Engineering Intern, Android, Subscriptions  ",
-      "company": "Strava",
-      "location": "Strava SF",
-      "url": "https://jobs.ashbyhq.com/Strava/02999001-164a-45c2-a763-03dedf458f0c",
-      "clearance": false
-    },
-    {
-      "title": "Software Engineering Intern, Server, Next Sports ",
-      "company": "Strava",
-      "location": "Strava SF",
-      "url": "https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9",
-      "clearance": false
-    }
-  ],
   "greenhouse:astronicscorporation": [],
   "ashby:webai": [],
-  "ashby:first-resonance": [
-    {
-      "title": "Software Engineering Intern, Platform (Summer 2027)",
-      "company": "first-resonance",
-      "location": "Los Angeles",
-      "url": "https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7",
-      "clearance": true
-    },
-    {
-      "title": "Forward Deployed Engineering Intern (Summer 2027)",
-      "company": "first-resonance",
-      "location": "Los Angeles",
-      "url": "https://jobs.ashbyhq.com/first-resonance/465193ff-26d7-41d1-8202-2b4ecb22ad0a",
-      "clearance": true
-    },
-    {
-      "title": "Product Management Intern (Summer 2027)",
-      "company": "first-resonance",
-      "location": "Los Angeles",
-      "url": "https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741",
-      "clearance": true
-    }
-  ],
-  "ashby:runna": [],
   "workable:blueprint-health": [],
   "greenhouse:proton": [],
   "greenhouse:studentinternships": [
@@ -9210,5 +8878,55 @@
       "clearance": false
     }
   ],
-  "greenhouse:dmcengineering_campus": []
+  "greenhouse:dmcengineering_campus": [],
+  "greenhouse:hexarmor": [],
+  "lever:syntronic": [],
+  "lever:servicerocket": [],
+  "workable:prolucid-technologies": [],
+  "ashby:allen-control-systems": [
+    {
+      "title": "Systems Engineering Intern, 2027",
+      "company": "allen-control-systems",
+      "location": "Austin, TX",
+      "url": "https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476",
+      "clearance": true
+    },
+    {
+      "title": "Computer Vision/Machine Learning Intern, 2027",
+      "company": "allen-control-systems",
+      "location": "Austin, TX",
+      "url": "https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037",
+      "clearance": true
+    }
+  ],
+  "greenhouse:ecjobb": [
+    {
+      "title": "Data Platform Engineer Intern",
+      "company": "ecjobb",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230750",
+      "clearance": false
+    },
+    {
+      "title": "Software Development Engineer Intern",
+      "company": "ecjobb",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231504",
+      "clearance": false
+    },
+    {
+      "title": "Software Development Engineer Intern (Full Stack)",
+      "company": "ecjobb",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230763",
+      "clearance": false
+    },
+    {
+      "title": "Technical Product Management Intern",
+      "company": "ecjobb",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230690",
+      "clearance": false
+    }
+  ]
 }
