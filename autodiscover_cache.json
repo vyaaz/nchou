@@ -8,15 +8,6 @@
   "ashby:oligo": [],
   "ashby:frontier-health": [],
   "greenhouse:amendconsulting": [],
-  "lever:veeva": [
-    {
-      "title": "Technology Consulting Intern - Entry-Level",
-      "company": "veeva",
-      "location": "Hungary - Budapest",
-      "url": "https://jobs.lever.co/veeva/f7cea665-3f74-4f37-8e49-80e4d0805c3a",
-      "clearance": false
-    }
-  ],
   "smartrecruiters:antonpaar1": [],
   "workday:woodmac.wd3.myworkdayjobs.com": [],
   "greenhouse:signifyd95": [],
@@ -949,15 +940,6 @@
       "clearance": false
     }
   ],
-  "greenhouse:opensesame": [
-    {
-      "title": "AI Product Builder Intern",
-      "company": "opensesame",
-      "location": "Remote",
-      "url": "https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424",
-      "clearance": false
-    }
-  ],
   "workday:bnl.wd1.myworkdayjobs.com": [],
   "ashby:plsn": [],
   "greenhouse:charlesriverassociates": [],
@@ -983,7 +965,6 @@
   "ashby:context": [],
   "smartrecruiters:redwingshoecompany": [],
   "lever:saviynt": [],
-  "greenhouse:credigysolutionsinc": [],
   "greenhouse:xebiausa": [],
   "lever:economicmodeling": [],
   "workday:cdw.wd5.myworkdayjobs.com": [],
@@ -1544,7 +1525,6 @@
     }
   ],
   "smartrecruiters:collabera2": [],
-  "ashby:equip": [],
   "greenhouse:authenticinsurance": [],
   "workday:vfc.wd5.myworkdayjobs.com": [],
   "smartrecruiters:syncreonconsulting": [],
@@ -1963,7 +1943,6 @@
   "ashby:starbridge": [],
   "workday:fis.wd5.myworkdayjobs.com": [],
   "greenhouse:transcendinc": [],
-  "greenhouse:commerceiq": [],
   "greenhouse:gassouth": [],
   "workday:uhyus.wd12.myworkdayjobs.com": [],
   "smartrecruiters:tomra": [],
@@ -1976,7 +1955,6 @@
   "greenhouse:amarok": [],
   "ashby:voxel": [],
   "ashby:cuspai": [],
-  "workday:therapybrands.wd1.myworkdayjobs.com": [],
   "smartrecruiters:vusiongroupsa": [],
   "workday:arrow.wd1.myworkdayjobs.com": [],
   "ashby:hudson-pacific-properties": [],
@@ -2834,7 +2812,6 @@
   "workable:get-career-site": [],
   "workday:broadcom.wd1.myworkdayjobs.com": [],
   "workable:altalink": [],
-  "workable:tecsys": [],
   "workable:practicetek": [],
   "workday:lendingclub.wd1.myworkdayjobs.com": [],
   "workable:viewline-ventures": [],
@@ -3274,15 +3251,6 @@
   "workday:printpack.wd1.myworkdayjobs.com": [],
   "workday:smithfieldfoods.wd1.myworkdayjobs.com": [],
   "greenhouse:bridgewater89": [],
-  "lever:bestegg": [
-    {
-      "title": "Software Engineering Summer Intern",
-      "company": "BestEgg",
-      "location": "Wilmington, DE",
-      "url": "https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392",
-      "clearance": false
-    }
-  ],
   "greenhouse:akunacapitaloci": [
     {
       "title": "Quantitative Development & Strategy Intern, Summer 2027 | Massachusetts Institute of Technology",
@@ -3434,7 +3402,15 @@
       "clearance": false
     }
   ],
-  "ashby:hiverge": [],
+  "ashby:hiverge": [
+    {
+      "title": "Machine Learning Engineer Intern",
+      "company": "hiverge",
+      "location": "Cambridge",
+      "url": "https://jobs.ashbyhq.com/hiverge/ea6edea4-5216-4cdc-b368-909ba91c78a3",
+      "clearance": false
+    }
+  ],
   "workable:cmic": [],
   "smartrecruiters:customshow": [
     {
@@ -3899,15 +3875,7 @@
   "workday:evercommerce.wd1.myworkdayjobs.com": [],
   "ashby:resonance": [],
   "greenhouse:pingidentity": [],
-  "workday:faithtechnologies.wd1.myworkdayjobs.com": [
-    {
-      "title": "Digital Platforms Intern- Summer 2027",
-      "company": "faithtechnologies",
-      "location": "WI - Menasha",
-      "url": "https://faithtechnologies.wd1.myworkdayjobs.com/en-US/fti/job/WI---Menasha/Digital-Platforms-Intern--Summer-2027_R12068-1",
-      "clearance": false
-    }
-  ],
+  "workday:faithtechnologies.wd1.myworkdayjobs.com": [],
   "greenhouse:sparksoftcorporation": [],
   "lever:glsllc": [],
   "ashby:auctor": [
@@ -4335,7 +4303,6 @@
       "clearance": false
     }
   ],
-  "greenhouse:theweathercompany": [],
   "greenhouse:540": [],
   "workday:geaerospace.wd5.myworkdayjobs.com": [
     {
@@ -4647,15 +4614,7 @@
   "workday:chewy.wd5.myworkdayjobs.com": [],
   "greenhouse:edmentum": [],
   "ashby:confido": [],
-  "smartrecruiters:aecom2": [
-    {
-      "title": "Consulting Services Intern",
-      "company": "AECOM2",
-      "location": "Chicago, IL, us",
-      "url": "https://jobs.smartrecruiters.com/AECOM2/744000163765679",
-      "clearance": false
-    }
-  ],
+  "smartrecruiters:aecom2": [],
   "workday:baldwin.wd1.myworkdayjobs.com": [],
   "workday:centricsoftware.wd501.myworkdayjobs.com": [],
   "smartrecruiters:dunnsolutionsgroup": [],
@@ -5101,7 +5060,6 @@
   "workday:issgovernance.wd1.myworkdayjobs.com": [],
   "ashby:lightspark": [],
   "smartrecruiters:westgateresorts": [],
-  "ashby:coinflow": [],
   "workday:evergreenix.wd1.myworkdayjobs.com": [],
   "ashby:valency": [],
   "workday:snyk.wd103.myworkdayjobs.com": [],
@@ -5495,7 +5453,15 @@
   "workday:assetmark.wd5.myworkdayjobs.com": [],
   "greenhouse:sitimecorporation": [],
   "ashby:metaview": [],
-  "greenhouse:alphafmcrolesearlycareers": [],
+  "greenhouse:alphafmcrolesearlycareers": [
+    {
+      "title": "Intern Consultant - Geneva",
+      "company": "alphafmcrolesearlycareers",
+      "location": "Geneva",
+      "url": "https://job-boards.greenhouse.io/alphafmcrolesearlycareers/jobs/8963622002",
+      "clearance": false
+    }
+  ],
   "workday:albanymed.wd5.myworkdayjobs.com": [],
   "workday:cc.wd3.myworkdayjobs.com": [
     {
@@ -5628,13 +5594,6 @@
   "workable:accellor": [],
   "workday:elementfleet.wd3.myworkdayjobs.com": [],
   "lever:rosaiclabs": [
-    {
-      "title": "AI Accelerator Design Verification Engineer - Intern",
-      "company": "rosaiclabs",
-      "location": "Santa Clara, CA",
-      "url": "https://jobs.lever.co/rosaiclabs/8e3e00f8-5b06-450c-bb63-5cc4fc3136ab",
-      "clearance": false
-    },
     {
       "title": "Software Engineering - Intern",
       "company": "rosaiclabs",
@@ -6271,7 +6230,6 @@
   "workday:rehlko.wd12.myworkdayjobs.com": [],
   "smartrecruiters:boydgaming": [],
   "workday:oh.wd3.myworkdayjobs.com": [],
-  "greenhouse:globalizationpartners": [],
   "workday:clr.wd5.myworkdayjobs.com": [],
   "ashby:kalshi": [],
   "ashby:bland": [],
@@ -6611,15 +6569,6 @@
   "greenhouse:simpletechnologysolutions": [],
   "workable:matternet": [],
   "greenhouse:caseguard": [],
-  "ashby:dandy": [
-    {
-      "title": "Summer 2027 Internship - Software Engineering Intern",
-      "company": "dandy",
-      "location": "USA - New York NY",
-      "url": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099",
-      "clearance": false
-    }
-  ],
   "lever:thetrevorproject": [],
   "greenhouse:memx": [],
   "greenhouse:honehealth": [],
@@ -7009,15 +6958,6 @@
       "clearance": false
     }
   ],
-  "greenhouse:bandwidth": [
-    {
-      "title": "Software Engineer Intern - Summer 2027",
-      "company": "bandwidth",
-      "location": "Raleigh, NC",
-      "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414444",
-      "clearance": false
-    }
-  ],
   "workday:coloradomesa.wd501.myworkdayjobs.com": [],
   "ashby:inductive-automation-llc": [],
   "workday:ameresco.wd5.myworkdayjobs.com": [],
@@ -7285,7 +7225,6 @@
   "greenhouse:networkbio": [],
   "greenhouse:ebury": [],
   "greenhouse:mangroup": [],
-  "lever:grid": [],
   "ashby:united-talent-agency": [],
   "lever:dnagenotek": [],
   "greenhouse:charlesriveranalytics90": [],
@@ -7395,7 +7334,6 @@
   "workday:rogersbh.wd1.myworkdayjobs.com": [],
   "greenhouse:focusfinancialpartners": [],
   "smartrecruiters:shawbrook": [],
-  "workday:ameren.wd1.myworkdayjobs.com": [],
   "ashby:physicalintelligence": [
     {
       "title": "Mechatronics Intern",
@@ -7557,7 +7495,6 @@
   "workday:ovative.wd12.myworkdayjobs.com": [],
   "ashby:hubs.is": [],
   "workday:interac.wd3.myworkdayjobs.com": [],
-  "workable:gramian": [],
   "workday:azenta.wd1.myworkdayjobs.com": [],
   "workday:njm.wd1.myworkdayjobs.com": [
     {
@@ -7848,7 +7785,6 @@
   ],
   "workday:ebay.wd5.myworkdayjobs.com": [],
   "workday:usfoods.wd1.myworkdayjobs.com": [],
-  "workday:hancockwhitney.wd5.myworkdayjobs.com": [],
   "greenhouse:vipvermontinformationprocessing2": [],
   "lever:nomagic": [],
   "lever:steerbridge": [],
@@ -8506,7 +8442,6 @@
   "smartrecruiters:sibyllineltd": [],
   "ashby:bree": [],
   "ashby:basis-research": [],
-  "workable:adept-consulting-services-inc": [],
   "greenhouse:attainpartners": [
     {
       "title": "Summer 2027 Consulting Intern",
@@ -8522,7 +8457,6 @@
   "workable:eqltech": [],
   "ashby:tank-payments": [],
   "greenhouse:lucidsoftware": [],
-  "greenhouse:rectanglehealth": [],
   "workable:ecliptic-enterprises-corporation": [],
   "greenhouse:familyoffice": [],
   "ashby:valon": [],
@@ -8734,36 +8668,6 @@
       "clearance": false
     }
   ],
-  "greenhouse:lightmatter": [
-    {
-      "title": "Data & AI Platform, Intern - Summer 2027",
-      "company": "lightmatter",
-      "location": "Boston, MA",
-      "url": "https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008",
-      "clearance": false
-    },
-    {
-      "title": "IT and Security Intern – Summer 2027",
-      "company": "lightmatter",
-      "location": "Boston, MA",
-      "url": "https://boards.greenhouse.io/lightmatter/jobs/5473539008?gh_jid=5473539008",
-      "clearance": false
-    },
-    {
-      "title": "Photonics Circuit Simulation Intern – Summer 2027",
-      "company": "lightmatter",
-      "location": "Mountain View, CA",
-      "url": "https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008",
-      "clearance": false
-    },
-    {
-      "title": "Systems Engineering, Intern Summer 2027",
-      "company": "lightmatter",
-      "location": "Mountain View, CA",
-      "url": "https://boards.greenhouse.io/lightmatter/jobs/5473822008?gh_jid=5473822008",
-      "clearance": false
-    }
-  ],
   "ashby:aurora-operations-inc": [
     {
       "title": "Safety & Systems Engineering Intern",
@@ -8965,42 +8869,18 @@
   "ashby:parallel": [],
   "greenhouse:hyannisportresearch": [],
   "workable:enfos-inc": [],
-  "ashby:xona-space": [
-    {
-      "title": "Software Engineering (Engineering Productivity) Intern",
-      "company": "xona-space",
-      "location": "Burlingame, California",
-      "url": "https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab",
-      "clearance": true
-    }
-  ],
   "lever:reachpower": [],
   "greenhouse:fervoenergy": [],
   "workable:serko-ltd": [],
   "greenhouse:wikimedia": [],
   "greenhouse:joblinks": [],
   "greenhouse:patientpointinviteonly": [],
-  "workable:digital-control": [
-    {
-      "title": "Software Engineering Intern",
-      "company": "digital-control",
-      "location": "Kent, Washington, United States",
-      "url": "https://apply.workable.com/j/AB9A181560",
-      "clearance": false
-    }
-  ],
-  "ashby:coderabbit": [
-    {
-      "title": "Software Engineer - Intern ",
-      "company": "coderabbit",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9",
-      "clearance": false
-    }
-  ],
   "ashby:ayosemi": [],
   "greenhouse:abilitypath": [],
   "greenhouse:tenstorrent": [],
   "workable:nexvelsolutions": [],
-  "greenhouse:energysolutionsinternships": []
+  "greenhouse:energysolutionsinternships": [],
+  "greenhouse:faropoint": [],
+  "workable:semios": [],
+  "workable:botpress": []
 }
