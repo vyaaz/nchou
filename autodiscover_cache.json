@@ -447,7 +447,6 @@
   ],
   "greenhouse:elevationscreditunion": [],
   "lever:brooksrunning": [],
-  "greenhouse:udemybedi": [],
   "workday:pretiumenterpriseservices.wd1.myworkdayjobs.com": [],
   "ashby:d-matrix": [],
   "smartrecruiters:augsburguniversity-minneapolismn": [],
@@ -745,7 +744,6 @@
   "ashby:incident": [],
   "workday:ryancompanies.wd5.myworkdayjobs.com": [],
   "workday:bcidaho.wd5.myworkdayjobs.com": [],
-  "workday:cooperstandard.wd1.myworkdayjobs.com": [],
   "greenhouse:mettel": [],
   "workday:conehealth.wd12.myworkdayjobs.com": [],
   "smartrecruiters:ukatomicenergyauthority": [],
@@ -3173,7 +3171,6 @@
   "workday:madixinc.wd12.myworkdayjobs.com": [],
   "smartrecruiters:redbull": [],
   "workday:alkegen.wd5.myworkdayjobs.com": [],
-  "ashby:meridianlink": [],
   "greenhouse:offerup": [],
   "greenhouse:laskoproducts": [],
   "smartrecruiters:worldwidetechservices": [],
@@ -4377,7 +4374,6 @@
   "ashby:sycamore": [],
   "workable:sei": [],
   "workable:skygig": [],
-  "lever:quantumworkplace": [],
   "greenhouse:pmg": [],
   "greenhouse:ftsp27co-ops": [],
   "ashby:sentilink": [],
@@ -4485,7 +4481,6 @@
   "workday:medable.wd503.myworkdayjobs.com": [],
   "workday:hrhub.wd3.myworkdayjobs.com": [],
   "workday:pureinsurance.wd5.myworkdayjobs.com": [],
-  "workday:merative.wd12.myworkdayjobs.com": [],
   "ashby:architect": [],
   "lever:level99": [],
   "greenhouse:thebrattlegroup": [],
@@ -5811,13 +5806,6 @@
   "workday:fhlbtopeka.wd1.myworkdayjobs.com": [],
   "smartrecruiters:solidigm": [
     {
-      "title": "Engineering Research Intern (Architecture, Firmware, Software)",
-      "company": "Solidigm",
-      "location": "Gdańsk, pl",
-      "url": "https://jobs.smartrecruiters.com/Solidigm/744000162339619",
-      "clearance": false
-    },
-    {
       "title": "NAND Development Business Operations Intern",
       "company": "Solidigm",
       "location": "Rancho Cordova, CA, us",
@@ -6595,7 +6583,15 @@
   "greenhouse:simpletechnologysolutions": [],
   "workable:matternet": [],
   "greenhouse:caseguard": [],
-  "ashby:dandy": [],
+  "ashby:dandy": [
+    {
+      "title": "Summer 2027 Internship - Software Engineering Intern",
+      "company": "dandy",
+      "location": "USA - New York NY",
+      "url": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099",
+      "clearance": false
+    }
+  ],
   "lever:thetrevorproject": [],
   "greenhouse:memx": [],
   "greenhouse:honehealth": [],
@@ -6825,15 +6821,7 @@
   "workday:litera.wd12.myworkdayjobs.com": [],
   "workday:nshe.wd1.myworkdayjobs.com": [],
   "workday:jadeglobal.wd5.myworkdayjobs.com": [],
-  "ashby:revel": [
-    {
-      "title": "Internship: Forward Deployed Engineer, Software",
-      "company": "revel",
-      "location": "Los Angeles",
-      "url": "https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc",
-      "clearance": true
-    }
-  ],
+  "ashby:revel": [],
   "greenhouse:radixuniversity": [],
   "ashby:human-computer-lab": [
     {
@@ -6938,13 +6926,6 @@
       "clearance": false
     },
     {
-      "title": "Intern, Software Engineer, SDET, Summer 2027",
-      "company": "lucidmotors",
-      "location": "Newark, CA",
-      "url": "https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007",
-      "clearance": false
-    },
-    {
       "title": "Intern, Vehicle Motion Controls Engineer, Summer 2027",
       "company": "lucidmotors",
       "location": "Newark, CA",
@@ -7000,7 +6981,15 @@
       "clearance": false
     }
   ],
-  "greenhouse:bandwidth": [],
+  "greenhouse:bandwidth": [
+    {
+      "title": "Software Engineer Intern - Summer 2027",
+      "company": "bandwidth",
+      "location": "Raleigh, NC",
+      "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414444",
+      "clearance": false
+    }
+  ],
   "workday:coloradomesa.wd501.myworkdayjobs.com": [],
   "ashby:inductive-automation-llc": [],
   "workday:ameresco.wd5.myworkdayjobs.com": [],
@@ -7175,7 +7164,6 @@
       "clearance": false
     }
   ],
-  "ashby:lovable": [],
   "ashby:pebl": [],
   "workday:ochsner.wd1.myworkdayjobs.com": [],
   "workday:halma.wd3.myworkdayjobs.com": [],
@@ -7318,7 +7306,15 @@
   "workday:clorox.wd1.myworkdayjobs.com": [],
   "ashby:foundationhealthcareers": [],
   "lever:upscale-ai": [],
-  "smartrecruiters:ifs1": [],
+  "smartrecruiters:ifs1": [
+    {
+      "title": "Intern Data Engineering",
+      "company": "IFS1",
+      "location": "Colombo, Western Province, lk",
+      "url": "https://jobs.smartrecruiters.com/IFS1/744000163669690",
+      "clearance": false
+    }
+  ],
   "greenhouse:queracomputinginc": [
     {
       "title": "Internship - Scientific Software and Compilation",
@@ -7326,20 +7322,19 @@
       "location": "Boston, MA, USA",
       "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5435902008",
       "clearance": false
+    },
+    {
+      "title": "Internship – Technical Product Management",
+      "company": "queracomputinginc",
+      "location": "Boston, MA, USA",
+      "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008",
+      "clearance": false
     }
   ],
   "ashby:generate": [],
   "workable:cogna": [],
   "workday:allina.wd5.myworkdayjobs.com": [],
-  "ashby:clera": [
-    {
-      "title": "Full-Stack Software Engineering Intern",
-      "company": "clera",
-      "location": "New York",
-      "url": "https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d",
-      "clearance": false
-    }
-  ],
+  "ashby:clera": [],
   "lever:evr": [
     {
       "title": "January 2027 Industrial Networking (Digital Systems) Co-op",
@@ -7909,6 +7904,13 @@
   ],
   "smartrecruiters:keenfinity": [
     {
+      "title": "Imaging Software Intern",
+      "company": "Keenfinity",
+      "location": "Eindhoven, NB, nl",
+      "url": "https://jobs.smartrecruiters.com/Keenfinity/744000163626266",
+      "clearance": false
+    },
+    {
       "title": "Software Engineering Intern",
       "company": "Keenfinity",
       "location": "Lincoln, NE, us",
@@ -8045,7 +8047,36 @@
       "clearance": false
     }
   ],
-  "ashby:drivewealth": [],
+  "ashby:drivewealth": [
+    {
+      "title": "AI Consulting Associate Program (AI CAP) Product Owner Intern, Summer 2027",
+      "company": "drivewealth",
+      "location": "Chicago, IL",
+      "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87",
+      "clearance": false
+    },
+    {
+      "title": "AI Consulting Associate Program (AI CAP) People Analytics Intern, Summer 2027",
+      "company": "drivewealth",
+      "location": "Chicago, IL",
+      "url": "https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec",
+      "clearance": false
+    },
+    {
+      "title": "AI Consulting Associate Program (AI CAP) Engineering Intern, Summer 2027",
+      "company": "drivewealth",
+      "location": "Chicago, IL",
+      "url": "https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a",
+      "clearance": false
+    },
+    {
+      "title": "AI Consulting Associate Program (AI CAP) Brokerage Intern, Summer 2027",
+      "company": "drivewealth",
+      "location": "Chicago, IL",
+      "url": "https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16",
+      "clearance": false
+    }
+  ],
   "workday:chamberlain.wd1.myworkdayjobs.com": [],
   "workday:gfs.wd5.myworkdayjobs.com": [],
   "greenhouse:uvimco": [],
@@ -8075,15 +8106,7 @@
       "clearance": false
     }
   ],
-  "greenhouse:rfsmart": [
-    {
-      "title": "Software Developer Internship- Summer 2027",
-      "company": "rfsmart",
-      "location": "Highlands Ranch, Colorado, United States",
-      "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5446867008",
-      "clearance": false
-    }
-  ],
+  "greenhouse:rfsmart": [],
   "workday:nisource.wd1.myworkdayjobs.com": [],
   "greenhouse:usafacts": [
     {
@@ -8932,5 +8955,19 @@
       "clearance": false
     }
   ],
-  "greenhouse:appodeal": []
+  "greenhouse:appodeal": [],
+  "greenhouse:5364856uhdfnvbkldfnbhrpkdfgbdvtyhro": [],
+  "ashby:parallel": [],
+  "greenhouse:hyannisportresearch": [],
+  "workable:enfos-inc": [],
+  "ashby:xona-space": [
+    {
+      "title": "Software Engineering (Engineering Productivity) Intern",
+      "company": "xona-space",
+      "location": "Burlingame, California",
+      "url": "https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab",
+      "clearance": true
+    }
+  ],
+  "lever:reachpower": []
 }
