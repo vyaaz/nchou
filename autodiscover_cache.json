@@ -3169,7 +3169,15 @@
   "workable:drug-hunter": [],
   "workday:freddiemac.wd5.myworkdayjobs.com": [],
   "workday:madixinc.wd12.myworkdayjobs.com": [],
-  "smartrecruiters:redbull": [],
+  "smartrecruiters:redbull": [
+    {
+      "title": "Internship Motorsport Network - Media Channels",
+      "company": "RedBull",
+      "location": "Elsbethen, Salzburg, at",
+      "url": "https://jobs.smartrecruiters.com/RedBull/744000163648069",
+      "clearance": false
+    }
+  ],
   "workday:alkegen.wd5.myworkdayjobs.com": [],
   "greenhouse:offerup": [],
   "greenhouse:laskoproducts": [],
@@ -3266,7 +3274,15 @@
   "workday:printpack.wd1.myworkdayjobs.com": [],
   "workday:smithfieldfoods.wd1.myworkdayjobs.com": [],
   "greenhouse:bridgewater89": [],
-  "lever:bestegg": [],
+  "lever:bestegg": [
+    {
+      "title": "Software Engineering Summer Intern",
+      "company": "BestEgg",
+      "location": "Wilmington, DE",
+      "url": "https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392",
+      "clearance": false
+    }
+  ],
   "greenhouse:akunacapitaloci": [
     {
       "title": "Quantitative Development & Strategy Intern, Summer 2027 | Massachusetts Institute of Technology",
@@ -3302,15 +3318,7 @@
       "clearance": false
     }
   ],
-  "greenhouse:momentenergy": [
-    {
-      "title": "Data Scientist Co-op",
-      "company": "momentenergy",
-      "location": "Surrey, BC",
-      "url": "https://job-boards.greenhouse.io/momentenergy/jobs/4421775009",
-      "clearance": false
-    }
-  ],
+  "greenhouse:momentenergy": [],
   "workable:double-eleven": [],
   "workday:empower.wd12.myworkdayjobs.com": [],
   "ashby:standinsurance": [],
@@ -3426,15 +3434,7 @@
       "clearance": false
     }
   ],
-  "ashby:hiverge": [
-    {
-      "title": "Machine Learning Engineer Intern",
-      "company": "hiverge",
-      "location": "Cambridge",
-      "url": "https://jobs.ashbyhq.com/hiverge/ea6edea4-5216-4cdc-b368-909ba91c78a3",
-      "clearance": false
-    }
-  ],
+  "ashby:hiverge": [],
   "workable:cmic": [],
   "smartrecruiters:customshow": [
     {
@@ -3461,13 +3461,6 @@
   "ashby:lgads": [],
   "workday:lthc.wd1.myworkdayjobs.com": [],
   "greenhouse:asteraearlycareer2027": [
-    {
-      "title": "AI Product Management Intern",
-      "company": "asteraearlycareer2027",
-      "location": "San Jose, CA",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005",
-      "clearance": false
-    },
     {
       "title": "Applied AI Engineer Intern (Silicon Engineering)",
       "company": "asteraearlycareer2027",
@@ -3760,27 +3753,6 @@
   "ashby:inworld-ai": [],
   "greenhouse:artefactlinkedin": [
     {
-      "title": "AI Adoption Intern",
-      "company": "artefactlinkedin",
-      "location": "135 W 26th Street, New York, NY 10001",
-      "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002",
-      "clearance": false
-    },
-    {
-      "title": "AI Engineering Intern",
-      "company": "artefactlinkedin",
-      "location": "135 W 26th Street, New York, NY 10001",
-      "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002",
-      "clearance": false
-    },
-    {
-      "title": "AI Strategy Intern",
-      "company": "artefactlinkedin",
-      "location": "135 W 26th Street, New York, NY 10001",
-      "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958071002",
-      "clearance": false
-    },
-    {
       "title": "Data Consultant Intern (CL-CO-MX)",
       "company": "artefactlinkedin",
       "location": "Avenida das Nações Unidas, 12901,11° andar São Paulo",
@@ -3884,28 +3856,28 @@
   "workable:raydar": [],
   "greenhouse:drivewealth": [
     {
-      "title": "AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027",
+      "title": "AI Consulting Associate Program (AI CAP) Brokerage Intern, Summer 2027",
       "company": "drivewealth",
       "location": "Office - Chicago",
       "url": "https://boards.greenhouse.io/drivewealth/jobs/8039368003?gh_jid=8039368003",
       "clearance": false
     },
     {
-      "title": "AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027",
+      "title": "AI Consulting Associate Program (AI CAP) Engineering Intern, Summer 2027",
       "company": "drivewealth",
       "location": "Office - Chicago; Office - NYC",
       "url": "https://boards.greenhouse.io/drivewealth/jobs/8039350003?gh_jid=8039350003",
       "clearance": false
     },
     {
-      "title": "AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027",
+      "title": "AI Consulting Associate Program (AI CAP) People Analytics Intern, Summer 2027",
       "company": "drivewealth",
       "location": "Office - Chicago; Office - NYC",
       "url": "https://boards.greenhouse.io/drivewealth/jobs/8200548003?gh_jid=8200548003",
       "clearance": false
     },
     {
-      "title": "AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027",
+      "title": "AI Consulting Associate Program (AI CAP) Product Owner Intern, Summer 2027",
       "company": "drivewealth",
       "location": "Office - Chicago; Office - NYC",
       "url": "https://boards.greenhouse.io/drivewealth/jobs/8038087003?gh_jid=8038087003",
@@ -4018,15 +3990,7 @@
       "clearance": false
     }
   ],
-  "greenhouse:evolver": [
-    {
-      "title": "Applied Data Science Intern",
-      "company": "evolver",
-      "location": "Palo Alto, CA",
-      "url": "https://job-boards.greenhouse.io/evolver/jobs/4254540009",
-      "clearance": false
-    }
-  ],
+  "greenhouse:evolver": [],
   "workday:waystar.wd1.myworkdayjobs.com": [],
   "workable:paxton-access": [],
   "smartrecruiters:idexcel3": [],
@@ -4241,6 +4205,48 @@
       "company": "illumio",
       "location": "Sunnyvale, California - HQ",
       "url": "https://jobs.ashbyhq.com/illumio/8013747a-938c-41ef-9d5b-7b6188ae0b5c",
+      "clearance": false
+    },
+    {
+      "title": "Technical Product Management Intern",
+      "company": "illumio",
+      "location": "Sunnyvale, California - HQ",
+      "url": "https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af",
+      "clearance": false
+    },
+    {
+      "title": "Technical Program Manager Intern",
+      "company": "illumio",
+      "location": "Sunnyvale, California - HQ",
+      "url": "https://jobs.ashbyhq.com/illumio/c7efc869-b5da-48ca-a6ce-defc15525a34",
+      "clearance": false
+    },
+    {
+      "title": "Product Design Intern",
+      "company": "illumio",
+      "location": "Sunnyvale, California - HQ",
+      "url": "https://jobs.ashbyhq.com/illumio/a047eb49-ac58-46f7-9043-b226f74a5605",
+      "clearance": false
+    },
+    {
+      "title": "Product Management Intern, Solution Economics",
+      "company": "illumio",
+      "location": "Sunnyvale, California - HQ",
+      "url": "https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101",
+      "clearance": false
+    },
+    {
+      "title": "AI-Based Scale & Performance Test Automation Intern",
+      "company": "illumio",
+      "location": "Sunnyvale, California - HQ",
+      "url": "https://jobs.ashbyhq.com/illumio/78a9e57d-c213-405b-9cf3-6e68109a4ce7",
+      "clearance": false
+    },
+    {
+      "title": "Engineering Intern, Security Platforms",
+      "company": "illumio",
+      "location": "Sunnyvale, California - HQ",
+      "url": "https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45",
       "clearance": false
     }
   ],
@@ -4641,7 +4647,15 @@
   "workday:chewy.wd5.myworkdayjobs.com": [],
   "greenhouse:edmentum": [],
   "ashby:confido": [],
-  "smartrecruiters:aecom2": [],
+  "smartrecruiters:aecom2": [
+    {
+      "title": "Consulting Services Intern",
+      "company": "AECOM2",
+      "location": "Chicago, IL, us",
+      "url": "https://jobs.smartrecruiters.com/AECOM2/744000163765679",
+      "clearance": false
+    }
+  ],
   "workday:baldwin.wd1.myworkdayjobs.com": [],
   "workday:centricsoftware.wd501.myworkdayjobs.com": [],
   "smartrecruiters:dunnsolutionsgroup": [],
@@ -5354,13 +5368,6 @@
       "location": "Irvine, CA",
       "url": "https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704",
       "clearance": false
-    },
-    {
-      "title": "Simulation, Sim to Real Intern",
-      "company": "field-ai",
-      "location": "Irvine, CA",
-      "url": "https://jobs.lever.co/field-ai/cce71d31-40a0-407f-b3b9-a586976b89b8",
-      "clearance": false
     }
   ],
   "workday:mgpru.wd3.myworkdayjobs.com": [],
@@ -5652,6 +5659,13 @@
   "ashby:espa": [],
   "smartrecruiters:accorcorpo": [
     {
+      "title": "Global HR Development Projects Intern F/M/X",
+      "company": "AccorCorpo",
+      "location": "Issy-les-Moulineaux, IDF, fr",
+      "url": "https://jobs.smartrecruiters.com/AccorCorpo/744000163728056",
+      "clearance": false
+    },
+    {
       "title": "Internship - CONSUMER & MARKET INSIGHTS ACCOR PM&E (F/M/X)",
       "company": "AccorCorpo",
       "location": "Issy-les-Moulineaux, IDF, fr",
@@ -5730,6 +5744,20 @@
       "company": "shield",
       "location": "Dallas, TX, US",
       "url": "https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503",
+      "clearance": false
+    },
+    {
+      "title": "2027 Summer Intern - Software Test Automation - 5796",
+      "company": "shield",
+      "location": "Dallas, TX, US",
+      "url": "https://jobs.ashbyhq.com/shield/2d4c1eef-2569-46e1-9924-23588d5c5e86",
+      "clearance": false
+    },
+    {
+      "title": "June 2027 Co-op - Mission Systems Engineering - 5813",
+      "company": "shield",
+      "location": "Dallas, TX, US",
+      "url": "https://jobs.ashbyhq.com/shield/7378153f-32ca-426c-a157-8069d5b284c8",
       "clearance": false
     }
   ],
@@ -7979,7 +8007,6 @@
   "ashby:meticulous": [],
   "ashby:retell-ai": [],
   "lever:patchmypc": [],
-  "workable:terabase-energy": [],
   "greenhouse:prophet": [],
   "workday:leonardocompany.wd3.myworkdayjobs.com": [],
   "lever:modernintelligence": [],
@@ -8765,29 +8792,7 @@
   "smartrecruiters:qsl": [],
   "workable:katmai": [],
   "workable:aegiq": [],
-  "greenhouse:artefactnoram": [
-    {
-      "title": "AI Adoption Intern",
-      "company": "artefactnoram",
-      "location": "135 W 26th Street, New York, NY 10001",
-      "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958081002",
-      "clearance": false
-    },
-    {
-      "title": "AI Engineering Intern",
-      "company": "artefactnoram",
-      "location": "135 W 26th Street, New York, NY 10001",
-      "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958076002",
-      "clearance": false
-    },
-    {
-      "title": "AI Strategy Intern",
-      "company": "artefactnoram",
-      "location": "135 W 26th Street, New York, NY 10001",
-      "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958073002",
-      "clearance": false
-    }
-  ],
+  "greenhouse:artefactnoram": [],
   "workday:greenheckgroup.wd504.myworkdayjobs.com": [
     {
       "title": "Product Development Engineer Co-Op",
@@ -8969,5 +8974,33 @@
       "clearance": true
     }
   ],
-  "lever:reachpower": []
+  "lever:reachpower": [],
+  "greenhouse:fervoenergy": [],
+  "workable:serko-ltd": [],
+  "greenhouse:wikimedia": [],
+  "greenhouse:joblinks": [],
+  "greenhouse:patientpointinviteonly": [],
+  "workable:digital-control": [
+    {
+      "title": "Software Engineering Intern",
+      "company": "digital-control",
+      "location": "Kent, Washington, United States",
+      "url": "https://apply.workable.com/j/AB9A181560",
+      "clearance": false
+    }
+  ],
+  "ashby:coderabbit": [
+    {
+      "title": "Software Engineer - Intern ",
+      "company": "coderabbit",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9",
+      "clearance": false
+    }
+  ],
+  "ashby:ayosemi": [],
+  "greenhouse:abilitypath": [],
+  "greenhouse:tenstorrent": [],
+  "workable:nexvelsolutions": [],
+  "greenhouse:energysolutionsinternships": []
 }
