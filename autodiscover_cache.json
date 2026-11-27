@@ -3225,7 +3225,6 @@
   "ashby:havocai": [],
   "workday:vanguard.wd5.myworkdayjobs.com": [],
   "workday:crestnicholson.wd103.myworkdayjobs.com": [],
-  "ashby:upvest": [],
   "ashby:nidus-technologies": [],
   "smartrecruiters:nationalsoftwaremanagement1": [],
   "workable:neurohire-dot-a-i": [],
@@ -8883,5 +8882,10 @@
   "greenhouse:faropoint": [],
   "workable:semios": [],
   "workable:botpress": [],
-  "greenhouse:iconiqhandshake": []
+  "greenhouse:iconiqhandshake": [],
+  "greenhouse:recidiviz": [],
+  "ashby:plugmotors": [],
+  "greenhouse:workstream": [],
+  "smartrecruiters:veoliaenvironnementsa": [],
+  "greenhouse:artefact": []
 }
