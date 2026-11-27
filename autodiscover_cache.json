@@ -817,7 +817,6 @@
   "greenhouse:davinciderivatives": [],
   "workday:nebraskablue.wd1.myworkdayjobs.com": [],
   "workday:alkami.wd12.myworkdayjobs.com": [],
-  "ashby:higharc": [],
   "workday:reliaquest.wd5.myworkdayjobs.com": [],
   "ashby:ambral": [],
   "lever:tevora": [
@@ -2457,7 +2456,6 @@
     }
   ],
   "workday:agilonhealth.wd1.myworkdayjobs.com": [],
-  "greenhouse:specterops": [],
   "greenhouse:katalyst": [],
   "workday:situsamc.wd1.myworkdayjobs.com": [
     {
@@ -3232,7 +3230,6 @@
   "workday:avnet.wd1.myworkdayjobs.com": [],
   "greenhouse:ispottv": [],
   "smartrecruiters:presidencysolutions1": [],
-  "lever:unisoninfra": [],
   "lever:nationaljournal": [],
   "ashby:lumos": [],
   "greenhouse:fourkites": [],
@@ -5275,7 +5272,6 @@
     }
   ],
   "workday:miqdigital.wd3.myworkdayjobs.com": [],
-  "workday:carters.wd1.myworkdayjobs.com": [],
   "workable:aerones": [],
   "lever:crosscountry-consulting": [],
   "lever:theodo": [],
@@ -8393,7 +8389,22 @@
       "clearance": false
     }
   ],
-  "workday:lilly.wd115.myworkdayjobs.com": [],
+  "workday:lilly.wd115.myworkdayjobs.com": [
+    {
+      "title": "Customer Insights & Analytics Data Scientist Intern",
+      "company": "lilly",
+      "location": "US, Indianapolis IN",
+      "url": "https://lilly.wd115.myworkdayjobs.com/en-US/cmp/job/US-Indianapolis-IN/Business-Insights---Analytics-Data-Scientist-Intern_R-110877",
+      "clearance": false
+    },
+    {
+      "title": "Customer Insights & Analytics Data Engineering Intern",
+      "company": "lilly",
+      "location": "US, Indianapolis IN",
+      "url": "https://lilly.wd115.myworkdayjobs.com/en-US/cmp/job/US-Indianapolis-IN/Business-Insights---Analytics-Data-Engineering-Intern_R-110876",
+      "clearance": false
+    }
+  ],
   "greenhouse:vercel": [],
   "workday:ksb.wd3.myworkdayjobs.com": [],
   "workday:postman.wd108.myworkdayjobs.com": [
@@ -8887,5 +8898,14 @@
   "ashby:plugmotors": [],
   "greenhouse:workstream": [],
   "smartrecruiters:veoliaenvironnementsa": [],
-  "greenhouse:artefact": []
+  "greenhouse:artefact": [],
+  "workday:zebra.wd501.myworkdayjobs.com": [
+    {
+      "title": "2027 Summer Internship (US) - Product Management",
+      "company": "zebra",
+      "location": "Lincolnshire, Illinois",
+      "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103660",
+      "clearance": false
+    }
+  ]
 }
