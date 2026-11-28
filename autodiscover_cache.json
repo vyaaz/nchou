@@ -146,50 +146,7 @@
   "ashby:gradientrobotics": [],
   "ashby:genmd": [],
   "smartrecruiters:symphonycorp1": [],
-  "workday:workday.wd5.myworkdayjobs.com": [
-    {
-      "title": "Cybersecurity Engineer Intern",
-      "company": "workday",
-      "location": "USA, CA, Pleasanton",
-      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809",
-      "clearance": false
-    },
-    {
-      "title": "Product Manager Intern",
-      "company": "workday",
-      "location": "USA, CA, Pleasanton",
-      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813",
-      "clearance": false
-    },
-    {
-      "title": "Software Development Engineer Intern",
-      "company": "workday",
-      "location": "USA, CA, Pleasanton",
-      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810",
-      "clearance": false
-    },
-    {
-      "title": "Machine Learning Engineer Intern",
-      "company": "workday",
-      "location": "USA, CA, Pleasanton",
-      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
-      "clearance": false
-    },
-    {
-      "title": "Machine Learning Engineer Intern (Canada)",
-      "company": "workday",
-      "location": "2 Locations",
-      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806",
-      "clearance": false
-    },
-    {
-      "title": "Software Application Development Engineer Intern",
-      "company": "workday",
-      "location": "USA, CA, Pleasanton",
-      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811",
-      "clearance": false
-    }
-  ],
+  "workday:workday.wd5.myworkdayjobs.com": [],
   "workday:firstquality.wd5.myworkdayjobs.com": [
     {
       "title": "Controls Engineering Intern",
@@ -652,7 +609,7 @@
       "title": "Intern, FFBA Analytical Development",
       "company": "legendcareers",
       "location": "Somerset, New Jersey, United States",
-      "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745147005",
+      "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745128005",
       "clearance": false
     },
     {
@@ -957,7 +914,6 @@
   "workday:btisolutions.wd12.myworkdayjobs.com": [],
   "greenhouse:eventsandinterns": [],
   "workday:umb.wd1.myworkdayjobs.com": [],
-  "ashby:govwell": [],
   "ashby:kustomer": [],
   "ashby:preference-model": [],
   "workday:nwis.wd12.myworkdayjobs.com": [],
@@ -2306,7 +2262,15 @@
   "workday:polarsemi.wd501.myworkdayjobs.com": [],
   "workday:petronascanada.wd3.myworkdayjobs.com": [],
   "smartrecruiters:siglallc": [],
-  "workday:vrtx.wd501.myworkdayjobs.com": [],
+  "workday:vrtx.wd501.myworkdayjobs.com": [
+    {
+      "title": "Summer Intern 2027, Digital Pathology and AI Validation",
+      "company": "vrtx",
+      "location": "Boston, MA",
+      "url": "https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Summer-Intern-2027--Digital-Pathology-and-AI-Validation_REQ-31421-1",
+      "clearance": false
+    }
+  ],
   "smartrecruiters:arthurgrandtechnologiesinc": [],
   "greenhouse:constructionresources": [],
   "workday:pipersandler.wd501.myworkdayjobs.com": [],
@@ -4540,7 +4504,6 @@
   "workable:ageo": [],
   "ashby:ditto": [],
   "greenhouse:customcomputerspecialists": [],
-  "greenhouse:antora": [],
   "workday:spinmaster.wd3.myworkdayjobs.com": [],
   "workday:circlek.wd3.myworkdayjobs.com": [],
   "workday:gnw.wd1.myworkdayjobs.com": [],
@@ -5324,7 +5287,6 @@
     }
   ],
   "workday:mgpru.wd3.myworkdayjobs.com": [],
-  "workday:scgov.wd5.myworkdayjobs.com": [],
   "greenhouse:affirmedrxpbc": [],
   "ashby:opusclip": [
     {
@@ -6171,7 +6133,6 @@
     }
   ],
   "workday:gables.wd5.myworkdayjobs.com": [],
-  "ashby:xapien": [],
   "workable:premium-merchant-funding-3": [],
   "workable:murphy-research": [],
   "workday:corpay.wd103.myworkdayjobs.com": [],
@@ -8907,5 +8868,6 @@
       "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103660",
       "clearance": false
     }
-  ]
+  ],
+  "workable:hirehawk": []
 }
